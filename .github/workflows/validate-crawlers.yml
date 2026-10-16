@@ -1,0 +1,51 @@
+name: validate-crawlers
+
+on:
+  pull_request:
+    paths:
+      - '.github/workflows/**'
+      - 'data_processing/**.py'
+      - 'requirements*.txt'
+  push:
+    paths:
+      - '.github/workflows/**'
+      - 'data_processing/**.py'
+      - 'requirements*.txt'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      PYTHONUTF8: '1'
+      PYTHONUNBUFFERED: '1'
+      PYTHONPATH: data_processing
+      CRAWLER_CLOUD: '1'
+      CRAWLER_BROWSER_CHANNEL: chromium
+      CRAWLER_PROFILE_ROOT: ${{ runner.temp }}/crawler-profiles
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: |
+            requirements-update.txt
+            requirements-crawl.txt
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: 准备全新 runner
+        run: |
+          python -m pip install -r requirements-crawl.txt
+          python -m playwright install --with-deps chromium
+      - name: 检查 HTTP、解析器、Node 与真实 Chromium DOM
+        run: python data_processing/cloud_crawl.py --check
+      - name: 恢复已发布输入与证据供离线回归
+        run: python data_processing/release_inputs.py
+      - name: 入口、浏览器生命周期与来源数据回归
+        run: python -m unittest test_cloud_crawl test_browser_runtime test_macro_crawler test_realestate_crawler test_lpr_crawler test_cih_land test_income test_anjuke_collect test_anjuke_community

@@ -21,6 +21,7 @@ from datetime import datetime, timezone, date
 from pathlib import Path
 
 from data_store import ROOT, snapshot, atomic_json
+from browser_runtime import launch_browser
 
 LAND_URL = 'https://www.cih-index.com/data/land.html'
 OUT = ROOT / 'output/cih/land.json'
@@ -119,8 +120,7 @@ def _fetch_dom(timeout_s=60.0):
     from playwright.sync_api import sync_playwright
     attempts = {'document': 0, 'xhr_fetch': 0, 'script_style': 0, 'other': 0}
     with sync_playwright() as p:
-        options = {'channel': 'msedge'} if sys.platform == 'win32' else {}
-        browser = p.chromium.launch(headless=True, **options)
+        browser = launch_browser(p)
         page = browser.new_page(viewport={'width': 1440, 'height': 2400})
 
         def _count(req):

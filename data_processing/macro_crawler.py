@@ -10,11 +10,13 @@ from realestate_crawler import parse_report as parse_macro, collect as collect_r
 OUT=ROOT/'output/macro'
 
 
-def crawl():
+def crawl(kinds=('lpr', 'realestate')):
+    if not kinds or any(kind not in ('lpr', 'realestate') for kind in kinds):
+        raise ValueError('Unknown macro source')
     path=OUT/'clean.json'
     saved=json.loads(path.read_text(encoding='utf-8')) if path.exists() else {}
     events=[]
-    for kind in ('lpr','realestate'):
+    for kind in kinds:
         try:
             errors=[]
             if kind=='lpr':
@@ -34,7 +36,18 @@ def crawl():
     return status
 
 
+def main(argv=None):
+    import argparse
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--kind', choices=['lpr', 'realestate'],
+                        help='Collect one official source; default collects both')
+    args = parser.parse_args(argv)
+    result = crawl((args.kind,) if args.kind else ('lpr', 'realestate'))
+    print(json.dumps(result, ensure_ascii=False))
+    return 0 if all(event['state'] == 'ok' for event in result['events']) else 2
+
+
 if __name__=='__main__':
     import sys
     sys.stdout.reconfigure(encoding='utf-8')
-    print(json.dumps(crawl(),ensure_ascii=False))
+    sys.exit(main())

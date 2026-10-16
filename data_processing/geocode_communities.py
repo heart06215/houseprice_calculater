@@ -106,8 +106,8 @@ def pick_candidate(features, city, center):
     return None
 
 
-def load_properties():
-    return json.loads(PROPS_FILE.read_text(encoding="utf-8"))
+def load_properties(source=PROPS_FILE):
+    return json.loads(Path(source).read_text(encoding="utf-8"))
 
 
 def main():
@@ -116,9 +116,13 @@ def main():
                                       errors="replace", line_buffering=True)
     parser = argparse.ArgumentParser(description="楼盘地理编码器(Photon/OSM)")
     parser.add_argument("--limit", type=int, default=0, help="最多处理多少个(0=全部)")
+    parser.add_argument('--input', type=Path, default=PROPS_FILE,
+                        help='房源 JSON，可使用前序云端采集的 properties_anjuke.json')
     args = parser.parse_args()
 
-    props = load_properties()
+    if not args.input.is_file():
+        parser.error('房源输入不存在；先采集房源，再用 --input 指向云端结果文件')
+    props = load_properties(args.input)
     targets = [p for p in props
                if p.get("precision") == "city" and (p.get("community") or p.get("name"))]
     if args.limit:

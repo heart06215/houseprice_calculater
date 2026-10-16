@@ -35,6 +35,7 @@ import time
 import re
 from datetime import date,datetime,timezone
 from pathlib import Path
+from browser_runtime import launch_browser
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 OUTPUT_DIR = PROJECT_ROOT / "output" / "anjuke"
@@ -412,9 +413,9 @@ def existing_year_months(slug):
 
 
 def browser_extract(url, wait_ms=6000):
-    """用无头 Edge 加载页面并返回渲染后的 HTML(真实浏览器可静默通过 JS 挑战)。
+    """用 runner Chromium 或远程浏览器加载并返回渲染后的 HTML。
 
-    需要本机装有 playwright(浏览器用系统 Edge, 无需额外下载)。
+    浏览器及依赖由云端工作流准备，不依赖系统 Edge。
     返回 HTML 或 None(加载失败/验证码页)。
     """
     try:
@@ -423,7 +424,7 @@ def browser_extract(url, wait_ms=6000):
         print("[错误] 浏览器模式需要 playwright: pip install playwright")
         return None
     with sync_playwright() as p:
-        browser = p.chromium.launch(channel='msedge', headless=True)
+        browser = launch_browser(p)
         ctx = browser.new_context(
             user_agent=FETCH_HEADERS['User-Agent'], locale='zh-CN')
         ctx.add_init_script(
@@ -803,118 +804,8 @@ def auto_mode():
 
 
 def playwright_mode():
-    """Playwright模式: 使用Playwright浏览器 (需手动验证)"""
-    if sys.platform == "win32":
-        sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace', line_buffering=True)
-
-    print("=" * 80)
-    print("安居客省份城市爬虫 (Playwright模式)")
-    print("=" * 80)
-    print("此模式需要手动完成验证码验证")
-    print("步骤:")
-    print("  1. Playwright打开浏览器(非headless)")
-    print("  2. 首次访问时手动完成验证码")
-    print("  3. 验证通过后自动遍历所有页面")
-    print()
-
-    try:
-        from playwright.sync_api import sync_playwright
-        print("Playwright已安装，启动浏览器...")
-    except ImportError:
-        print("Playwright未安装! 请先安装:")
-        print("  pip install playwright")
-        print("  playwright install chromium")
-        return
-
-    urls = generate_urls()
-    collected_data = {}
-
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)  # 非headless用于手动验证
-        context = browser.new_context(
-            viewport={"width": 1280, "height": 720},
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        )
-        page = context.new_page()
-
-        # 先访问总页面触发验证码
-        print("\n[1] 打开安居客总页面 (可能需要手动验证码)")
-        page.goto("https://www.anjuke.com/fangjia/", timeout=30000)
-        print("  请手动完成验证码验证 (如有)")
-        print("  验证完成后按回车继续...")
-        input(">>> 按回车继续")
-
-        # 遍历省份页面获取城市列表
-        print("\n[2] 遍历省份页面...")
-        all_cities_from_provinces = {}
-        for prov_slug, prov_name in PROVINCES.items():
-            url = f"https://www.anjuke.com/fangjia/{prov_slug}/"
-            print(f"  {prov_name}: {url}")
-            try:
-                page.goto(url, timeout=15000)
-                page.wait_for_load_state("networkidle", timeout=10000)
-                # 提取城市链接
-                links = page.query_selector_all("a[href*='/fangjia/']")
-                for link in links:
-                    href = link.get_attribute("href")
-                    text = link.inner_text()
-                    if href and "/fangjia/" in href:
-                        # 提取slug
-                        slug_match = re.search(r'/fangjia/([^/]+)/', href)
-                        if slug_match:
-                            city_slug = slug_match.group(1)
-                            if city_slug not in PROVINCES and city_slug != "yixianchengshi":
-                                all_cities_from_provinces[city_slug] = text.strip()
-                print(f"    发现城市: {len(all_cities_from_provinces)}")
-            except Exception as e:
-                print(f"    错误: {e}")
-            time.sleep(2)
-
-        # 遍历70城价格页面
-        print("\n[3] 遍历70城价格页面...")
-        for city, slug in sorted(CITY_SLUG_70.items()):
-            if city in SUBDOMAIN_CITIES:
-                sub = SUBDOMAIN_CITIES[city]["subdomain"]
-                base_url = f"https://{sub}.anjuke.com/fangjia/{sub}"
-            else:
-                base_url = f"https://www.anjuke.com/fangjia/{slug}"
-
-            for year in YEARS:
-                url = f"{base_url}{year}/"
-                print(f"  {city} {year}: {url}")
-                try:
-                    page.goto(url, timeout=15000)
-                    page.wait_for_load_state("networkidle", timeout=10000)
-                    html = page.content()
-                    prices = extract_price_data(html)
-                    if prices:
-                        key = f"{city}_{year}"
-                        collected_data[key] = {
-                            "city": city, "slug": slug, "year": year,
-                            "prices": prices,
-                        }
-                        print(f"    成功: {len(prices)} 条")
-                    else:
-                        print(f"    无数据 (可能是验证码页面)")
-                except Exception as e:
-                    print(f"    错误: {e}")
-                time.sleep(3)
-
-        browser.close()
-
-    # 保存收集到的数据
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    data_path = OUTPUT_DIR / "anjuke_collected_data.json"
-    with open(data_path, 'w', encoding='utf-8') as f:
-        json.dump(collected_data, f, ensure_ascii=False, indent=2)
-    print(f"\n数据保存到: {data_path}")
-    print(f"收集到: {len(collected_data)} 个城市年份数据")
-
-    # 转换为管道可直接消费的 per-city 文件 schema:
-    #   [{city, city_pinyin, year, month, avg_price, data_source}]
-    # 与 output/anjuke/ 既有文件按 (year, month) 合并, 不覆盖历史月份
-    converted = convert_to_city_files(collected_data)
-    print(f"已合并写入 {converted} 个 per-city 数据文件 ({OUTPUT_DIR})")
+    """兼容旧入口：无头采集，遇到验证页保留旧数据并结束。"""
+    return crawl_browser_mode()
 
 
 def convert_to_city_files(collected_data):
@@ -954,11 +845,11 @@ def main():
     if not args:
         print("用法:")
         print("  python anjuke_province_crawler.py --crawl                # 自动爬取70城(需 Node.js，失败保留旧值)")
-        print("  python anjuke_province_crawler.py --crawl-browser      # 浏览器兜底(子域城市, 需 playwright+Edge)")
+        print("  python anjuke_province_crawler.py --crawl-browser      # 浏览器兜底(子域城市, 云端 Chromium/远程浏览器)")
         print("  python anjuke_province_crawler.py --crawl --city 北京,温州  # 只爬指定城市")
         print("  python anjuke_province_crawler.py --crawl --from-year 2023 # 起始年份(默认2021)")
         print("  python anjuke_province_crawler.py --manual               # 手动模式(输出URL列表)")
-        print("  python anjuke_province_crawler.py --playwright           # Playwright模式(需手动验证码)")
+        print("  python anjuke_province_crawler.py --playwright           # 无头浏览器模式(验证页停止)")
         return
 
     mode = args[0]
@@ -972,7 +863,7 @@ def main():
             from_year = int(args[args.index("--from-year") + 1])
         full = "--full" in args
         crawl_mode(years_from=from_year, only_cities=only, full=full)
-    elif mode == "--crawl-browser":
+    elif mode in ("--crawl-browser", "--playwright"):
         only = None
         from_year = 2021
         if "--city" in args:
@@ -984,8 +875,6 @@ def main():
         auto_mode()
     elif mode == "--manual":
         manual_mode()
-    elif mode == "--playwright":
-        playwright_mode()
     else:
         print(f"未知模式: {mode}")
         print("可选: --crawl, --auto, --manual, --playwright")

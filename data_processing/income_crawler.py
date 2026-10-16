@@ -16,6 +16,7 @@ from urllib.parse import urljoin,urlparse
 
 from bs4 import BeautifulSoup
 from data_store import ROOT,atomic_json,snapshot
+from browser_runtime import launch_browser
 from stats_gov_crawler import http_get,ArticleLinks,parse_article_url_date,BASE,LIST_ITEM_RE
 from city_administration import CITY_PROVINCES
 
@@ -399,11 +400,10 @@ def validate_evidence(data,root=ROOT):
 
 
 def browser_html(url,wait_ms=3500):
-    """真实浏览器(无头 Edge)取渲染后 HTML:人社部 EO_Bot 挑战需执行 JS。"""
+    """在 runner Chromium 或远程浏览器中读取渲染后 HTML。"""
     from playwright.sync_api import sync_playwright
     with sync_playwright() as p:
-        options={'channel':'msedge'} if sys.platform=='win32' else {}
-        browser=p.chromium.launch(headless=True,**options)
+        browser=launch_browser(p)
         ctx=browser.new_context(locale='zh-CN',user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36')
         page=ctx.new_page()
         try:

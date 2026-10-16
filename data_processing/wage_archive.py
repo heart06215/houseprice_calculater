@@ -273,7 +273,8 @@ def fetch_components(url):
     from playwright.sync_api import sync_playwright
     from income_crawler import now
     with sync_playwright() as p:
-        browser=p.chromium.launch(headless=True,**({'channel':'msedge'} if sys.platform=='win32' else {}))
+        from browser_runtime import launch_browser
+        browser=launch_browser(p)
         try:
             context=browser.new_context(locale='zh-CN')
             page=context.new_page();page.goto(url,timeout=45000);page.wait_for_timeout(4000)

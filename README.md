@@ -10,7 +10,7 @@
 - **中指数据**：新房、二手住宅、租金与地价独立样本表，保留各自时期和单位，展示公开榜单与宅地供求。
 - **统计局月报**：70 城新房、二手住宅及面积分档，支持月份、类别与城市筛选，附原文链接。
 
-项目使用原生 JS、统一主题变量及独立数据口径。模块职责见 [架构说明](ARCHITECTURE.md)，发布检查见 [release_audit.md](data_processing/release_audit.md)。本仓库发布主看板及其重建、更新所需文件；本地小区研究数据、浏览器登录状态、日志和旧 Git 历史不包含在发布版中。
+项目使用原生 JS、统一主题变量及独立数据口径。模块职责见 [架构说明](ARCHITECTURE.md)，发布检查见 [release_audit.md](data_processing/release_audit.md)。小区地图代码仅供本地研究，发布入口与构建产物均不包含该功能。
 
 ## 目录结构
 
@@ -32,25 +32,24 @@ data_processing/
 ├── config/                  # 城市坐标、价格锚点、字段契约
 └── frontend/                # 前端源文件
     ├── index.html           # 主看板
-    └── assets/              # 本地脚本、样式、字体与图片
+    └── realestate/          # 本地研究用小区地图，不进入发布产物
 output/                      # 爬虫与管道产出（stats_gov/anjuke 核心数据入库）
 ```
 
-## 本地运行
+## 使用（本机无需 Python 或采集浏览器）
 
-```
-pip install -r requirements-update.txt
-python -m playwright install chromium
-启动房价看板.bat          # 或: python data_processing/launch_frontend.py
-```
+日常查看使用部署后的静态网站；采集、解析和数据校验全部由 GitHub Actions 的 Ubuntu runner 完成。本机无需安装 Python、Node.js、Playwright 或 Chromium。
 
-访问 http://127.0.0.1:8765（端口被占用时自动顺延）。
+1. 将项目上传到自己的 GitHub 仓库，在 **Actions** 中启用工作流。
+2. 更新并发布主看板：选择 **update-data → Run workflow**；之后每天北京时间 18:00 自动运行。
+3. 单独运行爬虫：选择 **cloud-crawl → Run workflow**，在 `crawler` 选择数据来源，`args` 填 JSON 参数数组（默认 `[]`）。
+4. 在运行详情的 **Artifacts** 下载数据、原始证据和日志；失败也保留报告，勾选 `resume` 可恢复同分支同入口的缓存状态。
+
+完整入口清单、参数示例和可选远程浏览器设置见 [云端采集说明](CLOUD_CRAWL.md)。
 
 ## 数据更新
 
-```
-python data_processing/pipeline.py
-```
+推荐从 GitHub Actions 网页运行 `update-data`；`cloud-crawl` 可分别采集统计局、安居客、房天下、中指、收入、工资、宏观、LPR、地铁、水系和行政区划等来源。运行所需依赖在云端自动准备。
 
 默认只更新主看板：统计局、安居客、官方收入与最低工资、中指、官方宏观指标与 LPR → 原始证据核验 → 价格重建与独立来源投影 → 历史保留检查 → 发布。采集在隔离目录运行；空响应、验证码、异常、超时和发布校验失败均保留上一版有效数据。
 
@@ -58,7 +57,9 @@ python data_processing/pipeline.py
 
 LPR 走势图采用 2019 年 8 月新机制以来的完整月度序列，同时展示 1 年期和 5 年期以上报价（%）。来源为[中国货币网官方历史查询](https://www.chinamoney.com.cn/chinese/bklpr/)，最新一期与[人民银行公告](https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/index.html)交叉核对。首次按年度查询，后续只补新增月份；接口请求失败时可从人民银行公告补取。缺月、期限错配、来源冲突或历史改写均禁止发布，保留上一版数据及原始证据。2019 年 8 月前的旧机制只有 1 年期报价，不拼入双期限图。
 
-离线重建使用 `python data_processing/pipeline.py --skip-crawl`。干净检出先执行 `python data_processing/release_inputs.py`，恢复已发布输入和证据。完整性校验使用 `python data_processing/verify_frontend_data.py --dashboard-only`。爬虫依赖由 `requirements-update.txt` 固定范围；页面与发布构建无需 Node 构建链。
+云端先运行 `release_inputs.py` 恢复随仓库保存的输入和证据，再执行采集与完整性校验。`requirements-crawl.txt` 包含全部云端爬虫依赖；Python、Node.js 与 Chromium 都安装在 runner。`validate-crawlers` 工作流在代码变更时检查全新 runner 的 HTTP、解析器、Node 与真实 Chromium DOM，并运行来源与故障保留回归。
+
+开发者若已有本地环境，可继续使用 `python data_processing/pipeline.py --skip-crawl` 离线重建，或运行 `启动房价看板.bat` 预览；这些开发工具不属于日常使用的前置条件。
 
 ## 部署（Cloudflare Pages）
 
@@ -69,8 +70,6 @@ LPR 走势图采用 2019 年 8 月新机制以来的完整月度序列，同时�
 - 工作流先执行各数据来源、故障保留和前端映射回归，再从干净目录恢复快照、离线重建并核对历史一致性。采集全部失败或超时时，仅保存安居客轮转进度和失败状态，已验证的价格、输入及证据保留；下一次 runner 继续轮转；
 - `frontend/_headers` 配置了数据 JSON 短缓存与静态资源长缓存。
 
-Cloudflare 只托管静态文件；GitHub Actions 负责定时尝试采集。定时任务存在不代表各爬虫已经能在云端采集成功，首次应在 Actions 页面手动运行 `update-data` 并检查每个来源的状态。依赖本机登录、验证码处理或本地网络的来源，仍需在有该环境的电脑开机时运行 `python data_processing/pipeline.py`，再提交核验后的数据；不需要为了网站展示一直开机。外部网站改版或验证挑战会使该来源保留上次有效数据。
-
-GitHub 定时任务可能延迟；公共仓库连续 60 天无活动会自动停用定时工作流，需检查仓库 Actions 状态。公开提交前可执行 `python data_processing/audit_public_release.py`，检查入库文件及输入快照中的高置信度凭据特征。检测只输出文件名和规则，不输出匹配到的值；凭据扫描不能代替对数据内容的人工审查。
+Cloudflare 只托管静态文件；采集在 GitHub Actions 完成。外部网站改版或验证挑战仍可能暂停采集，状态面板和 Actions 日志会记录失败。GitHub 定时任务可能延迟；公共仓库连续 60 天无活动会自动停用定时工作流，需检查仓库 Actions 状态。
 
 安居客记录为挂牌市场观测，并非成交价；缺失月份为指数推导值。统计局指数不作为元/㎡单价，中指样本不替换安居客锚点。不同口径仅独立对照，结果供研究参考。

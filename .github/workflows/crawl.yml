@@ -1,0 +1,172 @@
+name: cloud-crawl
+
+on:
+  workflow_dispatch:
+    inputs:
+      crawler:
+        description: '采集入口（全部在云端运行，本机无需环境）'
+        required: true
+        type: choice
+        default: dashboard
+        options:
+          - dashboard
+          - stats_gov
+          - income
+          - macro
+          - lpr
+          - realestate
+          - income_history
+          - wage_history
+          - wage_archive
+          - cih
+          - cih_land
+          - cih_rankings
+          - anjuke_prices
+          - anjuke_browser
+          - anjuke_recheck
+          - anjuke_market
+          - anjuke_collect
+          - anjuke_community
+          - anjuke_probe
+          - crawl_public
+          - fang
+          - communities
+          - community_profiles
+          - community_neighbourhoods
+          - hydrology
+          - public_locations
+          - metro
+          - permits
+          - nanjing_projects
+          - geocode
+          - district_boundaries
+          - city_regions
+          - beike
+          - source_pilot
+          - source_entries
+          - source_catalog
+          - external_candidates
+          - site_reachability
+      args:
+        description: '额外参数，JSON 字符串数组，例如 ["--cities","北京","--pages","1"]'
+        type: string
+        default: '[]'
+      resume:
+        description: '恢复本分支上次同一入口的采集数据、游标和预算'
+        type: boolean
+        default: true
+      input_run_id:
+        description: '可选：导入前序采集结果的 Actions run ID'
+        type: string
+        default: ''
+      input_artifact:
+        description: '可选：前序 run 中的完整 Artifact 名称；与 input_run_id 同填'
+        type: string
+        default: ''
+
+permissions:
+  contents: read
+  actions: read
+
+concurrency:
+  group: cloud-crawl-${{ github.ref }}-${{ inputs.crawler }}
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 75
+    env:
+      PYTHONUTF8: '1'
+      PYTHONUNBUFFERED: '1'
+      CRAWLER_CLOUD: '1'
+      CRAWLER_BROWSER_CHANNEL: chromium
+      CRAWLER_PROFILE_ROOT: ${{ runner.temp }}/crawler-profiles
+      CRAWLER_BROWSER_WS_ENDPOINT: ${{ secrets.CRAWLER_BROWSER_WS_ENDPOINT }}
+      CRAWLER_BROWSER_CDP_ENDPOINT: ${{ secrets.CRAWLER_BROWSER_CDP_ENDPOINT }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: |
+            requirements-update.txt
+            requirements-crawl.txt
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: 准备云端采集环境
+        run: |
+          python -m pip install -r requirements-crawl.txt
+          if [ -z "$CRAWLER_BROWSER_WS_ENDPOINT$CRAWLER_BROWSER_CDP_ENDPOINT" ]; then
+            python -m playwright install --with-deps chromium
+          fi
+      - name: 校验参数与浏览器环境
+        env:
+          CRAWLER_NAME: ${{ inputs.crawler }}
+          CRAWLER_ARGS: ${{ inputs.args }}
+          INPUT_RUN_ID: ${{ inputs.input_run_id }}
+          INPUT_ARTIFACT: ${{ inputs.input_artifact }}
+        run: |
+          if [ -n "$INPUT_RUN_ID$INPUT_ARTIFACT" ]; then
+            [[ "$INPUT_RUN_ID" =~ ^[0-9]+$ ]] && [ -n "$INPUT_ARTIFACT" ] || { echo '前序 run ID 必须为数字，并同时填写 Artifact 名称'; exit 2; }
+          fi
+          python data_processing/cloud_crawl.py --crawler "$CRAWLER_NAME" --args-json "$CRAWLER_ARGS" --dry-run
+          python data_processing/cloud_crawl.py --check
+      - name: 云端入口与来源故障回归
+        env:
+          PYTHONPATH: data_processing
+        run: python -m unittest test_cloud_crawl test_browser_runtime test_macro_crawler
+      - name: 恢复随仓库保存的主看板输入与证据
+        run: python data_processing/release_inputs.py
+      - name: 恢复采集状态
+        if: inputs.resume
+        uses: actions/cache/restore@v4
+        with:
+          path: |
+            output/
+            data_processing/frontend/realestate/data/
+          key: cloud-crawl-v1-${{ github.ref_name }}-${{ inputs.crawler }}-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: |
+            cloud-crawl-v1-${{ github.ref_name }}-${{ inputs.crawler }}-
+      - name: 导入前序云端采集结果
+        if: inputs.input_run_id != ''
+        uses: actions/download-artifact@v4
+        with:
+          name: ${{ inputs.input_artifact }}
+          run-id: ${{ inputs.input_run_id }}
+          github-token: ${{ github.token }}
+          path: .
+      - name: 执行采集
+        id: collect
+        env:
+          CRAWLER_NAME: ${{ inputs.crawler }}
+          CRAWLER_ARGS: ${{ inputs.args }}
+        shell: bash
+        run: |
+          mkdir -p output/cloud_crawl
+          python data_processing/cloud_crawl.py --crawler "$CRAWLER_NAME" --args-json "$CRAWLER_ARGS" 2>&1 | tee output/cloud_crawl/collector.log
+      - name: 保存采集状态与预算供续跑
+        if: always() && steps.collect.outcome != 'skipped'
+        uses: actions/cache/save@v4
+        with:
+          path: |
+            output/
+            data_processing/frontend/realestate/data/
+          key: cloud-crawl-v1-${{ github.ref_name }}-${{ inputs.crawler }}-${{ github.run_id }}-${{ github.run_attempt }}
+      - name: 提供数据、证据与日志下载
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: crawl-${{ inputs.crawler }}-${{ github.run_id }}-${{ github.run_attempt }}
+          path: |
+            output/
+            data_processing/frontend/*.json
+            data_processing/frontend/realestate/data/
+            data_processing/config/cities.json
+            data_processing/published_inputs.zip
+            !output/**/*private*/**
+            !output/update_work/**
+          if-no-files-found: ignore
+          retention-days: 14

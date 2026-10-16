@@ -1,0 +1,665 @@
+{
+  "北京": {
+    "center": [
+      116.4074,
+      39.9042
+    ],
+    "zoom": 11,
+    "province": "北京",
+    "adcode": 110000,
+    "sample70": true
+  },
+  "上海": {
+    "center": [
+      121.4737,
+      31.2304
+    ],
+    "zoom": 11,
+    "province": "上海",
+    "adcode": 310000,
+    "sample70": true
+  },
+  "广州": {
+    "center": [
+      113.2644,
+      23.1291
+    ],
+    "zoom": 11,
+    "province": "广东",
+    "adcode": 440100,
+    "sample70": true
+  },
+  "深圳": {
+    "center": [
+      114.0579,
+      22.5431
+    ],
+    "zoom": 11,
+    "province": "广东",
+    "adcode": 440300,
+    "sample70": true
+  },
+  "成都": {
+    "center": [
+      104.0668,
+      30.5728
+    ],
+    "zoom": 11,
+    "province": "四川",
+    "adcode": 510100,
+    "sample70": true
+  },
+  "杭州": {
+    "center": [
+      120.1551,
+      30.2741
+    ],
+    "zoom": 11,
+    "province": "浙江",
+    "adcode": 330100,
+    "sample70": true
+  },
+  "武汉": {
+    "center": [
+      114.3055,
+      30.5928
+    ],
+    "zoom": 11,
+    "province": "湖北",
+    "adcode": 420100,
+    "sample70": true
+  },
+  "南京": {
+    "center": [
+      118.7969,
+      32.0603
+    ],
+    "zoom": 11,
+    "province": "江苏",
+    "adcode": 320100,
+    "sample70": true
+  },
+  "重庆": {
+    "center": [
+      106.9123,
+      29.4316
+    ],
+    "zoom": 11,
+    "province": "重庆",
+    "adcode": 500000,
+    "sample70": true
+  },
+  "天津": {
+    "center": [
+      117.3616,
+      39.3434
+    ],
+    "zoom": 11,
+    "province": "天津",
+    "adcode": 120000,
+    "sample70": true
+  },
+  "苏州": {
+    "center": [
+      120.585,
+      31.299
+    ],
+    "zoom": 12,
+    "province": "江苏",
+    "adcode": 320500
+  },
+  "西安": {
+    "center": [
+      108.9398,
+      34.3416
+    ],
+    "zoom": 11,
+    "province": "陕西",
+    "adcode": 610100,
+    "sample70": true
+  },
+  "长沙": {
+    "center": [
+      112.9388,
+      28.2282
+    ],
+    "zoom": 11,
+    "province": "湖南",
+    "adcode": 430100,
+    "sample70": true
+  },
+  "郑州": {
+    "center": [
+      113.6253,
+      34.7466
+    ],
+    "zoom": 11,
+    "province": "河南",
+    "adcode": 410100,
+    "sample70": true
+  },
+  "合肥": {
+    "center": [
+      117.2272,
+      31.8206
+    ],
+    "zoom": 11,
+    "province": "安徽",
+    "adcode": 340100,
+    "sample70": true
+  },
+  "福州": {
+    "center": [
+      119.2965,
+      26.0745
+    ],
+    "zoom": 11,
+    "province": "福建",
+    "adcode": 350100,
+    "sample70": true
+  },
+  "济南": {
+    "center": [
+      116.9972,
+      36.6512
+    ],
+    "zoom": 11,
+    "province": "山东",
+    "adcode": 370100,
+    "sample70": true
+  },
+  "昆明": {
+    "center": [
+      102.7183,
+      25.0389
+    ],
+    "zoom": 11,
+    "province": "云南",
+    "adcode": 530100,
+    "sample70": true
+  },
+  "沈阳": {
+    "center": [
+      123.4315,
+      41.8057
+    ],
+    "zoom": 11,
+    "province": "辽宁",
+    "adcode": 210100,
+    "sample70": true
+  },
+  "南宁": {
+    "center": [
+      108.3665,
+      22.817
+    ],
+    "zoom": 11,
+    "province": "广西",
+    "adcode": 450100,
+    "sample70": true
+  },
+  "青岛": {
+    "center": [
+      120.3826,
+      36.0671
+    ],
+    "zoom": 11,
+    "province": "山东",
+    "adcode": 370200,
+    "sample70": true
+  },
+  "大连": {
+    "center": [
+      121.6147,
+      38.914
+    ],
+    "zoom": 11,
+    "province": "辽宁",
+    "adcode": 210200,
+    "sample70": true
+  },
+  "厦门": {
+    "center": [
+      118.0894,
+      24.4798
+    ],
+    "zoom": 11,
+    "province": "福建",
+    "adcode": 350200,
+    "sample70": true
+  },
+  "宁波": {
+    "center": [
+      121.544,
+      29.8683
+    ],
+    "zoom": 11,
+    "province": "浙江",
+    "adcode": 330200,
+    "sample70": true
+  },
+  "无锡": {
+    "center": [
+      120.3119,
+      31.4912
+    ],
+    "zoom": 11,
+    "province": "江苏",
+    "adcode": 320200,
+    "sample70": true
+  },
+  "石家庄": {
+    "center": [
+      114.5149,
+      38.0428
+    ],
+    "zoom": 11,
+    "adcode": 130100,
+    "sample70": true
+  },
+  "唐山": {
+    "center": [
+      118.1802,
+      39.6309
+    ],
+    "zoom": 11,
+    "adcode": 130200,
+    "sample70": true
+  },
+  "秦皇岛": {
+    "center": [
+      119.5994,
+      39.9354
+    ],
+    "zoom": 11,
+    "adcode": 130300,
+    "sample70": true
+  },
+  "太原": {
+    "center": [
+      112.5489,
+      37.8706
+    ],
+    "zoom": 11,
+    "adcode": 140100,
+    "sample70": true
+  },
+  "呼和浩特": {
+    "center": [
+      111.749,
+      40.8427
+    ],
+    "zoom": 11,
+    "adcode": 150100,
+    "sample70": true
+  },
+  "包头": {
+    "center": [
+      109.8403,
+      40.6571
+    ],
+    "zoom": 11,
+    "adcode": 150200,
+    "sample70": true
+  },
+  "丹东": {
+    "center": [
+      124.354,
+      40.0006
+    ],
+    "zoom": 11,
+    "adcode": 210600,
+    "sample70": true
+  },
+  "锦州": {
+    "center": [
+      121.127,
+      41.114
+    ],
+    "zoom": 11,
+    "adcode": 210700,
+    "sample70": true
+  },
+  "长春": {
+    "center": [
+      125.3235,
+      43.8171
+    ],
+    "zoom": 11,
+    "adcode": 220100,
+    "sample70": true
+  },
+  "吉林": {
+    "center": [
+      126.5497,
+      43.8378
+    ],
+    "zoom": 11,
+    "adcode": 220200,
+    "sample70": true
+  },
+  "哈尔滨": {
+    "center": [
+      126.535,
+      45.8038
+    ],
+    "zoom": 11,
+    "adcode": 230100,
+    "sample70": true
+  },
+  "牡丹江": {
+    "center": [
+      129.632,
+      44.552
+    ],
+    "zoom": 11,
+    "adcode": 231000,
+    "sample70": true
+  },
+  "徐州": {
+    "center": [
+      117.1846,
+      34.2616
+    ],
+    "zoom": 11,
+    "adcode": 320300,
+    "sample70": true
+  },
+  "扬州": {
+    "center": [
+      119.4128,
+      32.3943
+    ],
+    "zoom": 11,
+    "adcode": 321000,
+    "sample70": true
+  },
+  "温州": {
+    "center": [
+      120.672,
+      28.0006
+    ],
+    "zoom": 11,
+    "adcode": 330300,
+    "sample70": true
+  },
+  "金华": {
+    "center": [
+      119.6498,
+      29.0785
+    ],
+    "zoom": 11,
+    "adcode": 330700,
+    "sample70": true
+  },
+  "蚌埠": {
+    "center": [
+      117.3889,
+      32.917
+    ],
+    "zoom": 11,
+    "adcode": 340300,
+    "sample70": true
+  },
+  "安庆": {
+    "center": [
+      117.0631,
+      30.543
+    ],
+    "zoom": 11,
+    "adcode": 340800,
+    "sample70": true
+  },
+  "泉州": {
+    "center": [
+      118.6758,
+      24.8741
+    ],
+    "zoom": 11,
+    "adcode": 350500,
+    "sample70": true
+  },
+  "南昌": {
+    "center": [
+      115.8579,
+      28.682
+    ],
+    "zoom": 11,
+    "adcode": 360100,
+    "sample70": true
+  },
+  "九江": {
+    "center": [
+      116.002,
+      29.7053
+    ],
+    "zoom": 11,
+    "adcode": 360400,
+    "sample70": true
+  },
+  "赣州": {
+    "center": [
+      114.933,
+      25.831
+    ],
+    "zoom": 11,
+    "adcode": 360700,
+    "sample70": true
+  },
+  "烟台": {
+    "center": [
+      121.4479,
+      37.4638
+    ],
+    "zoom": 11,
+    "adcode": 370600,
+    "sample70": true
+  },
+  "济宁": {
+    "center": [
+      116.5871,
+      35.4146
+    ],
+    "zoom": 11,
+    "adcode": 370800,
+    "sample70": true
+  },
+  "洛阳": {
+    "center": [
+      112.454,
+      34.6197
+    ],
+    "zoom": 11,
+    "adcode": 410300,
+    "sample70": true
+  },
+  "平顶山": {
+    "center": [
+      113.1927,
+      33.7662
+    ],
+    "zoom": 11,
+    "adcode": 410400,
+    "sample70": true
+  },
+  "宜昌": {
+    "center": [
+      111.2864,
+      30.6918
+    ],
+    "zoom": 11,
+    "adcode": 420500,
+    "sample70": true
+  },
+  "襄阳": {
+    "center": [
+      112.1232,
+      32.009
+    ],
+    "zoom": 11,
+    "adcode": 420600,
+    "sample70": true
+  },
+  "岳阳": {
+    "center": [
+      113.129,
+      29.3562
+    ],
+    "zoom": 11,
+    "adcode": 430600,
+    "sample70": true
+  },
+  "常德": {
+    "center": [
+      111.6983,
+      29.0318
+    ],
+    "zoom": 11,
+    "adcode": 430700,
+    "sample70": true
+  },
+  "韶关": {
+    "center": [
+      113.5975,
+      24.8107
+    ],
+    "zoom": 11,
+    "adcode": 440200,
+    "sample70": true
+  },
+  "湛江": {
+    "center": [
+      110.3594,
+      21.2707
+    ],
+    "zoom": 11,
+    "adcode": 440800,
+    "sample70": true
+  },
+  "惠州": {
+    "center": [
+      114.416,
+      23.1116
+    ],
+    "zoom": 11,
+    "adcode": 441300,
+    "sample70": true
+  },
+  "桂林": {
+    "center": [
+      110.29,
+      25.274
+    ],
+    "zoom": 11,
+    "adcode": 450300,
+    "sample70": true
+  },
+  "北海": {
+    "center": [
+      109.12,
+      21.481
+    ],
+    "zoom": 11,
+    "adcode": 450500,
+    "sample70": true
+  },
+  "海口": {
+    "center": [
+      110.3492,
+      20.0174
+    ],
+    "zoom": 11,
+    "adcode": 460100,
+    "sample70": true
+  },
+  "三亚": {
+    "center": [
+      109.512,
+      18.2528
+    ],
+    "zoom": 11,
+    "adcode": 460200,
+    "sample70": true
+  },
+  "泸州": {
+    "center": [
+      105.4425,
+      28.8717
+    ],
+    "zoom": 11,
+    "adcode": 510500,
+    "sample70": true
+  },
+  "南充": {
+    "center": [
+      106.1107,
+      30.8378
+    ],
+    "zoom": 11,
+    "adcode": 511300,
+    "sample70": true
+  },
+  "贵阳": {
+    "center": [
+      106.6302,
+      26.647
+    ],
+    "zoom": 11,
+    "adcode": 520100,
+    "sample70": true
+  },
+  "遵义": {
+    "center": [
+      106.9274,
+      27.7256
+    ],
+    "zoom": 11,
+    "adcode": 520300,
+    "sample70": true
+  },
+  "兰州": {
+    "center": [
+      103.8343,
+      36.0611
+    ],
+    "zoom": 11,
+    "adcode": 620100,
+    "sample70": true
+  },
+  "西宁": {
+    "center": [
+      101.7782,
+      36.6171
+    ],
+    "zoom": 11,
+    "adcode": 630100,
+    "sample70": true
+  },
+  "银川": {
+    "center": [
+      106.2309,
+      38.4872
+    ],
+    "zoom": 11,
+    "adcode": 640100,
+    "sample70": true
+  },
+  "乌鲁木齐": {
+    "center": [
+      87.6168,
+      43.8256
+    ],
+    "zoom": 11,
+    "adcode": 650100,
+    "sample70": true
+  },
+  "大理": {
+    "center": [
+      100.2679,
+      25.6065
+    ],
+    "zoom": 11,
+    "adcode": 532901,
+    "sample70": true
+  }
+}
