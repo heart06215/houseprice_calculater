@@ -1,0 +1,330 @@
+﻿/* Bundled Montserrat font license (retained in single-file builds):
+Copyright 2024 The Montserrat.Git Project Authors (https://github.com/JulietaUla/Montserrat.git)
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+https://openfontlicense.org
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+*/
+/* 70 城看板共用主题；字体文件与许可随静态资源一起发布。 */
+@font-face {font-family:'Montserrat';src:url('../fonts/Montserrat-Variable.woff2') format('woff2');font-style:normal;font-weight:100 900;font-display:swap;}
+:root {
+ --font-ui:'Glow Sans SC','Noto Sans SC','Microsoft YaHei','PingFang SC','Montserrat',sans-serif;
+ --font-heading:'Glow Sans SC','Noto Sans SC','Microsoft YaHei','PingFang SC','Montserrat',sans-serif;
+ --accent-mist:#9fd4de;--accent-ink:#0aa0c8;--accent-wash:#e3f4f7;--metric-red:#0aa0c8;/* metric accent blue (non-delta); trend-up stays red */--seal-red:#e01111;
+ --trend-up:#dc2626;--trend-down:#16a34a;
+ --paper:#f8f8f8;--surface:rgba(248,249,249,.62);--ink:#111111;--line:#234e59;
+ --glass-filter:blur(38px) saturate(1.2) brightness(1.03);
+ --glass-glaze:linear-gradient(125deg,rgba(255,255,255,.32),rgba(255,255,255,.02) 45%,rgba(255,255,255,.16));
+ --glass-edge:rgba(255,255,255,.9);--glass-shadow:0 10px 32px rgba(49,58,54,.08),inset 0 1px 0 #fff,inset 0 -1px 0 rgba(255,255,255,.65);
+ --tech-cyan:#0aa0c8;--tech-blue:#176878;--tech-glow:rgba(10,160,200,.20);
+ --tech-star:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cpath fill='%230aa0c8' d='M32 3C35 24 40 29 61 32C40 35 35 40 32 61C29 40 24 35 3 32C24 29 29 24 32 3Z'/%3E%3C/svg%3E");
+ --muted:#444444;--hover:#eaf2f3;
+ --bg-primary:var(--paper);--bg-secondary:var(--surface);--bg-card:var(--surface);--bg-card-hover:var(--hover);
+ --border:#cbd8da;--text-primary:var(--ink);--text-secondary:var(--muted);--text-muted:#596b70;
+ --accent-blue:#176878;--accent-purple:#7c3aed;--accent-orange:#ea580c;--accent-red:var(--metric-red);--accent-green:var(--trend-down);
+ --blue:var(--accent-blue);--cyan:var(--tech-cyan);--violet:var(--accent-purple);--pink:var(--metric-red);--yellow:#eab308;
+ --shadow-sm:0 4px 18px #3933260a;--shadow-md:0 10px 28px #39332612;
+}
+body {font-family:var(--font-ui);font-size:18px;line-height:1.7;color:var(--ink);background:var(--paper) url('../images/paper-grain.webp') repeat;isolation:isolate;}
+body::before {content:'';position:fixed;inset:0;z-index:-1;pointer-events:none;background:url('../images/ink-landscape.webp') center bottom/cover no-repeat;}
+body::after {content:none;}
+body.map-shell::before {opacity:.48;}
+::selection {background:var(--accent-mist);color:var(--ink);}
+button,input,select,textarea,table,.rank-number,.ranking-period strong,.metro-station-icon span,.leaflet-container {font-family:var(--font-ui);}
+button,a,input,select,summary {touch-action:manipulation;}
+button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible {outline:3px solid var(--accent-ink);outline-offset:3px;}
+button:disabled {cursor:not-allowed;}
+::-webkit-scrollbar {width:9px;height:9px;}::-webkit-scrollbar-thumb {background:#93aeb3;border:2px solid var(--paper);border-radius:8px;}::-webkit-scrollbar-track {background:var(--paper);}
+a {color:var(--accent-ink);}  /* 2026-10-01: 链接恢复青绿（提鲜 #0d9488）；正文字体保持黑色 */
+/* Translucent layers expose the quiet grid and rings without obscuring data. */
+.header,.nav-tabs,.ranking-panel,.information-hub .audit-page:not(.ranking-panel),.information-hub .main,.navbar,.chart-card,.detail-panel {background:var(--glass-glaze),var(--surface);backdrop-filter:var(--glass-filter);-webkit-backdrop-filter:var(--glass-filter);}
+.header {padding:15px 28px;border-bottom:1px solid var(--border);box-shadow:none;gap:16px;}
+.header-left {gap:14px;}.header h1 {font-size:26px;font-weight:700;display:flex;align-items:center;gap:14px;letter-spacing:0.02em;}
+.brand-mark {display:inline-block;position:relative;width:36px;height:31px;flex:none;background:var(--tech-star) center/160px 45px;}
+.brand-mark::before,.brand-mark::after {content:'';position:absolute;inset:5px 0;border-top:3px solid var(--accent-ink);border-radius:50%;transform:rotate(-20deg);}
+.brand-mark::after {inset:12px 0 0;border-color:var(--accent-ink);transform:rotate(20deg);}
+.header .badge {border:1px solid #c5d6d8;border-radius:3px;background:#ffffffb3;color:var(--muted);font-size:14px;padding:4px 9px;font-weight:400;}
+.header .badge.orange {background:#fff7ed;color:#ea580c;border-color:#fdba74;}
+.tier-legend .item,.tier-legend .count {color:var(--muted);font-size:14px;}
+.nav-tabs {padding:0 28px;border-bottom:1px solid var(--border);gap:12px;}
+.nav-tabs button.nav-tab {border:0;border-bottom:3px solid transparent;padding:13px 23px;color:var(--muted);font-size:17px;font-weight:600;letter-spacing:0.02em;}
+.nav-tabs .nav-tab.active {background:#ffffff;color:var(--ink);border-bottom-color:var(--accent-ink);}
+.nav-tabs .nav-tab:hover {background:#f2f5f4;color:var(--ink);}
+.information-hub {background:none;padding-bottom:40px;}
+.hub-tabs {padding:17px 28px;gap:12px;border:0;}
+.hub-tabs button {border:1px solid #c5d6d9;border-radius:3px;background:#ffffffcc;padding:9px 19px;color:var(--muted);font-size:16px;letter-spacing:0.02em;}
+.hub-tabs button[aria-pressed=true] {color:var(--accent-ink);background:#ffffff;border-color:#7aabb3;box-shadow:inset 0 -2px var(--accent-ink);font-weight:700;}
+.hub-tabs button:hover {background:#f0f4f2;}
+/* Fine optical cuts on large titles only; all text remains selectable and accessible. */
+.title-cut,.ranking-panel h2,.audit-page>h2,.report h2 {mask-image:none;-webkit-mask-image:none;}
+.ranking-panel {border:1px solid #c6d4d6;border-top:1px solid #c9d0cc;border-radius:7px;box-shadow:var(--shadow-md);margin-top:10px;margin-bottom:40px;padding-top:23px;}
+.ranking-header {position:relative;isolation:isolate;padding-bottom:18px;border-bottom:1px solid #c6d4d6;}
+.ranking-eyebrow {display:flex;align-items:center;gap:10px;color:var(--accent-ink);font-size:15px;letter-spacing:0.04em;font-weight:600;}
+.ranking-eyebrow::before {content:'';width:38px;height:16px;background:var(--tech-star) center/90px 35px;}
+.ranking-panel h2 {font-size:clamp(34px,3.4vw,48px);font-weight:700;letter-spacing:0.02em;line-height:1.35;margin:10px 0;}
+.ranking-header p {font-size:15px;color:var(--muted);}
+.ranking-header-right {display:flex;align-items:center;gap:23px;}
+.ranking-art {display:block;width:165px;height:82px;background:var(--tech-star) center/250px 110px;}
+.ranking-art i {display:none;}
+.ranking-period {border-left:1px solid #b9cccf;padding-left:23px;}
+.ranking-period span {font-size:14px;color:var(--muted);}
+.ranking-period strong {font-family:var(--font-ui);font-size:30px;line-height:1.6;color:var(--ink);font-weight:600;letter-spacing:1px;}
+.ranking-category {gap:10px;}
+.ranking-category button {border:1px solid #c5d6d9;border-radius:4px;background:#ffffffdd;color:var(--ink);padding:13px 18px;position:relative;}
+.ranking-category button strong {font-size:19px;font-weight:650;letter-spacing:1px;}.ranking-category button span {font-size:14px;}
+.ranking-category button::after {content:'';position:absolute;right:12px;top:12px;width:45px;height:25px;background:var(--tech-star) center/90px 32px;opacity:.6;}
+.ranking-category button[aria-pressed=true] {background:#ffffff;color:#164c57;border-color:#7aabb3;box-shadow:inset 0 -2px var(--accent-ink);}
+.ranking-category button:hover {background:#f3f6f5;}
+.ranking-toolbar {border-bottom:1px solid var(--border);padding-bottom:18px;gap:14px;}
+.ranking-toolbar label {font-size:14px;font-weight:500;color:var(--muted);}
+.ranking-toolbar select,.ranking-toolbar input,.audit-controls select,.audit-controls input[type=search],.audit-controls button,.search-input {border:1px solid #b7cbd0;border-radius:3px;color:var(--ink);background:#fffffff0;font-size:16px;font-weight:400;}
+.ranking-toolbar select,.ranking-toolbar input {height:46px;}
+.ranking-action {height:46px;border:1px solid var(--accent-ink);border-radius:3px;background:#ffffff;color:var(--accent-ink);font-size:15px;font-weight:600;}
+.ranking-action:hover {background:#e6f5f3;border-color:#0d9488;box-shadow:none;}
+.ranking-panel button:focus-visible,.ranking-panel input:focus-visible,.ranking-panel select:focus-visible,.ranking-panel summary:focus-visible {outline:3px solid var(--accent-ink);}
+.ranking-summary {gap:0;padding:0;margin:18px 0;border:1px solid #d7dcda;background:#ffffffe0;}
+.ranking-summary>div {padding:13px 20px;border-right:1px solid #d7dcda;background:transparent;position:relative;}
+.ranking-summary>div::after {content:'';position:absolute;right:16px;top:16px;width:42px;height:24px;background:var(--tech-star) center/90px 32px;opacity:.45;}
+.ranking-summary>div:last-child {border:0;}.ranking-summary span {font-size:14px;color:var(--muted);}
+.ranking-summary strong {color:var(--ink);font-size:28px;font-weight:600;}.ranking-summary small {font-size:14px;color:var(--muted);}.ranking-summary .ranking-summary-label {font-size:22px;}
+.ranking-table-heading strong {font-size:18px;font-weight:650;color:var(--ink);}.ranking-table-heading span {font-size:14px;color:var(--muted);}
+.ranking-panel .ranking-scroll {border:1px solid #c6d4d6;border-radius:3px;scrollbar-color:#93aeb3 #edf3f3;}
+.ranking-panel .audit-table {background:#ffffff;font-size:16px;min-width:1150px;}
+.ranking-panel .audit-table th {background:#f3f6f5;color:#254c54;border-bottom:2px solid #b7c3bd;font-size:14px;font-weight:600;padding:16px;}
+.ranking-panel .audit-table td {color:var(--ink);border-bottom:1px solid #e1e5e3;padding:16px;height:75px;}
+.ranking-panel .audit-table tbody tr:nth-child(even) {background:#f8faf9;}.ranking-panel .audit-table tbody tr:hover {background:#eef3f1;}
+.ranking-panel .ranking-city {background:#f8faf9;box-shadow:2px 0 0 #e0e5e2;}
+.ranking-panel .audit-table th:nth-child(2) {background:#f3f6f5;}
+.ranking-panel .audit-table .rank-city-link {font-size:18px;font-weight:650;color:var(--city-tier,var(--ink));padding-left:10px;border-left:3px solid var(--city-tier,var(--accent-mist));text-decoration:none;}
+.ranking-panel .rank-city-link:hover {text-decoration:underline;}
+.ranking-tier {font-size:14px;font-weight:600;color:var(--city-tier,var(--muted));padding:4px 9px;border:1px solid currentColor;border-radius:3px;background:#ecf3f3;}
+tr[data-tier='S'] .ranking-tier {background:#fdecec;}tr[data-tier='1'] .ranking-tier {background:#feeedd;}
+tr[data-tier='2'] .ranking-tier {background:#e0f2ef;}tr[data-tier='3'] .ranking-tier {background:#e8eafc;}
+/* 分级徽章使用下列现有规则；主题色以 :root 变量为准。 */
+tr[data-tier='S'] .rank-city-link,tr[data-tier='S'] .ranking-tier {color:var(--trend-up);border-color:var(--trend-up);}
+tr[data-tier='1'] .ranking-tier {color:#ea580c;border-color:#ea580c;}
+tr[data-tier='2'] .ranking-tier {color:#0d9488;border-color:#0d9488;}
+tr[data-tier='3'] .ranking-tier {color:#4f46e5;border-color:#4f46e5;}
+.rank-number {font-family:var(--font-ui);color:var(--muted);border-radius:50%;font-weight:500;}.rank-number.rank-leading {background:#0d9488;color:#ffffff;box-shadow:none;border:1px solid #0d9488;}
+.ranking-value strong {font-size:22px;font-weight:600;}.ranking-bar {height:4px;border-radius:4px;background:#dce8e9;}.ranking-bar i {background:var(--city-tier,var(--accent-ink));border-radius:4px;}
+.ranking-source-tag {font-size:14px;border:1px solid #bacecf;border-radius:3px;background:#edf3f3;color:#53656a;}.ranking-source-tag.derived {background:#e0f2ef;border-color:#0d9488;color:#0d9488;}
+.ranking-footer {font-size:14px;color:var(--muted);}.ranking-footer summary {color:var(--accent-ink);}.ranking-footer p {border:1px solid var(--border);border-left:3px solid var(--accent-ink);border-radius:3px;background:#f7f9f8;}
+/* Secondary data surfaces */
+.information-hub .audit-page:not(.ranking-panel),.information-hub .main {border-top:1px solid #bfd1d3;margin-top:30px;}
+.audit-page h2,.report h2 {font-weight:650;letter-spacing:0.02em;}.audit-page h3 {font-weight:600;}
+.audit-page:not(.ranking-panel) h2::before {content:'';display:inline-block;width:38px;height:22px;background:var(--tech-star) center/100px 35px;margin-right:12px;}
+.audit-note,.report-meta,.report-summary,.hub-news p {color:var(--muted);}.audit-band {border-bottom:1px solid var(--border);}
+.audit-table {background:#ffffff;}.audit-table th {background:#f3f6f5;color:#254c54;border-bottom:2px solid #b7c3bd;}.audit-table td {border-color:#e1e5e3;}.audit-table button {color:var(--accent-ink);}.audit-table tbody tr:hover {background:#eff4f1;}
+.chart-card,.detail-panel,.map-legend,.map-detail,.src-card {border:1px solid var(--border);border-radius:5px;box-shadow:var(--shadow-sm);}
+.chart-card-header,.detail-header {border-bottom:1px solid var(--border);background:#f9fbfac9;}.chart-card-title {font-weight:600;color:var(--ink);}
+.stat-item,.report-stats .stat-item {border-radius:4px;border:1px solid #d7c9a8;border-top:3px solid var(--accent-mist);background:#ffffff;text-align:left;}
+.stat-value,.report-stats .stat-value {font-size:30px;font-weight:600;}.report-summary {background:#f9fbfac9;border-left:3px solid var(--accent-ink);border-radius:0;}
+.policy-chip {color:#8b5d20;background:#f7edcc;border:1px solid #c7a46b;border-radius:3px;}.policy-chip.sel {color:var(--ink);background:#dfc992;border-color:#8f6c31;}
+.policy-desc {background:#f8efda;border-left:3px solid #b48342;border-radius:0;}.policy-desc b {color:#8b5d20;}
+.hub-metrics>div {border:1px solid #c5d6d8;border-left:4px solid var(--accent-ink);border-radius:3px;background:#ffffffe6;}.hub-metrics strong {font-weight:600;}
+.hub-metrics>div:has(.delta-up) {border-left-color:var(--trend-up);}.hub-metrics>div:has(.delta-down) {border-left-color:var(--trend-down);}
+.hub-news article {border-bottom-color:var(--border);}.hub-news article>a,.hub-sources a,.audit-band a {color:var(--accent-ink);}  /* 2026-10-01: 链接恢复青绿（提鲜 #0d9488）；正文字体保持黑色 */
+.cih-sample-modes {display:flex;gap:8px;flex-wrap:wrap;}
+.audit-controls .cih-sample-modes button {max-width:none;min-height:44px;padding:8px 16px;}
+.cih-sample-modes button[aria-pressed=true] {background:var(--accent-wash);border-color:var(--accent-ink);color:var(--accent-ink);font-weight:600;}
+.cih-sample-modes button:hover {background:var(--accent-wash);}
+.cih-sample-grid {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px;}
+.cih-sample-panel {min-width:0;padding:16px;border:1px solid var(--border);border-radius:5px;background:var(--surface);}
+.cih-sample-panel h4 {font-size:19px;font-weight:600;}
+.cih-sample-panel .audit-controls {justify-content:space-between;}
+.cih-sample-panel .audit-table {min-width:540px;font-size:16px;}
+.cih-sample-panel .audit-table th,.cih-sample-panel .audit-table td {padding:10px;}
+.cih-sample-panel .cih-sample-value {font-variant-numeric:tabular-nums;}
+.cih-sample-panel .cih-sample-emphasis {font-size:20px;font-weight:600;color:var(--metric-red);}
+.cih-sample-modes button:focus-visible,.cih-sample-panel .audit-table-wrap:focus-visible {outline:2px solid var(--accent-ink);outline-offset:2px;}
+@media(max-width:900px){.cih-sample-grid {grid-template-columns:1fr;}}
+.release-grid article {border:1px solid #c5d6d8;border-top:3px solid var(--accent-mist);border-radius:4px;background:#ffffffeb;}.release-grid h3 {border-bottom:1px solid #c5d6d8;padding-bottom:10px;}
+.delta-up {color:var(--trend-up)!important;}.delta-down {color:var(--trend-down)!important;}
+.src-date {background:var(--accent-ink);border-radius:3px;}.src-card {background:var(--surface);}.src-cmp {color:var(--accent-ink);}.error-box {border:1px solid var(--border);border-radius:5px;}
+/* Map chrome and symbol palette */
+.map-shell {display:grid;grid-template-rows:auto minmax(0,1fr);}.map-shell .view {height:100%;min-height:0;}
+.navbar {border-bottom:1px solid #b6cbce;box-shadow:none;}.navbar .brand {color:var(--ink);font-weight:650;}
+.navbar .brand::before {content:'';display:inline-block;width:30px;height:18px;background:var(--tech-star) center/80px 30px;margin-right:7px;}
+.navbar .tabs button {font-size:15px;border:1px solid #b6cbce;border-radius:3px;color:var(--muted);background:#ffffff;}.navbar .tabs button.active {background:#f1f5f3;color:var(--ink);border-color:#a6905d;}
+.navbar .tabs button:hover {background:#eff4f1;color:var(--ink);}.navbar .stat,.navbar .back {color:var(--muted);}
+.navbar select,#list-view select,#list-view input {border:1px solid #b7cbd0;border-radius:3px;background:#ffffff;color:var(--ink);max-width:100%;}
+.n-tip,.n-hint,#filter-panel,.legend-bar,#loading-splash {border:1px solid #b6cbce;border-radius:5px;background:#ffffffeb;box-shadow:var(--shadow-md);backdrop-filter:blur(14px);}
+.n-tip .btn,.fbtn {background:var(--accent-ink);border:1px solid var(--accent-ink);border-radius:3px;color:#fff;}.fbtn.reset {background:#ffffff;color:#0d9488;border-color:#0d9488;}
+.c-toolbar button {border:1px solid #b7cbd0;border-radius:3px;background:#ffffff;color:var(--ink);}.c-toolbar button.on {background:#f1f5f3;color:#164c57;border-color:#ac925e;}
+.type-chips .chip {border:1px solid #c9ba99;border-radius:3px;}.type-chips .chip.sel {background:#f1f5f3;color:#513f22;border-color:#b39a63;}
+.area-row .ar-val,#filter-panel h3 .tog {color:var(--accent-ink);}.area-row input[type=range] {width:0;min-width:0;flex:1;accent-color:var(--accent-ink);}.area-row .ar-val {min-width:50px;flex:none;}
+#detail-panel {background:#ffffffef;border-left:1px solid #b6cbce;box-shadow:var(--shadow-md);}.dp-hd {background:#f6f9f7;border-bottom:1px solid #b6cbce;}.dp-hd h2,.dp-g .bx .val {color:var(--ink);}
+.dp-g .bx {border:1px solid #c5d6d8;border-radius:3px;background:#ffffff;}.dp-badges .badge,.area-row .ar-tag {border-radius:3px;}
+.dp-note,.dp-g .bx .lbl,.dp-g .bx .unit,.fcount,.card .cd {color:var(--muted);}.lr .tag {background:#397d86;border-radius:3px;}
+.card {border:1px solid #c5d6d8;border-left:4px solid var(--accent-ink);border-radius:4px;background:#ffffffeb;box-shadow:none;}.card:hover {background:#f0f5f2;box-shadow:var(--shadow-sm);transform:none;}
+.card .tt,.cs h3 .badge-count {border-radius:3px;}.card .tt.n {background:#e0f2ef;color:#0d9488;}.card .tt.s {background:#e0f2ef;color:#0d9488;}.card .tt.v {background:#e0f2ef;color:#444444;}.card .cp,.lr .pp {color:var(--accent-ink);}.cs h3 .badge-count {background:#397d86;}
+.metro-station-icon span {background:#4f5953;font-size:14px;}.cluster-bubble {background:#397d86;box-shadow:0 2px 7px #0003;}
+.permit-summary {background:#ffffff;border:2px solid var(--accent-ink);border-radius:5px;color:var(--accent-ink);box-shadow:var(--shadow-sm);}.leaflet-popup-content-wrapper {background:#ffffff;border:1px solid #b6cbce;border-radius:4px;box-shadow:var(--shadow-md);}
+@media(max-width:1100px) {.header {position:relative;padding:14px 20px;}.header-left {gap:10px;}.ranking-art {width:100px;background-size:180px 85px;}.ranking-header-right {gap:15px;}.ranking-summary strong {font-size:24px;}.ranking-summary>div {padding:14px;}.ranking-summary>div::after {display:none;}}
+@media(max-width:700px) {
+ .header {padding:12px 16px;}.header h1 {font-size:22px;letter-spacing:0;}.header .badge {font-size:13px;}.header .tier-legend {gap:9px;}.tier-legend .item,.tier-legend .count {font-size:13px;}
+ .nav-tabs {padding:0 14px;gap:6px;}.nav-tabs button.nav-tab {padding:12px 20px;font-size:16px;}.hub-tabs {padding:15px 12px;gap:7px;}.hub-tabs button {font-size:14px;padding:8px 12px;}
+ .ranking-panel {margin:8px 10px 28px;padding:16px 12px;}.ranking-art {display:none;}.ranking-header {gap:10px;}.ranking-panel h2 {font-size:29px;letter-spacing:1px;}.ranking-header p {font-size:14px;}.ranking-eyebrow {font-size:12px;letter-spacing:1px;}
+ .ranking-period {padding-left:10px;}.ranking-period strong {font-size:21px;}.ranking-period span {font-size:12px;}.ranking-header-right {align-self:center;}
+ .ranking-category {gap:5px;grid-template-columns:1.25fr 1fr 1fr;}.ranking-category button {padding:12px 8px;}.ranking-category button strong {font-size:16px;letter-spacing:0;}.ranking-category button span {font-size:12px;}.ranking-category button::after {display:none;}
+ .ranking-toolbar {gap:12px 8px;}.ranking-toolbar label {font-size:14px;}.ranking-toolbar select,.ranking-toolbar input {font-size:16px;padding:0 8px;}
+ .ranking-summary>div {padding:12px 10px;}.ranking-summary strong {font-size:22px;}.ranking-summary small {font-size:12px;}.ranking-summary span {font-size:13px;}.ranking-summary>div:last-child {border-top:1px solid var(--border);padding:12px 10px;}
+ .ranking-table-heading {flex-wrap:wrap;}.ranking-footer {font-size:14px;}
+ .navbar {flex-wrap:wrap;gap:6px;}.navbar .stat {margin-left:0;}.navbar select {max-width:170px;}.navbar .tabs button {padding:6px 8px;font-size:14px;}
+ .map-shell #filter-panel {width:210px;}.map-shell .legend-bar {max-width:calc(100% - 20px);flex-wrap:wrap;font-size:12px;}
+}
+@supports not (backdrop-filter:blur(1px)) {.header,.nav-tabs,.ranking-panel,.information-hub .audit-page,.information-hub .main {background:#ffffff;}}
+@media(prefers-reduced-motion:reduce) {*,*::before,*::after {scroll-behavior:auto!important;transition:none!important;animation-duration:.01ms!important;animation-iteration-count:1!important;}}
+@media print {.title-cut,.ranking-panel h2,.audit-page>h2,.report h2 {mask-image:none;-webkit-mask-image:none;}body::before,body::after {display:none;}}
+
+.ranking-jump {font-size:14px;color:var(--accent-ink);margin-left:12px;white-space:nowrap;text-underline-offset:4px;}
+#city-price-table {scroll-margin-top:110px;}
+@media(max-width:1100px) {#city-price-table {scroll-margin-top:18px;}}
+
+/* Semantic emphasis: red is reserved for specified financial values. */
+h1,h2,h3,.title-cut {font-family:var(--font-heading);}
+body,button,input,select,textarea,table,h1,h2,h3,.ranking-eyebrow,.ranking-category button strong,.ranking-summary strong,.ranking-summary span,.ranking-toolbar label,.ranking-panel .audit-table th {letter-spacing:0!important;}
+.ranking-panel h2 {font-size:48px;}
+@media(max-width:700px) {.ranking-panel h2 {font-size:29px;}}
+button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible,
+.ranking-panel button:focus-visible,.ranking-panel input:focus-visible,.ranking-panel select:focus-visible {outline:2px solid var(--tech-blue);outline-offset:3px;}
+tr[data-tier='S'] .rank-city-link,tr[data-tier='S'] .ranking-tier {color:var(--trend-up);border-color:var(--trend-up);}
+.ranking-panel tr[data-tier='S'] .price-emphasis,.city-analysis[data-tier='S'] .price-emphasis {color:var(--trend-up);}
+.metric-red {color:var(--metric-red)!important;}
+
+/* Bright edges frame the frosted backdrop; text and table surfaces stay sharp. */
+.ranking-panel,.chart-card,.detail-panel {border-color:var(--glass-edge);outline:1px solid rgba(81,92,87,.17);}
+.header,.nav-tabs,.navbar {box-shadow:inset 0 1px 0 var(--glass-edge),0 5px 20px rgba(49,58,54,.06);}
+.information-hub .audit-page:not(.ranking-panel),.information-hub .main {border-top-color:var(--glass-edge);box-shadow:inset 0 1px 0 #fff;}
+.map-shell #filter-panel,.map-shell #detail-panel,.map-shell .legend-bar,.map-shell .n-hint,.map-shell .water-info {
+ background:var(--glass-glaze),var(--surface);backdrop-filter:var(--glass-filter);-webkit-backdrop-filter:var(--glass-filter);box-shadow:var(--glass-shadow);border-color:var(--glass-edge);
+}
+@media(max-width:700px) {:root {--surface:rgba(248,249,249,.72);--glass-filter:blur(26px) saturate(1.15) brightness(1.03);}body::before {background-position:70% bottom;}}
+@supports not ((backdrop-filter:blur(1px)) or (-webkit-backdrop-filter:blur(1px))) {
+ :root {--surface:#fff;--glass-glaze:none;}
+}
+@media print {:root {--surface:#fff;--glass-glaze:none;--glass-filter:none;}}
+
+/* Cold paper surfaces replace bright white and beige without tinting data colors. */
+.ranking-panel .audit-table,.audit-table {background:var(--paper);}
+.ranking-panel .audit-table th,.audit-table th,.ranking-panel .audit-table th:nth-child(2) {background:#eaf0f1;color:var(--line);border-bottom-color:#b8cccf;}
+.ranking-panel .audit-table tbody tr:nth-child(even),.ranking-panel .ranking-city {background:#f0f4f4;}
+.ranking-panel .audit-table tbody tr:hover,.audit-table tbody tr:hover {background:#e6eff0;}
+.ranking-summary {background:rgba(248,249,249,.8);}
+.ranking-toolbar select,.ranking-toolbar input,.audit-controls select,.audit-controls input,.search-input,
+.navbar select,#list-view select,#list-view input,.city-analysis-controls select {background:var(--paper);color:var(--ink);}
+.stat-item,.report-stats .stat-item,.release-grid article {background:rgba(248,249,249,.9);}
+.header .badge,.header .badge.orange {background:rgba(248,249,249,.75);color:var(--muted);border-color:var(--border);}
+.ranking-action,.ranking-eyebrow,.ranking-jump,.ranking-footer summary {color:var(--accent-ink);}
+.ranking-toolbar input:focus,.ranking-toolbar select:focus {border-color:var(--tech-blue);box-shadow:0 0 0 3px var(--tech-glow);}
+
+/* 2026-10-11 small polish: softer radius/shadow, ink-aligned leftovers, quieter chrome. */
+.header .badge,.hub-tabs button,.ranking-action,.ranking-source-tag,.ranking-panel .ranking-scroll,
+.navbar .tabs button,.navbar select,#list-view select,#list-view input,.n-tip .btn,.fbtn,
+.c-toolbar button,.type-chips .chip,.dp-g .bx,.dp-badges .badge,.area-row .ar-tag,.card .tt,
+.cs h3 .badge-count,.lr .tag,.policy-chip,.src-date {border-radius:7px;}
+.ranking-category button {border-radius:8px;}
+.ranking-panel {border-radius:10px;}
+.chart-card,.detail-panel,.map-legend,.map-detail,.src-card,.cih-sample-panel,.error-box,
+.n-tip,.n-hint,#filter-panel,.legend-bar,#loading-splash,.permit-summary {border-radius:9px;}
+.stat-item,.report-stats .stat-item,.release-grid article,.card {border-radius:8px;}
+.hub-metrics>div {border-radius:8px;}
+.leaflet-popup-content-wrapper {border-radius:8px;}
+.header,.nav-tabs,.navbar {box-shadow:inset 0 1px 0 var(--glass-edge),0 4px 16px rgba(49,58,54,.05);}
+.ranking-panel,.chart-card,.detail-panel {box-shadow:var(--shadow-sm);}
+.brand-mark {opacity:.88;}
+.ranking-art {opacity:.9;filter:drop-shadow(0 0 3px var(--tech-glow));}
+
+/* 中国市场：涨红跌绿（MoM/YoY/KPI/delta） */
+.delta-up,.stat-value.up,.city-change.up,.up-t {color:var(--trend-up)!important;}
+.delta-down,.stat-value.down,.city-change.down,.down-t {color:var(--trend-down)!important;}
+.city-kpis strong.delta-up,.hub-metrics strong.delta-up,.ranking-summary .delta-up {color:var(--trend-up)!important;}
+.city-kpis strong.delta-down,.hub-metrics strong.delta-down,.ranking-summary .delta-down {color:var(--trend-down)!important;}

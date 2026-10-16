@@ -1,0 +1,16 @@
+# 数据文件短缓存:更新后访客尽快拿到新数据
+/
+  Cache-Control: public, max-age=0, must-revalidate
+
+/index.html
+  Cache-Control: public, max-age=0, must-revalidate
+
+/intersection_housing_data.json
+  Cache-Control: public, max-age=300
+
+/update_status.json
+  Cache-Control: public, max-age=300
+
+# 静态资源长缓存(文件名带内容哈希的场景少,先给 1 天)
+/assets/*
+  Cache-Control: public, max-age=86400

@@ -1,0 +1,2 @@
+# Main dashboard build and updater dependencies.
+-r requirements-update.txt

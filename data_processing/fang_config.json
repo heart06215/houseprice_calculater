@@ -1,0 +1,14 @@
+{
+  "cities": ["北京", "上海"],
+  "interval_seconds": 30,
+  "jitter_seconds": 5,
+  "max_pages": 12,
+  "daily_request_limit": 60,
+  "max_frontier_jobs": 50000,
+  "catalog_refresh_days": 30,
+  "detail_refresh_days": 7,
+  "block_cooldown_hours": 24,
+  "max_response_bytes": 5242880,
+  "price_stale_days": 60,
+  "user_agent": "70CityHousingResearch/2.0 (public community reference data)"
+}

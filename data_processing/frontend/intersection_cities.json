@@ -1,0 +1,1326 @@
+{
+  "meta": {
+    "description": "安居客(626城) ∩ 统计局70城 交集城市列表",
+    "stats_count": 70,
+    "anjuke_mapped_count": 71,
+    "intersection_count": 70,
+    "crawled_count": 70,
+    "not_crawled_count": 0,
+    "anjuke_total_cities": 626
+  },
+  "cities": [
+    {
+      "city": "北京",
+      "map_name": "北京",
+      "tier": "S",
+      "tier_name": "顶级",
+      "color": "#FF4B4B",
+      "lat": 39.9042,
+      "lon": 116.4074,
+      "anjuke_slug": "beijing",
+      "province": "北京"
+    },
+    {
+      "city": "上海",
+      "map_name": "上海",
+      "tier": "S",
+      "tier_name": "顶级",
+      "color": "#FF4B4B",
+      "lat": 31.2304,
+      "lon": 121.4737,
+      "anjuke_slug": "shanghai",
+      "province": "上海"
+    },
+    {
+      "city": "深圳",
+      "map_name": "深圳",
+      "tier": "S",
+      "tier_name": "顶级",
+      "color": "#FF4B4B",
+      "lat": 22.5431,
+      "lon": 114.0579,
+      "anjuke_slug": "shenzhen",
+      "province": "广东"
+    },
+    {
+      "city": "天津",
+      "map_name": "天津",
+      "tier": "1",
+      "tier_name": "一线",
+      "color": "#FF9F43",
+      "lat": 39.3434,
+      "lon": 117.3616,
+      "anjuke_slug": "tianjin",
+      "province": "天津"
+    },
+    {
+      "city": "南京",
+      "map_name": "南京",
+      "tier": "1",
+      "tier_name": "一线",
+      "color": "#FF9F43",
+      "lat": 32.0603,
+      "lon": 118.7969,
+      "anjuke_slug": "nanjing",
+      "province": "江苏"
+    },
+    {
+      "city": "武汉",
+      "map_name": "武汉",
+      "tier": "1",
+      "tier_name": "一线",
+      "color": "#FF9F43",
+      "lat": 30.5928,
+      "lon": 114.3055,
+      "anjuke_slug": "wuhan",
+      "province": "湖北"
+    },
+    {
+      "city": "成都",
+      "map_name": "成都",
+      "tier": "1",
+      "tier_name": "一线",
+      "color": "#FF9F43",
+      "lat": 30.5728,
+      "lon": 104.0668,
+      "anjuke_slug": "chengdu",
+      "province": "四川"
+    },
+    {
+      "city": "杭州",
+      "map_name": "杭州",
+      "tier": "1",
+      "tier_name": "一线",
+      "color": "#FF9F43",
+      "lat": 30.2741,
+      "lon": 120.1551,
+      "anjuke_slug": "hangzhou",
+      "province": "浙江"
+    },
+    {
+      "city": "重庆",
+      "map_name": "重庆",
+      "tier": "1",
+      "tier_name": "一线",
+      "color": "#FF9F43",
+      "lat": 29.4316,
+      "lon": 106.9123,
+      "anjuke_slug": "chongqing",
+      "province": "重庆"
+    },
+    {
+      "city": "厦门",
+      "map_name": "厦门",
+      "tier": "1",
+      "tier_name": "一线",
+      "color": "#FF9F43",
+      "lat": 24.4798,
+      "lon": 118.0894,
+      "anjuke_slug": "xiamen",
+      "province": "福建"
+    },
+    {
+      "city": "广州",
+      "map_name": "广州",
+      "tier": "1",
+      "tier_name": "一线",
+      "color": "#FF9F43",
+      "lat": 23.1291,
+      "lon": 113.2644,
+      "anjuke_slug": "guangzhou",
+      "province": "广东"
+    },
+    {
+      "city": "哈尔滨",
+      "map_name": "哈尔滨",
+      "tier": "2",
+      "tier_name": "二线",
+      "color": "#54A0FF",
+      "lat": 45.8038,
+      "lon": 126.535,
+      "anjuke_slug": "haerbin",
+      "province": "黑龙江"
+    },
+    {
+      "city": "乌鲁木齐",
+      "map_name": "乌鲁木齐",
+      "tier": "2",
+      "tier_name": "二线",
+      "color": "#54A0FF",
+      "lat": 43.8256,
+      "lon": 87.6168,
+      "anjuke_slug": "wulumuqi",
+      "province": "新疆"
+    },
+    {
+      "city": "长春",
+      "map_name": "长春",
+      "tier": "2",
+      "tier_name": "二线",
+      "color": "#54A0FF",
+      "lat": 43.8171,
+      "lon": 125.3235,
+      "anjuke_slug": "changchun",
+      "province": "吉林"
+    },
+    {
+      "city": "沈阳",
+      "map_name": "沈阳",
+      "tier": "2",
+      "tier_name": "二线",
+      "color": "#54A0FF",
+      "lat": 41.8057,
+      "lon": 123.4315,
+      "anjuke_slug": "shenyang",
+      "province": "辽宁"
+    },
+    {
+      "city": "呼和浩特",
+      "map_name": "呼和浩特",
+      "tier": "2",
+      "tier_name": "二线",
+      "color": "#54A0FF",
+      "lat": 40.8427,
+      "lon": 111.749,
+      "anjuke_slug": "huhehaote",
+      "province": "内蒙古"
+    },
+    {
+      "city": "大连",
+      "map_name": "大连",
+      "tier": "2",
+      "tier_name": "二线",
+      "color": "#54A0FF",
+      "lat": 38.914,
+      "lon": 121.6147,
+      "anjuke_slug": "dalian",
+      "province": "辽宁"
+    },
+    {
+      "city": "银川",
+      "map_name": "银川",
+      "tier": "2",
+      "tier_name": "二线",
+      "color": "#54A0FF",
+      "lat": 38.4872,
+      "lon": 106.2309,
+      "anjuke_slug": "yinchuan",
+      "province": "宁夏"
+    },
+    {
+      "city": "石家庄",
+      "map_name": "石家庄",
+      "tier": "2",
+      "tier_name": "二线",
+      "color": "#54A0FF",
+      "lat": 38.0428,
+      "lon": 114.5149,
+      "anjuke_slug": "shijiazhuang",
+      "province": "河北"
+    },
+    {
+      "city": "太原",
+      "map_name": "太原",
+      "tier": "2",
+      "tier_name": "二线",
+      "color": "#54A0FF",
+      "lat": 37.8706,
+      "lon": 112.5489,
+      "anjuke_slug": "taiyuan",
+      "province": "山西"
+    },
+    {
+      "city": "济南",
+      "map_name": "济南",
+      "tier": "2",
+      "tier_name": "二线",
+      "color": "#54A0FF",
+      "lat": 36.6512,
+      "lon": 116.9972,
+      "anjuke_slug": "jinan",
+      "province": "山东"
+    },
+    {
+      "city": "西宁",
+      "map_name": "西宁",
+      "tier": "2",
+      "tier_name": "二线",
+      "color": "#54A0FF",
+      "lat": 36.6171,
+      "lon": 101.7782,
+      "anjuke_slug": "xining",
+      "province": "青海"
+    },
+    {
+      "city": "青岛",
+      "map_name": "青岛",
+      "tier": "2",
+      "tier_name": "二线",
+      "color": "#54A0FF",
+      "lat": 36.0671,
+      "lon": 120.3826,
+      "anjuke_slug": "qingdao",
+      "province": "山东"
+    },
+    {
+      "city": "兰州",
+      "map_name": "兰州",
+      "tier": "2",
+      "tier_name": "二线",
+      "color": "#54A0FF",
+      "lat": 36.0611,
+      "lon": 103.8343,
+      "anjuke_slug": "lanzhou",
+      "province": "甘肃"
+    },
+    {
+      "city": "郑州",
+      "map_name": "郑州",
+      "tier": "2",
+      "tier_name": "二线",
+      "color": "#54A0FF",
+      "lat": 34.7466,
+      "lon": 113.6253,
+      "anjuke_slug": "zhengzhou",
+      "province": "河南"
+    },
+    {
+      "city": "西安",
+      "map_name": "西安",
+      "tier": "2",
+      "tier_name": "二线",
+      "color": "#54A0FF",
+      "lat": 34.3416,
+      "lon": 108.9398,
+      "anjuke_slug": "xian",
+      "province": "陕西",
+      "subdomain": "xa"
+    },
+    {
+      "city": "合肥",
+      "map_name": "合肥",
+      "tier": "2",
+      "tier_name": "二线",
+      "color": "#54A0FF",
+      "lat": 31.8206,
+      "lon": 117.2272,
+      "anjuke_slug": "hefei",
+      "province": "安徽"
+    },
+    {
+      "city": "无锡",
+      "map_name": "无锡",
+      "tier": "2",
+      "tier_name": "二线",
+      "color": "#54A0FF",
+      "lat": 31.4912,
+      "lon": 120.3119,
+      "anjuke_slug": "wuxi",
+      "province": "江苏"
+    },
+    {
+      "city": "宁波",
+      "map_name": "宁波",
+      "tier": "2",
+      "tier_name": "二线",
+      "color": "#54A0FF",
+      "lat": 29.8683,
+      "lon": 121.544,
+      "anjuke_slug": "ningbo",
+      "province": "浙江"
+    },
+    {
+      "city": "南昌",
+      "map_name": "南昌",
+      "tier": "2",
+      "tier_name": "二线",
+      "color": "#54A0FF",
+      "lat": 28.682,
+      "lon": 115.8579,
+      "anjuke_slug": "nanchang",
+      "province": "江西"
+    },
+    {
+      "city": "长沙",
+      "map_name": "长沙",
+      "tier": "2",
+      "tier_name": "二线",
+      "color": "#54A0FF",
+      "lat": 28.2282,
+      "lon": 112.9388,
+      "anjuke_slug": "changsha",
+      "province": "湖南"
+    },
+    {
+      "city": "贵阳",
+      "map_name": "贵阳",
+      "tier": "2",
+      "tier_name": "二线",
+      "color": "#54A0FF",
+      "lat": 26.647,
+      "lon": 106.6302,
+      "anjuke_slug": "guiyang",
+      "province": "贵州"
+    },
+    {
+      "city": "福州",
+      "map_name": "福州",
+      "tier": "2",
+      "tier_name": "二线",
+      "color": "#54A0FF",
+      "lat": 26.0745,
+      "lon": 119.2965,
+      "anjuke_slug": "fuzhou",
+      "province": "福建"
+    },
+    {
+      "city": "昆明",
+      "map_name": "昆明",
+      "tier": "2",
+      "tier_name": "二线",
+      "color": "#54A0FF",
+      "lat": 25.0389,
+      "lon": 102.7183,
+      "anjuke_slug": "kunming",
+      "province": "云南"
+    },
+    {
+      "city": "南宁",
+      "map_name": "南宁",
+      "tier": "2",
+      "tier_name": "二线",
+      "color": "#54A0FF",
+      "lat": 22.817,
+      "lon": 108.3665,
+      "anjuke_slug": "nanning",
+      "province": "广西"
+    },
+    {
+      "city": "海口",
+      "map_name": "海口",
+      "tier": "2",
+      "tier_name": "二线",
+      "color": "#54A0FF",
+      "lat": 20.0174,
+      "lon": 110.3492,
+      "anjuke_slug": "haikou",
+      "province": "海南"
+    },
+    {
+      "city": "牡丹江",
+      "map_name": "牡丹江",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 44.552,
+      "lon": 129.632,
+      "anjuke_slug": "mudanjiang",
+      "province": "黑龙江"
+    },
+    {
+      "city": "吉林",
+      "map_name": "吉林",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 43.8378,
+      "lon": 126.5497,
+      "anjuke_slug": "jilin",
+      "province": "吉林"
+    },
+    {
+      "city": "锦州",
+      "map_name": "锦州",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 41.114,
+      "lon": 121.127,
+      "anjuke_slug": "jinzhou",
+      "province": "辽宁"
+    },
+    {
+      "city": "包头",
+      "map_name": "包头",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 40.6571,
+      "lon": 109.8403,
+      "anjuke_slug": "baotou",
+      "province": "内蒙古"
+    },
+    {
+      "city": "丹东",
+      "map_name": "丹东",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 40.0006,
+      "lon": 124.354,
+      "anjuke_slug": "dandong",
+      "province": "辽宁"
+    },
+    {
+      "city": "秦皇岛",
+      "map_name": "秦皇岛",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 39.9354,
+      "lon": 119.5994,
+      "anjuke_slug": "qinhuangdao",
+      "province": "河北"
+    },
+    {
+      "city": "唐山",
+      "map_name": "唐山",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 39.6309,
+      "lon": 118.1802,
+      "anjuke_slug": "tangshan",
+      "province": "河北"
+    },
+    {
+      "city": "烟台",
+      "map_name": "烟台",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 37.4638,
+      "lon": 121.4479,
+      "anjuke_slug": "yantai",
+      "province": "山东"
+    },
+    {
+      "city": "济宁",
+      "map_name": "济宁",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 35.4146,
+      "lon": 116.5871,
+      "anjuke_slug": "jining",
+      "province": "山东"
+    },
+    {
+      "city": "洛阳",
+      "map_name": "洛阳",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 34.6197,
+      "lon": 112.454,
+      "anjuke_slug": "luoyang",
+      "province": "河南"
+    },
+    {
+      "city": "徐州",
+      "map_name": "徐州",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 34.2616,
+      "lon": 117.1846,
+      "anjuke_slug": "xuzhou",
+      "province": "江苏"
+    },
+    {
+      "city": "平顶山",
+      "map_name": "平顶山",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 33.7662,
+      "lon": 113.1927,
+      "anjuke_slug": "pingdingshan",
+      "province": "河南"
+    },
+    {
+      "city": "蚌埠",
+      "map_name": "蚌埠",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 32.917,
+      "lon": 117.3889,
+      "anjuke_slug": "bengbu",
+      "province": "安徽"
+    },
+    {
+      "city": "扬州",
+      "map_name": "扬州",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 32.3943,
+      "lon": 119.4128,
+      "anjuke_slug": "yangzhou",
+      "province": "江苏"
+    },
+    {
+      "city": "襄阳",
+      "map_name": "襄阳",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 32.009,
+      "lon": 112.1232,
+      "anjuke_slug": "xiangyang",
+      "province": "湖北"
+    },
+    {
+      "city": "南充",
+      "map_name": "南充",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 30.8378,
+      "lon": 106.1107,
+      "anjuke_slug": "nanchong",
+      "province": "四川"
+    },
+    {
+      "city": "宜昌",
+      "map_name": "宜昌",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 30.6918,
+      "lon": 111.2864,
+      "anjuke_slug": "yichang",
+      "province": "湖北"
+    },
+    {
+      "city": "安庆",
+      "map_name": "安庆",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 30.543,
+      "lon": 117.0631,
+      "anjuke_slug": "anqing",
+      "province": "安徽"
+    },
+    {
+      "city": "九江",
+      "map_name": "九江",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 29.7053,
+      "lon": 116.002,
+      "anjuke_slug": "jiujiang",
+      "province": "江西"
+    },
+    {
+      "city": "岳阳",
+      "map_name": "岳阳",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 29.3562,
+      "lon": 113.129,
+      "anjuke_slug": "yueyang",
+      "province": "湖南"
+    },
+    {
+      "city": "金华",
+      "map_name": "金华",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 29.0785,
+      "lon": 119.6498,
+      "anjuke_slug": "jinhua",
+      "province": "浙江"
+    },
+    {
+      "city": "常德",
+      "map_name": "常德",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 29.0318,
+      "lon": 111.6983,
+      "anjuke_slug": "changde",
+      "province": "湖南"
+    },
+    {
+      "city": "泸州",
+      "map_name": "泸州",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 28.8717,
+      "lon": 105.4425,
+      "anjuke_slug": "luzhou",
+      "province": "四川"
+    },
+    {
+      "city": "温州",
+      "map_name": "温州",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 28.0006,
+      "lon": 120.672,
+      "anjuke_slug": "wenzhou",
+      "province": "浙江"
+    },
+    {
+      "city": "遵义",
+      "map_name": "遵义",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 27.7256,
+      "lon": 106.9274,
+      "anjuke_slug": "zunyi",
+      "province": "贵州"
+    },
+    {
+      "city": "赣州",
+      "map_name": "赣州",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 25.831,
+      "lon": 114.933,
+      "anjuke_slug": "ganzhou",
+      "province": "江西"
+    },
+    {
+      "city": "大理",
+      "map_name": "大理",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 25.6065,
+      "lon": 100.2679,
+      "anjuke_slug": "dali",
+      "province": "云南"
+    },
+    {
+      "city": "桂林",
+      "map_name": "桂林",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 25.274,
+      "lon": 110.29,
+      "anjuke_slug": "guilin",
+      "province": "广西"
+    },
+    {
+      "city": "泉州",
+      "map_name": "泉州",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 24.8741,
+      "lon": 118.6758,
+      "anjuke_slug": "quanzhou",
+      "province": "福建"
+    },
+    {
+      "city": "韶关",
+      "map_name": "韶关",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 24.8107,
+      "lon": 113.5975,
+      "anjuke_slug": "shaoguan",
+      "province": "广东"
+    },
+    {
+      "city": "惠州",
+      "map_name": "惠州",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 23.1116,
+      "lon": 114.416,
+      "anjuke_slug": "huizhou",
+      "province": "广东"
+    },
+    {
+      "city": "北海",
+      "map_name": "北海",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 21.481,
+      "lon": 109.12,
+      "anjuke_slug": "beihai",
+      "province": "广西"
+    },
+    {
+      "city": "湛江",
+      "map_name": "湛江",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 21.2707,
+      "lon": 110.3594,
+      "anjuke_slug": "zhanjiang",
+      "province": "广东"
+    },
+    {
+      "city": "三亚",
+      "map_name": "三亚",
+      "tier": "3",
+      "tier_name": "三线",
+      "color": "#5F27CD",
+      "lat": 18.2528,
+      "lon": 109.512,
+      "anjuke_slug": "sanya",
+      "province": "海南"
+    }
+  ],
+  "province_tree": {
+    "北京": {
+      "province_slug": "beijing",
+      "cities": [
+        {
+          "city": "北京",
+          "anjuke_slug": "beijing",
+          "tier": "S"
+        }
+      ]
+    },
+    "上海": {
+      "province_slug": "shanghai",
+      "cities": [
+        {
+          "city": "上海",
+          "anjuke_slug": "shanghai",
+          "tier": "S"
+        }
+      ]
+    },
+    "广东": {
+      "province_slug": "guangdong",
+      "cities": [
+        {
+          "city": "广州",
+          "anjuke_slug": "guangzhou",
+          "tier": "1"
+        },
+        {
+          "city": "惠州",
+          "anjuke_slug": "huizhou",
+          "tier": "3"
+        },
+        {
+          "city": "深圳",
+          "anjuke_slug": "shenzhen",
+          "tier": "S"
+        },
+        {
+          "city": "湛江",
+          "anjuke_slug": "zhanjiang",
+          "tier": "3"
+        },
+        {
+          "city": "韶关",
+          "anjuke_slug": "shaoguan",
+          "tier": "3"
+        }
+      ]
+    },
+    "浙江": {
+      "province_slug": "zhejiang",
+      "cities": [
+        {
+          "city": "宁波",
+          "anjuke_slug": "ningbo",
+          "tier": "2"
+        },
+        {
+          "city": "杭州",
+          "anjuke_slug": "hangzhou",
+          "tier": "1"
+        },
+        {
+          "city": "温州",
+          "anjuke_slug": "wenzhou",
+          "tier": "3"
+        },
+        {
+          "city": "金华",
+          "anjuke_slug": "jinhua",
+          "tier": "3"
+        }
+      ]
+    },
+    "江苏": {
+      "province_slug": "jiangsu",
+      "cities": [
+        {
+          "city": "南京",
+          "anjuke_slug": "nanjing",
+          "tier": "1"
+        },
+        {
+          "city": "徐州",
+          "anjuke_slug": "xuzhou",
+          "tier": "3"
+        },
+        {
+          "city": "扬州",
+          "anjuke_slug": "yangzhou",
+          "tier": "3"
+        },
+        {
+          "city": "无锡",
+          "anjuke_slug": "wuxi",
+          "tier": "2"
+        }
+      ]
+    },
+    "湖北": {
+      "province_slug": "hubei",
+      "cities": [
+        {
+          "city": "宜昌",
+          "anjuke_slug": "yichang",
+          "tier": "3"
+        },
+        {
+          "city": "武汉",
+          "anjuke_slug": "wuhan",
+          "tier": "1"
+        },
+        {
+          "city": "襄阳",
+          "anjuke_slug": "xiangyang",
+          "tier": "3"
+        }
+      ]
+    },
+    "天津": {
+      "province_slug": "tianjin",
+      "cities": [
+        {
+          "city": "天津",
+          "anjuke_slug": "tianjin",
+          "tier": "1"
+        }
+      ]
+    },
+    "福建": {
+      "province_slug": "fujian",
+      "cities": [
+        {
+          "city": "厦门",
+          "anjuke_slug": "xiamen",
+          "tier": "1"
+        },
+        {
+          "city": "泉州",
+          "anjuke_slug": "quanzhou",
+          "tier": "3"
+        },
+        {
+          "city": "福州",
+          "anjuke_slug": "fuzhou",
+          "tier": "2"
+        }
+      ]
+    },
+    "四川": {
+      "province_slug": "sichuan",
+      "cities": [
+        {
+          "city": "南充",
+          "anjuke_slug": "nanchong",
+          "tier": "3"
+        },
+        {
+          "city": "成都",
+          "anjuke_slug": "chengdu",
+          "tier": "1"
+        },
+        {
+          "city": "泸州",
+          "anjuke_slug": "luzhou",
+          "tier": "3"
+        }
+      ]
+    },
+    "重庆": {
+      "province_slug": "chongqing",
+      "cities": [
+        {
+          "city": "重庆",
+          "anjuke_slug": "chongqing",
+          "tier": "1"
+        }
+      ]
+    },
+    "陕西": {
+      "province_slug": "shaanxi",
+      "cities": [
+        {
+          "city": "西安",
+          "anjuke_slug": "xian",
+          "tier": "2"
+        }
+      ]
+    },
+    "湖南": {
+      "province_slug": "hunan",
+      "cities": [
+        {
+          "city": "岳阳",
+          "anjuke_slug": "yueyang",
+          "tier": "3"
+        },
+        {
+          "city": "常德",
+          "anjuke_slug": "changde",
+          "tier": "3"
+        },
+        {
+          "city": "长沙",
+          "anjuke_slug": "changsha",
+          "tier": "2"
+        }
+      ]
+    },
+    "河南": {
+      "province_slug": "henan",
+      "cities": [
+        {
+          "city": "平顶山",
+          "anjuke_slug": "pingdingshan",
+          "tier": "3"
+        },
+        {
+          "city": "洛阳",
+          "anjuke_slug": "luoyang",
+          "tier": "3"
+        },
+        {
+          "city": "郑州",
+          "anjuke_slug": "zhengzhou",
+          "tier": "2"
+        }
+      ]
+    },
+    "山东": {
+      "province_slug": "shandong",
+      "cities": [
+        {
+          "city": "济南",
+          "anjuke_slug": "jinan",
+          "tier": "2"
+        },
+        {
+          "city": "济宁",
+          "anjuke_slug": "jining",
+          "tier": "3"
+        },
+        {
+          "city": "烟台",
+          "anjuke_slug": "yantai",
+          "tier": "3"
+        },
+        {
+          "city": "青岛",
+          "anjuke_slug": "qingdao",
+          "tier": "2"
+        }
+      ]
+    },
+    "辽宁": {
+      "province_slug": "liaoning",
+      "cities": [
+        {
+          "city": "丹东",
+          "anjuke_slug": "dandong",
+          "tier": "3"
+        },
+        {
+          "city": "大连",
+          "anjuke_slug": "dalian",
+          "tier": "2"
+        },
+        {
+          "city": "沈阳",
+          "anjuke_slug": "shenyang",
+          "tier": "2"
+        },
+        {
+          "city": "锦州",
+          "anjuke_slug": "jinzhou",
+          "tier": "3"
+        }
+      ]
+    },
+    "安徽": {
+      "province_slug": "anhui",
+      "cities": [
+        {
+          "city": "合肥",
+          "anjuke_slug": "hefei",
+          "tier": "2"
+        },
+        {
+          "city": "安庆",
+          "anjuke_slug": "anqing",
+          "tier": "3"
+        },
+        {
+          "city": "蚌埠",
+          "anjuke_slug": "bengbu",
+          "tier": "3"
+        }
+      ]
+    },
+    "云南": {
+      "province_slug": "yunnan",
+      "cities": [
+        {
+          "city": "大理",
+          "anjuke_slug": "dali",
+          "tier": "3"
+        },
+        {
+          "city": "昆明",
+          "anjuke_slug": "kunming",
+          "tier": "2"
+        }
+      ]
+    },
+    "广西": {
+      "province_slug": "guangxi",
+      "cities": [
+        {
+          "city": "北海",
+          "anjuke_slug": "beihai",
+          "tier": "3"
+        },
+        {
+          "city": "南宁",
+          "anjuke_slug": "nanning",
+          "tier": "2"
+        },
+        {
+          "city": "桂林",
+          "anjuke_slug": "guilin",
+          "tier": "3"
+        }
+      ]
+    },
+    "贵州": {
+      "province_slug": "guizhou",
+      "cities": [
+        {
+          "city": "贵阳",
+          "anjuke_slug": "guiyang",
+          "tier": "2"
+        },
+        {
+          "city": "遵义",
+          "anjuke_slug": "zunyi",
+          "tier": "3"
+        }
+      ]
+    },
+    "江西": {
+      "province_slug": "jiangxi",
+      "cities": [
+        {
+          "city": "九江",
+          "anjuke_slug": "jiujiang",
+          "tier": "3"
+        },
+        {
+          "city": "南昌",
+          "anjuke_slug": "nanchang",
+          "tier": "2"
+        },
+        {
+          "city": "赣州",
+          "anjuke_slug": "ganzhou",
+          "tier": "3"
+        }
+      ]
+    },
+    "山西": {
+      "province_slug": "shanxi",
+      "cities": [
+        {
+          "city": "太原",
+          "anjuke_slug": "taiyuan",
+          "tier": "2"
+        }
+      ]
+    },
+    "河北": {
+      "province_slug": "hebei",
+      "cities": [
+        {
+          "city": "唐山",
+          "anjuke_slug": "tangshan",
+          "tier": "3"
+        },
+        {
+          "city": "石家庄",
+          "anjuke_slug": "shijiazhuang",
+          "tier": "2"
+        },
+        {
+          "city": "秦皇岛",
+          "anjuke_slug": "qinhuangdao",
+          "tier": "3"
+        }
+      ]
+    },
+    "黑龙江": {
+      "province_slug": "heilongjiang",
+      "cities": [
+        {
+          "city": "哈尔滨",
+          "anjuke_slug": "haerbin",
+          "tier": "2"
+        },
+        {
+          "city": "牡丹江",
+          "anjuke_slug": "mudanjiang",
+          "tier": "3"
+        }
+      ]
+    },
+    "吉林": {
+      "province_slug": "jilin",
+      "cities": [
+        {
+          "city": "吉林",
+          "anjuke_slug": "jilin",
+          "tier": "3"
+        },
+        {
+          "city": "长春",
+          "anjuke_slug": "changchun",
+          "tier": "2"
+        }
+      ]
+    },
+    "甘肃": {
+      "province_slug": "gansu",
+      "cities": [
+        {
+          "city": "兰州",
+          "anjuke_slug": "lanzhou",
+          "tier": "2"
+        }
+      ]
+    },
+    "内蒙古": {
+      "province_slug": "neimenggu",
+      "cities": [
+        {
+          "city": "包头",
+          "anjuke_slug": "baotou",
+          "tier": "3"
+        },
+        {
+          "city": "呼和浩特",
+          "anjuke_slug": "huhehaote",
+          "tier": "2"
+        }
+      ]
+    },
+    "海南": {
+      "province_slug": "hainan",
+      "cities": [
+        {
+          "city": "三亚",
+          "anjuke_slug": "sanya",
+          "tier": "3"
+        },
+        {
+          "city": "海口",
+          "anjuke_slug": "haikou",
+          "tier": "2"
+        }
+      ]
+    },
+    "宁夏": {
+      "province_slug": "ningxia",
+      "cities": [
+        {
+          "city": "银川",
+          "anjuke_slug": "yinchuan",
+          "tier": "2"
+        }
+      ]
+    },
+    "青海": {
+      "province_slug": "qinghai",
+      "cities": [
+        {
+          "city": "西宁",
+          "anjuke_slug": "xining",
+          "tier": "2"
+        }
+      ]
+    },
+    "新疆": {
+      "province_slug": "xinjiang",
+      "cities": [
+        {
+          "city": "乌鲁木齐",
+          "anjuke_slug": "wulumuqi",
+          "tier": "2"
+        }
+      ]
+    }
+  },
+  "anjuke_province_map": {
+    "anhui": "安徽",
+    "beijing": "北京",
+    "chongqing": "重庆",
+    "fujian": "福建",
+    "gansu": "甘肃",
+    "guangdong": "广东",
+    "guangxi": "广西",
+    "guizhou": "贵州",
+    "hainan": "海南",
+    "hebei": "河北",
+    "heilongjiang": "黑龙江",
+    "henan": "河南",
+    "hubei": "湖北",
+    "hunan": "湖南",
+    "jiangsu": "江苏",
+    "jiangxi": "江西",
+    "jilin": "吉林",
+    "liaoning": "辽宁",
+    "neimenggu": "内蒙古",
+    "ningxia": "宁夏",
+    "qinghai": "青海",
+    "shaanxi": "陕西",
+    "shandong": "山东",
+    "shanghai": "上海",
+    "shanxi": "山西",
+    "sichuan": "四川",
+    "tianjin": "天津",
+    "xinjiang": "新疆",
+    "xizang": "西藏",
+    "yunnan": "云南",
+    "zhejiang": "浙江",
+    "yixianchengshi": "直辖市"
+  },
+  "subdomain_cities": {
+    "xian": {
+      "subdomain": "xa",
+      "url_pattern": "xa.anjuke.com/fangjia/xa{year}/"
+    }
+  }
+}

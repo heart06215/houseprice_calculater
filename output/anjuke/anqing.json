@@ -1,0 +1,1242 @@
+[
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2015,
+    "month": 8,
+    "avg_price": 5607,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2015,
+    "month": 9,
+    "avg_price": 5608,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2015,
+    "month": 10,
+    "avg_price": 5567,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2015,
+    "month": 11,
+    "avg_price": 5486,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2015,
+    "month": 12,
+    "avg_price": 5484,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2016,
+    "month": 8,
+    "avg_price": 5364,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2016,
+    "month": 9,
+    "avg_price": 5374,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2016,
+    "month": 10,
+    "avg_price": 5393,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2016,
+    "month": 11,
+    "avg_price": 5377,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2016,
+    "month": 12,
+    "avg_price": 5391,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2017,
+    "month": 8,
+    "avg_price": 6507,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2017,
+    "month": 9,
+    "avg_price": 6658,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2017,
+    "month": 10,
+    "avg_price": 6737,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2017,
+    "month": 11,
+    "avg_price": 6878,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2017,
+    "month": 12,
+    "avg_price": 6979,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2018,
+    "month": 8,
+    "avg_price": 8464,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2018,
+    "month": 9,
+    "avg_price": 8744,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2018,
+    "month": 10,
+    "avg_price": 8808,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2018,
+    "month": 11,
+    "avg_price": 8759,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2018,
+    "month": 12,
+    "avg_price": 8673,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2019,
+    "month": 8,
+    "avg_price": 8559,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2019,
+    "month": 9,
+    "avg_price": 8592,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2019,
+    "month": 10,
+    "avg_price": 8537,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2019,
+    "month": 11,
+    "avg_price": 8527,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2019,
+    "month": 12,
+    "avg_price": 8521,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2020,
+    "month": 8,
+    "avg_price": 8607,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2020,
+    "month": 9,
+    "avg_price": 8575,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2020,
+    "month": 10,
+    "avg_price": 8612,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2020,
+    "month": 11,
+    "avg_price": 8552,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2020,
+    "month": 12,
+    "avg_price": 8523,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2021,
+    "month": 1,
+    "avg_price": 8531,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2021,
+    "month": 2,
+    "avg_price": 8539,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2021,
+    "month": 3,
+    "avg_price": 8573,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2021,
+    "month": 4,
+    "avg_price": 8556,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2021,
+    "month": 5,
+    "avg_price": 8505,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2021,
+    "month": 6,
+    "avg_price": 8395,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2021,
+    "month": 7,
+    "avg_price": 8355,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2021,
+    "month": 8,
+    "avg_price": 8391,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2021,
+    "month": 9,
+    "avg_price": 8375,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2021,
+    "month": 10,
+    "avg_price": 8306,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2021,
+    "month": 11,
+    "avg_price": 8253,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2021,
+    "month": 12,
+    "avg_price": 8131,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2022,
+    "month": 1,
+    "avg_price": 7937,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2022,
+    "month": 2,
+    "avg_price": 7824,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2022,
+    "month": 3,
+    "avg_price": 7707,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2022,
+    "month": 4,
+    "avg_price": 7586,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2022,
+    "month": 5,
+    "avg_price": 7709,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2022,
+    "month": 6,
+    "avg_price": 7651,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2022,
+    "month": 7,
+    "avg_price": 7605,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2022,
+    "month": 8,
+    "avg_price": 7606,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2022,
+    "month": 9,
+    "avg_price": 7520,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2022,
+    "month": 10,
+    "avg_price": 7517,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2022,
+    "month": 11,
+    "avg_price": 7668,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2022,
+    "month": 12,
+    "avg_price": 7552,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2023,
+    "month": 1,
+    "avg_price": 7593,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2023,
+    "month": 2,
+    "avg_price": 7554,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2023,
+    "month": 3,
+    "avg_price": 7464,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2023,
+    "month": 4,
+    "avg_price": 7525,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2023,
+    "month": 5,
+    "avg_price": 7579,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2023,
+    "month": 6,
+    "avg_price": 7645,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2023,
+    "month": 7,
+    "avg_price": 7633,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2023,
+    "month": 8,
+    "avg_price": 7473,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2023,
+    "month": 9,
+    "avg_price": 7357,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2023,
+    "month": 10,
+    "avg_price": 7254,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2023,
+    "month": 11,
+    "avg_price": 7121,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2023,
+    "month": 12,
+    "avg_price": 6935,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2024,
+    "month": 1,
+    "avg_price": 6812,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2024,
+    "month": 2,
+    "avg_price": 6902,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2024,
+    "month": 3,
+    "avg_price": 6841,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2024,
+    "month": 4,
+    "avg_price": 6810,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2024,
+    "month": 5,
+    "avg_price": 6692,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2024,
+    "month": 6,
+    "avg_price": 6502,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2024,
+    "month": 7,
+    "avg_price": 6520,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2024,
+    "month": 8,
+    "avg_price": 6451,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2024,
+    "month": 9,
+    "avg_price": 6362,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2024,
+    "month": 10,
+    "avg_price": 6255,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2024,
+    "month": 11,
+    "avg_price": 6225,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2024,
+    "month": 12,
+    "avg_price": 6237,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2025,
+    "month": 1,
+    "avg_price": 6365,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2025,
+    "month": 2,
+    "avg_price": 6341,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2025,
+    "month": 3,
+    "avg_price": 6256,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2025,
+    "month": 4,
+    "avg_price": 6281,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2025,
+    "month": 5,
+    "avg_price": 6172,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2025,
+    "month": 6,
+    "avg_price": 6179,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2025,
+    "month": 7,
+    "avg_price": 6163,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2025,
+    "month": 8,
+    "avg_price": 6100,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2025,
+    "month": 9,
+    "avg_price": 5970,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2025,
+    "month": 10,
+    "avg_price": 5915,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2025,
+    "month": 11,
+    "avg_price": 5949,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2025,
+    "month": 12,
+    "avg_price": 5883,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing/",
+    "fetched_at": "2026-10-04T12:10:52.456307+00:00",
+    "raw": {
+      "sha256": "89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\89ff50c58bf3e0efe809fcd0f538bd11e9b2daab9dd896431fc6aaa1e946a56e.html",
+      "bytes": 90911
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2026,
+    "month": 1,
+    "avg_price": 5838,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing2026/",
+    "fetched_at": "2026-10-04T12:10:51.106224+00:00",
+    "raw": {
+      "sha256": "06296bd831b8f98cba66eefbb30f3f7961bf336b1de0b2af6e5850ed52a15687",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\06296bd831b8f98cba66eefbb30f3f7961bf336b1de0b2af6e5850ed52a15687.html",
+      "bytes": 211561
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2026,
+    "month": 2,
+    "avg_price": 5841,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing2026/",
+    "fetched_at": "2026-10-04T12:10:51.106224+00:00",
+    "raw": {
+      "sha256": "06296bd831b8f98cba66eefbb30f3f7961bf336b1de0b2af6e5850ed52a15687",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\06296bd831b8f98cba66eefbb30f3f7961bf336b1de0b2af6e5850ed52a15687.html",
+      "bytes": 211561
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2026,
+    "month": 3,
+    "avg_price": 5844,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing2026/",
+    "fetched_at": "2026-10-04T12:10:51.106224+00:00",
+    "raw": {
+      "sha256": "06296bd831b8f98cba66eefbb30f3f7961bf336b1de0b2af6e5850ed52a15687",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\06296bd831b8f98cba66eefbb30f3f7961bf336b1de0b2af6e5850ed52a15687.html",
+      "bytes": 211561
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2026,
+    "month": 4,
+    "avg_price": 5738,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing2026/",
+    "fetched_at": "2026-10-04T12:10:51.106224+00:00",
+    "raw": {
+      "sha256": "06296bd831b8f98cba66eefbb30f3f7961bf336b1de0b2af6e5850ed52a15687",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\06296bd831b8f98cba66eefbb30f3f7961bf336b1de0b2af6e5850ed52a15687.html",
+      "bytes": 211561
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2026,
+    "month": 5,
+    "avg_price": 5784,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing2026/",
+    "fetched_at": "2026-10-04T12:10:51.106224+00:00",
+    "raw": {
+      "sha256": "06296bd831b8f98cba66eefbb30f3f7961bf336b1de0b2af6e5850ed52a15687",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\06296bd831b8f98cba66eefbb30f3f7961bf336b1de0b2af6e5850ed52a15687.html",
+      "bytes": 211561
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2026,
+    "month": 6,
+    "avg_price": 5706,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing2026/",
+    "fetched_at": "2026-10-04T12:10:51.106224+00:00",
+    "raw": {
+      "sha256": "06296bd831b8f98cba66eefbb30f3f7961bf336b1de0b2af6e5850ed52a15687",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\06296bd831b8f98cba66eefbb30f3f7961bf336b1de0b2af6e5850ed52a15687.html",
+      "bytes": 211561
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2026,
+    "month": 7,
+    "avg_price": 5750,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing2026/",
+    "fetched_at": "2026-10-04T12:10:51.106224+00:00",
+    "raw": {
+      "sha256": "06296bd831b8f98cba66eefbb30f3f7961bf336b1de0b2af6e5850ed52a15687",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\06296bd831b8f98cba66eefbb30f3f7961bf336b1de0b2af6e5850ed52a15687.html",
+      "bytes": 211561
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2026,
+    "month": 8,
+    "avg_price": 5795,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing2026/",
+    "fetched_at": "2026-10-04T12:10:51.106224+00:00",
+    "raw": {
+      "sha256": "06296bd831b8f98cba66eefbb30f3f7961bf336b1de0b2af6e5850ed52a15687",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\06296bd831b8f98cba66eefbb30f3f7961bf336b1de0b2af6e5850ed52a15687.html",
+      "bytes": 211561
+    }
+  },
+  {
+    "city": "安庆",
+    "city_pinyin": "anqing",
+    "year": 2026,
+    "month": 9,
+    "avg_price": 5870,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/anqing2026/",
+    "fetched_at": "2026-10-04T12:10:51.106224+00:00",
+    "raw": {
+      "sha256": "06296bd831b8f98cba66eefbb30f3f7961bf336b1de0b2af6e5850ed52a15687",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\06296bd831b8f98cba66eefbb30f3f7961bf336b1de0b2af6e5850ed52a15687.html",
+      "bytes": 211561
+    }
+  }
+]

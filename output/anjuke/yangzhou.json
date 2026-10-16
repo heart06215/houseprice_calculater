@@ -1,0 +1,1482 @@
+[
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2011,
+    "month": 11,
+    "avg_price": 8260,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2011,
+    "month": 12,
+    "avg_price": 8275,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2012,
+    "month": 8,
+    "avg_price": 7619,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2012,
+    "month": 9,
+    "avg_price": 7878,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2012,
+    "month": 10,
+    "avg_price": 8107,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2012,
+    "month": 11,
+    "avg_price": 8194,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2012,
+    "month": 12,
+    "avg_price": 8366,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2013,
+    "month": 8,
+    "avg_price": 8193,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2013,
+    "month": 9,
+    "avg_price": 8238,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2013,
+    "month": 10,
+    "avg_price": 8406,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2013,
+    "month": 11,
+    "avg_price": 8300,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2013,
+    "month": 12,
+    "avg_price": 8150,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2014,
+    "month": 8,
+    "avg_price": 8995,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2014,
+    "month": 9,
+    "avg_price": 8906,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2014,
+    "month": 10,
+    "avg_price": 8788,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2014,
+    "month": 11,
+    "avg_price": 8829,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2015,
+    "month": 8,
+    "avg_price": 10412,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2015,
+    "month": 9,
+    "avg_price": 10194,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2015,
+    "month": 10,
+    "avg_price": 10028,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2015,
+    "month": 11,
+    "avg_price": 9557,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2015,
+    "month": 12,
+    "avg_price": 8406,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2016,
+    "month": 8,
+    "avg_price": 8587,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2016,
+    "month": 9,
+    "avg_price": 8497,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2016,
+    "month": 10,
+    "avg_price": 8401,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2016,
+    "month": 11,
+    "avg_price": 8604,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2016,
+    "month": 12,
+    "avg_price": 8597,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2017,
+    "month": 8,
+    "avg_price": 11220,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2017,
+    "month": 9,
+    "avg_price": 10991,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2017,
+    "month": 10,
+    "avg_price": 10665,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2017,
+    "month": 11,
+    "avg_price": 10807,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2017,
+    "month": 12,
+    "avg_price": 10861,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2018,
+    "month": 8,
+    "avg_price": 12536,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2018,
+    "month": 9,
+    "avg_price": 12582,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2018,
+    "month": 10,
+    "avg_price": 12669,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2018,
+    "month": 11,
+    "avg_price": 12541,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2018,
+    "month": 12,
+    "avg_price": 12480,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2019,
+    "month": 8,
+    "avg_price": 12903,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2019,
+    "month": 9,
+    "avg_price": 13097,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2019,
+    "month": 10,
+    "avg_price": 13063,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2019,
+    "month": 11,
+    "avg_price": 13074,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2019,
+    "month": 12,
+    "avg_price": 13081,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2020,
+    "month": 8,
+    "avg_price": 13577,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2020,
+    "month": 9,
+    "avg_price": 13598,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2020,
+    "month": 10,
+    "avg_price": 13535,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2020,
+    "month": 11,
+    "avg_price": 13573,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2020,
+    "month": 12,
+    "avg_price": 13586,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2021,
+    "month": 1,
+    "avg_price": 13655,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2021,
+    "month": 2,
+    "avg_price": 13827,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2021,
+    "month": 3,
+    "avg_price": 13897,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2021,
+    "month": 4,
+    "avg_price": 13917,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2021,
+    "month": 5,
+    "avg_price": 13967,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2021,
+    "month": 6,
+    "avg_price": 14160,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2021,
+    "month": 7,
+    "avg_price": 14257,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2021,
+    "month": 8,
+    "avg_price": 14485,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2021,
+    "month": 9,
+    "avg_price": 14324,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2021,
+    "month": 10,
+    "avg_price": 14144,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2021,
+    "month": 11,
+    "avg_price": 14008,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2021,
+    "month": 12,
+    "avg_price": 13959,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2022,
+    "month": 1,
+    "avg_price": 14015,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2022,
+    "month": 2,
+    "avg_price": 14053,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2022,
+    "month": 3,
+    "avg_price": 14074,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2022,
+    "month": 4,
+    "avg_price": 13964,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2022,
+    "month": 5,
+    "avg_price": 13983,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2022,
+    "month": 6,
+    "avg_price": 13998,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2022,
+    "month": 7,
+    "avg_price": 14027,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2022,
+    "month": 8,
+    "avg_price": 14015,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2022,
+    "month": 9,
+    "avg_price": 13868,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2022,
+    "month": 10,
+    "avg_price": 13667,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2022,
+    "month": 11,
+    "avg_price": 13560,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2022,
+    "month": 12,
+    "avg_price": 13548,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2023,
+    "month": 1,
+    "avg_price": 13656,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2023,
+    "month": 2,
+    "avg_price": 13627,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2023,
+    "month": 3,
+    "avg_price": 13565,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2023,
+    "month": 4,
+    "avg_price": 13367,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2023,
+    "month": 5,
+    "avg_price": 13281,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2023,
+    "month": 6,
+    "avg_price": 13361,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2023,
+    "month": 7,
+    "avg_price": 13303,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2023,
+    "month": 8,
+    "avg_price": 13172,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2023,
+    "month": 9,
+    "avg_price": 12920,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2023,
+    "month": 10,
+    "avg_price": 12773,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2023,
+    "month": 11,
+    "avg_price": 12504,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2023,
+    "month": 12,
+    "avg_price": 12120,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2024,
+    "month": 1,
+    "avg_price": 11777,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2024,
+    "month": 2,
+    "avg_price": 11753,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2024,
+    "month": 3,
+    "avg_price": 11614,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2024,
+    "month": 4,
+    "avg_price": 11342,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2024,
+    "month": 5,
+    "avg_price": 11253,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2024,
+    "month": 6,
+    "avg_price": 11149,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2024,
+    "month": 7,
+    "avg_price": 11066,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2024,
+    "month": 8,
+    "avg_price": 10872,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2024,
+    "month": 9,
+    "avg_price": 10710,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2024,
+    "month": 10,
+    "avg_price": 10586,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2024,
+    "month": 11,
+    "avg_price": 10465,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2024,
+    "month": 12,
+    "avg_price": 10338,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2025,
+    "month": 1,
+    "avg_price": 10230,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2025,
+    "month": 2,
+    "avg_price": 10128,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2025,
+    "month": 3,
+    "avg_price": 10017,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2025,
+    "month": 4,
+    "avg_price": 9963,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2025,
+    "month": 5,
+    "avg_price": 9815,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2025,
+    "month": 6,
+    "avg_price": 9674,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2025,
+    "month": 7,
+    "avg_price": 9511,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2025,
+    "month": 8,
+    "avg_price": 9331,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2025,
+    "month": 9,
+    "avg_price": 9120,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2025,
+    "month": 10,
+    "avg_price": 8954,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2025,
+    "month": 11,
+    "avg_price": 8782,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2025,
+    "month": 12,
+    "avg_price": 8674,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou/",
+    "fetched_at": "2026-10-05T12:02:22.241430+00:00",
+    "raw": {
+      "sha256": "2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8",
+      "path": "output/warehouse/raw/anjuke_recheck/2aeae9dcf971c0c7068690a567827e45d953c5cd4c131c77d6e57ab6e018c2c8.html",
+      "bytes": 107072
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2026,
+    "month": 1,
+    "avg_price": 8730,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou2026/",
+    "fetched_at": "2026-10-05T12:01:51.933373+00:00",
+    "raw": {
+      "sha256": "021b94d365705aef1437d885b52c218a5bcc3407eebf8d16c9f6ddc4d3d2fffc",
+      "path": "output/warehouse/raw/anjuke_recheck/021b94d365705aef1437d885b52c218a5bcc3407eebf8d16c9f6ddc4d3d2fffc.html",
+      "bytes": 219853
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2026,
+    "month": 2,
+    "avg_price": 8721,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou2026/",
+    "fetched_at": "2026-10-05T12:01:51.933373+00:00",
+    "raw": {
+      "sha256": "021b94d365705aef1437d885b52c218a5bcc3407eebf8d16c9f6ddc4d3d2fffc",
+      "path": "output/warehouse/raw/anjuke_recheck/021b94d365705aef1437d885b52c218a5bcc3407eebf8d16c9f6ddc4d3d2fffc.html",
+      "bytes": 219853
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2026,
+    "month": 3,
+    "avg_price": 8644,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou2026/",
+    "fetched_at": "2026-10-05T12:01:51.933373+00:00",
+    "raw": {
+      "sha256": "021b94d365705aef1437d885b52c218a5bcc3407eebf8d16c9f6ddc4d3d2fffc",
+      "path": "output/warehouse/raw/anjuke_recheck/021b94d365705aef1437d885b52c218a5bcc3407eebf8d16c9f6ddc4d3d2fffc.html",
+      "bytes": 219853
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2026,
+    "month": 4,
+    "avg_price": 8597,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou2026/",
+    "fetched_at": "2026-10-05T12:01:51.933373+00:00",
+    "raw": {
+      "sha256": "021b94d365705aef1437d885b52c218a5bcc3407eebf8d16c9f6ddc4d3d2fffc",
+      "path": "output/warehouse/raw/anjuke_recheck/021b94d365705aef1437d885b52c218a5bcc3407eebf8d16c9f6ddc4d3d2fffc.html",
+      "bytes": 219853
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2026,
+    "month": 5,
+    "avg_price": 8491,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou2026/",
+    "fetched_at": "2026-10-05T12:01:51.933373+00:00",
+    "raw": {
+      "sha256": "021b94d365705aef1437d885b52c218a5bcc3407eebf8d16c9f6ddc4d3d2fffc",
+      "path": "output/warehouse/raw/anjuke_recheck/021b94d365705aef1437d885b52c218a5bcc3407eebf8d16c9f6ddc4d3d2fffc.html",
+      "bytes": 219853
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2026,
+    "month": 6,
+    "avg_price": 8576,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou2026/",
+    "fetched_at": "2026-10-05T12:01:51.933373+00:00",
+    "raw": {
+      "sha256": "021b94d365705aef1437d885b52c218a5bcc3407eebf8d16c9f6ddc4d3d2fffc",
+      "path": "output/warehouse/raw/anjuke_recheck/021b94d365705aef1437d885b52c218a5bcc3407eebf8d16c9f6ddc4d3d2fffc.html",
+      "bytes": 219853
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2026,
+    "month": 7,
+    "avg_price": 8502,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou2026/",
+    "fetched_at": "2026-10-05T12:01:51.933373+00:00",
+    "raw": {
+      "sha256": "021b94d365705aef1437d885b52c218a5bcc3407eebf8d16c9f6ddc4d3d2fffc",
+      "path": "output/warehouse/raw/anjuke_recheck/021b94d365705aef1437d885b52c218a5bcc3407eebf8d16c9f6ddc4d3d2fffc.html",
+      "bytes": 219853
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2026,
+    "month": 8,
+    "avg_price": 8407,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou2026/",
+    "fetched_at": "2026-10-05T12:01:51.933373+00:00",
+    "raw": {
+      "sha256": "021b94d365705aef1437d885b52c218a5bcc3407eebf8d16c9f6ddc4d3d2fffc",
+      "path": "output/warehouse/raw/anjuke_recheck/021b94d365705aef1437d885b52c218a5bcc3407eebf8d16c9f6ddc4d3d2fffc.html",
+      "bytes": 219853
+    }
+  },
+  {
+    "city": "扬州",
+    "city_pinyin": "yangzhou",
+    "year": 2026,
+    "month": 9,
+    "avg_price": 8399,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yangzhou2026/",
+    "fetched_at": "2026-10-05T12:01:51.933373+00:00",
+    "raw": {
+      "sha256": "021b94d365705aef1437d885b52c218a5bcc3407eebf8d16c9f6ddc4d3d2fffc",
+      "path": "output/warehouse/raw/anjuke_recheck/021b94d365705aef1437d885b52c218a5bcc3407eebf8d16c9f6ddc4d3d2fffc.html",
+      "bytes": 219853
+    }
+  }
+]

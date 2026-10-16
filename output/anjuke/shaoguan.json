@@ -1,0 +1,1242 @@
+[
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2015,
+    "month": 8,
+    "avg_price": 5185,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2015,
+    "month": 9,
+    "avg_price": 4905,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2015,
+    "month": 10,
+    "avg_price": 4969,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2015,
+    "month": 11,
+    "avg_price": 4843,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2015,
+    "month": 12,
+    "avg_price": 4598,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2016,
+    "month": 8,
+    "avg_price": 4789,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2016,
+    "month": 9,
+    "avg_price": 4757,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2016,
+    "month": 10,
+    "avg_price": 4723,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2016,
+    "month": 11,
+    "avg_price": 4771,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2016,
+    "month": 12,
+    "avg_price": 4773,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2017,
+    "month": 8,
+    "avg_price": 5041,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2017,
+    "month": 9,
+    "avg_price": 4931,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2017,
+    "month": 10,
+    "avg_price": 4891,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2017,
+    "month": 11,
+    "avg_price": 5082,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2017,
+    "month": 12,
+    "avg_price": 5218,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2018,
+    "month": 8,
+    "avg_price": 5587,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2018,
+    "month": 9,
+    "avg_price": 5682,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2018,
+    "month": 10,
+    "avg_price": 5726,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2018,
+    "month": 11,
+    "avg_price": 5541,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2018,
+    "month": 12,
+    "avg_price": 5512,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2019,
+    "month": 8,
+    "avg_price": 5451,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2019,
+    "month": 9,
+    "avg_price": 5799,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2019,
+    "month": 10,
+    "avg_price": 5813,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2019,
+    "month": 11,
+    "avg_price": 5778,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2019,
+    "month": 12,
+    "avg_price": 5793,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2020,
+    "month": 8,
+    "avg_price": 5919,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2020,
+    "month": 9,
+    "avg_price": 5799,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2020,
+    "month": 10,
+    "avg_price": 5691,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2020,
+    "month": 11,
+    "avg_price": 5769,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2020,
+    "month": 12,
+    "avg_price": 5692,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2021,
+    "month": 1,
+    "avg_price": 5656,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2021,
+    "month": 2,
+    "avg_price": 5734,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2021,
+    "month": 3,
+    "avg_price": 5765,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2021,
+    "month": 4,
+    "avg_price": 5741,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2021,
+    "month": 5,
+    "avg_price": 5719,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2021,
+    "month": 6,
+    "avg_price": 5747,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2021,
+    "month": 7,
+    "avg_price": 5835,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2021,
+    "month": 8,
+    "avg_price": 5803,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2021,
+    "month": 9,
+    "avg_price": 5828,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2021,
+    "month": 10,
+    "avg_price": 5758,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2021,
+    "month": 11,
+    "avg_price": 5564,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2021,
+    "month": 12,
+    "avg_price": 5630,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2022,
+    "month": 1,
+    "avg_price": 5727,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2022,
+    "month": 2,
+    "avg_price": 5792,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2022,
+    "month": 3,
+    "avg_price": 5801,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2022,
+    "month": 4,
+    "avg_price": 5878,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2022,
+    "month": 5,
+    "avg_price": 5876,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2022,
+    "month": 6,
+    "avg_price": 5966,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2022,
+    "month": 7,
+    "avg_price": 5996,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2022,
+    "month": 8,
+    "avg_price": 5957,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2022,
+    "month": 9,
+    "avg_price": 5854,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2022,
+    "month": 10,
+    "avg_price": 5849,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2022,
+    "month": 11,
+    "avg_price": 5798,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2022,
+    "month": 12,
+    "avg_price": 5905,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2023,
+    "month": 1,
+    "avg_price": 6044,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2023,
+    "month": 2,
+    "avg_price": 6055,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2023,
+    "month": 3,
+    "avg_price": 6065,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2023,
+    "month": 4,
+    "avg_price": 5941,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2023,
+    "month": 5,
+    "avg_price": 6028,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2023,
+    "month": 6,
+    "avg_price": 6066,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2023,
+    "month": 7,
+    "avg_price": 6147,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2023,
+    "month": 8,
+    "avg_price": 6173,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2023,
+    "month": 9,
+    "avg_price": 6096,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2023,
+    "month": 10,
+    "avg_price": 6049,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2023,
+    "month": 11,
+    "avg_price": 6037,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2023,
+    "month": 12,
+    "avg_price": 5789,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2024,
+    "month": 1,
+    "avg_price": 5588,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2024,
+    "month": 2,
+    "avg_price": 5747,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2024,
+    "month": 3,
+    "avg_price": 5728,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2024,
+    "month": 4,
+    "avg_price": 5643,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2024,
+    "month": 5,
+    "avg_price": 5628,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2024,
+    "month": 6,
+    "avg_price": 5651,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2024,
+    "month": 7,
+    "avg_price": 5634,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2024,
+    "month": 8,
+    "avg_price": 5673,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2024,
+    "month": 9,
+    "avg_price": 5577,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2024,
+    "month": 10,
+    "avg_price": 5463,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2024,
+    "month": 11,
+    "avg_price": 5516,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2024,
+    "month": 12,
+    "avg_price": 5516,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2025,
+    "month": 1,
+    "avg_price": 5484,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2025,
+    "month": 2,
+    "avg_price": 5497,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2025,
+    "month": 3,
+    "avg_price": 5410,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2025,
+    "month": 4,
+    "avg_price": 5377,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2025,
+    "month": 5,
+    "avg_price": 5341,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2025,
+    "month": 6,
+    "avg_price": 5420,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2025,
+    "month": 7,
+    "avg_price": 5492,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2025,
+    "month": 8,
+    "avg_price": 5438,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2025,
+    "month": 9,
+    "avg_price": 5367,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2025,
+    "month": 10,
+    "avg_price": 5282,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2025,
+    "month": 11,
+    "avg_price": 5242,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2025,
+    "month": 12,
+    "avg_price": 5127,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan/",
+    "fetched_at": "2026-10-11T12:01:28.881056+00:00",
+    "raw": {
+      "sha256": "eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb",
+      "path": "output/warehouse/raw/anjuke_recheck/eeae99ec85e9a74cf3964cfeee4114c990771ff2ac47d83519ac0d85e2d26ccb.html",
+      "bytes": 91035
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2026,
+    "month": 1,
+    "avg_price": 5033,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan2026/",
+    "fetched_at": "2026-10-11T12:00:58.574205+00:00",
+    "raw": {
+      "sha256": "f8677af42cebb3130b6cb1b8cb279844eb0cc4cbe913654e3bbc18c984c86f80",
+      "path": "output/warehouse/raw/anjuke_recheck/f8677af42cebb3130b6cb1b8cb279844eb0cc4cbe913654e3bbc18c984c86f80.html",
+      "bytes": 196154
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2026,
+    "month": 2,
+    "avg_price": 5051,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan2026/",
+    "fetched_at": "2026-10-11T12:00:58.574205+00:00",
+    "raw": {
+      "sha256": "f8677af42cebb3130b6cb1b8cb279844eb0cc4cbe913654e3bbc18c984c86f80",
+      "path": "output/warehouse/raw/anjuke_recheck/f8677af42cebb3130b6cb1b8cb279844eb0cc4cbe913654e3bbc18c984c86f80.html",
+      "bytes": 196154
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2026,
+    "month": 3,
+    "avg_price": 5059,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan2026/",
+    "fetched_at": "2026-10-11T12:00:58.574205+00:00",
+    "raw": {
+      "sha256": "f8677af42cebb3130b6cb1b8cb279844eb0cc4cbe913654e3bbc18c984c86f80",
+      "path": "output/warehouse/raw/anjuke_recheck/f8677af42cebb3130b6cb1b8cb279844eb0cc4cbe913654e3bbc18c984c86f80.html",
+      "bytes": 196154
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2026,
+    "month": 4,
+    "avg_price": 5030,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan2026/",
+    "fetched_at": "2026-10-11T12:00:58.574205+00:00",
+    "raw": {
+      "sha256": "f8677af42cebb3130b6cb1b8cb279844eb0cc4cbe913654e3bbc18c984c86f80",
+      "path": "output/warehouse/raw/anjuke_recheck/f8677af42cebb3130b6cb1b8cb279844eb0cc4cbe913654e3bbc18c984c86f80.html",
+      "bytes": 196154
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2026,
+    "month": 5,
+    "avg_price": 5043,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan2026/",
+    "fetched_at": "2026-10-11T12:00:58.574205+00:00",
+    "raw": {
+      "sha256": "f8677af42cebb3130b6cb1b8cb279844eb0cc4cbe913654e3bbc18c984c86f80",
+      "path": "output/warehouse/raw/anjuke_recheck/f8677af42cebb3130b6cb1b8cb279844eb0cc4cbe913654e3bbc18c984c86f80.html",
+      "bytes": 196154
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2026,
+    "month": 6,
+    "avg_price": 5084,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan2026/",
+    "fetched_at": "2026-10-11T12:00:58.574205+00:00",
+    "raw": {
+      "sha256": "f8677af42cebb3130b6cb1b8cb279844eb0cc4cbe913654e3bbc18c984c86f80",
+      "path": "output/warehouse/raw/anjuke_recheck/f8677af42cebb3130b6cb1b8cb279844eb0cc4cbe913654e3bbc18c984c86f80.html",
+      "bytes": 196154
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2026,
+    "month": 7,
+    "avg_price": 5258,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan2026/",
+    "fetched_at": "2026-10-11T12:00:58.574205+00:00",
+    "raw": {
+      "sha256": "f8677af42cebb3130b6cb1b8cb279844eb0cc4cbe913654e3bbc18c984c86f80",
+      "path": "output/warehouse/raw/anjuke_recheck/f8677af42cebb3130b6cb1b8cb279844eb0cc4cbe913654e3bbc18c984c86f80.html",
+      "bytes": 196154
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2026,
+    "month": 8,
+    "avg_price": 5171,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan2026/",
+    "fetched_at": "2026-10-11T12:00:58.574205+00:00",
+    "raw": {
+      "sha256": "f8677af42cebb3130b6cb1b8cb279844eb0cc4cbe913654e3bbc18c984c86f80",
+      "path": "output/warehouse/raw/anjuke_recheck/f8677af42cebb3130b6cb1b8cb279844eb0cc4cbe913654e3bbc18c984c86f80.html",
+      "bytes": 196154
+    }
+  },
+  {
+    "city": "韶关",
+    "city_pinyin": "shaoguan",
+    "year": 2026,
+    "month": 9,
+    "avg_price": 5065,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shaoguan2026/",
+    "fetched_at": "2026-10-11T12:00:58.574205+00:00",
+    "raw": {
+      "sha256": "f8677af42cebb3130b6cb1b8cb279844eb0cc4cbe913654e3bbc18c984c86f80",
+      "path": "output/warehouse/raw/anjuke_recheck/f8677af42cebb3130b6cb1b8cb279844eb0cc4cbe913654e3bbc18c984c86f80.html",
+      "bytes": 196154
+    }
+  }
+]

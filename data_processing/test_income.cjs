@@ -1,0 +1,76 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert');
+const box={};box.window=box;vm.runInNewContext(fs.readFileSync(__dirname+'/frontend/assets/js/dashboard/income-analysis.js','utf8'),box);
+const M=box.HP.incomeAnalysis;
+const data={income:[{year:2025,metrics:{national:{disposable_mean:40000,disposable_median:30000,consumption:20000},urban:{disposable_median:50000}}}],minimum_wages:[{as_of:'2026-01-01',rows:[{region:'北京',monthly:[2500,null,null,null]},{region:'广东',monthly:[2500,2000,1750,null]},{region:'深圳',monthly:[2520,null,null,null]}]}],city_provinces:{北京:'北京',深圳:'广东',广州:'广东'}};
+const cities=[{city:'北京',monthly:[{date:'2026-08',price:40000}]},{city:'深圳',monthly:[{date:'2026-08',price:20000}]},{city:'广州',monthly:[{date:'2026-08',price:null}]}];
+let r=M.calculate(cities,data);
+assert.equal(r.price.value,30000);assert.equal(r.price.count,2);assert.equal(r.cost,2700000);assert.equal(r.cards[0].ratio,67.5);assert.equal(r.wageMin,1750);assert.equal(r.wageRatioHigh,2700000/(1750*12));
+r=M.calculate(cities,data,{city:'北京'});assert.equal(r.wageMin,2500);assert(r.wageExact);assert.equal(r.cards[1].ratio,120);
+r=M.calculate(cities,data,{city:'深圳'});assert.equal(r.wageMin,2520,'Shenzhen is not the Guangdong minimum tier');
+assert.equal(r.wageBands.length,1);assert.equal(r.wageBands[0].annual,30240);assert.equal(r.wageRows[0].region,'深圳');
+r=M.calculate(cities,data,{city:'广州'});assert.equal(r.cost,null);assert.equal(r.cards[0].ratio,null);assert.equal(r.wageMin,1750);assert(r.wageLabel.includes('非本市适用档'));
+assert.equal(r.wageBands.length,3);assert.equal(r.wageRows.length,1);assert.equal(r.wageRows[0].region,'广东');
+r=M.calculate(cities,data,{city:'北京',month:'2025-12'});assert.equal(r.wage,undefined,'Do not apply a future wage snapshot to an older month');
+r=M.calculate([{city:'北京',monthly:[{date:'2024-12',price:20000}]}],data);assert.equal(r.cards[0].ratio,null,'No future annual-income denominator');
+assert.equal(M.ratio(0,100),null);assert.equal(M.ratio(100,0),null);assert.equal(M.ratio(null,100),null);
+const history=[{as_of:'2014',period_precision:'year'}, {as_of:'2015-06',period_precision:'month'}, {as_of:'2017',period_precision:'year'}];
+assert.equal(M.wageSnapshot(history,'2014-11'),undefined,'A year-end table cannot be used in November');
+assert.equal(M.wageSnapshot(history,'2014-12').as_of,'2014');
+assert.equal(M.wageSnapshot(history,'2015-05').as_of,'2014');
+assert.equal(M.wageSnapshot(history,'2015-06').as_of,'2015-06');
+assert.equal(M.wageSnapshot(history,'2017-01').as_of,'2015-06','No year-end wage standard in January');
+assert.equal(M.wageSnapshot(history,'2017-12').as_of,'2017');
+const actual=JSON.parse(fs.readFileSync(__dirname+'/frontend/intersection_housing_data.json'));
+const a=M.calculate(actual.cities,actual.information.income,{year:2025,month:'2026-08'});
+for(const c of actual.cities){
+ const r=M.calculate(actual.cities,actual.information.income,{city:c.city,month:'2026-08'});
+ assert(r.wageRows.length>0,c.city+' must match its administrative region');
+}
+const hebei=M.calculate(actual.cities,actual.information.income,{city:'石家庄',month:'2026-08'});
+assert.equal(hebei.province,'河北');assert.equal(hebei.wageRows[0].region,'河北');
+assert(hebei.wageBands.length>0);assert(!hebei.wageExact);
+assert.equal(a.annual.year,2025);assert.equal(a.national.disposable_median,36231);assert.equal(a.wageMin,1750);
+const income2014=actual.information.income.income.find(r=>r.year===2014);
+assert.equal(income2014.metrics.national.disposable_median,17570);
+assert.equal(income2014.metrics.urban.disposable_median,26635);
+assert.equal(income2014.metrics.rural.disposable_median,9497);
+assert(income2014.supplements.some(s=>s.source_url.endsWith('t20230203_1898674.html')));
+assert(actual.information.income.minimum_wages.length>=28);
+const fuzhou=M.calculate(actual.cities,actual.information.income,{city:'福州',month:'2026-08'});
+const fuzhouMonths=actual.cities.find(c=>c.city==='福州').monthly.filter(r=>r.price>0).map(r=>r.date);
+const fuzhouHistory=M.wageHistoryBands(actual.information.income.minimum_wages,'福建',fuzhouMonths,fuzhou.wageBands);
+assert.equal(fuzhouHistory.length,5,'The retired fifth tier must remain available in the historical chart');
+assert.equal(fuzhouHistory[4].monthly,null,'Do not invent a current fifth-tier wage');
+assert.equal(fuzhouHistory[4].ratio,null);
+const fuzhou2017=M.calculate(actual.cities,actual.information.income,{city:'福州',month:'2017-12',year:2017});
+assert.equal(fuzhou2017.wageBands[4].monthly,1280);
+assert.equal(fuzhou2017.wageBands[4].ratio,fuzhou2017.cost/(1280*12));
+assert.equal(M.wageHistoryBands(actual.information.income.minimum_wages,'福建',['2014-11']).length,0,'No wages before the earliest applicable table');
+assert.equal(M.wageHistoryBands(actual.information.income.minimum_wages,'深圳',fuzhouMonths).length,1,'Shenzhen never inherits provincial tiers');
+console.log(JSON.stringify({month:a.price.month,price:a.price.value,coverage:a.price.count,cost:a.cost,mean_ratio:a.cards[0].ratio,median_ratio:a.cards[1].ratio,wage_ratio:a.wageRatioHigh}));
+console.log('Income: correct 90sqm/annual units, missing values, city scope, dates and official samples passed.');
+
+const quote=(city,kind,price,period='2026-08',unit=kind==='rent'?'元/㎡·月':'元/㎡')=>({city,kind,price,period,unit});
+const quotes=[quote('北京','rent',50),quote('北京','second_hand',20000),quote('深圳','rent',100),quote('深圳','second_hand',10000),
+    quote('广州','second_hand',80000),quote('非样本城市','rent',9999),quote('非样本城市','second_hand',1),quote('北京','new_house',1)];
+let rent=M.rentalSnapshot(cities,quotes,{month:'2026-08'});
+assert.equal(rent.count,2);assert.equal(rent.total,3);assert.equal(rent.monthlyRent,75);assert.equal(rent.averagePrice,15000);
+assert.equal(rent.annualPct,6,'Ratio of paired-city means, excluding missing pairs and non-platform cities');
+rent=M.rentalSnapshot(cities,quotes,{city:'北京',month:'2026-08'});
+assert.equal(rent.monthlyPct,0.25);assert.equal(rent.annualPct,3);
+assert.equal(rent.monthlyRent*90*12/(rent.averagePrice*90)*100,rent.annualPct,'90sqm area cancels out');
+assert.equal(M.rentalSnapshot(cities,quotes,{city:'广州',month:'2026-08'}).annualPct,null);
+rent=M.rentalSnapshot(cities,quotes,{city:'北京',month:'2026-07'});
+assert.equal(rent.annualPct,null,'Never borrow a different month');assert.equal(rent.latestMonth,'2026-08');
+assert.equal(M.rentalSnapshot(cities,[],{month:'2026-08'}).annualPct,null);
+assert.equal(M.rentalSnapshot(cities,[...quotes,quote('北京','rent',50)],{city:'北京',month:'2026-08'}).annualPct,3,'Identical duplicate does not change weighting');
+assert.equal(M.rentalSnapshot(cities,[...quotes,quote('北京','rent',60)],{city:'北京',month:'2026-08'}).annualPct,null,'Conflicting same-month quotes remain unavailable');
+for(const bad of [0,-1,null,NaN,Infinity,'50']){
+ assert.equal(M.rentalSnapshot(cities,[quote('北京','rent',bad),quote('北京','second_hand',20000)],{city:'北京',month:'2026-08'}).annualPct,null);
+}
+assert.equal(M.rentalSnapshot(cities,[quote('北京','rent',5000,'2026-08','元/月'),quote('北京','second_hand',20000)],{city:'北京',month:'2026-08'}).annualPct,null,'Per-home and per-sqm units must not mix');
+const realRent=M.rentalSnapshot(actual.cities,actual.information.cih.prices,{month:'2026-08'});
+assert(realRent.count>0&&realRent.count<=actual.cities.length);
+const bjRent=M.rentalSnapshot(actual.cities,actual.information.cih.prices,{city:'北京',month:'2026-08'});
+assert(Math.abs(bjRent.annualPct-82*12/61038*100)<1e-10);
+console.log('Rental yield: dates, city pairing, annual/monthly units, missing values and duplicates passed.',JSON.stringify(realRent));

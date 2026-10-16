@@ -1,0 +1,1227 @@
+[
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2015,
+    "month": 8,
+    "avg_price": 5879,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2015,
+    "month": 9,
+    "avg_price": 5842,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2015,
+    "month": 10,
+    "avg_price": 5560,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2015,
+    "month": 11,
+    "avg_price": 5621,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2015,
+    "month": 12,
+    "avg_price": 5621,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2016,
+    "month": 8,
+    "avg_price": 6001,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2016,
+    "month": 9,
+    "avg_price": 5930,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2016,
+    "month": 10,
+    "avg_price": 5815,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2016,
+    "month": 11,
+    "avg_price": 6027,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2016,
+    "month": 12,
+    "avg_price": 6024,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2017,
+    "month": 8,
+    "avg_price": 7745,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2017,
+    "month": 9,
+    "avg_price": 7713,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2017,
+    "month": 10,
+    "avg_price": 7661,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2017,
+    "month": 11,
+    "avg_price": 7756,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2017,
+    "month": 12,
+    "avg_price": 7824,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2018,
+    "month": 8,
+    "avg_price": 8755,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2018,
+    "month": 9,
+    "avg_price": 8856,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2018,
+    "month": 10,
+    "avg_price": 8982,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2018,
+    "month": 11,
+    "avg_price": 8944,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2018,
+    "month": 12,
+    "avg_price": 8923,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2019,
+    "month": 8,
+    "avg_price": 8344,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2019,
+    "month": 9,
+    "avg_price": 8688,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2019,
+    "month": 10,
+    "avg_price": 8578,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2019,
+    "month": 11,
+    "avg_price": 8521,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2019,
+    "month": 12,
+    "avg_price": 8375,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2020,
+    "month": 8,
+    "avg_price": 8605,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2020,
+    "month": 9,
+    "avg_price": 8493,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2020,
+    "month": 10,
+    "avg_price": 8445,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2020,
+    "month": 11,
+    "avg_price": 8382,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2020,
+    "month": 12,
+    "avg_price": 8490,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2021,
+    "month": 1,
+    "avg_price": 8584,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2021,
+    "month": 2,
+    "avg_price": 8840,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2021,
+    "month": 3,
+    "avg_price": 8891,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2021,
+    "month": 4,
+    "avg_price": 8969,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2021,
+    "month": 5,
+    "avg_price": 9011,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2021,
+    "month": 6,
+    "avg_price": 9267,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2021,
+    "month": 7,
+    "avg_price": 9405,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2021,
+    "month": 8,
+    "avg_price": 9521,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2021,
+    "month": 9,
+    "avg_price": 9544,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2021,
+    "month": 10,
+    "avg_price": 9622,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2021,
+    "month": 11,
+    "avg_price": 9602,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2021,
+    "month": 12,
+    "avg_price": 9892,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2022,
+    "month": 1,
+    "avg_price": 9815,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2022,
+    "month": 2,
+    "avg_price": 9888,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2022,
+    "month": 3,
+    "avg_price": 9671,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2022,
+    "month": 4,
+    "avg_price": 9699,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2022,
+    "month": 5,
+    "avg_price": 9755,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2022,
+    "month": 6,
+    "avg_price": 10095,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2022,
+    "month": 7,
+    "avg_price": 10290,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2022,
+    "month": 8,
+    "avg_price": 10213,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2022,
+    "month": 9,
+    "avg_price": 10218,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2022,
+    "month": 10,
+    "avg_price": 10122,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2022,
+    "month": 11,
+    "avg_price": 10147,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2022,
+    "month": 12,
+    "avg_price": 10125,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2023,
+    "month": 1,
+    "avg_price": 10104,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2023,
+    "month": 2,
+    "avg_price": 10520,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2023,
+    "month": 3,
+    "avg_price": 10413,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2023,
+    "month": 4,
+    "avg_price": 10372,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2023,
+    "month": 5,
+    "avg_price": 10415,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2023,
+    "month": 6,
+    "avg_price": 10415,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2023,
+    "month": 7,
+    "avg_price": 10655,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2023,
+    "month": 8,
+    "avg_price": 10929,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2023,
+    "month": 9,
+    "avg_price": 10959,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2023,
+    "month": 10,
+    "avg_price": 10746,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2023,
+    "month": 11,
+    "avg_price": 10274,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2023,
+    "month": 12,
+    "avg_price": 10011,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2024,
+    "month": 1,
+    "avg_price": 9736,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2024,
+    "month": 2,
+    "avg_price": 9465,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2024,
+    "month": 3,
+    "avg_price": 9035,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2024,
+    "month": 4,
+    "avg_price": 8927,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2024,
+    "month": 5,
+    "avg_price": 8900,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2024,
+    "month": 6,
+    "avg_price": 8818,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2024,
+    "month": 7,
+    "avg_price": 8740,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2024,
+    "month": 8,
+    "avg_price": 8718,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2024,
+    "month": 9,
+    "avg_price": 8629,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2024,
+    "month": 10,
+    "avg_price": 8576,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2024,
+    "month": 11,
+    "avg_price": 8484,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2024,
+    "month": 12,
+    "avg_price": 8351,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2025,
+    "month": 1,
+    "avg_price": 8352,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2025,
+    "month": 2,
+    "avg_price": 8427,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2025,
+    "month": 3,
+    "avg_price": 8475,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2025,
+    "month": 4,
+    "avg_price": 8356,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2025,
+    "month": 5,
+    "avg_price": 8074,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2025,
+    "month": 6,
+    "avg_price": 8016,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2025,
+    "month": 7,
+    "avg_price": 8106,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2025,
+    "month": 8,
+    "avg_price": 8248,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2025,
+    "month": 9,
+    "avg_price": 8057,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2025,
+    "month": 10,
+    "avg_price": 7818,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2025,
+    "month": 11,
+    "avg_price": 7657,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2025,
+    "month": 12,
+    "avg_price": 7601,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou/",
+    "fetched_at": "2026-09-17T10:42:12.892682+00:00",
+    "raw": {
+      "sha256": "50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\50233c39a522dbd2517ddd72c15e27ce601815f76e37de915fd65cde5063cb28.html",
+      "bytes": 105039
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2026,
+    "month": 1,
+    "avg_price": 7446,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou2026/",
+    "fetched_at": "2026-09-17T10:42:11.637693+00:00",
+    "raw": {
+      "sha256": "ef98e0d8d78694145be565142122f679ce31ece9d17d02ddcd9c1a34b4c3015b",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ef98e0d8d78694145be565142122f679ce31ece9d17d02ddcd9c1a34b4c3015b.html",
+      "bytes": 225325
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2026,
+    "month": 2,
+    "avg_price": 7357,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou2026/",
+    "fetched_at": "2026-09-17T10:42:11.637693+00:00",
+    "raw": {
+      "sha256": "ef98e0d8d78694145be565142122f679ce31ece9d17d02ddcd9c1a34b4c3015b",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ef98e0d8d78694145be565142122f679ce31ece9d17d02ddcd9c1a34b4c3015b.html",
+      "bytes": 225325
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2026,
+    "month": 3,
+    "avg_price": 7521,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou2026/",
+    "fetched_at": "2026-09-17T10:42:11.637693+00:00",
+    "raw": {
+      "sha256": "ef98e0d8d78694145be565142122f679ce31ece9d17d02ddcd9c1a34b4c3015b",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ef98e0d8d78694145be565142122f679ce31ece9d17d02ddcd9c1a34b4c3015b.html",
+      "bytes": 225325
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2026,
+    "month": 4,
+    "avg_price": 7426,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou2026/",
+    "fetched_at": "2026-09-17T10:42:11.637693+00:00",
+    "raw": {
+      "sha256": "ef98e0d8d78694145be565142122f679ce31ece9d17d02ddcd9c1a34b4c3015b",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ef98e0d8d78694145be565142122f679ce31ece9d17d02ddcd9c1a34b4c3015b.html",
+      "bytes": 225325
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2026,
+    "month": 5,
+    "avg_price": 7457,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou2026/",
+    "fetched_at": "2026-09-17T10:42:11.637693+00:00",
+    "raw": {
+      "sha256": "ef98e0d8d78694145be565142122f679ce31ece9d17d02ddcd9c1a34b4c3015b",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ef98e0d8d78694145be565142122f679ce31ece9d17d02ddcd9c1a34b4c3015b.html",
+      "bytes": 225325
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2026,
+    "month": 6,
+    "avg_price": 7419,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou2026/",
+    "fetched_at": "2026-09-17T10:42:11.637693+00:00",
+    "raw": {
+      "sha256": "ef98e0d8d78694145be565142122f679ce31ece9d17d02ddcd9c1a34b4c3015b",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ef98e0d8d78694145be565142122f679ce31ece9d17d02ddcd9c1a34b4c3015b.html",
+      "bytes": 225325
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2026,
+    "month": 7,
+    "avg_price": 7457,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou2026/",
+    "fetched_at": "2026-09-17T10:42:11.637693+00:00",
+    "raw": {
+      "sha256": "ef98e0d8d78694145be565142122f679ce31ece9d17d02ddcd9c1a34b4c3015b",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ef98e0d8d78694145be565142122f679ce31ece9d17d02ddcd9c1a34b4c3015b.html",
+      "bytes": 225325
+    }
+  },
+  {
+    "city": "赣州",
+    "city_pinyin": "ganzhou",
+    "year": 2026,
+    "month": 8,
+    "avg_price": 7377,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/ganzhou2026/",
+    "fetched_at": "2026-09-17T10:42:11.637693+00:00",
+    "raw": {
+      "sha256": "ef98e0d8d78694145be565142122f679ce31ece9d17d02ddcd9c1a34b4c3015b",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ef98e0d8d78694145be565142122f679ce31ece9d17d02ddcd9c1a34b4c3015b.html",
+      "bytes": 225325
+    }
+  }
+]

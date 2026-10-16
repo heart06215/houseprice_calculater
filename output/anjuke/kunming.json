@@ -1,0 +1,1527 @@
+[
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2011,
+    "month": 8,
+    "avg_price": 9104,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2011,
+    "month": 9,
+    "avg_price": 9109,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2011,
+    "month": 10,
+    "avg_price": 9060,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2011,
+    "month": 11,
+    "avg_price": 8962,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2011,
+    "month": 12,
+    "avg_price": 8842,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2012,
+    "month": 8,
+    "avg_price": 8453,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2012,
+    "month": 9,
+    "avg_price": 8487,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2012,
+    "month": 10,
+    "avg_price": 8501,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2012,
+    "month": 11,
+    "avg_price": 8533,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2012,
+    "month": 12,
+    "avg_price": 8567,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2013,
+    "month": 8,
+    "avg_price": 8645,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2013,
+    "month": 9,
+    "avg_price": 8670,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2013,
+    "month": 10,
+    "avg_price": 8649,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2013,
+    "month": 11,
+    "avg_price": 8666,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2013,
+    "month": 12,
+    "avg_price": 8664,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2014,
+    "month": 8,
+    "avg_price": 8394,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2014,
+    "month": 9,
+    "avg_price": 8347,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2014,
+    "month": 10,
+    "avg_price": 8198,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2014,
+    "month": 11,
+    "avg_price": 8129,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2014,
+    "month": 12,
+    "avg_price": 8094,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2015,
+    "month": 8,
+    "avg_price": 8094,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2015,
+    "month": 9,
+    "avg_price": 8178,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2015,
+    "month": 10,
+    "avg_price": 8232,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2015,
+    "month": 11,
+    "avg_price": 8051,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2015,
+    "month": 12,
+    "avg_price": 8202,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2016,
+    "month": 8,
+    "avg_price": 8396,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2016,
+    "month": 9,
+    "avg_price": 8429,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2016,
+    "month": 10,
+    "avg_price": 8407,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2016,
+    "month": 11,
+    "avg_price": 8445,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2016,
+    "month": 12,
+    "avg_price": 8485,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2017,
+    "month": 8,
+    "avg_price": 9289,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2017,
+    "month": 9,
+    "avg_price": 9461,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2017,
+    "month": 10,
+    "avg_price": 9564,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2017,
+    "month": 11,
+    "avg_price": 9659,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2017,
+    "month": 12,
+    "avg_price": 9771,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2018,
+    "month": 8,
+    "avg_price": 11735,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2018,
+    "month": 9,
+    "avg_price": 11936,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2018,
+    "month": 10,
+    "avg_price": 12166,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2018,
+    "month": 11,
+    "avg_price": 12336,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2018,
+    "month": 12,
+    "avg_price": 12298,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2019,
+    "month": 8,
+    "avg_price": 12697,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2019,
+    "month": 9,
+    "avg_price": 12839,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2019,
+    "month": 10,
+    "avg_price": 12896,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2019,
+    "month": 11,
+    "avg_price": 12983,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2019,
+    "month": 12,
+    "avg_price": 13117,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2020,
+    "month": 8,
+    "avg_price": 13416,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2020,
+    "month": 9,
+    "avg_price": 13496,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2020,
+    "month": 10,
+    "avg_price": 13477,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2020,
+    "month": 11,
+    "avg_price": 13486,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2020,
+    "month": 12,
+    "avg_price": 13494,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2021,
+    "month": 1,
+    "avg_price": 13470,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2021,
+    "month": 2,
+    "avg_price": 13586,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2021,
+    "month": 3,
+    "avg_price": 13586,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2021,
+    "month": 4,
+    "avg_price": 13624,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2021,
+    "month": 5,
+    "avg_price": 13612,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2021,
+    "month": 6,
+    "avg_price": 13699,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2021,
+    "month": 7,
+    "avg_price": 13673,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2021,
+    "month": 8,
+    "avg_price": 13571,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2021,
+    "month": 9,
+    "avg_price": 13562,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2021,
+    "month": 10,
+    "avg_price": 13455,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2021,
+    "month": 11,
+    "avg_price": 13296,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2021,
+    "month": 12,
+    "avg_price": 13217,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2022,
+    "month": 1,
+    "avg_price": 13183,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2022,
+    "month": 2,
+    "avg_price": 13282,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2022,
+    "month": 3,
+    "avg_price": 13034,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2022,
+    "month": 4,
+    "avg_price": 12927,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2022,
+    "month": 5,
+    "avg_price": 12828,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2022,
+    "month": 6,
+    "avg_price": 12702,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2022,
+    "month": 7,
+    "avg_price": 12612,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2022,
+    "month": 8,
+    "avg_price": 12527,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2022,
+    "month": 9,
+    "avg_price": 12524,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2022,
+    "month": 10,
+    "avg_price": 12457,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2022,
+    "month": 11,
+    "avg_price": 12315,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2022,
+    "month": 12,
+    "avg_price": 12238,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2023,
+    "month": 1,
+    "avg_price": 12342,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2023,
+    "month": 2,
+    "avg_price": 12350,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2023,
+    "month": 3,
+    "avg_price": 12351,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2023,
+    "month": 4,
+    "avg_price": 12292,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2023,
+    "month": 5,
+    "avg_price": 12258,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2023,
+    "month": 6,
+    "avg_price": 12230,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2023,
+    "month": 7,
+    "avg_price": 12176,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2023,
+    "month": 8,
+    "avg_price": 12134,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2023,
+    "month": 9,
+    "avg_price": 12027,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2023,
+    "month": 10,
+    "avg_price": 11876,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2023,
+    "month": 11,
+    "avg_price": 11717,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2023,
+    "month": 12,
+    "avg_price": 11549,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2024,
+    "month": 1,
+    "avg_price": 11488,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2024,
+    "month": 2,
+    "avg_price": 11384,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2024,
+    "month": 3,
+    "avg_price": 11253,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2024,
+    "month": 4,
+    "avg_price": 11116,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2024,
+    "month": 5,
+    "avg_price": 11007,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2024,
+    "month": 6,
+    "avg_price": 10891,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2024,
+    "month": 7,
+    "avg_price": 10721,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2024,
+    "month": 8,
+    "avg_price": 10620,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2024,
+    "month": 9,
+    "avg_price": 10522,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2024,
+    "month": 10,
+    "avg_price": 10431,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2024,
+    "month": 11,
+    "avg_price": 10348,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2024,
+    "month": 12,
+    "avg_price": 10304,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2025,
+    "month": 1,
+    "avg_price": 10315,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2025,
+    "month": 2,
+    "avg_price": 10257,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2025,
+    "month": 3,
+    "avg_price": 10155,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2025,
+    "month": 4,
+    "avg_price": 10064,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2025,
+    "month": 5,
+    "avg_price": 9993,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2025,
+    "month": 6,
+    "avg_price": 9923,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2025,
+    "month": 7,
+    "avg_price": 9851,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2025,
+    "month": 8,
+    "avg_price": 9832,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2025,
+    "month": 9,
+    "avg_price": 9752,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2025,
+    "month": 10,
+    "avg_price": 9674,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2025,
+    "month": 11,
+    "avg_price": 9604,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2025,
+    "month": 12,
+    "avg_price": 9572,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km/",
+    "fetched_at": "2026-09-24T12:20:59.457602+00:00",
+    "raw": {
+      "sha256": "8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8913638f34d20c93fde3a05d1c2f8d808bacc8a11e73a641a57f80037f7238aa.html",
+      "bytes": 106257
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2026,
+    "month": 1,
+    "avg_price": 9546,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km2026/",
+    "fetched_at": "2026-09-24T12:20:58.148730+00:00",
+    "raw": {
+      "sha256": "b9e66d415c5335b33d9c8f87371f1c12d1423d99eb6fa3d7868325f1c277f260",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\b9e66d415c5335b33d9c8f87371f1c12d1423d99eb6fa3d7868325f1c277f260.html",
+      "bytes": 170552
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2026,
+    "month": 2,
+    "avg_price": 9561,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km2026/",
+    "fetched_at": "2026-09-24T12:20:58.148730+00:00",
+    "raw": {
+      "sha256": "b9e66d415c5335b33d9c8f87371f1c12d1423d99eb6fa3d7868325f1c277f260",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\b9e66d415c5335b33d9c8f87371f1c12d1423d99eb6fa3d7868325f1c277f260.html",
+      "bytes": 170552
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2026,
+    "month": 3,
+    "avg_price": 9461,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km2026/",
+    "fetched_at": "2026-09-24T12:20:58.148730+00:00",
+    "raw": {
+      "sha256": "b9e66d415c5335b33d9c8f87371f1c12d1423d99eb6fa3d7868325f1c277f260",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\b9e66d415c5335b33d9c8f87371f1c12d1423d99eb6fa3d7868325f1c277f260.html",
+      "bytes": 170552
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2026,
+    "month": 4,
+    "avg_price": 9383,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km2026/",
+    "fetched_at": "2026-09-24T12:20:58.148730+00:00",
+    "raw": {
+      "sha256": "b9e66d415c5335b33d9c8f87371f1c12d1423d99eb6fa3d7868325f1c277f260",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\b9e66d415c5335b33d9c8f87371f1c12d1423d99eb6fa3d7868325f1c277f260.html",
+      "bytes": 170552
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2026,
+    "month": 5,
+    "avg_price": 9305,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km2026/",
+    "fetched_at": "2026-09-24T12:20:58.148730+00:00",
+    "raw": {
+      "sha256": "b9e66d415c5335b33d9c8f87371f1c12d1423d99eb6fa3d7868325f1c277f260",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\b9e66d415c5335b33d9c8f87371f1c12d1423d99eb6fa3d7868325f1c277f260.html",
+      "bytes": 170552
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2026,
+    "month": 6,
+    "avg_price": 9254,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km2026/",
+    "fetched_at": "2026-09-24T12:20:58.148730+00:00",
+    "raw": {
+      "sha256": "b9e66d415c5335b33d9c8f87371f1c12d1423d99eb6fa3d7868325f1c277f260",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\b9e66d415c5335b33d9c8f87371f1c12d1423d99eb6fa3d7868325f1c277f260.html",
+      "bytes": 170552
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2026,
+    "month": 7,
+    "avg_price": 9198,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km2026/",
+    "fetched_at": "2026-09-24T12:20:58.148730+00:00",
+    "raw": {
+      "sha256": "b9e66d415c5335b33d9c8f87371f1c12d1423d99eb6fa3d7868325f1c277f260",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\b9e66d415c5335b33d9c8f87371f1c12d1423d99eb6fa3d7868325f1c277f260.html",
+      "bytes": 170552
+    }
+  },
+  {
+    "city": "昆明",
+    "city_pinyin": "kunming",
+    "year": 2026,
+    "month": 8,
+    "avg_price": 9193,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/km2026/",
+    "fetched_at": "2026-09-24T12:20:58.148730+00:00",
+    "raw": {
+      "sha256": "b9e66d415c5335b33d9c8f87371f1c12d1423d99eb6fa3d7868325f1c277f260",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\b9e66d415c5335b33d9c8f87371f1c12d1423d99eb6fa3d7868325f1c277f260.html",
+      "bytes": 170552
+    }
+  }
+]

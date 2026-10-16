@@ -1,0 +1,1602 @@
+[
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2010,
+    "month": 8,
+    "avg_price": 7616,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2010,
+    "month": 9,
+    "avg_price": 7656,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2010,
+    "month": 10,
+    "avg_price": 7726,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2010,
+    "month": 11,
+    "avg_price": 7809,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2010,
+    "month": 12,
+    "avg_price": 7940,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2011,
+    "month": 8,
+    "avg_price": 8794,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2011,
+    "month": 9,
+    "avg_price": 8770,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2011,
+    "month": 10,
+    "avg_price": 8719,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2011,
+    "month": 11,
+    "avg_price": 8697,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2011,
+    "month": 12,
+    "avg_price": 8576,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2012,
+    "month": 8,
+    "avg_price": 8428,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2012,
+    "month": 9,
+    "avg_price": 8484,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2012,
+    "month": 10,
+    "avg_price": 8519,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2012,
+    "month": 11,
+    "avg_price": 8474,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2012,
+    "month": 12,
+    "avg_price": 8485,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2013,
+    "month": 8,
+    "avg_price": 8789,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2013,
+    "month": 9,
+    "avg_price": 8918,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2013,
+    "month": 10,
+    "avg_price": 9051,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2013,
+    "month": 11,
+    "avg_price": 9105,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2013,
+    "month": 12,
+    "avg_price": 9158,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2014,
+    "month": 8,
+    "avg_price": 9337,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2014,
+    "month": 9,
+    "avg_price": 9282,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2014,
+    "month": 10,
+    "avg_price": 9259,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2014,
+    "month": 11,
+    "avg_price": 9322,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2014,
+    "month": 12,
+    "avg_price": 9341,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2015,
+    "month": 8,
+    "avg_price": 9250,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2015,
+    "month": 9,
+    "avg_price": 9346,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2015,
+    "month": 10,
+    "avg_price": 9372,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2015,
+    "month": 11,
+    "avg_price": 9525,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2015,
+    "month": 12,
+    "avg_price": 9281,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2016,
+    "month": 8,
+    "avg_price": 9748,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2016,
+    "month": 9,
+    "avg_price": 9857,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2016,
+    "month": 10,
+    "avg_price": 10498,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2016,
+    "month": 11,
+    "avg_price": 11215,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2016,
+    "month": 12,
+    "avg_price": 11667,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2017,
+    "month": 8,
+    "avg_price": 15056,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2017,
+    "month": 9,
+    "avg_price": 15316,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2017,
+    "month": 10,
+    "avg_price": 15534,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2017,
+    "month": 11,
+    "avg_price": 15766,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2017,
+    "month": 12,
+    "avg_price": 15842,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2018,
+    "month": 8,
+    "avg_price": 16714,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2018,
+    "month": 9,
+    "avg_price": 16928,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2018,
+    "month": 10,
+    "avg_price": 17111,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2018,
+    "month": 11,
+    "avg_price": 17900,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2018,
+    "month": 12,
+    "avg_price": 17674,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2019,
+    "month": 8,
+    "avg_price": 17005,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2019,
+    "month": 9,
+    "avg_price": 16700,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2019,
+    "month": 10,
+    "avg_price": 16477,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2019,
+    "month": 11,
+    "avg_price": 16284,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2019,
+    "month": 12,
+    "avg_price": 16048,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2020,
+    "month": 8,
+    "avg_price": 15437,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2020,
+    "month": 9,
+    "avg_price": 15210,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2020,
+    "month": 10,
+    "avg_price": 15347,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2020,
+    "month": 11,
+    "avg_price": 15285,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2020,
+    "month": 12,
+    "avg_price": 15295,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2021,
+    "month": 1,
+    "avg_price": 15356,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2021,
+    "month": 2,
+    "avg_price": 15528,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2021,
+    "month": 3,
+    "avg_price": 15837,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2021,
+    "month": 4,
+    "avg_price": 15707,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2021,
+    "month": 5,
+    "avg_price": 15646,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2021,
+    "month": 6,
+    "avg_price": 15850,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2021,
+    "month": 7,
+    "avg_price": 16012,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2021,
+    "month": 8,
+    "avg_price": 15810,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2021,
+    "month": 9,
+    "avg_price": 15646,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2021,
+    "month": 10,
+    "avg_price": 15491,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2021,
+    "month": 11,
+    "avg_price": 15352,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2021,
+    "month": 12,
+    "avg_price": 15325,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2022,
+    "month": 1,
+    "avg_price": 15418,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2022,
+    "month": 2,
+    "avg_price": 15630,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2022,
+    "month": 3,
+    "avg_price": 15832,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2022,
+    "month": 4,
+    "avg_price": 15814,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2022,
+    "month": 5,
+    "avg_price": 15758,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2022,
+    "month": 6,
+    "avg_price": 16015,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2022,
+    "month": 7,
+    "avg_price": 16478,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2022,
+    "month": 8,
+    "avg_price": 16313,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2022,
+    "month": 9,
+    "avg_price": 16315,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2022,
+    "month": 10,
+    "avg_price": 16071,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2022,
+    "month": 11,
+    "avg_price": 15907,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2022,
+    "month": 12,
+    "avg_price": 16061,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2023,
+    "month": 1,
+    "avg_price": 15786,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2023,
+    "month": 2,
+    "avg_price": 16215,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2023,
+    "month": 3,
+    "avg_price": 16332,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2023,
+    "month": 4,
+    "avg_price": 16349,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2023,
+    "month": 5,
+    "avg_price": 16362,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2023,
+    "month": 6,
+    "avg_price": 16127,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2023,
+    "month": 7,
+    "avg_price": 16005,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2023,
+    "month": 8,
+    "avg_price": 15983,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2023,
+    "month": 9,
+    "avg_price": 15927,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2023,
+    "month": 10,
+    "avg_price": 15822,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2023,
+    "month": 11,
+    "avg_price": 15567,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2023,
+    "month": 12,
+    "avg_price": 15142,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2024,
+    "month": 1,
+    "avg_price": 15320,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2024,
+    "month": 2,
+    "avg_price": 15631,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2024,
+    "month": 3,
+    "avg_price": 15385,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2024,
+    "month": 4,
+    "avg_price": 15039,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2024,
+    "month": 5,
+    "avg_price": 14758,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2024,
+    "month": 6,
+    "avg_price": 14325,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2024,
+    "month": 7,
+    "avg_price": 14157,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2024,
+    "month": 8,
+    "avg_price": 14045,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2024,
+    "month": 9,
+    "avg_price": 14056,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2024,
+    "month": 10,
+    "avg_price": 13892,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2024,
+    "month": 11,
+    "avg_price": 13872,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2024,
+    "month": 12,
+    "avg_price": 13847,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2025,
+    "month": 1,
+    "avg_price": 14051,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2025,
+    "month": 2,
+    "avg_price": 14411,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2025,
+    "month": 3,
+    "avg_price": 14554,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2025,
+    "month": 4,
+    "avg_price": 14564,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2025,
+    "month": 5,
+    "avg_price": 14249,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2025,
+    "month": 6,
+    "avg_price": 13997,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2025,
+    "month": 7,
+    "avg_price": 13893,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2025,
+    "month": 8,
+    "avg_price": 13733,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2025,
+    "month": 9,
+    "avg_price": 13592,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2025,
+    "month": 10,
+    "avg_price": 13538,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2025,
+    "month": 11,
+    "avg_price": 13461,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2025,
+    "month": 12,
+    "avg_price": 13308,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan/",
+    "fetched_at": "2026-09-24T06:16:34.876139+00:00",
+    "raw": {
+      "sha256": "9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\9e76c6e70199bc2f9f88dda7d957f31058646c961dab3ca4ec6992d5e9a801d9.html",
+      "bytes": 130941
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2026,
+    "month": 1,
+    "avg_price": 13239,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan2026/",
+    "fetched_at": "2026-09-24T06:16:33.553433+00:00",
+    "raw": {
+      "sha256": "3593017755afa70930261cdb1874e2540788984bc9831341fa9bb31e8bd0763a",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3593017755afa70930261cdb1874e2540788984bc9831341fa9bb31e8bd0763a.html",
+      "bytes": 191416
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2026,
+    "month": 2,
+    "avg_price": 13240,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan2026/",
+    "fetched_at": "2026-09-24T06:16:33.553433+00:00",
+    "raw": {
+      "sha256": "3593017755afa70930261cdb1874e2540788984bc9831341fa9bb31e8bd0763a",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3593017755afa70930261cdb1874e2540788984bc9831341fa9bb31e8bd0763a.html",
+      "bytes": 191416
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2026,
+    "month": 3,
+    "avg_price": 12922,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan2026/",
+    "fetched_at": "2026-09-24T06:16:33.553433+00:00",
+    "raw": {
+      "sha256": "3593017755afa70930261cdb1874e2540788984bc9831341fa9bb31e8bd0763a",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3593017755afa70930261cdb1874e2540788984bc9831341fa9bb31e8bd0763a.html",
+      "bytes": 191416
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2026,
+    "month": 4,
+    "avg_price": 13112,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan2026/",
+    "fetched_at": "2026-09-24T06:16:33.553433+00:00",
+    "raw": {
+      "sha256": "3593017755afa70930261cdb1874e2540788984bc9831341fa9bb31e8bd0763a",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3593017755afa70930261cdb1874e2540788984bc9831341fa9bb31e8bd0763a.html",
+      "bytes": 191416
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2026,
+    "month": 5,
+    "avg_price": 13076,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan2026/",
+    "fetched_at": "2026-09-24T06:16:33.553433+00:00",
+    "raw": {
+      "sha256": "3593017755afa70930261cdb1874e2540788984bc9831341fa9bb31e8bd0763a",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3593017755afa70930261cdb1874e2540788984bc9831341fa9bb31e8bd0763a.html",
+      "bytes": 191416
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2026,
+    "month": 6,
+    "avg_price": 13049,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan2026/",
+    "fetched_at": "2026-09-24T06:16:33.553433+00:00",
+    "raw": {
+      "sha256": "3593017755afa70930261cdb1874e2540788984bc9831341fa9bb31e8bd0763a",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3593017755afa70930261cdb1874e2540788984bc9831341fa9bb31e8bd0763a.html",
+      "bytes": 191416
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2026,
+    "month": 7,
+    "avg_price": 12987,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan2026/",
+    "fetched_at": "2026-09-24T06:16:33.553433+00:00",
+    "raw": {
+      "sha256": "3593017755afa70930261cdb1874e2540788984bc9831341fa9bb31e8bd0763a",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3593017755afa70930261cdb1874e2540788984bc9831341fa9bb31e8bd0763a.html",
+      "bytes": 191416
+    }
+  },
+  {
+    "city": "济南",
+    "city_pinyin": "jinan",
+    "year": 2026,
+    "month": 8,
+    "avg_price": 12775,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/jinan2026/",
+    "fetched_at": "2026-09-24T06:16:33.553433+00:00",
+    "raw": {
+      "sha256": "3593017755afa70930261cdb1874e2540788984bc9831341fa9bb31e8bd0763a",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3593017755afa70930261cdb1874e2540788984bc9831341fa9bb31e8bd0763a.html",
+      "bytes": 191416
+    }
+  }
+]

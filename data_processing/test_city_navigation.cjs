@@ -1,0 +1,18 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert');
+const sandbox={console,setTimeout,clearTimeout}; sandbox.window=sandbox;
+vm.runInNewContext(fs.readFileSync(__dirname+'/frontend/assets/vendor/vue.global.prod.js','utf8'),sandbox);
+const V=sandbox.Vue;
+let app,ctx;
+sandbox.Vue={...V,createApp:value=>{app=value;return {mount(){}};},provide:(_,value)=>{ctx=value;},onMounted(){}};
+sandbox.document={readyState:'complete'};
+sandbox.HP={dashCharts:{},dashComponents:{CTX:'hpCtx',components:{},setChartsLib(){}}};
+vm.runInNewContext(fs.readFileSync(__dirname+'/frontend/assets/js/dashboard/app.js','utf8'),sandbox);
+app.setup();
+assert.equal(ctx.openStreetMap,undefined,'unpublished community map has no dashboard action');
+ctx.openOnMap({city:'南宁'});
+assert.equal(ctx.infoView.value,'city'); assert.equal(ctx.tab.value,'information');
+assert.equal(ctx.mapSelectedCity.value.city,'南宁');
+ctx.cityMonth.value='2026-07'; ctx.openOnMap({city:'上海'});
+assert.equal(ctx.cityMonth.value,'','ranking navigation selects the latest available month');
+assert.equal(ctx.mapSelectedCity.value.city,'上海');
+console.log('City navigation passed: ranking opens city analysis at its latest month.');

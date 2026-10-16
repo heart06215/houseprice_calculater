@@ -1,0 +1,1602 @@
+[
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2010,
+    "month": 8,
+    "avg_price": 5334,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2010,
+    "month": 9,
+    "avg_price": 5423,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2010,
+    "month": 10,
+    "avg_price": 5594,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2010,
+    "month": 11,
+    "avg_price": 5815,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2010,
+    "month": 12,
+    "avg_price": 6016,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2011,
+    "month": 8,
+    "avg_price": 6811,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2011,
+    "month": 9,
+    "avg_price": 6773,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2011,
+    "month": 10,
+    "avg_price": 6728,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2011,
+    "month": 11,
+    "avg_price": 6657,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2011,
+    "month": 12,
+    "avg_price": 6583,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2012,
+    "month": 8,
+    "avg_price": 6474,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2012,
+    "month": 9,
+    "avg_price": 6476,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2012,
+    "month": 10,
+    "avg_price": 6498,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2012,
+    "month": 11,
+    "avg_price": 6535,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2012,
+    "month": 12,
+    "avg_price": 6550,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2013,
+    "month": 8,
+    "avg_price": 6771,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2013,
+    "month": 9,
+    "avg_price": 6811,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2013,
+    "month": 10,
+    "avg_price": 6858,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2013,
+    "month": 11,
+    "avg_price": 6896,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2013,
+    "month": 12,
+    "avg_price": 6896,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2014,
+    "month": 8,
+    "avg_price": 6800,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2014,
+    "month": 9,
+    "avg_price": 6775,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2014,
+    "month": 10,
+    "avg_price": 6731,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2014,
+    "month": 11,
+    "avg_price": 6733,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2014,
+    "month": 12,
+    "avg_price": 6718,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2015,
+    "month": 8,
+    "avg_price": 6423,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2015,
+    "month": 9,
+    "avg_price": 6395,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2015,
+    "month": 10,
+    "avg_price": 6360,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2015,
+    "month": 11,
+    "avg_price": 6337,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2015,
+    "month": 12,
+    "avg_price": 6289,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2016,
+    "month": 8,
+    "avg_price": 6966,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2016,
+    "month": 9,
+    "avg_price": 7019,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2016,
+    "month": 10,
+    "avg_price": 7059,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2016,
+    "month": 11,
+    "avg_price": 7132,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2016,
+    "month": 12,
+    "avg_price": 7493,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2017,
+    "month": 8,
+    "avg_price": 9466,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2017,
+    "month": 9,
+    "avg_price": 9634,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2017,
+    "month": 10,
+    "avg_price": 9762,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2017,
+    "month": 11,
+    "avg_price": 9856,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2017,
+    "month": 12,
+    "avg_price": 9925,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2018,
+    "month": 8,
+    "avg_price": 12966,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2018,
+    "month": 9,
+    "avg_price": 12859,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2018,
+    "month": 10,
+    "avg_price": 12592,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2018,
+    "month": 11,
+    "avg_price": 12294,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2018,
+    "month": 12,
+    "avg_price": 12080,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2019,
+    "month": 8,
+    "avg_price": 12017,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2019,
+    "month": 9,
+    "avg_price": 11922,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2019,
+    "month": 10,
+    "avg_price": 11703,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2019,
+    "month": 11,
+    "avg_price": 11486,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2019,
+    "month": 12,
+    "avg_price": 11187,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2020,
+    "month": 8,
+    "avg_price": 11426,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2020,
+    "month": 9,
+    "avg_price": 11372,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2020,
+    "month": 10,
+    "avg_price": 11325,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2020,
+    "month": 11,
+    "avg_price": 11302,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2020,
+    "month": 12,
+    "avg_price": 11275,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2021,
+    "month": 1,
+    "avg_price": 11364,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2021,
+    "month": 2,
+    "avg_price": 11556,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2021,
+    "month": 3,
+    "avg_price": 11652,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2021,
+    "month": 4,
+    "avg_price": 11745,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2021,
+    "month": 5,
+    "avg_price": 12017,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2021,
+    "month": 6,
+    "avg_price": 12349,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2021,
+    "month": 7,
+    "avg_price": 12545,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2021,
+    "month": 8,
+    "avg_price": 12657,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2021,
+    "month": 9,
+    "avg_price": 12585,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2021,
+    "month": 10,
+    "avg_price": 12549,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2021,
+    "month": 11,
+    "avg_price": 12480,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2021,
+    "month": 12,
+    "avg_price": 12439,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2022,
+    "month": 1,
+    "avg_price": 12393,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2022,
+    "month": 2,
+    "avg_price": 12624,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2022,
+    "month": 3,
+    "avg_price": 12600,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2022,
+    "month": 4,
+    "avg_price": 12449,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2022,
+    "month": 5,
+    "avg_price": 12334,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2022,
+    "month": 6,
+    "avg_price": 12254,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2022,
+    "month": 7,
+    "avg_price": 12256,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2022,
+    "month": 8,
+    "avg_price": 12203,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2022,
+    "month": 9,
+    "avg_price": 12076,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2022,
+    "month": 10,
+    "avg_price": 11922,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2022,
+    "month": 11,
+    "avg_price": 11692,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2022,
+    "month": 12,
+    "avg_price": 11659,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2023,
+    "month": 1,
+    "avg_price": 11582,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2023,
+    "month": 2,
+    "avg_price": 11740,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2023,
+    "month": 3,
+    "avg_price": 11700,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2023,
+    "month": 4,
+    "avg_price": 11548,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2023,
+    "month": 5,
+    "avg_price": 11424,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2023,
+    "month": 6,
+    "avg_price": 11347,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2023,
+    "month": 7,
+    "avg_price": 11332,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2023,
+    "month": 8,
+    "avg_price": 11221,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2023,
+    "month": 9,
+    "avg_price": 11007,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2023,
+    "month": 10,
+    "avg_price": 10829,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2023,
+    "month": 11,
+    "avg_price": 10679,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2023,
+    "month": 12,
+    "avg_price": 10559,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2024,
+    "month": 1,
+    "avg_price": 10458,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2024,
+    "month": 2,
+    "avg_price": 10358,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2024,
+    "month": 3,
+    "avg_price": 10364,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2024,
+    "month": 4,
+    "avg_price": 10227,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2024,
+    "month": 5,
+    "avg_price": 10114,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2024,
+    "month": 6,
+    "avg_price": 10103,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2024,
+    "month": 7,
+    "avg_price": 10066,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2024,
+    "month": 8,
+    "avg_price": 9918,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2024,
+    "month": 9,
+    "avg_price": 9752,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2024,
+    "month": 10,
+    "avg_price": 9574,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2024,
+    "month": 11,
+    "avg_price": 9424,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2024,
+    "month": 12,
+    "avg_price": 9286,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2025,
+    "month": 1,
+    "avg_price": 9224,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2025,
+    "month": 2,
+    "avg_price": 9233,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2025,
+    "month": 3,
+    "avg_price": 9220,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2025,
+    "month": 4,
+    "avg_price": 9168,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2025,
+    "month": 5,
+    "avg_price": 9080,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2025,
+    "month": 6,
+    "avg_price": 8984,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2025,
+    "month": 7,
+    "avg_price": 8995,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2025,
+    "month": 8,
+    "avg_price": 8895,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2025,
+    "month": 9,
+    "avg_price": 8738,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2025,
+    "month": 10,
+    "avg_price": 8603,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2025,
+    "month": 11,
+    "avg_price": 8504,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2025,
+    "month": 12,
+    "avg_price": 8386,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing/",
+    "fetched_at": "2026-09-20T10:05:49.747432+00:00",
+    "raw": {
+      "sha256": "ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ce96f14e793d3b62196436118e21c0a116363d0a26e686b77391402d0bc34ecb.html",
+      "bytes": 133327
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2026,
+    "month": 1,
+    "avg_price": 8319,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing2026/",
+    "fetched_at": "2026-09-20T10:05:48.419573+00:00",
+    "raw": {
+      "sha256": "87933e04dd79ba02b69d94d210ea9de8df920c4b92ce57a1d340c825b24c48e4",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\87933e04dd79ba02b69d94d210ea9de8df920c4b92ce57a1d340c825b24c48e4.html",
+      "bytes": 193640
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2026,
+    "month": 2,
+    "avg_price": 8211,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing2026/",
+    "fetched_at": "2026-09-20T10:05:48.419573+00:00",
+    "raw": {
+      "sha256": "87933e04dd79ba02b69d94d210ea9de8df920c4b92ce57a1d340c825b24c48e4",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\87933e04dd79ba02b69d94d210ea9de8df920c4b92ce57a1d340c825b24c48e4.html",
+      "bytes": 193640
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2026,
+    "month": 3,
+    "avg_price": 8320,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing2026/",
+    "fetched_at": "2026-09-20T10:05:48.419573+00:00",
+    "raw": {
+      "sha256": "87933e04dd79ba02b69d94d210ea9de8df920c4b92ce57a1d340c825b24c48e4",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\87933e04dd79ba02b69d94d210ea9de8df920c4b92ce57a1d340c825b24c48e4.html",
+      "bytes": 193640
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2026,
+    "month": 4,
+    "avg_price": 8251,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing2026/",
+    "fetched_at": "2026-09-20T10:05:48.419573+00:00",
+    "raw": {
+      "sha256": "87933e04dd79ba02b69d94d210ea9de8df920c4b92ce57a1d340c825b24c48e4",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\87933e04dd79ba02b69d94d210ea9de8df920c4b92ce57a1d340c825b24c48e4.html",
+      "bytes": 193640
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2026,
+    "month": 5,
+    "avg_price": 8150,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing2026/",
+    "fetched_at": "2026-09-20T10:05:48.419573+00:00",
+    "raw": {
+      "sha256": "87933e04dd79ba02b69d94d210ea9de8df920c4b92ce57a1d340c825b24c48e4",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\87933e04dd79ba02b69d94d210ea9de8df920c4b92ce57a1d340c825b24c48e4.html",
+      "bytes": 193640
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2026,
+    "month": 6,
+    "avg_price": 8450,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing2026/",
+    "fetched_at": "2026-09-20T10:05:48.419573+00:00",
+    "raw": {
+      "sha256": "87933e04dd79ba02b69d94d210ea9de8df920c4b92ce57a1d340c825b24c48e4",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\87933e04dd79ba02b69d94d210ea9de8df920c4b92ce57a1d340c825b24c48e4.html",
+      "bytes": 193640
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2026,
+    "month": 7,
+    "avg_price": 8677,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing2026/",
+    "fetched_at": "2026-09-20T10:05:48.419573+00:00",
+    "raw": {
+      "sha256": "87933e04dd79ba02b69d94d210ea9de8df920c4b92ce57a1d340c825b24c48e4",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\87933e04dd79ba02b69d94d210ea9de8df920c4b92ce57a1d340c825b24c48e4.html",
+      "bytes": 193640
+    }
+  },
+  {
+    "city": "重庆",
+    "city_pinyin": "chongqing",
+    "year": 2026,
+    "month": 8,
+    "avg_price": 9063,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/chongqing2026/",
+    "fetched_at": "2026-09-20T10:05:48.419573+00:00",
+    "raw": {
+      "sha256": "87933e04dd79ba02b69d94d210ea9de8df920c4b92ce57a1d340c825b24c48e4",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\87933e04dd79ba02b69d94d210ea9de8df920c4b92ce57a1d340c825b24c48e4.html",
+      "bytes": 193640
+    }
+  }
+]

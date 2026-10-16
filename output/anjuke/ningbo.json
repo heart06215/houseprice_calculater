@@ -1,0 +1,1527 @@
+[
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2011,
+    "month": 8,
+    "avg_price": 16268,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2011,
+    "month": 9,
+    "avg_price": 16277,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2011,
+    "month": 10,
+    "avg_price": 16227,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2011,
+    "month": 11,
+    "avg_price": 15706,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2011,
+    "month": 12,
+    "avg_price": 15458,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2012,
+    "month": 8,
+    "avg_price": 15587,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2012,
+    "month": 9,
+    "avg_price": 15531,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2012,
+    "month": 10,
+    "avg_price": 15363,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2012,
+    "month": 11,
+    "avg_price": 15337,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2012,
+    "month": 12,
+    "avg_price": 15342,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2013,
+    "month": 8,
+    "avg_price": 15700,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2013,
+    "month": 9,
+    "avg_price": 15636,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2013,
+    "month": 10,
+    "avg_price": 15690,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2013,
+    "month": 11,
+    "avg_price": 15536,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2013,
+    "month": 12,
+    "avg_price": 15461,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2014,
+    "month": 8,
+    "avg_price": 14346,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2014,
+    "month": 9,
+    "avg_price": 14498,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2014,
+    "month": 10,
+    "avg_price": 14592,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2014,
+    "month": 11,
+    "avg_price": 14332,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2014,
+    "month": 12,
+    "avg_price": 14350,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2015,
+    "month": 8,
+    "avg_price": 11694,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2015,
+    "month": 9,
+    "avg_price": 12093,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2015,
+    "month": 10,
+    "avg_price": 12150,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2015,
+    "month": 11,
+    "avg_price": 12273,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2015,
+    "month": 12,
+    "avg_price": 12250,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2016,
+    "month": 8,
+    "avg_price": 13082,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2016,
+    "month": 9,
+    "avg_price": 13116,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2016,
+    "month": 10,
+    "avg_price": 13321,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2016,
+    "month": 11,
+    "avg_price": 13509,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2016,
+    "month": 12,
+    "avg_price": 13857,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2017,
+    "month": 8,
+    "avg_price": 16418,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2017,
+    "month": 9,
+    "avg_price": 16377,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2017,
+    "month": 10,
+    "avg_price": 16309,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2017,
+    "month": 11,
+    "avg_price": 16714,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2017,
+    "month": 12,
+    "avg_price": 17037,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2018,
+    "month": 8,
+    "avg_price": 20436,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2018,
+    "month": 9,
+    "avg_price": 20438,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2018,
+    "month": 10,
+    "avg_price": 20528,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2018,
+    "month": 11,
+    "avg_price": 20445,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2018,
+    "month": 12,
+    "avg_price": 20313,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2019,
+    "month": 8,
+    "avg_price": 21828,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2019,
+    "month": 9,
+    "avg_price": 22090,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2019,
+    "month": 10,
+    "avg_price": 22294,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2019,
+    "month": 11,
+    "avg_price": 22454,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2019,
+    "month": 12,
+    "avg_price": 22814,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2020,
+    "month": 8,
+    "avg_price": 24738,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2020,
+    "month": 9,
+    "avg_price": 25183,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2020,
+    "month": 10,
+    "avg_price": 25490,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2020,
+    "month": 11,
+    "avg_price": 25757,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2020,
+    "month": 12,
+    "avg_price": 26075,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2021,
+    "month": 1,
+    "avg_price": 26611,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2021,
+    "month": 2,
+    "avg_price": 26680,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2021,
+    "month": 3,
+    "avg_price": 26876,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2021,
+    "month": 4,
+    "avg_price": 27086,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2021,
+    "month": 5,
+    "avg_price": 27275,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2021,
+    "month": 6,
+    "avg_price": 27457,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2021,
+    "month": 7,
+    "avg_price": 28042,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2021,
+    "month": 8,
+    "avg_price": 27647,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2021,
+    "month": 9,
+    "avg_price": 27742,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2021,
+    "month": 10,
+    "avg_price": 27492,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2021,
+    "month": 11,
+    "avg_price": 27279,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2021,
+    "month": 12,
+    "avg_price": 27242,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2022,
+    "month": 1,
+    "avg_price": 27548,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2022,
+    "month": 2,
+    "avg_price": 27952,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2022,
+    "month": 3,
+    "avg_price": 27648,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2022,
+    "month": 4,
+    "avg_price": 27446,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2022,
+    "month": 5,
+    "avg_price": 27176,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2022,
+    "month": 6,
+    "avg_price": 27082,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2022,
+    "month": 7,
+    "avg_price": 27217,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2022,
+    "month": 8,
+    "avg_price": 26691,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2022,
+    "month": 9,
+    "avg_price": 26699,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2022,
+    "month": 10,
+    "avg_price": 26731,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2022,
+    "month": 11,
+    "avg_price": 26664,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2022,
+    "month": 12,
+    "avg_price": 26590,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2023,
+    "month": 1,
+    "avg_price": 27360,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2023,
+    "month": 2,
+    "avg_price": 27309,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2023,
+    "month": 3,
+    "avg_price": 26885,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2023,
+    "month": 4,
+    "avg_price": 26496,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2023,
+    "month": 5,
+    "avg_price": 26420,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2023,
+    "month": 6,
+    "avg_price": 25993,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2023,
+    "month": 7,
+    "avg_price": 25415,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2023,
+    "month": 8,
+    "avg_price": 24913,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2023,
+    "month": 9,
+    "avg_price": 24693,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2023,
+    "month": 10,
+    "avg_price": 24413,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2023,
+    "month": 11,
+    "avg_price": 24239,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2023,
+    "month": 12,
+    "avg_price": 23469,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2024,
+    "month": 1,
+    "avg_price": 23319,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2024,
+    "month": 2,
+    "avg_price": 23462,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2024,
+    "month": 3,
+    "avg_price": 22700,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2024,
+    "month": 4,
+    "avg_price": 22088,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2024,
+    "month": 5,
+    "avg_price": 21601,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2024,
+    "month": 6,
+    "avg_price": 20751,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2024,
+    "month": 7,
+    "avg_price": 20215,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2024,
+    "month": 8,
+    "avg_price": 19634,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2024,
+    "month": 9,
+    "avg_price": 19111,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2024,
+    "month": 10,
+    "avg_price": 18819,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2024,
+    "month": 11,
+    "avg_price": 18552,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2024,
+    "month": 12,
+    "avg_price": 18462,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2025,
+    "month": 1,
+    "avg_price": 18640,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2025,
+    "month": 2,
+    "avg_price": 18605,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2025,
+    "month": 3,
+    "avg_price": 18517,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2025,
+    "month": 4,
+    "avg_price": 18135,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2025,
+    "month": 5,
+    "avg_price": 17722,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2025,
+    "month": 6,
+    "avg_price": 17254,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2025,
+    "month": 7,
+    "avg_price": 17119,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2025,
+    "month": 8,
+    "avg_price": 16923,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2025,
+    "month": 9,
+    "avg_price": 16663,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2025,
+    "month": 10,
+    "avg_price": 16549,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2025,
+    "month": 11,
+    "avg_price": 16169,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2025,
+    "month": 12,
+    "avg_price": 15903,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb/",
+    "fetched_at": "2026-09-24T06:16:32.049126+00:00",
+    "raw": {
+      "sha256": "51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\51769461052f6bc932aebc54e6d6eb024ff3179d96a4421e3aaa4adf38ba7c85.html",
+      "bytes": 112720
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2026,
+    "month": 1,
+    "avg_price": 15725,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb2026/",
+    "fetched_at": "2026-09-24T06:16:30.731315+00:00",
+    "raw": {
+      "sha256": "e2834738e5f7bd0da7463d692810f8a1d07f09d916a656025dfd4d25476cc9e2",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\e2834738e5f7bd0da7463d692810f8a1d07f09d916a656025dfd4d25476cc9e2.html",
+      "bytes": 175029
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2026,
+    "month": 2,
+    "avg_price": 15802,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb2026/",
+    "fetched_at": "2026-09-24T06:16:30.731315+00:00",
+    "raw": {
+      "sha256": "e2834738e5f7bd0da7463d692810f8a1d07f09d916a656025dfd4d25476cc9e2",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\e2834738e5f7bd0da7463d692810f8a1d07f09d916a656025dfd4d25476cc9e2.html",
+      "bytes": 175029
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2026,
+    "month": 3,
+    "avg_price": 15671,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb2026/",
+    "fetched_at": "2026-09-24T06:16:30.731315+00:00",
+    "raw": {
+      "sha256": "e2834738e5f7bd0da7463d692810f8a1d07f09d916a656025dfd4d25476cc9e2",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\e2834738e5f7bd0da7463d692810f8a1d07f09d916a656025dfd4d25476cc9e2.html",
+      "bytes": 175029
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2026,
+    "month": 4,
+    "avg_price": 15516,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb2026/",
+    "fetched_at": "2026-09-24T06:16:30.731315+00:00",
+    "raw": {
+      "sha256": "e2834738e5f7bd0da7463d692810f8a1d07f09d916a656025dfd4d25476cc9e2",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\e2834738e5f7bd0da7463d692810f8a1d07f09d916a656025dfd4d25476cc9e2.html",
+      "bytes": 175029
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2026,
+    "month": 5,
+    "avg_price": 15429,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb2026/",
+    "fetched_at": "2026-09-24T06:16:30.731315+00:00",
+    "raw": {
+      "sha256": "e2834738e5f7bd0da7463d692810f8a1d07f09d916a656025dfd4d25476cc9e2",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\e2834738e5f7bd0da7463d692810f8a1d07f09d916a656025dfd4d25476cc9e2.html",
+      "bytes": 175029
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2026,
+    "month": 6,
+    "avg_price": 15257,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb2026/",
+    "fetched_at": "2026-09-24T06:16:30.731315+00:00",
+    "raw": {
+      "sha256": "e2834738e5f7bd0da7463d692810f8a1d07f09d916a656025dfd4d25476cc9e2",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\e2834738e5f7bd0da7463d692810f8a1d07f09d916a656025dfd4d25476cc9e2.html",
+      "bytes": 175029
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2026,
+    "month": 7,
+    "avg_price": 15182,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb2026/",
+    "fetched_at": "2026-09-24T06:16:30.731315+00:00",
+    "raw": {
+      "sha256": "e2834738e5f7bd0da7463d692810f8a1d07f09d916a656025dfd4d25476cc9e2",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\e2834738e5f7bd0da7463d692810f8a1d07f09d916a656025dfd4d25476cc9e2.html",
+      "bytes": 175029
+    }
+  },
+  {
+    "city": "宁波",
+    "city_pinyin": "ningbo",
+    "year": 2026,
+    "month": 8,
+    "avg_price": 15159,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nb2026/",
+    "fetched_at": "2026-09-24T06:16:30.731315+00:00",
+    "raw": {
+      "sha256": "e2834738e5f7bd0da7463d692810f8a1d07f09d916a656025dfd4d25476cc9e2",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\e2834738e5f7bd0da7463d692810f8a1d07f09d916a656025dfd4d25476cc9e2.html",
+      "bytes": 175029
+    }
+  }
+]

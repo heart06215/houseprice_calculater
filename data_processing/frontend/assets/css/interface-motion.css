@@ -1,0 +1,130 @@
+﻿/* Lightweight interface feedback. Background is static; no perpetual effects.
+   Inspiration: RhineLabUI's staggered material response, independently implemented. */
+:root {--motion-ease:cubic-bezier(.22,.7,.24,1);--motion-fast:160ms;--motion-panel:360ms;}
+
+/* Ink-cyan rules on paper glass; cinnabar corners accent large category controls. */
+.ranking-header {border-bottom-color:#d2d9d5;}
+.ranking-header::after {content:'';position:absolute;bottom:-1px;left:0;width:58px;height:2px;background:var(--accent-ink);transform-origin:left;animation:hp-rule-in 520ms var(--motion-ease) backwards;}
+.ranking-panel {box-shadow:var(--glass-shadow);}
+.ranking-category button,.ranking-toolbar select,.ranking-toolbar input,.ranking-action,.audit-controls select,.audit-controls input,.hub-tabs button {border-color:#c9d2cd;}
+.ranking-category button[aria-pressed=true] {border-color:#b9c4bd;color:var(--ink);}
+.ranking-category button::after {opacity:.35;}
+.ranking-summary>div::after {opacity:.2;}
+.ranking-summary strong {font-variant-numeric:tabular-nums;letter-spacing:0.01em;}
+.ranking-summary span,.ranking-toolbar label {letter-spacing:0.01em;}
+.chart-card-header,.detail-header {background:rgba(250,252,251,.85);}
+.ranking-panel .audit-table th {letter-spacing:0.01em;}
+.stat-item,.report-stats .stat-item,.release-grid article {border-top:2px solid #bcc8c1;border-color:#d5dcd7;}
+.hub-metrics>div {border-color:#d5dcd7;}
+.navbar .tabs button.active,.c-toolbar button.on,.type-chips .chip.sel {border-color:#a8b6ad;box-shadow:inset 0 -2px var(--accent-ink);}
+.header .badge.orange {background:#fff;color:#53656a;border-color:#d6ccb4;}
+
+/* Cyan marks identity and selection; dark labels preserve contrast on white glass. */
+.ranking-art{width:82px;height:82px;background:var(--tech-star) center/58px 58px no-repeat;filter:drop-shadow(0 0 3px var(--tech-glow));opacity:.92}
+.brand-mark{width:36px;height:36px;background:var(--tech-star) center/28px 28px no-repeat}
+.brand-mark::before,.brand-mark::after{content:none}
+.header h1 {position:relative;isolation:isolate;}
+.header h1::after {
+ content:'';position:absolute;pointer-events:none;left:18px;right:0;top:50%;height:5px;
+ transform:translateY(-50%);background:var(--tech-cyan);clip-path:polygon(0 0,100% 50%,0 100%);
+ opacity:.42;z-index:1;
+}
+.ranking-eyebrow::before,.audit-page:not(.ranking-panel) h2::before,.navbar .brand::before{width:22px;height:22px;background:var(--tech-star) center/18px 18px no-repeat}
+.ranking-category button::after,.ranking-summary>div::after{content:none}
+.hub-tabs button[aria-pressed=true],.ranking-category button[aria-pressed=true],.navbar .tabs button.active,.c-toolbar button.on,.type-chips .chip.sel{color:var(--ink);background:var(--surface);border-color:var(--tech-blue);box-shadow:inset 0 -2px var(--tech-cyan),0 0 6px var(--tech-glow)}
+.policy-chip{background:var(--surface);border-color:var(--border);color:var(--accent-ink)}
+.policy-chip.sel{background:var(--surface);border-color:var(--tech-blue);color:var(--ink);box-shadow:inset 0 -2px var(--tech-cyan)}
+.hub-metrics>div{border-left-width:2px;border-left-color:var(--accent-mist)}
+.card{border-color:var(--border);border-left-width:2px;border-left-color:var(--accent-mist)}
+.hub-tabs button:focus-visible,.ranking-category button:focus-visible,.nav-tabs button:focus-visible,.policy-chip:focus-visible,.navbar .tabs button:focus-visible,.type-chips .chip:focus-visible{outline:2px solid var(--tech-blue);outline-offset:3px}
+
+/* App/page switching: one short exit, then one entrance, no overlapping charts. */
+.hp-pane-enter-active {transition:opacity var(--motion-panel) var(--motion-ease),transform var(--motion-panel) var(--motion-ease);}
+.hp-pane-leave-active {transition:opacity 120ms ease;}
+.hp-pane-enter-from {opacity:0;transform:translateY(7px);}
+.hp-pane-leave-to {opacity:0;}
+.ranking-header {animation:hp-content-in 420ms var(--motion-ease);}
+.ranking-summary>div {animation:hp-content-in 340ms var(--motion-ease) backwards;}
+.ranking-summary>div:nth-child(2) {animation-delay:45ms;}
+.ranking-summary>div:nth-child(3) {animation-delay:90ms;}
+.ranking-art {animation:hp-wave-in 650ms var(--motion-ease);}
+.ranking-bar i {transform-origin:left;animation:hp-rule-in 450ms var(--motion-ease);transition:width 320ms var(--motion-ease),background-color var(--motion-fast) ease;}
+.release-grid article:nth-child(-n+12),.hub-metrics>div {animation:hp-content-in 360ms var(--motion-ease) backwards;}
+.release-grid article:nth-child(3n+2),.hub-metrics>div:nth-child(2) {animation-delay:45ms;}
+.release-grid article:nth-child(3n),.hub-metrics>div:nth-child(3) {animation-delay:90ms;}
+
+/* Pointer and keyboard feedback. Never transform maps, table rows or sticky cells. */
+.nav-tabs button,.hub-tabs button,.ranking-category button,.ranking-action,.policy-chip,.c-toolbar button,.navbar .tabs button,.type-chips .chip,.fbtn {transition:background-color var(--motion-fast) ease,border-color var(--motion-fast) ease,color var(--motion-fast) ease,box-shadow var(--motion-fast) ease,transform var(--motion-fast) var(--motion-ease);}
+.nav-tabs button.nav-tab {position:relative;background:transparent;}
+.nav-tabs .nav-tab.active {background:#ffffffcf;border-bottom-color:transparent;}
+.nav-tabs .nav-tab::after {content:'';position:absolute;bottom:-1px;left:20px;right:20px;height:2px;background:var(--tech-cyan);box-shadow:0 0 5px var(--tech-glow);transform:scaleX(0);transform-origin:center;transition:transform 240ms var(--motion-ease);pointer-events:none;}
+.nav-tabs .nav-tab.active::after {transform:scaleX(1);}
+.ranking-toolbar input,.ranking-toolbar select,.audit-controls input,.audit-controls select {transition:border-color var(--motion-fast),box-shadow var(--motion-fast);}
+.ranking-toolbar input:focus,.ranking-toolbar select:focus {border-color:var(--tech-blue);box-shadow:0 0 0 3px var(--tech-glow);}
+.ranking-panel .audit-table td,.ranking-tier {transition:background-color 140ms ease,border-color 140ms ease;}
+.ranking-tier {box-shadow:0 0 0 transparent;}
+.rank-city-link {transition:color var(--motion-fast),border-color var(--motion-fast);}
+:root:not(.hp-motion-ready) .ranking-action:active,:root:not(.hp-motion-ready) .ranking-category button:active,:root:not(.hp-motion-ready) .hub-tabs button:active,:root:not(.hp-motion-ready) .fbtn:active {transform:translateY(1px);}
+@media(hover:hover) and (pointer:fine) {
+ .ranking-category button:hover,.ranking-action:hover,.hub-tabs button:hover {background:var(--accent-wash);border-color:var(--accent-ink);}
+}
+
+/* Map panels fade; map tile geometry and the detail-panel slide stay intact. */
+.map-shell .view.active {animation:hp-fade-in 260ms ease;}
+.map-shell #filter-panel,.map-shell .c-toolbar {animation:hp-fade-in 300ms ease;}
+.map-shell #detail-panel {transition:transform 260ms var(--motion-ease);}
+.map-shell .n-tip {animation:hp-fade-in 180ms ease;}
+
+@keyframes hp-content-in {from {opacity:0;transform:translateY(6px);} to {opacity:1;transform:translateY(0);}}
+@keyframes hp-fade-in {from {opacity:0;} to {opacity:1;}}
+@keyframes hp-rule-in {from {transform:scaleX(.05);opacity:.4;} to {transform:scaleX(1);opacity:1;}}
+@keyframes hp-wave-in {from {opacity:.25;transform:translateX(8px);} to {opacity:1;transform:translateX(0);}}
+@media(prefers-reduced-motion:reduce) {
+ *,*::before,*::after {animation:none!important;transition:none!important;scroll-behavior:auto!important;}
+ .hp-pane-enter-from,.hp-pane-leave-to {opacity:1;transform:none;}
+}
+@media print {*,*::before,*::after {animation:none!important;transition:none!important;}}
+
+/* Motion owns button transforms; CSS retains persistent states and no-JS feedback. */
+.hp-motion-ready button,.hp-motion-ready .community-actions a,.hp-motion-ready .n-tip .btn {
+ transition:background-color 140ms ease-out,border-color 140ms ease-out,color 140ms ease-out,box-shadow 140ms ease-out;
+}
+button:disabled,button[aria-disabled=true],button[aria-busy=true] {cursor:not-allowed;opacity:.5;}
+.ranking-category button[aria-pressed=true],.hub-tabs button[aria-pressed=true],.analysis-modes button[aria-pressed=true],.navbar .tabs button.active,.c-toolbar button.on,.type-chips .chip.sel {
+ background:var(--accent-wash);color:var(--ink);border-color:var(--tech-blue);box-shadow:inset 0 -2px var(--tech-cyan),0 0 5px var(--tech-glow);
+}
+.ranking-header::after {background:var(--accent-mist);width:72px;}
+.ranking-summary {border-top:2px solid var(--accent-mist);}
+.ranking-action {background:var(--accent-wash);}
+
+/* Four concave seal corners, drawn in CSS independently of the poster artwork. */
+.ranking-category button::before {
+ content:'';position:absolute;inset:5px;pointer-events:none;opacity:.52;
+ background:
+  radial-gradient(circle at 100% 100%,transparent 5px,var(--seal-red) 5.5px) top left/9px 9px no-repeat,
+  radial-gradient(circle at 0 100%,transparent 5px,var(--seal-red) 5.5px) top right/9px 9px no-repeat,
+  radial-gradient(circle at 100% 0,transparent 5px,var(--seal-red) 5.5px) bottom left/9px 9px no-repeat,
+  radial-gradient(circle at 0 0,transparent 5px,var(--seal-red) 5.5px) bottom right/9px 9px no-repeat;
+}
+.ranking-category button {padding:16px 21px;background-color:rgba(248,249,249,.86);}
+.ranking-category button[aria-pressed=true] {background-color:var(--accent-wash);}
+.ranking-category button:disabled::before {opacity:.3;}
+@media(max-width:700px) {.ranking-category button {padding:16px 10px;}.ranking-category button::before {inset:4px;background-size:7px 7px;}}
+
+/* 2026-10-11 subtle motion polish: tabs/cards/focus; reduced-motion already gated above. */
+.chart-card,.hub-metrics>div,.cih-sample-panel,.mortgage-panel,.income-panel,.stat-item,.report-stats .stat-item {
+ transition:box-shadow var(--motion-fast) ease,border-color var(--motion-fast) ease;
+}
+@media(hover:hover) and (pointer:fine) {
+ /* Hover float/lift removed 2026-10-11; keep color feedback from theme layers only. */
+ .chart-card:hover,.hub-metrics>div:hover,.cih-sample-panel:hover,.stat-item:hover,.src-card:hover,.release-grid article:hover {
+  border-color:#b7c7c4;
+ }
+}
+.hub-tabs button,.ranking-category button,.analysis-modes button,.nav-tabs button.nav-tab {
+ transition:background-color var(--motion-fast) ease,border-color var(--motion-fast) ease,color var(--motion-fast) ease,box-shadow var(--motion-fast) ease,transform var(--motion-fast) var(--motion-ease);
+}
+button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible {
+ transition:outline-offset 120ms var(--motion-ease),box-shadow var(--motion-fast) ease;
+}
+.hp-pane-enter-from {opacity:0;transform:translateY(5px);}

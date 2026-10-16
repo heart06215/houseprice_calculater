@@ -1,0 +1,1637 @@
+[
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2010,
+    "month": 8,
+    "avg_price": 14822,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2010,
+    "month": 9,
+    "avg_price": 15327,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2010,
+    "month": 10,
+    "avg_price": 15997,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2010,
+    "month": 11,
+    "avg_price": 16108,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2010,
+    "month": 12,
+    "avg_price": 16645,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2011,
+    "month": 8,
+    "avg_price": 18778,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2011,
+    "month": 9,
+    "avg_price": 18613,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2011,
+    "month": 10,
+    "avg_price": 18338,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2011,
+    "month": 11,
+    "avg_price": 18018,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2011,
+    "month": 12,
+    "avg_price": 17428,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2012,
+    "month": 8,
+    "avg_price": 18636,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2012,
+    "month": 9,
+    "avg_price": 18836,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2012,
+    "month": 10,
+    "avg_price": 18979,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2012,
+    "month": 11,
+    "avg_price": 19144,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2012,
+    "month": 12,
+    "avg_price": 19298,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2013,
+    "month": 8,
+    "avg_price": 22734,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2013,
+    "month": 9,
+    "avg_price": 24192,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2013,
+    "month": 10,
+    "avg_price": 24560,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2013,
+    "month": 11,
+    "avg_price": 24718,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2013,
+    "month": 12,
+    "avg_price": 24910,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2014,
+    "month": 8,
+    "avg_price": 26570,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2014,
+    "month": 9,
+    "avg_price": 26570,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2014,
+    "month": 10,
+    "avg_price": 27658,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2014,
+    "month": 11,
+    "avg_price": 28123,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2014,
+    "month": 12,
+    "avg_price": 28117,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2015,
+    "month": 8,
+    "avg_price": 39972,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2015,
+    "month": 9,
+    "avg_price": 40230,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2015,
+    "month": 10,
+    "avg_price": 40118,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2015,
+    "month": 11,
+    "avg_price": 39451,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2015,
+    "month": 12,
+    "avg_price": 41494,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2016,
+    "month": 8,
+    "avg_price": 45453,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2016,
+    "month": 9,
+    "avg_price": 45764,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2016,
+    "month": 10,
+    "avg_price": 45143,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2016,
+    "month": 11,
+    "avg_price": 44982,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2016,
+    "month": 12,
+    "avg_price": 43289,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2017,
+    "month": 8,
+    "avg_price": 50477,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2017,
+    "month": 9,
+    "avg_price": 50777,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2017,
+    "month": 10,
+    "avg_price": 51077,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2017,
+    "month": 11,
+    "avg_price": 51277,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2017,
+    "month": 12,
+    "avg_price": 51477,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2018,
+    "month": 8,
+    "avg_price": 54233,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2018,
+    "month": 9,
+    "avg_price": 54199,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2018,
+    "month": 10,
+    "avg_price": 53768,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2018,
+    "month": 11,
+    "avg_price": 53716,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2018,
+    "month": 12,
+    "avg_price": 53205,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2019,
+    "month": 8,
+    "avg_price": 54180,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2019,
+    "month": 9,
+    "avg_price": 54333,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2019,
+    "month": 10,
+    "avg_price": 54398,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2019,
+    "month": 11,
+    "avg_price": 54709,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2019,
+    "month": 12,
+    "avg_price": 54790,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2020,
+    "month": 8,
+    "avg_price": 56142,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2020,
+    "month": 9,
+    "avg_price": 56286,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2020,
+    "month": 10,
+    "avg_price": 56443,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2020,
+    "month": 11,
+    "avg_price": 56600,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2020,
+    "month": 12,
+    "avg_price": 56795,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2021,
+    "month": 1,
+    "avg_price": 56967,
+    "mom_change": 0.3,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2021,
+    "month": 2,
+    "avg_price": 57191,
+    "mom_change": 0.39,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2021,
+    "month": 3,
+    "avg_price": 57293,
+    "mom_change": 0.18,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2021,
+    "month": 4,
+    "avg_price": 57062,
+    "mom_change": 0.4,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2021,
+    "month": 5,
+    "avg_price": 56928,
+    "mom_change": 0.23,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2021,
+    "month": 6,
+    "avg_price": 56919,
+    "mom_change": 0.01,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2021,
+    "month": 7,
+    "avg_price": 57484,
+    "mom_change": 0.99,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2021,
+    "month": 8,
+    "avg_price": 57218,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2021,
+    "month": 9,
+    "avg_price": 57086,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2021,
+    "month": 10,
+    "avg_price": 56539,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2021,
+    "month": 11,
+    "avg_price": 56913,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2021,
+    "month": 12,
+    "avg_price": 57083,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2022,
+    "month": 1,
+    "avg_price": 57198,
+    "mom_change": 0.2,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2022,
+    "month": 2,
+    "avg_price": 57376,
+    "mom_change": 0.31,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2022,
+    "month": 3,
+    "avg_price": 57510,
+    "mom_change": 0.23,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2022,
+    "month": 4,
+    "avg_price": 57640,
+    "mom_change": 0.23,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2022,
+    "month": 5,
+    "avg_price": 57411,
+    "mom_change": 0.4,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2022,
+    "month": 6,
+    "avg_price": 56843,
+    "mom_change": 0.99,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2022,
+    "month": 7,
+    "avg_price": 56732,
+    "mom_change": 0.2,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2022,
+    "month": 8,
+    "avg_price": 56841,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2022,
+    "month": 9,
+    "avg_price": 57203,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2022,
+    "month": 10,
+    "avg_price": 57297,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2022,
+    "month": 11,
+    "avg_price": 57456,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2022,
+    "month": 12,
+    "avg_price": 57751,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2023,
+    "month": 1,
+    "avg_price": 58303,
+    "mom_change": 0.95,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2023,
+    "month": 2,
+    "avg_price": 58337,
+    "mom_change": 0.06,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2023,
+    "month": 3,
+    "avg_price": 58448,
+    "mom_change": 0.19,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2023,
+    "month": 4,
+    "avg_price": 58184,
+    "mom_change": 0.45,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2023,
+    "month": 5,
+    "avg_price": 58540,
+    "mom_change": 0.61,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2023,
+    "month": 6,
+    "avg_price": 58687,
+    "mom_change": 0.25,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2023,
+    "month": 7,
+    "avg_price": 58718,
+    "mom_change": 0.05,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2023,
+    "month": 8,
+    "avg_price": 59143,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2023,
+    "month": 9,
+    "avg_price": 59609,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2023,
+    "month": 10,
+    "avg_price": 60408,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2023,
+    "month": 11,
+    "avg_price": 62237,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2023,
+    "month": 12,
+    "avg_price": 63787,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2024,
+    "month": 1,
+    "avg_price": 65103,
+    "mom_change": -0.15,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2024,
+    "month": 2,
+    "avg_price": 62572,
+    "mom_change": 2.16,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2024,
+    "month": 3,
+    "avg_price": 60423,
+    "mom_change": 1.12,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2024,
+    "month": 4,
+    "avg_price": 58124,
+    "mom_change": 2.34,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2024,
+    "month": 5,
+    "avg_price": 56814,
+    "mom_change": 1.87,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2024,
+    "month": 6,
+    "avg_price": 56021,
+    "mom_change": 2.15,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2024,
+    "month": 7,
+    "avg_price": 55317,
+    "mom_change": 1.6,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2024,
+    "month": 8,
+    "avg_price": 61323,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2024,
+    "month": 9,
+    "avg_price": 59852,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2024,
+    "month": 10,
+    "avg_price": 59148,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2024,
+    "month": 11,
+    "avg_price": 58256,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2024,
+    "month": 12,
+    "avg_price": 58499,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2025,
+    "month": 1,
+    "avg_price": 51023,
+    "mom_change": -1.78,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2025,
+    "month": 2,
+    "avg_price": 49512,
+    "mom_change": -2.15,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2025,
+    "month": 3,
+    "avg_price": 48321,
+    "mom_change": -1.87,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2025,
+    "month": 4,
+    "avg_price": 47123,
+    "mom_change": 2.14,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2025,
+    "month": 5,
+    "avg_price": 46152,
+    "mom_change": 1.82,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2025,
+    "month": 6,
+    "avg_price": 45231,
+    "mom_change": 1.63,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2025,
+    "month": 7,
+    "avg_price": 44512,
+    "mom_change": 0.12,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2025,
+    "month": 8,
+    "avg_price": 55407,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2025,
+    "month": 9,
+    "avg_price": 54812,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2025,
+    "month": 10,
+    "avg_price": 54326,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2025,
+    "month": 11,
+    "avg_price": 53741,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2025,
+    "month": 12,
+    "avg_price": 53357,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen/",
+    "fetched_at": "2026-09-18T03:23:14.415573+00:00",
+    "raw": {
+      "sha256": "db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\db2a7adf0780be5971e6e3552f8ab19419c0bd248b323dbf12b73bd906b5078d.html",
+      "bytes": 118406
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2026,
+    "month": 1,
+    "avg_price": 53390,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen2026/",
+    "fetched_at": "2026-09-18T03:23:13.137584+00:00",
+    "raw": {
+      "sha256": "777852a754fa67372b5941acb6ae61bbbd93b5e67eb31fd8481c392299dbf55d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\777852a754fa67372b5941acb6ae61bbbd93b5e67eb31fd8481c392299dbf55d.html",
+      "bytes": 177124
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2026,
+    "month": 2,
+    "avg_price": 53781,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen2026/",
+    "fetched_at": "2026-09-18T03:23:13.137584+00:00",
+    "raw": {
+      "sha256": "777852a754fa67372b5941acb6ae61bbbd93b5e67eb31fd8481c392299dbf55d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\777852a754fa67372b5941acb6ae61bbbd93b5e67eb31fd8481c392299dbf55d.html",
+      "bytes": 177124
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2026,
+    "month": 3,
+    "avg_price": 53598,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen2026/",
+    "fetched_at": "2026-09-18T03:23:13.137584+00:00",
+    "raw": {
+      "sha256": "777852a754fa67372b5941acb6ae61bbbd93b5e67eb31fd8481c392299dbf55d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\777852a754fa67372b5941acb6ae61bbbd93b5e67eb31fd8481c392299dbf55d.html",
+      "bytes": 177124
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2026,
+    "month": 4,
+    "avg_price": 53066,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen2026/",
+    "fetched_at": "2026-09-18T03:23:13.137584+00:00",
+    "raw": {
+      "sha256": "777852a754fa67372b5941acb6ae61bbbd93b5e67eb31fd8481c392299dbf55d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\777852a754fa67372b5941acb6ae61bbbd93b5e67eb31fd8481c392299dbf55d.html",
+      "bytes": 177124
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2026,
+    "month": 5,
+    "avg_price": 52309,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen2026/",
+    "fetched_at": "2026-09-18T03:23:13.137584+00:00",
+    "raw": {
+      "sha256": "777852a754fa67372b5941acb6ae61bbbd93b5e67eb31fd8481c392299dbf55d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\777852a754fa67372b5941acb6ae61bbbd93b5e67eb31fd8481c392299dbf55d.html",
+      "bytes": 177124
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2026,
+    "month": 6,
+    "avg_price": 52583,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen2026/",
+    "fetched_at": "2026-09-18T03:23:13.137584+00:00",
+    "raw": {
+      "sha256": "777852a754fa67372b5941acb6ae61bbbd93b5e67eb31fd8481c392299dbf55d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\777852a754fa67372b5941acb6ae61bbbd93b5e67eb31fd8481c392299dbf55d.html",
+      "bytes": 177124
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2026,
+    "month": 7,
+    "avg_price": 52365,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen2026/",
+    "fetched_at": "2026-09-18T03:23:13.137584+00:00",
+    "raw": {
+      "sha256": "777852a754fa67372b5941acb6ae61bbbd93b5e67eb31fd8481c392299dbf55d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\777852a754fa67372b5941acb6ae61bbbd93b5e67eb31fd8481c392299dbf55d.html",
+      "bytes": 177124
+    }
+  },
+  {
+    "city": "深圳",
+    "city_pinyin": "shenzhen",
+    "year": 2026,
+    "month": 8,
+    "avg_price": 52049,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/shenzhen2026/",
+    "fetched_at": "2026-09-18T03:23:13.137584+00:00",
+    "raw": {
+      "sha256": "777852a754fa67372b5941acb6ae61bbbd93b5e67eb31fd8481c392299dbf55d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\777852a754fa67372b5941acb6ae61bbbd93b5e67eb31fd8481c392299dbf55d.html",
+      "bytes": 177124
+    }
+  }
+]

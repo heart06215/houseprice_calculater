@@ -1,0 +1,17 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert');
+const scope={};scope.window=scope;
+vm.runInNewContext(fs.readFileSync(__dirname+'/frontend/assets/js/shared/format.js','utf8'),scope);
+const F=scope.HP.format;
+const data=JSON.parse(fs.readFileSync(__dirname+'/frontend/intersection_housing_data.json','utf8'));
+const rows=month=>data.cities.map(c=>{const p=c.monthly.find(p=>p.date===month)||{};return {city:c.city,cityData:c,point:p,value:p.price??null};});
+const august=rows('2026-08'),july=rows('2026-07');
+assert.equal(F.priceSource(august.find(r=>r.city==='上海').point),'安居客数据');
+assert.equal(F.priceSource(july.find(r=>r.city==='上海').point),'逆推结构');
+const coverage=F.priceCoverage(august,'2026-08');
+assert.equal(coverage.derived,0);assert(coverage.historical>0);
+assert.equal(coverage.observed,70);assert.deepEqual(Array.from(coverage.missing),[]);
+assert.equal(august.find(r=>r.city==='吉林').point.price,5261);
+assert.equal(F.priceCoverage(july.filter(r=>r.city==='上海'),'2026-07').derived,1);
+assert.equal(F.priceCoverage([{city:'测试',point:{},value:null,cityData:{monthly:[{date:'2026-07',price:10000,method:'index_estimate'}]}}],'2025-12').historical,0);
+console.log('Source coverage passed: current versus historical, filtered scope, Shanghai month provenance and verified Jilin market series.');
+console.log(JSON.stringify(coverage));

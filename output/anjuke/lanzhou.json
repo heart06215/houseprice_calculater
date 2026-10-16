@@ -1,0 +1,1503 @@
+[
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2011,
+    "month": 11,
+    "avg_price": 8404,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2011,
+    "month": 12,
+    "avg_price": 8347,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2012,
+    "month": 8,
+    "avg_price": 8228,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2012,
+    "month": 9,
+    "avg_price": 7986,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2012,
+    "month": 10,
+    "avg_price": 8006,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2012,
+    "month": 11,
+    "avg_price": 8052,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2012,
+    "month": 12,
+    "avg_price": 8065,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2013,
+    "month": 8,
+    "avg_price": 8728,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2013,
+    "month": 9,
+    "avg_price": 8857,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2013,
+    "month": 10,
+    "avg_price": 8788,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2013,
+    "month": 11,
+    "avg_price": 9198,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2013,
+    "month": 12,
+    "avg_price": 8716,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2014,
+    "month": 8,
+    "avg_price": 9193,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2014,
+    "month": 9,
+    "avg_price": 9101,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2014,
+    "month": 10,
+    "avg_price": 9052,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2014,
+    "month": 11,
+    "avg_price": 8980,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2014,
+    "month": 12,
+    "avg_price": 9299,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2015,
+    "month": 8,
+    "avg_price": 8659,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2015,
+    "month": 9,
+    "avg_price": 8693,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2015,
+    "month": 10,
+    "avg_price": 8677,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2015,
+    "month": 11,
+    "avg_price": 8585,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2015,
+    "month": 12,
+    "avg_price": 8465,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2016,
+    "month": 8,
+    "avg_price": 8862,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2016,
+    "month": 9,
+    "avg_price": 8802,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2016,
+    "month": 10,
+    "avg_price": 8685,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2016,
+    "month": 11,
+    "avg_price": 8935,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2016,
+    "month": 12,
+    "avg_price": 9014,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2017,
+    "month": 8,
+    "avg_price": 9980,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2017,
+    "month": 9,
+    "avg_price": 9915,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2017,
+    "month": 10,
+    "avg_price": 9843,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2017,
+    "month": 11,
+    "avg_price": 9951,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2017,
+    "month": 12,
+    "avg_price": 9989,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2018,
+    "month": 8,
+    "avg_price": 10898,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2018,
+    "month": 9,
+    "avg_price": 11050,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2018,
+    "month": 10,
+    "avg_price": 11279,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2018,
+    "month": 11,
+    "avg_price": 11519,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2018,
+    "month": 12,
+    "avg_price": 11636,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2019,
+    "month": 8,
+    "avg_price": 12340,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2019,
+    "month": 9,
+    "avg_price": 12301,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2019,
+    "month": 10,
+    "avg_price": 12370,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2019,
+    "month": 11,
+    "avg_price": 12395,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2019,
+    "month": 12,
+    "avg_price": 12432,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2020,
+    "month": 8,
+    "avg_price": 12909,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2020,
+    "month": 9,
+    "avg_price": 12932,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2020,
+    "month": 10,
+    "avg_price": 12813,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2020,
+    "month": 11,
+    "avg_price": 12839,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2020,
+    "month": 12,
+    "avg_price": 12888,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2021,
+    "month": 1,
+    "avg_price": 12969,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2021,
+    "month": 2,
+    "avg_price": 13034,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2021,
+    "month": 3,
+    "avg_price": 13088,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2021,
+    "month": 4,
+    "avg_price": 13034,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2021,
+    "month": 5,
+    "avg_price": 13009,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2021,
+    "month": 6,
+    "avg_price": 13019,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2021,
+    "month": 7,
+    "avg_price": 13009,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2021,
+    "month": 8,
+    "avg_price": 13030,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2021,
+    "month": 9,
+    "avg_price": 13083,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2021,
+    "month": 10,
+    "avg_price": 12848,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2021,
+    "month": 11,
+    "avg_price": 12826,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2021,
+    "month": 12,
+    "avg_price": 12621,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2022,
+    "month": 1,
+    "avg_price": 12612,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2022,
+    "month": 2,
+    "avg_price": 12521,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2022,
+    "month": 3,
+    "avg_price": 12511,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2022,
+    "month": 4,
+    "avg_price": 12429,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2022,
+    "month": 5,
+    "avg_price": 12358,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2022,
+    "month": 6,
+    "avg_price": 12436,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2022,
+    "month": 7,
+    "avg_price": 12477,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2022,
+    "month": 8,
+    "avg_price": 12350,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2022,
+    "month": 9,
+    "avg_price": 12136,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2022,
+    "month": 10,
+    "avg_price": 12026,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2022,
+    "month": 11,
+    "avg_price": 12121,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2022,
+    "month": 12,
+    "avg_price": 11829,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2023,
+    "month": 1,
+    "avg_price": 11725,
+    "mom_change": null,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2023,
+    "month": 2,
+    "avg_price": 11895,
+    "mom_change": null,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2023,
+    "month": 3,
+    "avg_price": 11937,
+    "mom_change": null,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2023,
+    "month": 4,
+    "avg_price": 11910,
+    "mom_change": null,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2023,
+    "month": 5,
+    "avg_price": 11830,
+    "mom_change": null,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2023,
+    "month": 6,
+    "avg_price": 11647,
+    "mom_change": null,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2023,
+    "month": 7,
+    "avg_price": 11479,
+    "mom_change": null,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2023,
+    "month": 8,
+    "avg_price": 11273,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2023,
+    "month": 9,
+    "avg_price": 11130,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2023,
+    "month": 10,
+    "avg_price": 10977,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2023,
+    "month": 11,
+    "avg_price": 10821,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2023,
+    "month": 12,
+    "avg_price": 10749,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2024,
+    "month": 1,
+    "avg_price": 10723,
+    "mom_change": -0.24,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2024,
+    "month": 2,
+    "avg_price": 10659,
+    "mom_change": -0.6,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2024,
+    "month": 3,
+    "avg_price": 10604,
+    "mom_change": -0.51,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2024,
+    "month": 4,
+    "avg_price": 10569,
+    "mom_change": -0.33,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2024,
+    "month": 5,
+    "avg_price": 10374,
+    "mom_change": -1.85,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2024,
+    "month": 6,
+    "avg_price": 10175,
+    "mom_change": -1.91,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2024,
+    "month": 7,
+    "avg_price": 10037,
+    "mom_change": -1.36,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2024,
+    "month": 8,
+    "avg_price": 9991,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2024,
+    "month": 9,
+    "avg_price": 9891,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2024,
+    "month": 10,
+    "avg_price": 9822,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2024,
+    "month": 11,
+    "avg_price": 9737,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2024,
+    "month": 12,
+    "avg_price": 9650,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2025,
+    "month": 1,
+    "avg_price": 9523,
+    "mom_change": -1.31,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2025,
+    "month": 2,
+    "avg_price": 9380,
+    "mom_change": -1.5,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2025,
+    "month": 3,
+    "avg_price": 9256,
+    "mom_change": -1.32,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2025,
+    "month": 4,
+    "avg_price": 9152,
+    "mom_change": -1.12,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2025,
+    "month": 5,
+    "avg_price": 9067,
+    "mom_change": -0.93,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2025,
+    "month": 6,
+    "avg_price": 8998,
+    "mom_change": -0.76,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2025,
+    "month": 7,
+    "avg_price": 8941,
+    "mom_change": -0.64,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2025,
+    "month": 8,
+    "avg_price": 9159,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2025,
+    "month": 9,
+    "avg_price": 9109,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2025,
+    "month": 10,
+    "avg_price": 9045,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2025,
+    "month": 11,
+    "avg_price": 8981,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2025,
+    "month": 12,
+    "avg_price": 8854,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou/",
+    "fetched_at": "2026-09-30T14:40:22.038104+00:00",
+    "raw": {
+      "sha256": "d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\d5815a533fe1d20cfb1199e55faf86ead7304faaf8760a98c39f428e4b7d7d6d.html",
+      "bytes": 104675
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2026,
+    "month": 1,
+    "avg_price": 8790,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou2026/",
+    "fetched_at": "2026-09-30T14:40:20.701180+00:00",
+    "raw": {
+      "sha256": "40c19ec9351918fe3bede3b13537a22aa042576760c1ef3fdd3bad479be5bf43",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\40c19ec9351918fe3bede3b13537a22aa042576760c1ef3fdd3bad479be5bf43.html",
+      "bytes": 168003
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2026,
+    "month": 2,
+    "avg_price": 8821,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou2026/",
+    "fetched_at": "2026-09-30T14:40:20.701180+00:00",
+    "raw": {
+      "sha256": "40c19ec9351918fe3bede3b13537a22aa042576760c1ef3fdd3bad479be5bf43",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\40c19ec9351918fe3bede3b13537a22aa042576760c1ef3fdd3bad479be5bf43.html",
+      "bytes": 168003
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2026,
+    "month": 3,
+    "avg_price": 8809,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou2026/",
+    "fetched_at": "2026-09-30T14:40:20.701180+00:00",
+    "raw": {
+      "sha256": "40c19ec9351918fe3bede3b13537a22aa042576760c1ef3fdd3bad479be5bf43",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\40c19ec9351918fe3bede3b13537a22aa042576760c1ef3fdd3bad479be5bf43.html",
+      "bytes": 168003
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2026,
+    "month": 4,
+    "avg_price": 8716,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou2026/",
+    "fetched_at": "2026-09-30T14:40:20.701180+00:00",
+    "raw": {
+      "sha256": "40c19ec9351918fe3bede3b13537a22aa042576760c1ef3fdd3bad479be5bf43",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\40c19ec9351918fe3bede3b13537a22aa042576760c1ef3fdd3bad479be5bf43.html",
+      "bytes": 168003
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2026,
+    "month": 5,
+    "avg_price": 8603,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou2026/",
+    "fetched_at": "2026-09-30T14:40:20.701180+00:00",
+    "raw": {
+      "sha256": "40c19ec9351918fe3bede3b13537a22aa042576760c1ef3fdd3bad479be5bf43",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\40c19ec9351918fe3bede3b13537a22aa042576760c1ef3fdd3bad479be5bf43.html",
+      "bytes": 168003
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2026,
+    "month": 6,
+    "avg_price": 8485,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou2026/",
+    "fetched_at": "2026-09-30T14:40:20.701180+00:00",
+    "raw": {
+      "sha256": "40c19ec9351918fe3bede3b13537a22aa042576760c1ef3fdd3bad479be5bf43",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\40c19ec9351918fe3bede3b13537a22aa042576760c1ef3fdd3bad479be5bf43.html",
+      "bytes": 168003
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2026,
+    "month": 7,
+    "avg_price": 8478,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou2026/",
+    "fetched_at": "2026-09-30T14:40:20.701180+00:00",
+    "raw": {
+      "sha256": "40c19ec9351918fe3bede3b13537a22aa042576760c1ef3fdd3bad479be5bf43",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\40c19ec9351918fe3bede3b13537a22aa042576760c1ef3fdd3bad479be5bf43.html",
+      "bytes": 168003
+    }
+  },
+  {
+    "city": "兰州",
+    "city_pinyin": "lanzhou",
+    "year": 2026,
+    "month": 8,
+    "avg_price": 8457,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/lanzhou2026/",
+    "fetched_at": "2026-09-30T14:40:20.701180+00:00",
+    "raw": {
+      "sha256": "40c19ec9351918fe3bede3b13537a22aa042576760c1ef3fdd3bad479be5bf43",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\40c19ec9351918fe3bede3b13537a22aa042576760c1ef3fdd3bad479be5bf43.html",
+      "bytes": 168003
+    }
+  }
+]

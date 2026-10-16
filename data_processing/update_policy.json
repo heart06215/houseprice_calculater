@@ -1,0 +1,62 @@
+{
+  "enabled": true,
+  "check_interval_seconds": 3600,
+  "sources": {
+    "nbs": {
+      "hours": 12,
+      "description": "统计局月报目录与新增月份"
+    },
+    "income": {
+      "hours": 168,
+      "max_pages": 2,
+      "description": "国家统计局全年居民收入/中位数/消费与人社部最低工资分档；原始证据留存，验证页不覆盖旧表"
+    },
+    "anjuke": {
+      "hours": 6,
+      "batch_cities": 4,
+      "description": "逐批复核城市均价及新房/二手房市场页，轮转70城",
+      "interval_seconds": 30
+    },
+    "cih": {
+      "hours": 24,
+      "max_pages": 12,
+      "description": "中指公开指标、榜单及宅地表；分日度、周度、月度标注实际时期，定时检查到期来源"
+    },
+    "communities": {
+      "hours": 24,
+      "batch_cities": 2,
+      "description": "OSM住宅位置、住宅形态与小区年代；apartments归楼房，排除单栋年份；城市成功后30天复用"
+    },
+    "community_profiles": {
+      "hours": 24,
+      "max_pages": 12,
+      "interval_seconds": 30,
+      "cities": [
+        "北京",
+        "上海"
+      ],
+      "description": "房天下持久队列：目录、详情、参考价与月度涨跌；共享冷却、独立价格口径、核对地址分期后入图"
+    },
+    "community_coverage": {
+      "hours": 24,
+      "description": "北京上海遗漏住宅片区点位补查；城市范围校验后按ID增量合并，失败冷却24小时"
+    },
+    "hydrology": {
+      "hours": 24,
+      "batch_cities": 1,
+      "description": "OSM江河、海岸及大型湖库水面；排除溪流沟渠池塘，逐城更新、30天复用"
+    },
+    "metro": {
+      "hours": 168,
+      "description": "公开地铁目录与线路站点"
+    },
+    "catalog": {
+      "hours": 24,
+      "description": "小区主目录离线重建：catalog 入库、地铁运营口径、分城市索引与目录覆盖矩阵；不发送网络请求"
+    },
+    "macro": {
+      "hours": 24,
+      "description": "统计局房地产开发与销售累计指标、全国银行间同业拆借中心 LPR；保留报告期及原始证据"
+    }
+  }
+}

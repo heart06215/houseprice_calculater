@@ -1,0 +1,1242 @@
+[
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2015,
+    "month": 8,
+    "avg_price": 4798,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2015,
+    "month": 9,
+    "avg_price": 4919,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2015,
+    "month": 10,
+    "avg_price": 4888,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2015,
+    "month": 11,
+    "avg_price": 4809,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2015,
+    "month": 12,
+    "avg_price": 4766,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2016,
+    "month": 8,
+    "avg_price": 4761,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2016,
+    "month": 9,
+    "avg_price": 4781,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2016,
+    "month": 10,
+    "avg_price": 4798,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2016,
+    "month": 11,
+    "avg_price": 4886,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2016,
+    "month": 12,
+    "avg_price": 4848,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2017,
+    "month": 8,
+    "avg_price": 5652,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2017,
+    "month": 9,
+    "avg_price": 5842,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2017,
+    "month": 10,
+    "avg_price": 5992,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2017,
+    "month": 11,
+    "avg_price": 6147,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2017,
+    "month": 12,
+    "avg_price": 6207,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2018,
+    "month": 8,
+    "avg_price": 7017,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2018,
+    "month": 9,
+    "avg_price": 6954,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2018,
+    "month": 10,
+    "avg_price": 6879,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2018,
+    "month": 11,
+    "avg_price": 6876,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2018,
+    "month": 12,
+    "avg_price": 6799,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2019,
+    "month": 8,
+    "avg_price": 6719,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2019,
+    "month": 9,
+    "avg_price": 7035,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2019,
+    "month": 10,
+    "avg_price": 7040,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2019,
+    "month": 11,
+    "avg_price": 7021,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2019,
+    "month": 12,
+    "avg_price": 7054,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2020,
+    "month": 8,
+    "avg_price": 6876,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2020,
+    "month": 9,
+    "avg_price": 6789,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2020,
+    "month": 10,
+    "avg_price": 6646,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2020,
+    "month": 11,
+    "avg_price": 6638,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2020,
+    "month": 12,
+    "avg_price": 6688,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2021,
+    "month": 1,
+    "avg_price": 6608,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2021,
+    "month": 2,
+    "avg_price": 6699,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2021,
+    "month": 3,
+    "avg_price": 6629,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2021,
+    "month": 4,
+    "avg_price": 6547,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2021,
+    "month": 5,
+    "avg_price": 6591,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2021,
+    "month": 6,
+    "avg_price": 6526,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2021,
+    "month": 7,
+    "avg_price": 6550,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2021,
+    "month": 8,
+    "avg_price": 6697,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2021,
+    "month": 9,
+    "avg_price": 6597,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2021,
+    "month": 10,
+    "avg_price": 6408,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2021,
+    "month": 11,
+    "avg_price": 6380,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2021,
+    "month": 12,
+    "avg_price": 6512,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2022,
+    "month": 1,
+    "avg_price": 6291,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2022,
+    "month": 2,
+    "avg_price": 6336,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2022,
+    "month": 3,
+    "avg_price": 6427,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2022,
+    "month": 4,
+    "avg_price": 6367,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2022,
+    "month": 5,
+    "avg_price": 6304,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2022,
+    "month": 6,
+    "avg_price": 6388,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2022,
+    "month": 7,
+    "avg_price": 6354,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2022,
+    "month": 8,
+    "avg_price": 6290,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2022,
+    "month": 9,
+    "avg_price": 6330,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2022,
+    "month": 10,
+    "avg_price": 6181,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2022,
+    "month": 11,
+    "avg_price": 6057,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2022,
+    "month": 12,
+    "avg_price": 6259,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2023,
+    "month": 1,
+    "avg_price": 6309,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2023,
+    "month": 2,
+    "avg_price": 6327,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2023,
+    "month": 3,
+    "avg_price": 6257,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2023,
+    "month": 4,
+    "avg_price": 6175,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2023,
+    "month": 5,
+    "avg_price": 6151,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2023,
+    "month": 6,
+    "avg_price": 6153,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2023,
+    "month": 7,
+    "avg_price": 6250,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2023,
+    "month": 8,
+    "avg_price": 6206,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2023,
+    "month": 9,
+    "avg_price": 6056,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2023,
+    "month": 10,
+    "avg_price": 6001,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2023,
+    "month": 11,
+    "avg_price": 5895,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2023,
+    "month": 12,
+    "avg_price": 5645,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2024,
+    "month": 1,
+    "avg_price": 5465,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2024,
+    "month": 2,
+    "avg_price": 5474,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2024,
+    "month": 3,
+    "avg_price": 5492,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2024,
+    "month": 4,
+    "avg_price": 5471,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2024,
+    "month": 5,
+    "avg_price": 5360,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2024,
+    "month": 6,
+    "avg_price": 5295,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2024,
+    "month": 7,
+    "avg_price": 5342,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2024,
+    "month": 8,
+    "avg_price": 5303,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2024,
+    "month": 9,
+    "avg_price": 5246,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2024,
+    "month": 10,
+    "avg_price": 5161,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2024,
+    "month": 11,
+    "avg_price": 5143,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2024,
+    "month": 12,
+    "avg_price": 5085,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2025,
+    "month": 1,
+    "avg_price": 5130,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2025,
+    "month": 2,
+    "avg_price": 5170,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2025,
+    "month": 3,
+    "avg_price": 5149,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2025,
+    "month": 4,
+    "avg_price": 5215,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2025,
+    "month": 5,
+    "avg_price": 5102,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2025,
+    "month": 6,
+    "avg_price": 5120,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2025,
+    "month": 7,
+    "avg_price": 5155,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2025,
+    "month": 8,
+    "avg_price": 5189,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2025,
+    "month": 9,
+    "avg_price": 5096,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2025,
+    "month": 10,
+    "avg_price": 5140,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2025,
+    "month": 11,
+    "avg_price": 5111,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2025,
+    "month": 12,
+    "avg_price": 5065,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde/",
+    "fetched_at": "2026-10-05T09:23:13.118566+00:00",
+    "raw": {
+      "sha256": "76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\76d1adecf31ed1ff00322bce452b43ee4a93aa31417eb991ff5b97d8523c4154.html",
+      "bytes": 93787
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2026,
+    "month": 1,
+    "avg_price": 5023,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde2026/",
+    "fetched_at": "2026-10-05T09:23:11.818384+00:00",
+    "raw": {
+      "sha256": "c7e9d407a9c6d04e6a2baf7c302af0c6c565b0255cd104310d88ad7cbb866b3e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\c7e9d407a9c6d04e6a2baf7c302af0c6c565b0255cd104310d88ad7cbb866b3e.html",
+      "bytes": 213287
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2026,
+    "month": 2,
+    "avg_price": 5003,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde2026/",
+    "fetched_at": "2026-10-05T09:23:11.818384+00:00",
+    "raw": {
+      "sha256": "c7e9d407a9c6d04e6a2baf7c302af0c6c565b0255cd104310d88ad7cbb866b3e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\c7e9d407a9c6d04e6a2baf7c302af0c6c565b0255cd104310d88ad7cbb866b3e.html",
+      "bytes": 213287
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2026,
+    "month": 3,
+    "avg_price": 5065,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde2026/",
+    "fetched_at": "2026-10-05T09:23:11.818384+00:00",
+    "raw": {
+      "sha256": "c7e9d407a9c6d04e6a2baf7c302af0c6c565b0255cd104310d88ad7cbb866b3e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\c7e9d407a9c6d04e6a2baf7c302af0c6c565b0255cd104310d88ad7cbb866b3e.html",
+      "bytes": 213287
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2026,
+    "month": 4,
+    "avg_price": 5055,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde2026/",
+    "fetched_at": "2026-10-05T09:23:11.818384+00:00",
+    "raw": {
+      "sha256": "c7e9d407a9c6d04e6a2baf7c302af0c6c565b0255cd104310d88ad7cbb866b3e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\c7e9d407a9c6d04e6a2baf7c302af0c6c565b0255cd104310d88ad7cbb866b3e.html",
+      "bytes": 213287
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2026,
+    "month": 5,
+    "avg_price": 4974,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde2026/",
+    "fetched_at": "2026-10-05T09:23:11.818384+00:00",
+    "raw": {
+      "sha256": "c7e9d407a9c6d04e6a2baf7c302af0c6c565b0255cd104310d88ad7cbb866b3e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\c7e9d407a9c6d04e6a2baf7c302af0c6c565b0255cd104310d88ad7cbb866b3e.html",
+      "bytes": 213287
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2026,
+    "month": 6,
+    "avg_price": 5058,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde2026/",
+    "fetched_at": "2026-10-05T09:23:11.818384+00:00",
+    "raw": {
+      "sha256": "c7e9d407a9c6d04e6a2baf7c302af0c6c565b0255cd104310d88ad7cbb866b3e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\c7e9d407a9c6d04e6a2baf7c302af0c6c565b0255cd104310d88ad7cbb866b3e.html",
+      "bytes": 213287
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2026,
+    "month": 7,
+    "avg_price": 5092,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde2026/",
+    "fetched_at": "2026-10-05T09:23:11.818384+00:00",
+    "raw": {
+      "sha256": "c7e9d407a9c6d04e6a2baf7c302af0c6c565b0255cd104310d88ad7cbb866b3e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\c7e9d407a9c6d04e6a2baf7c302af0c6c565b0255cd104310d88ad7cbb866b3e.html",
+      "bytes": 213287
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2026,
+    "month": 8,
+    "avg_price": 5115,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde2026/",
+    "fetched_at": "2026-10-05T09:23:11.818384+00:00",
+    "raw": {
+      "sha256": "c7e9d407a9c6d04e6a2baf7c302af0c6c565b0255cd104310d88ad7cbb866b3e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\c7e9d407a9c6d04e6a2baf7c302af0c6c565b0255cd104310d88ad7cbb866b3e.html",
+      "bytes": 213287
+    }
+  },
+  {
+    "city": "常德",
+    "city_pinyin": "changde",
+    "year": 2026,
+    "month": 9,
+    "avg_price": 5036,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/changde2026/",
+    "fetched_at": "2026-10-05T09:23:11.818384+00:00",
+    "raw": {
+      "sha256": "c7e9d407a9c6d04e6a2baf7c302af0c6c565b0255cd104310d88ad7cbb866b3e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\c7e9d407a9c6d04e6a2baf7c302af0c6c565b0255cd104310d88ad7cbb866b3e.html",
+      "bytes": 213287
+    }
+  }
+]

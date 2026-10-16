@@ -1,0 +1,1623 @@
+[
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2010,
+    "month": 8,
+    "avg_price": 8595,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2010,
+    "month": 9,
+    "avg_price": 8686,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2010,
+    "month": 10,
+    "avg_price": 8776,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2010,
+    "month": 11,
+    "avg_price": 8854,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2010,
+    "month": 12,
+    "avg_price": 8943,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2011,
+    "month": 8,
+    "avg_price": 10175,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2011,
+    "month": 9,
+    "avg_price": 10029,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2011,
+    "month": 10,
+    "avg_price": 10000,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2011,
+    "month": 11,
+    "avg_price": 10000,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2011,
+    "month": 12,
+    "avg_price": 10000,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2012,
+    "month": 8,
+    "avg_price": 9940,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2012,
+    "month": 9,
+    "avg_price": 9998,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2012,
+    "month": 10,
+    "avg_price": 10007,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2012,
+    "month": 11,
+    "avg_price": 10024,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2012,
+    "month": 12,
+    "avg_price": 10089,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2013,
+    "month": 8,
+    "avg_price": 10612,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2013,
+    "month": 9,
+    "avg_price": 10664,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2013,
+    "month": 10,
+    "avg_price": 10818,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2013,
+    "month": 11,
+    "avg_price": 10912,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2013,
+    "month": 12,
+    "avg_price": 10941,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2014,
+    "month": 8,
+    "avg_price": 10979,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2014,
+    "month": 9,
+    "avg_price": 10963,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2014,
+    "month": 10,
+    "avg_price": 10868,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2014,
+    "month": 11,
+    "avg_price": 10885,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2014,
+    "month": 12,
+    "avg_price": 10980,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2015,
+    "month": 8,
+    "avg_price": 11308,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2015,
+    "month": 9,
+    "avg_price": 11457,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2015,
+    "month": 10,
+    "avg_price": 11603,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2015,
+    "month": 11,
+    "avg_price": 11903,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2015,
+    "month": 12,
+    "avg_price": 12251,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2016,
+    "month": 8,
+    "avg_price": 15509,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2016,
+    "month": 9,
+    "avg_price": 15575,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2016,
+    "month": 10,
+    "avg_price": 16081,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2016,
+    "month": 11,
+    "avg_price": 16152,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2016,
+    "month": 12,
+    "avg_price": 16181,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2017,
+    "month": 8,
+    "avg_price": 15344,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2017,
+    "month": 9,
+    "avg_price": 15425,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2017,
+    "month": 10,
+    "avg_price": 15362,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2017,
+    "month": 11,
+    "avg_price": 15348,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2017,
+    "month": 12,
+    "avg_price": 15320,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2018,
+    "month": 8,
+    "avg_price": 16116,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2018,
+    "month": 9,
+    "avg_price": 16330,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2018,
+    "month": 10,
+    "avg_price": 16530,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2018,
+    "month": 11,
+    "avg_price": 16721,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2018,
+    "month": 12,
+    "avg_price": 16943,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2019,
+    "month": 8,
+    "avg_price": 18810,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2019,
+    "month": 9,
+    "avg_price": 19015,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2019,
+    "month": 10,
+    "avg_price": 19265,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2019,
+    "month": 11,
+    "avg_price": 19444,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2019,
+    "month": 12,
+    "avg_price": 19568,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2020,
+    "month": 8,
+    "avg_price": 20894,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2020,
+    "month": 9,
+    "avg_price": 21043,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2020,
+    "month": 10,
+    "avg_price": 21179,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2020,
+    "month": 11,
+    "avg_price": 21684,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2020,
+    "month": 12,
+    "avg_price": 21687,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2021,
+    "month": 1,
+    "avg_price": 22027,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2021,
+    "month": 2,
+    "avg_price": 22120,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2021,
+    "month": 3,
+    "avg_price": 21895,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2021,
+    "month": 4,
+    "avg_price": 21571,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2021,
+    "month": 5,
+    "avg_price": 21675,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2021,
+    "month": 6,
+    "avg_price": 21960,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2021,
+    "month": 7,
+    "avg_price": 22073,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2021,
+    "month": 8,
+    "avg_price": 22343,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2021,
+    "month": 9,
+    "avg_price": 22386,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2021,
+    "month": 10,
+    "avg_price": 22254,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2021,
+    "month": 11,
+    "avg_price": 22067,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2021,
+    "month": 12,
+    "avg_price": 22244,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2022,
+    "month": 1,
+    "avg_price": 22353,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2022,
+    "month": 2,
+    "avg_price": 22346,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2022,
+    "month": 3,
+    "avg_price": 21950,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2022,
+    "month": 4,
+    "avg_price": 21980,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2022,
+    "month": 5,
+    "avg_price": 21869,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2022,
+    "month": 6,
+    "avg_price": 21776,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2022,
+    "month": 7,
+    "avg_price": 21543,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2022,
+    "month": 8,
+    "avg_price": 21594,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2022,
+    "month": 9,
+    "avg_price": 21661,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2022,
+    "month": 10,
+    "avg_price": 21290,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2022,
+    "month": 11,
+    "avg_price": 21142,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2022,
+    "month": 12,
+    "avg_price": 21089,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2023,
+    "month": 1,
+    "avg_price": 20954,
+    "mom_change": -0.64,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2023,
+    "month": 2,
+    "avg_price": 21427,
+    "mom_change": 2.26,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2023,
+    "month": 3,
+    "avg_price": 21260,
+    "mom_change": -0.78,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2023,
+    "month": 4,
+    "avg_price": 21264,
+    "mom_change": 0.02,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2023,
+    "month": 5,
+    "avg_price": 21132,
+    "mom_change": -0.15,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2023,
+    "month": 6,
+    "avg_price": 21161,
+    "mom_change": -0.34,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2023,
+    "month": 7,
+    "avg_price": 21205,
+    "mom_change": 0.21,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2023,
+    "month": 8,
+    "avg_price": 21191,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2023,
+    "month": 9,
+    "avg_price": 21110,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2023,
+    "month": 10,
+    "avg_price": 20882,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2023,
+    "month": 11,
+    "avg_price": 20652,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2023,
+    "month": 12,
+    "avg_price": 20280,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2024,
+    "month": 1,
+    "avg_price": 20131,
+    "mom_change": null,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2024,
+    "month": 2,
+    "avg_price": 20080,
+    "mom_change": null,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2024,
+    "month": 3,
+    "avg_price": 19700,
+    "mom_change": null,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2024,
+    "month": 4,
+    "avg_price": 19481,
+    "mom_change": null,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2024,
+    "month": 5,
+    "avg_price": 19263,
+    "mom_change": null,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2024,
+    "month": 6,
+    "avg_price": 18901,
+    "mom_change": null,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2024,
+    "month": 7,
+    "avg_price": 18474,
+    "mom_change": null,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2024,
+    "month": 8,
+    "avg_price": 18181,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2024,
+    "month": 9,
+    "avg_price": 18058,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2024,
+    "month": 10,
+    "avg_price": 17715,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2024,
+    "month": 11,
+    "avg_price": 17551,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2024,
+    "month": 12,
+    "avg_price": 17646,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2025,
+    "month": 1,
+    "avg_price": 17816,
+    "mom_change": -0.96,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2025,
+    "month": 2,
+    "avg_price": 17734,
+    "mom_change": -0.46,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2025,
+    "month": 3,
+    "avg_price": 17524,
+    "mom_change": -1.19,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2025,
+    "month": 4,
+    "avg_price": 17307,
+    "mom_change": -1.24,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2025,
+    "month": 5,
+    "avg_price": 17055,
+    "mom_change": -1.46,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2025,
+    "month": 6,
+    "avg_price": 16671,
+    "mom_change": -2.25,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2025,
+    "month": 7,
+    "avg_price": 16314,
+    "mom_change": -2.14,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2025,
+    "month": 8,
+    "avg_price": 15977,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2025,
+    "month": 9,
+    "avg_price": 15665,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2025,
+    "month": 10,
+    "avg_price": 14974,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2025,
+    "month": 11,
+    "avg_price": 14937,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2025,
+    "month": 12,
+    "avg_price": 14644,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou/",
+    "fetched_at": "2026-09-17T10:40:06.643904+00:00",
+    "raw": {
+      "sha256": "eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\eace951e2d6a5e25c3568944936d99dc3ed443355feb6dcfae6ef2500bc48919.html",
+      "bytes": 120173
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2026,
+    "month": 1,
+    "avg_price": 14485,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou2026/",
+    "fetched_at": "2026-09-17T10:40:04.928814+00:00",
+    "raw": {
+      "sha256": "b89e4341f5cbdc1a0d47b7f1c2c86247cc4451e51cd6f9b1f9dd355f8b00290e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\b89e4341f5cbdc1a0d47b7f1c2c86247cc4451e51cd6f9b1f9dd355f8b00290e.html",
+      "bytes": 181822
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2026,
+    "month": 2,
+    "avg_price": 14293,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou2026/",
+    "fetched_at": "2026-09-17T10:40:04.928814+00:00",
+    "raw": {
+      "sha256": "b89e4341f5cbdc1a0d47b7f1c2c86247cc4451e51cd6f9b1f9dd355f8b00290e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\b89e4341f5cbdc1a0d47b7f1c2c86247cc4451e51cd6f9b1f9dd355f8b00290e.html",
+      "bytes": 181822
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2026,
+    "month": 3,
+    "avg_price": 14458,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou2026/",
+    "fetched_at": "2026-09-17T10:40:04.928814+00:00",
+    "raw": {
+      "sha256": "b89e4341f5cbdc1a0d47b7f1c2c86247cc4451e51cd6f9b1f9dd355f8b00290e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\b89e4341f5cbdc1a0d47b7f1c2c86247cc4451e51cd6f9b1f9dd355f8b00290e.html",
+      "bytes": 181822
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2026,
+    "month": 4,
+    "avg_price": 14230,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou2026/",
+    "fetched_at": "2026-09-17T10:40:04.928814+00:00",
+    "raw": {
+      "sha256": "b89e4341f5cbdc1a0d47b7f1c2c86247cc4451e51cd6f9b1f9dd355f8b00290e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\b89e4341f5cbdc1a0d47b7f1c2c86247cc4451e51cd6f9b1f9dd355f8b00290e.html",
+      "bytes": 181822
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2026,
+    "month": 5,
+    "avg_price": 14242,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou2026/",
+    "fetched_at": "2026-09-17T10:40:04.928814+00:00",
+    "raw": {
+      "sha256": "b89e4341f5cbdc1a0d47b7f1c2c86247cc4451e51cd6f9b1f9dd355f8b00290e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\b89e4341f5cbdc1a0d47b7f1c2c86247cc4451e51cd6f9b1f9dd355f8b00290e.html",
+      "bytes": 181822
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2026,
+    "month": 6,
+    "avg_price": 14429,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou2026/",
+    "fetched_at": "2026-09-17T10:40:04.928814+00:00",
+    "raw": {
+      "sha256": "b89e4341f5cbdc1a0d47b7f1c2c86247cc4451e51cd6f9b1f9dd355f8b00290e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\b89e4341f5cbdc1a0d47b7f1c2c86247cc4451e51cd6f9b1f9dd355f8b00290e.html",
+      "bytes": 181822
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2026,
+    "month": 7,
+    "avg_price": 14419,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou2026/",
+    "fetched_at": "2026-09-17T10:40:04.928814+00:00",
+    "raw": {
+      "sha256": "b89e4341f5cbdc1a0d47b7f1c2c86247cc4451e51cd6f9b1f9dd355f8b00290e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\b89e4341f5cbdc1a0d47b7f1c2c86247cc4451e51cd6f9b1f9dd355f8b00290e.html",
+      "bytes": 181822
+    }
+  },
+  {
+    "city": "苏州",
+    "city_pinyin": "suzhou",
+    "year": 2026,
+    "month": 8,
+    "avg_price": 14486,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/suzhou2026/",
+    "fetched_at": "2026-09-17T10:40:04.928814+00:00",
+    "raw": {
+      "sha256": "b89e4341f5cbdc1a0d47b7f1c2c86247cc4451e51cd6f9b1f9dd355f8b00290e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\b89e4341f5cbdc1a0d47b7f1c2c86247cc4451e51cd6f9b1f9dd355f8b00290e.html",
+      "bytes": 181822
+    }
+  }
+]

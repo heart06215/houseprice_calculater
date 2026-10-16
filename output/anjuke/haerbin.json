@@ -1,0 +1,1497 @@
+[
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2011,
+    "month": 10,
+    "avg_price": 7500,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2011,
+    "month": 11,
+    "avg_price": 7516,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2011,
+    "month": 12,
+    "avg_price": 7527,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2012,
+    "month": 8,
+    "avg_price": 7056,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2012,
+    "month": 9,
+    "avg_price": 7047,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2012,
+    "month": 10,
+    "avg_price": 7041,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2012,
+    "month": 11,
+    "avg_price": 7023,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2012,
+    "month": 12,
+    "avg_price": 7000,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2013,
+    "month": 8,
+    "avg_price": 7410,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2013,
+    "month": 9,
+    "avg_price": 7488,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2013,
+    "month": 10,
+    "avg_price": 7532,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2013,
+    "month": 11,
+    "avg_price": 7520,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2013,
+    "month": 12,
+    "avg_price": 7503,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2014,
+    "month": 8,
+    "avg_price": 7981,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2014,
+    "month": 9,
+    "avg_price": 8155,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2014,
+    "month": 10,
+    "avg_price": 8155,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2014,
+    "month": 11,
+    "avg_price": 9122,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2014,
+    "month": 12,
+    "avg_price": 8289,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2015,
+    "month": 8,
+    "avg_price": 9107,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2015,
+    "month": 9,
+    "avg_price": 9060,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2015,
+    "month": 10,
+    "avg_price": 9052,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2015,
+    "month": 11,
+    "avg_price": 9044,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2015,
+    "month": 12,
+    "avg_price": 9131,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2016,
+    "month": 8,
+    "avg_price": 8155,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2016,
+    "month": 9,
+    "avg_price": 7837,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2016,
+    "month": 10,
+    "avg_price": 7734,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2016,
+    "month": 11,
+    "avg_price": 7657,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2016,
+    "month": 12,
+    "avg_price": 7624,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2017,
+    "month": 8,
+    "avg_price": 7798,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2017,
+    "month": 9,
+    "avg_price": 7853,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2017,
+    "month": 10,
+    "avg_price": 7919,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2017,
+    "month": 11,
+    "avg_price": 8177,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2017,
+    "month": 12,
+    "avg_price": 8348,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2018,
+    "month": 8,
+    "avg_price": 9379,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2018,
+    "month": 9,
+    "avg_price": 9493,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2018,
+    "month": 10,
+    "avg_price": 9523,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2018,
+    "month": 11,
+    "avg_price": 9602,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2018,
+    "month": 12,
+    "avg_price": 9622,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2019,
+    "month": 8,
+    "avg_price": 9998,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2019,
+    "month": 9,
+    "avg_price": 9947,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2019,
+    "month": 10,
+    "avg_price": 9904,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2019,
+    "month": 11,
+    "avg_price": 9854,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2019,
+    "month": 12,
+    "avg_price": 9908,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2020,
+    "month": 8,
+    "avg_price": 9982,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2020,
+    "month": 9,
+    "avg_price": 9968,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2020,
+    "month": 10,
+    "avg_price": 9980,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2020,
+    "month": 11,
+    "avg_price": 9990,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2020,
+    "month": 12,
+    "avg_price": 9999,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2021,
+    "month": 1,
+    "avg_price": 10043,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2021,
+    "month": 2,
+    "avg_price": 10148,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2021,
+    "month": 3,
+    "avg_price": 10005,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2021,
+    "month": 4,
+    "avg_price": 9973,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2021,
+    "month": 5,
+    "avg_price": 9895,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2021,
+    "month": 6,
+    "avg_price": 9901,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2021,
+    "month": 7,
+    "avg_price": 9941,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2021,
+    "month": 8,
+    "avg_price": 9929,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2021,
+    "month": 9,
+    "avg_price": 9954,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2021,
+    "month": 10,
+    "avg_price": 9881,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2021,
+    "month": 11,
+    "avg_price": 9812,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2021,
+    "month": 12,
+    "avg_price": 9796,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2022,
+    "month": 1,
+    "avg_price": 9925,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2022,
+    "month": 2,
+    "avg_price": 9804,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2022,
+    "month": 3,
+    "avg_price": 9590,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2022,
+    "month": 4,
+    "avg_price": 9568,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2022,
+    "month": 5,
+    "avg_price": 9508,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2022,
+    "month": 6,
+    "avg_price": 9405,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2022,
+    "month": 7,
+    "avg_price": 9412,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2022,
+    "month": 8,
+    "avg_price": 9273,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2022,
+    "month": 9,
+    "avg_price": 9225,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2022,
+    "month": 10,
+    "avg_price": 9197,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2022,
+    "month": 11,
+    "avg_price": 9167,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2022,
+    "month": 12,
+    "avg_price": 9123,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2023,
+    "month": 1,
+    "avg_price": 9259,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2023,
+    "month": 2,
+    "avg_price": 9260,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2023,
+    "month": 3,
+    "avg_price": 9170,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2023,
+    "month": 4,
+    "avg_price": 9121,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2023,
+    "month": 5,
+    "avg_price": 8967,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2023,
+    "month": 6,
+    "avg_price": 8968,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2023,
+    "month": 7,
+    "avg_price": 8912,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2023,
+    "month": 8,
+    "avg_price": 8875,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2023,
+    "month": 9,
+    "avg_price": 8762,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2023,
+    "month": 10,
+    "avg_price": 8684,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2023,
+    "month": 11,
+    "avg_price": 8666,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2023,
+    "month": 12,
+    "avg_price": 8456,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2024,
+    "month": 1,
+    "avg_price": 8378,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2024,
+    "month": 2,
+    "avg_price": 8500,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2024,
+    "month": 3,
+    "avg_price": 8381,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2024,
+    "month": 4,
+    "avg_price": 8273,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2024,
+    "month": 5,
+    "avg_price": 8192,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2024,
+    "month": 6,
+    "avg_price": 8141,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2024,
+    "month": 7,
+    "avg_price": 8128,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2024,
+    "month": 8,
+    "avg_price": 8063,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2024,
+    "month": 9,
+    "avg_price": 8051,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2024,
+    "month": 10,
+    "avg_price": 8037,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2024,
+    "month": 11,
+    "avg_price": 7974,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2024,
+    "month": 12,
+    "avg_price": 7966,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2025,
+    "month": 1,
+    "avg_price": 8060,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2025,
+    "month": 2,
+    "avg_price": 8008,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2025,
+    "month": 3,
+    "avg_price": 7867,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2025,
+    "month": 4,
+    "avg_price": 7851,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2025,
+    "month": 5,
+    "avg_price": 7849,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2025,
+    "month": 6,
+    "avg_price": 7805,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2025,
+    "month": 7,
+    "avg_price": 7730,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2025,
+    "month": 8,
+    "avg_price": 7632,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2025,
+    "month": 9,
+    "avg_price": 7541,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2025,
+    "month": 10,
+    "avg_price": 7470,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2025,
+    "month": 11,
+    "avg_price": 7436,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2025,
+    "month": 12,
+    "avg_price": 7374,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb/",
+    "fetched_at": "2026-09-25T02:42:59.062619+00:00",
+    "raw": {
+      "sha256": "4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\4a0bdaa977155ae50545d40c02c7ed6290384cbcae9696b8e59538e3d4913d77.html",
+      "bytes": 124597
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2026,
+    "month": 1,
+    "avg_price": 7340,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb2026/",
+    "fetched_at": "2026-09-25T02:42:57.715987+00:00",
+    "raw": {
+      "sha256": "ee739241beaa922d61bfc5a5d626f02d9823aabf0ccb035fb1c1ead1aba95b1e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ee739241beaa922d61bfc5a5d626f02d9823aabf0ccb035fb1c1ead1aba95b1e.html",
+      "bytes": 187583
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2026,
+    "month": 2,
+    "avg_price": 7414,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb2026/",
+    "fetched_at": "2026-09-25T02:42:57.715987+00:00",
+    "raw": {
+      "sha256": "ee739241beaa922d61bfc5a5d626f02d9823aabf0ccb035fb1c1ead1aba95b1e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ee739241beaa922d61bfc5a5d626f02d9823aabf0ccb035fb1c1ead1aba95b1e.html",
+      "bytes": 187583
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2026,
+    "month": 3,
+    "avg_price": 7423,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb2026/",
+    "fetched_at": "2026-09-25T02:42:57.715987+00:00",
+    "raw": {
+      "sha256": "ee739241beaa922d61bfc5a5d626f02d9823aabf0ccb035fb1c1ead1aba95b1e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ee739241beaa922d61bfc5a5d626f02d9823aabf0ccb035fb1c1ead1aba95b1e.html",
+      "bytes": 187583
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2026,
+    "month": 4,
+    "avg_price": 7375,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb2026/",
+    "fetched_at": "2026-09-25T02:42:57.715987+00:00",
+    "raw": {
+      "sha256": "ee739241beaa922d61bfc5a5d626f02d9823aabf0ccb035fb1c1ead1aba95b1e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ee739241beaa922d61bfc5a5d626f02d9823aabf0ccb035fb1c1ead1aba95b1e.html",
+      "bytes": 187583
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2026,
+    "month": 5,
+    "avg_price": 7282,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb2026/",
+    "fetched_at": "2026-09-25T02:42:57.715987+00:00",
+    "raw": {
+      "sha256": "ee739241beaa922d61bfc5a5d626f02d9823aabf0ccb035fb1c1ead1aba95b1e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ee739241beaa922d61bfc5a5d626f02d9823aabf0ccb035fb1c1ead1aba95b1e.html",
+      "bytes": 187583
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2026,
+    "month": 6,
+    "avg_price": 7259,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb2026/",
+    "fetched_at": "2026-09-25T02:42:57.715987+00:00",
+    "raw": {
+      "sha256": "ee739241beaa922d61bfc5a5d626f02d9823aabf0ccb035fb1c1ead1aba95b1e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ee739241beaa922d61bfc5a5d626f02d9823aabf0ccb035fb1c1ead1aba95b1e.html",
+      "bytes": 187583
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2026,
+    "month": 7,
+    "avg_price": 7253,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb2026/",
+    "fetched_at": "2026-09-25T02:42:57.715987+00:00",
+    "raw": {
+      "sha256": "ee739241beaa922d61bfc5a5d626f02d9823aabf0ccb035fb1c1ead1aba95b1e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ee739241beaa922d61bfc5a5d626f02d9823aabf0ccb035fb1c1ead1aba95b1e.html",
+      "bytes": 187583
+    }
+  },
+  {
+    "city": "哈尔滨",
+    "city_pinyin": "haerbin",
+    "year": 2026,
+    "month": 8,
+    "avg_price": 7236,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/heb2026/",
+    "fetched_at": "2026-09-25T02:42:57.715987+00:00",
+    "raw": {
+      "sha256": "ee739241beaa922d61bfc5a5d626f02d9823aabf0ccb035fb1c1ead1aba95b1e",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ee739241beaa922d61bfc5a5d626f02d9823aabf0ccb035fb1c1ead1aba95b1e.html",
+      "bytes": 187583
+    }
+  }
+]

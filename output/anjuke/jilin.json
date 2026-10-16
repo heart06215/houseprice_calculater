@@ -1,0 +1,542 @@
+[
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2023,
+    "month": 10,
+    "avg_price": 6376,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-09-19T15:13:43.463400+00:00",
+    "raw": {
+      "sha256": "ef9a2fb48b80c5dcdefe859aea053fd75e6478bc69480930e63644e828237241",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\ef9a2fb48b80c5dcdefe859aea053fd75e6478bc69480930e63644e828237241.html",
+      "bytes": 382948
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2023,
+    "month": 11,
+    "avg_price": 6393,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2023,
+    "month": 12,
+    "avg_price": 6237,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2024,
+    "month": 1,
+    "avg_price": 6133,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2024,
+    "month": 2,
+    "avg_price": 6172,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2024,
+    "month": 3,
+    "avg_price": 6017,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2024,
+    "month": 4,
+    "avg_price": 5927,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2024,
+    "month": 5,
+    "avg_price": 5870,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2024,
+    "month": 6,
+    "avg_price": 5812,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2024,
+    "month": 7,
+    "avg_price": 5739,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2024,
+    "month": 8,
+    "avg_price": 5707,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2024,
+    "month": 9,
+    "avg_price": 5646,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2024,
+    "month": 10,
+    "avg_price": 5624,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2024,
+    "month": 11,
+    "avg_price": 5587,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2024,
+    "month": 12,
+    "avg_price": 5576,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2025,
+    "month": 1,
+    "avg_price": 5558,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2025,
+    "month": 2,
+    "avg_price": 5570,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2025,
+    "month": 3,
+    "avg_price": 5517,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2025,
+    "month": 4,
+    "avg_price": 5455,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2025,
+    "month": 5,
+    "avg_price": 5510,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2025,
+    "month": 6,
+    "avg_price": 5493,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2025,
+    "month": 7,
+    "avg_price": 5523,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2025,
+    "month": 8,
+    "avg_price": 5554,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2025,
+    "month": 9,
+    "avg_price": 5530,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2025,
+    "month": 10,
+    "avg_price": 5545,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2025,
+    "month": 11,
+    "avg_price": 5523,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2025,
+    "month": 12,
+    "avg_price": 5443,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2026,
+    "month": 1,
+    "avg_price": 5428,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2026,
+    "month": 2,
+    "avg_price": 5439,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2026,
+    "month": 3,
+    "avg_price": 5399,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2026,
+    "month": 4,
+    "avg_price": 5350,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2026,
+    "month": 5,
+    "avg_price": 5291,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2026,
+    "month": 6,
+    "avg_price": 5307,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2026,
+    "month": 7,
+    "avg_price": 5280,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2026,
+    "month": 8,
+    "avg_price": 5261,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  },
+  {
+    "city": "吉林",
+    "city_pinyin": "jilin",
+    "year": 2026,
+    "month": 9,
+    "avg_price": 5243,
+    "data_source": "anjuke",
+    "source_url": "https://jilin.anjuke.com/market/",
+    "fetched_at": "2026-10-02T01:46:51.521072+00:00",
+    "raw": {
+      "sha256": "8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8e56fba72ee3e18fc552f6ef05fcd00fa34d4e0830910811a822340b710f0edf.html",
+      "bytes": 349611
+    }
+  }
+]

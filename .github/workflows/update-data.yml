@@ -1,0 +1,92 @@
+name: update-data
+
+on:
+  schedule:
+    # UTC 10:00 = 北京时间 18:00
+    - cron: '0 10 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: 安装更新器依赖与无头浏览器
+        run: |
+          pip install -r requirements-update.txt
+          python -m playwright install --with-deps chromium
+      - name: 恢复已发布输入与证据
+        run: python data_processing/release_inputs.py
+      - name: 数据来源、更新故障保留与前端映射回归
+        env:
+          PYTHONPATH: data_processing
+        run: |
+          python -m unittest test_price_engine test_engine_policy test_income test_wage_archive test_snapshot_archive test_compact_permissions test_compact_generated test_build_pages test_public_release_audit test_cih_land test_cih_rankings test_macro_crawler test_realestate_crawler test_lpr_crawler test_update_data test_release_safety test_nbs_refresh test_city_peaks test_market
+          for test in analysis_data city_ranking ranking_sources income mortgage lpr_chart realestate_chart city_navigation information_charts tier_chart; do
+            node "data_processing/test_${test}.cjs"
+          done
+      - name: 干净目录离线重建与部署数据一致性
+        run: python data_processing/verify_release_checkout.py
+      - name: 隔离采集与安全发布主看板
+        id: refresh
+        continue-on-error: true
+        run: python data_processing/update_data.py --dashboard-only
+      - name: 校验已发布数据与静态入口
+        run: |
+          python data_processing/verify_frontend_data.py --dashboard-only
+          find data_processing/frontend/assets/js -name '*.js' -print0 | xargs -0 -n1 node --check
+          python data_processing/build_pages.py
+          python data_processing/verify_dashboard_browser.py
+          python data_processing/verify_income_browser.py
+          python data_processing/verify_city_peaks.py --directory dist/pages --browser
+      - name: 公开文件与输入快照凭据检查
+        id: public_audit
+        if: always()
+        run: python data_processing/audit_public_release.py
+      - name: 保存采集和校验日志
+        if: always() && steps.public_audit.outcome == 'success'
+        uses: actions/upload-artifact@v4
+        with:
+          name: update-logs
+          path: |
+            output/update_logs/
+            output/release-clean-checkout.log
+            output/release-clean-checkout-report.json
+            output/release-browser/report.json
+            output/release-browser/*-screen.png
+            output/release-browser/*-realestate.png
+            output/income-consumer-browser/report.json
+            output/city-peaks/report.json
+            output/city-peaks/report.md
+          if-no-files-found: ignore
+          retention-days: 14
+      - name: 提交有效数据及失败保留状态
+        run: |
+          git config user.name "data-bot"
+          git config user.email "data-bot@users.noreply.github.com"
+          git add -- output/stats_gov/*.json output/anjuke/*.json data_processing/published_inputs.zip data_processing/frontend/intersection_cities.json data_processing/frontend/intersection_housing_data.json data_processing/frontend/update_status.json
+          if git diff --cached --quiet; then
+            echo "数据无变化,跳过提交"
+          else
+            git commit -m "数据更新: $(date -u +%F)"
+            git push
+          fi
+      - name: 更新失败时标记任务异常
+        if: steps.refresh.outcome == 'failure'
+        run: |
+          echo "更新未完成；旧有效数据已保留，请检查 update-logs。"
+          exit 1

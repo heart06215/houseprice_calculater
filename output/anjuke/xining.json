@@ -1,0 +1,1242 @@
+[
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2015,
+    "month": 8,
+    "avg_price": 6150,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2015,
+    "month": 9,
+    "avg_price": 6100,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2015,
+    "month": 10,
+    "avg_price": 6068,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2015,
+    "month": 11,
+    "avg_price": 6018,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2015,
+    "month": 12,
+    "avg_price": 4379,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2016,
+    "month": 8,
+    "avg_price": 6300,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2016,
+    "month": 9,
+    "avg_price": 6297,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2016,
+    "month": 10,
+    "avg_price": 6292,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2016,
+    "month": 11,
+    "avg_price": 6370,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2016,
+    "month": 12,
+    "avg_price": 6391,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2017,
+    "month": 8,
+    "avg_price": 6693,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2017,
+    "month": 9,
+    "avg_price": 6707,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2017,
+    "month": 10,
+    "avg_price": 6332,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2017,
+    "month": 11,
+    "avg_price": 6321,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2017,
+    "month": 12,
+    "avg_price": 6531,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2018,
+    "month": 8,
+    "avg_price": 7035,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2018,
+    "month": 9,
+    "avg_price": 7108,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2018,
+    "month": 10,
+    "avg_price": 7259,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2018,
+    "month": 11,
+    "avg_price": 7363,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2018,
+    "month": 12,
+    "avg_price": 7493,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2019,
+    "month": 8,
+    "avg_price": 8347,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2019,
+    "month": 9,
+    "avg_price": 8871,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2019,
+    "month": 10,
+    "avg_price": 8919,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2019,
+    "month": 11,
+    "avg_price": 9093,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2019,
+    "month": 12,
+    "avg_price": 9165,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2020,
+    "month": 8,
+    "avg_price": 9727,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2020,
+    "month": 9,
+    "avg_price": 9792,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2020,
+    "month": 10,
+    "avg_price": 9863,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2020,
+    "month": 11,
+    "avg_price": 9881,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2020,
+    "month": 12,
+    "avg_price": 9969,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2021,
+    "month": 1,
+    "avg_price": 10026,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2021,
+    "month": 2,
+    "avg_price": 10241,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2021,
+    "month": 3,
+    "avg_price": 10317,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2021,
+    "month": 4,
+    "avg_price": 10393,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2021,
+    "month": 5,
+    "avg_price": 10498,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2021,
+    "month": 6,
+    "avg_price": 10498,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2021,
+    "month": 7,
+    "avg_price": 10504,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2021,
+    "month": 8,
+    "avg_price": 10560,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2021,
+    "month": 9,
+    "avg_price": 10397,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2021,
+    "month": 10,
+    "avg_price": 10220,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2021,
+    "month": 11,
+    "avg_price": 10059,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2021,
+    "month": 12,
+    "avg_price": 9943,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2022,
+    "month": 1,
+    "avg_price": 9862,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2022,
+    "month": 2,
+    "avg_price": 9917,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2022,
+    "month": 3,
+    "avg_price": 9928,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2022,
+    "month": 4,
+    "avg_price": 9989,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2022,
+    "month": 5,
+    "avg_price": 9992,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2022,
+    "month": 6,
+    "avg_price": 9936,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2022,
+    "month": 7,
+    "avg_price": 9863,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2022,
+    "month": 8,
+    "avg_price": 9727,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2022,
+    "month": 9,
+    "avg_price": 9767,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2022,
+    "month": 10,
+    "avg_price": 9796,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2022,
+    "month": 11,
+    "avg_price": 9857,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2022,
+    "month": 12,
+    "avg_price": 9894,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2023,
+    "month": 1,
+    "avg_price": 9837,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2023,
+    "month": 2,
+    "avg_price": 9916,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2023,
+    "month": 3,
+    "avg_price": 9736,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2023,
+    "month": 4,
+    "avg_price": 9745,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2023,
+    "month": 5,
+    "avg_price": 9727,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2023,
+    "month": 6,
+    "avg_price": 9738,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2023,
+    "month": 7,
+    "avg_price": 9666,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2023,
+    "month": 8,
+    "avg_price": 9604,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2023,
+    "month": 9,
+    "avg_price": 9535,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2023,
+    "month": 10,
+    "avg_price": 9373,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2023,
+    "month": 11,
+    "avg_price": 9306,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2023,
+    "month": 12,
+    "avg_price": 8998,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2024,
+    "month": 1,
+    "avg_price": 8840,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2024,
+    "month": 2,
+    "avg_price": 8938,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2024,
+    "month": 3,
+    "avg_price": 8906,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2024,
+    "month": 4,
+    "avg_price": 8771,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2024,
+    "month": 5,
+    "avg_price": 8662,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2024,
+    "month": 6,
+    "avg_price": 8654,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2024,
+    "month": 7,
+    "avg_price": 8608,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2024,
+    "month": 8,
+    "avg_price": 8547,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2024,
+    "month": 9,
+    "avg_price": 8483,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2024,
+    "month": 10,
+    "avg_price": 8403,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2024,
+    "month": 11,
+    "avg_price": 8291,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2024,
+    "month": 12,
+    "avg_price": 8310,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2025,
+    "month": 1,
+    "avg_price": 8378,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2025,
+    "month": 2,
+    "avg_price": 8415,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2025,
+    "month": 3,
+    "avg_price": 8391,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2025,
+    "month": 4,
+    "avg_price": 8382,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2025,
+    "month": 5,
+    "avg_price": 8316,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2025,
+    "month": 6,
+    "avg_price": 8215,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2025,
+    "month": 7,
+    "avg_price": 8290,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2025,
+    "month": 8,
+    "avg_price": 8317,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2025,
+    "month": 9,
+    "avg_price": 8272,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2025,
+    "month": 10,
+    "avg_price": 8132,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2025,
+    "month": 11,
+    "avg_price": 8082,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2025,
+    "month": 12,
+    "avg_price": 8116,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining/",
+    "fetched_at": "2026-10-01T05:56:12.974509+00:00",
+    "raw": {
+      "sha256": "7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\7e6789995a5c00eaac28c8b15eb67e67ecbd0e9c5f4180a8d53f6da7fe6a4a20.html",
+      "bytes": 93689
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2026,
+    "month": 1,
+    "avg_price": 8101,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining2026/",
+    "fetched_at": "2026-10-01T05:56:11.677998+00:00",
+    "raw": {
+      "sha256": "786166b4034edfca0cde34136c287aada5de7ccf434bda3b04a9936d43b2424b",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\786166b4034edfca0cde34136c287aada5de7ccf434bda3b04a9936d43b2424b.html",
+      "bytes": 214454
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2026,
+    "month": 2,
+    "avg_price": 8105,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining2026/",
+    "fetched_at": "2026-10-01T05:56:11.677998+00:00",
+    "raw": {
+      "sha256": "786166b4034edfca0cde34136c287aada5de7ccf434bda3b04a9936d43b2424b",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\786166b4034edfca0cde34136c287aada5de7ccf434bda3b04a9936d43b2424b.html",
+      "bytes": 214454
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2026,
+    "month": 3,
+    "avg_price": 8123,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining2026/",
+    "fetched_at": "2026-10-01T05:56:11.677998+00:00",
+    "raw": {
+      "sha256": "786166b4034edfca0cde34136c287aada5de7ccf434bda3b04a9936d43b2424b",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\786166b4034edfca0cde34136c287aada5de7ccf434bda3b04a9936d43b2424b.html",
+      "bytes": 214454
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2026,
+    "month": 4,
+    "avg_price": 8099,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining2026/",
+    "fetched_at": "2026-10-01T05:56:11.677998+00:00",
+    "raw": {
+      "sha256": "786166b4034edfca0cde34136c287aada5de7ccf434bda3b04a9936d43b2424b",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\786166b4034edfca0cde34136c287aada5de7ccf434bda3b04a9936d43b2424b.html",
+      "bytes": 214454
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2026,
+    "month": 5,
+    "avg_price": 8073,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining2026/",
+    "fetched_at": "2026-10-01T05:56:11.677998+00:00",
+    "raw": {
+      "sha256": "786166b4034edfca0cde34136c287aada5de7ccf434bda3b04a9936d43b2424b",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\786166b4034edfca0cde34136c287aada5de7ccf434bda3b04a9936d43b2424b.html",
+      "bytes": 214454
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2026,
+    "month": 6,
+    "avg_price": 8047,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining2026/",
+    "fetched_at": "2026-10-01T05:56:11.677998+00:00",
+    "raw": {
+      "sha256": "786166b4034edfca0cde34136c287aada5de7ccf434bda3b04a9936d43b2424b",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\786166b4034edfca0cde34136c287aada5de7ccf434bda3b04a9936d43b2424b.html",
+      "bytes": 214454
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2026,
+    "month": 7,
+    "avg_price": 8059,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining2026/",
+    "fetched_at": "2026-10-01T05:56:11.677998+00:00",
+    "raw": {
+      "sha256": "786166b4034edfca0cde34136c287aada5de7ccf434bda3b04a9936d43b2424b",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\786166b4034edfca0cde34136c287aada5de7ccf434bda3b04a9936d43b2424b.html",
+      "bytes": 214454
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2026,
+    "month": 8,
+    "avg_price": 7998,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining2026/",
+    "fetched_at": "2026-10-01T05:56:11.677998+00:00",
+    "raw": {
+      "sha256": "786166b4034edfca0cde34136c287aada5de7ccf434bda3b04a9936d43b2424b",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\786166b4034edfca0cde34136c287aada5de7ccf434bda3b04a9936d43b2424b.html",
+      "bytes": 214454
+    }
+  },
+  {
+    "city": "西宁",
+    "city_pinyin": "xining",
+    "year": 2026,
+    "month": 9,
+    "avg_price": 7962,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xining2026/",
+    "fetched_at": "2026-10-01T05:56:11.677998+00:00",
+    "raw": {
+      "sha256": "786166b4034edfca0cde34136c287aada5de7ccf434bda3b04a9936d43b2424b",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\786166b4034edfca0cde34136c287aada5de7ccf434bda3b04a9936d43b2424b.html",
+      "bytes": 214454
+    }
+  }
+]

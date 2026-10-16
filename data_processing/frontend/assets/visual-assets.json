@@ -1,0 +1,74 @@
+{
+  "motion_version": "13.4.1",
+  "glow_version": "0.93",
+  "files": [
+    {
+      "path": "fonts/GlowSans-OFL.txt",
+      "bytes": 4340,
+      "sha256": "6e756a7eeb3610d370bc36f12c363c11802f7ed74074c7a7fed5617b10028686"
+    },
+    {
+      "path": "fonts/GlowSansSC-Normal-Regular.woff2",
+      "bytes": 1474248,
+      "sha256": "a693b1d05e008f6db3631115b1aa1c28011f23ed8ec6d0cf8e7064ffd358d984"
+    },
+    {
+      "path": "fonts/GlowSansSC-Normal-Medium.woff2",
+      "bytes": 1489264,
+      "sha256": "c5b5f622004d6311b8e97579d3ecec3322675b35ed6ade2998728450e39e3b8e"
+    },
+    {
+      "path": "fonts/GlowSansSC-Normal-Bold.woff2",
+      "bytes": 1498580,
+      "sha256": "c526e647ba0c62dee807bd2e6fcf440a45d09cf7dcdb5aff08480c330ad73a00"
+    },
+    {
+      "path": "fonts/GlowSansSC-Wide-Bold.woff2",
+      "bytes": 1553376,
+      "sha256": "74b2ab38252c47044a9ffd737668c14d8adb952fa03fb6e1db8428246201171f"
+    },
+    {
+      "path": "css/glow-fonts.css",
+      "bytes": 5068,
+      "sha256": "8afdef1e6406f9c7a73f0466f31cad727f6d38908f350e6ad73d746cd96ff8e7"
+    },
+    {
+      "path": "vendor/motion-13.4.1.js",
+      "bytes": 15395,
+      "sha256": "d3e521549d9e8751720441edff843745ffaaa64f0830b1ed7e8cd9a9633f2b87"
+    },
+    {
+      "path": "vendor/Motion-LICENSE.md",
+      "bytes": 5126,
+      "sha256": "9cac7c411d9707d18c5a33dd236cff694701d9ed89eb5794ae5deca7a3e9be9f"
+    }
+  ],
+  "font_subset": {
+    "strategy": "GB2312 + current frontend source and data + general punctuation",
+    "codepoints": 8355
+  },
+  "archives": [
+    {
+      "name": "GlowSansSC-Normal-v0.93.zip",
+      "url": "https://github.com/welai/glow-sans/releases/download/v0.93/GlowSansSC-Normal-v0.93.zip",
+      "sha256": "aa2e1fdb20337113a1d2670b695bfee83910eefa2e48f51c704e5f4a9f8ec9f1"
+    },
+    {
+      "name": "GlowSansSC-Wide-v0.93.zip",
+      "url": "https://github.com/welai/glow-sans/releases/download/v0.93/GlowSansSC-Wide-v0.93.zip",
+      "sha256": "036eca2916a3636b32d006937d498cc33873317c8bf01057580b21526f59e79b"
+    }
+  ],
+  "motion_build": {
+    "entry": "motion/mini",
+    "format": "iife",
+    "esbuild": "0.25.10",
+    "dependencies": {
+      "motion": "13.4.1",
+      "framer-motion": "13.4.1",
+      "motion-dom": "13.4.1",
+      "motion-utils": "13.3.0",
+      "tslib": "2.8.1"
+    }
+  }
+}

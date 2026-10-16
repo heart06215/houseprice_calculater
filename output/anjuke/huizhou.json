@@ -1,0 +1,1497 @@
+[
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2011,
+    "month": 11,
+    "avg_price": 5594,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2011,
+    "month": 12,
+    "avg_price": 5534,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2012,
+    "month": 8,
+    "avg_price": 5556,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2012,
+    "month": 9,
+    "avg_price": 5614,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2012,
+    "month": 10,
+    "avg_price": 5601,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2012,
+    "month": 11,
+    "avg_price": 5595,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2012,
+    "month": 12,
+    "avg_price": 5698,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2013,
+    "month": 8,
+    "avg_price": 5697,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2013,
+    "month": 9,
+    "avg_price": 5676,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2013,
+    "month": 10,
+    "avg_price": 5746,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2013,
+    "month": 11,
+    "avg_price": 5592,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2013,
+    "month": 12,
+    "avg_price": 5480,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2014,
+    "month": 8,
+    "avg_price": 6154,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2014,
+    "month": 9,
+    "avg_price": 5890,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2014,
+    "month": 10,
+    "avg_price": 5638,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2014,
+    "month": 11,
+    "avg_price": 5385,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2014,
+    "month": 12,
+    "avg_price": 5585,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2015,
+    "month": 8,
+    "avg_price": 6112,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2015,
+    "month": 9,
+    "avg_price": 6000,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2015,
+    "month": 10,
+    "avg_price": 6027,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2015,
+    "month": 11,
+    "avg_price": 6022,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2015,
+    "month": 12,
+    "avg_price": 6125,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2016,
+    "month": 8,
+    "avg_price": 7678,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2016,
+    "month": 9,
+    "avg_price": 7765,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2016,
+    "month": 10,
+    "avg_price": 8197,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2016,
+    "month": 11,
+    "avg_price": 8107,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2016,
+    "month": 12,
+    "avg_price": 8184,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2017,
+    "month": 8,
+    "avg_price": 9834,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2017,
+    "month": 9,
+    "avg_price": 9976,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2017,
+    "month": 10,
+    "avg_price": 9988,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2017,
+    "month": 11,
+    "avg_price": 10201,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2017,
+    "month": 12,
+    "avg_price": 10227,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2018,
+    "month": 8,
+    "avg_price": 10358,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2018,
+    "month": 9,
+    "avg_price": 10293,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2018,
+    "month": 10,
+    "avg_price": 10237,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2018,
+    "month": 11,
+    "avg_price": 10142,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2018,
+    "month": 12,
+    "avg_price": 10013,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2019,
+    "month": 8,
+    "avg_price": 9847,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2019,
+    "month": 9,
+    "avg_price": 9854,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2019,
+    "month": 10,
+    "avg_price": 9879,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2019,
+    "month": 11,
+    "avg_price": 9898,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2019,
+    "month": 12,
+    "avg_price": 9956,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2020,
+    "month": 8,
+    "avg_price": 10075,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2020,
+    "month": 9,
+    "avg_price": 10152,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2020,
+    "month": 10,
+    "avg_price": 10100,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2020,
+    "month": 11,
+    "avg_price": 10154,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2020,
+    "month": 12,
+    "avg_price": 10254,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2021,
+    "month": 1,
+    "avg_price": 10312,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2021,
+    "month": 2,
+    "avg_price": 10581,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2021,
+    "month": 3,
+    "avg_price": 10449,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2021,
+    "month": 4,
+    "avg_price": 10353,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2021,
+    "month": 5,
+    "avg_price": 10261,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2021,
+    "month": 6,
+    "avg_price": 10416,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2021,
+    "month": 7,
+    "avg_price": 10629,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2021,
+    "month": 8,
+    "avg_price": 10667,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2021,
+    "month": 9,
+    "avg_price": 10733,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2021,
+    "month": 10,
+    "avg_price": 10757,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2021,
+    "month": 11,
+    "avg_price": 10574,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2021,
+    "month": 12,
+    "avg_price": 10503,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2022,
+    "month": 1,
+    "avg_price": 10461,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2022,
+    "month": 2,
+    "avg_price": 10641,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2022,
+    "month": 3,
+    "avg_price": 10758,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2022,
+    "month": 4,
+    "avg_price": 10566,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2022,
+    "month": 5,
+    "avg_price": 10454,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2022,
+    "month": 6,
+    "avg_price": 10387,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2022,
+    "month": 7,
+    "avg_price": 10422,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2022,
+    "month": 8,
+    "avg_price": 10429,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2022,
+    "month": 9,
+    "avg_price": 10441,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2022,
+    "month": 10,
+    "avg_price": 10613,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2022,
+    "month": 11,
+    "avg_price": 10725,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2022,
+    "month": 12,
+    "avg_price": 10838,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2023,
+    "month": 1,
+    "avg_price": 10843,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2023,
+    "month": 2,
+    "avg_price": 10794,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2023,
+    "month": 3,
+    "avg_price": 10558,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2023,
+    "month": 4,
+    "avg_price": 10454,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2023,
+    "month": 5,
+    "avg_price": 10512,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2023,
+    "month": 6,
+    "avg_price": 10579,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2023,
+    "month": 7,
+    "avg_price": 10520,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2023,
+    "month": 8,
+    "avg_price": 10365,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2023,
+    "month": 9,
+    "avg_price": 10398,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2023,
+    "month": 10,
+    "avg_price": 10356,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2023,
+    "month": 11,
+    "avg_price": 10150,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2023,
+    "month": 12,
+    "avg_price": 9924,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2024,
+    "month": 1,
+    "avg_price": 9776,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2024,
+    "month": 2,
+    "avg_price": 9919,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2024,
+    "month": 3,
+    "avg_price": 9639,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2024,
+    "month": 4,
+    "avg_price": 9428,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2024,
+    "month": 5,
+    "avg_price": 9178,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2024,
+    "month": 6,
+    "avg_price": 9062,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2024,
+    "month": 7,
+    "avg_price": 8948,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2024,
+    "month": 8,
+    "avg_price": 8763,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2024,
+    "month": 9,
+    "avg_price": 8601,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2024,
+    "month": 10,
+    "avg_price": 8552,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2024,
+    "month": 11,
+    "avg_price": 8354,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2024,
+    "month": 12,
+    "avg_price": 8286,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2025,
+    "month": 1,
+    "avg_price": 8352,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2025,
+    "month": 2,
+    "avg_price": 8317,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2025,
+    "month": 3,
+    "avg_price": 8192,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2025,
+    "month": 4,
+    "avg_price": 8053,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2025,
+    "month": 5,
+    "avg_price": 7941,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2025,
+    "month": 6,
+    "avg_price": 7933,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2025,
+    "month": 7,
+    "avg_price": 7820,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2025,
+    "month": 8,
+    "avg_price": 7748,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2025,
+    "month": 9,
+    "avg_price": 7615,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2025,
+    "month": 10,
+    "avg_price": 7600,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2025,
+    "month": 11,
+    "avg_price": 7659,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2025,
+    "month": 12,
+    "avg_price": 7625,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou/",
+    "fetched_at": "2026-10-05T09:23:21.353989+00:00",
+    "raw": {
+      "sha256": "a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\a500fed4a86ba87301915731a7c83add5d355e16a1986c15a16ea7a3a3bfc8ae.html",
+      "bytes": 104237
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2026,
+    "month": 1,
+    "avg_price": 7550,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou2026/",
+    "fetched_at": "2026-10-05T09:23:20.036703+00:00",
+    "raw": {
+      "sha256": "3f12991525ca9713e47eaa03536ad1289af1c75614090ca369bb62008510c9c7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3f12991525ca9713e47eaa03536ad1289af1c75614090ca369bb62008510c9c7.html",
+      "bytes": 168083
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2026,
+    "month": 2,
+    "avg_price": 7535,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou2026/",
+    "fetched_at": "2026-10-05T09:23:20.036703+00:00",
+    "raw": {
+      "sha256": "3f12991525ca9713e47eaa03536ad1289af1c75614090ca369bb62008510c9c7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3f12991525ca9713e47eaa03536ad1289af1c75614090ca369bb62008510c9c7.html",
+      "bytes": 168083
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2026,
+    "month": 3,
+    "avg_price": 7422,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou2026/",
+    "fetched_at": "2026-10-05T09:23:20.036703+00:00",
+    "raw": {
+      "sha256": "3f12991525ca9713e47eaa03536ad1289af1c75614090ca369bb62008510c9c7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3f12991525ca9713e47eaa03536ad1289af1c75614090ca369bb62008510c9c7.html",
+      "bytes": 168083
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2026,
+    "month": 4,
+    "avg_price": 7287,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou2026/",
+    "fetched_at": "2026-10-05T09:23:20.036703+00:00",
+    "raw": {
+      "sha256": "3f12991525ca9713e47eaa03536ad1289af1c75614090ca369bb62008510c9c7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3f12991525ca9713e47eaa03536ad1289af1c75614090ca369bb62008510c9c7.html",
+      "bytes": 168083
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2026,
+    "month": 5,
+    "avg_price": 7200,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou2026/",
+    "fetched_at": "2026-10-05T09:23:20.036703+00:00",
+    "raw": {
+      "sha256": "3f12991525ca9713e47eaa03536ad1289af1c75614090ca369bb62008510c9c7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3f12991525ca9713e47eaa03536ad1289af1c75614090ca369bb62008510c9c7.html",
+      "bytes": 168083
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2026,
+    "month": 6,
+    "avg_price": 7141,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou2026/",
+    "fetched_at": "2026-10-05T09:23:20.036703+00:00",
+    "raw": {
+      "sha256": "3f12991525ca9713e47eaa03536ad1289af1c75614090ca369bb62008510c9c7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3f12991525ca9713e47eaa03536ad1289af1c75614090ca369bb62008510c9c7.html",
+      "bytes": 168083
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2026,
+    "month": 7,
+    "avg_price": 7119,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou2026/",
+    "fetched_at": "2026-10-05T09:23:20.036703+00:00",
+    "raw": {
+      "sha256": "3f12991525ca9713e47eaa03536ad1289af1c75614090ca369bb62008510c9c7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3f12991525ca9713e47eaa03536ad1289af1c75614090ca369bb62008510c9c7.html",
+      "bytes": 168083
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2026,
+    "month": 8,
+    "avg_price": 7170,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou2026/",
+    "fetched_at": "2026-10-05T09:23:20.036703+00:00",
+    "raw": {
+      "sha256": "3f12991525ca9713e47eaa03536ad1289af1c75614090ca369bb62008510c9c7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3f12991525ca9713e47eaa03536ad1289af1c75614090ca369bb62008510c9c7.html",
+      "bytes": 168083
+    }
+  },
+  {
+    "city": "惠州",
+    "city_pinyin": "huizhou",
+    "year": 2026,
+    "month": 9,
+    "avg_price": 7129,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/huizhou2026/",
+    "fetched_at": "2026-10-05T09:23:20.036703+00:00",
+    "raw": {
+      "sha256": "3f12991525ca9713e47eaa03536ad1289af1c75614090ca369bb62008510c9c7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3f12991525ca9713e47eaa03536ad1289af1c75614090ca369bb62008510c9c7.html",
+      "bytes": 168083
+    }
+  }
+]

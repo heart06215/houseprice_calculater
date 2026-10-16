@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>中国70城房价信息平台</title>
+    <link rel="stylesheet" href="assets/css/main.css?v=20261011-typo2">
+    <link rel="stylesheet" href="assets/css/visual-theme.css?v=20261011-typo2">
+    <link rel="stylesheet" href="assets/css/glow-fonts.css?v=20261011-typo2">
+<link rel="stylesheet" href="assets/css/interface-motion.css?v=20261011-typo2">
+  <link rel="stylesheet" href="assets/css/neo-chinese.css?v=20261011-typo2">
+    <link rel="stylesheet" href="assets/css/city-analysis.css?v=20261011-typo2">
+    <!-- 依赖已本地化（离线可用）；standalone 构建脚本会把以下资源内联为单文件 -->
+    <script defer src="assets/vendor/vue.global.prod.js?v=20261011-typo2"></script>
+    <script defer src="assets/vendor/echarts.min.js?v=20261011-typo2"></script>
+    <script defer src="assets/vendor/motion-13.4.1.js?v=20261011-typo2"></script>
+    <script defer src="assets/js/shared/button-motion.js?v=20261011-typo2"></script>
+    <!-- 共享工具 -->
+    <script defer src="assets/js/shared/format.js?v=20261011-typo2"></script>
+    <script defer src="assets/js/shared/chart-theme.js?v=20261011-typo2"></script>
+    <script defer src="assets/js/shared/data-loader.js?v=20261011-typo2"></script>
+    <!-- 看板逻辑（顺序加载：图表模块 → 组件 → 应用装配） -->
+    <script defer src="assets/js/dashboard/analysis-data.js?v=20261011-typo2"></script>
+    <script defer src="assets/js/dashboard/charts.js?v=20261011-typo2"></script>
+    <script defer src="assets/js/dashboard/charts_report.js?v=20261011-typo2"></script>
+    <script defer src="assets/js/dashboard/components.js?v=20261011-typo2"></script>
+    <script defer src="assets/js/dashboard/report_tab.js?v=20261011-typo2"></script>
+    <script defer src="assets/js/dashboard/national_tab.js?v=20261011-typo2"></script>
+    <script defer src="assets/js/dashboard/realestate_tab.js?v=20261011-typo2"></script>
+    <script defer src="assets/js/dashboard/income-analysis.js?v=20261011-typo2"></script>
+    <script defer src="assets/js/dashboard/income_panel.js?v=20261011-typo2"></script>
+    <script defer src="assets/js/dashboard/city_analysis.js?v=20261011-typo2"></script>
+    <script defer src="assets/js/dashboard/segments_tab.js?v=20261011-typo2"></script>
+    <script defer src="assets/js/shared/mortgage.js?v=20261011-typo2"></script>
+    <script defer src="assets/js/dashboard/mortgage_tab.js?v=20261011-typo2"></script>
+    <script defer src="assets/js/dashboard/update_status.js?v=20261011-typo2"></script>
+    <script defer src="assets/js/dashboard/information_tab.js?v=20261011-typo2"></script>
+    <script defer src="assets/js/dashboard/app.js?v=20261011-typo2"></script>
+    <link rel="stylesheet" href="assets/css/mortgage.css?v=20261011-typo2">
+    <link rel="stylesheet" href="assets/css/income.css?v=20261011-typo2">
+    <link rel="stylesheet" href="assets/css/mobile.css?v=20261011-typo2">
+    <link rel="stylesheet" href="assets/css/table-layout.css?v=20261011-typo2">
+
+<script>
+(function(){
+  try {
+    if (window.matchMedia && window.matchMedia('(hover: hover) and (pointer: fine)').matches) {
+      document.documentElement.classList.add('ef-cursor-ready');
+    }
+  } catch (e) {}
+})();
+</script>
+
+</head>
+<body>
+    <div id="app"></div>
+</body>
+</html>

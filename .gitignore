@@ -1,0 +1,73 @@
+# --- Python ---
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# --- Credentials and local browser sessions ---
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+**/cookies*.json
+**/storage_state*.json
+**/.auth/
+**/browser-profile*/
+*.tmp
+
+# --- Temp / tooling ---
+.tmp_test/
+.zcode/
+
+# --- Build / release output ---
+dist/
+build/
+
+# --- Generated artifacts (reproducible via data_processing build scripts) ---
+data_processing/frontend/realestate/map_inline.html
+data_processing/standalone_dashboard.html
+data_processing/frontend/realestate/data/communities/*.json
+data_processing/frontend/realestate/data/metro_operational*.json
+
+# --- Large runtime data archives (kept on disk, not versioned) ---
+output/warehouse/
+output/communities/
+
+# --- Transient workspaces (never versioned) ---
+output/update_work/
+output/visual_assets/
+**/output/warehouse/
+**/*.sqlite3-journal
+
+# --- OS cruft ---
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# --- Local tooling and research documents ---
+docs/
+PROJECT_HANDOFF.md
+/AGENTS.md
+/CLAUDE.md
+.agents/
+.zcodeignore
+source/
+报错.txt
+*.log
+
+# --- 爬虫运行时输出(可再生成; 仅版本化核心数据集) ---
+output/*
+!output/stats_gov/
+!output/anjuke/

@@ -1,0 +1,1482 @@
+[
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2011,
+    "month": 11,
+    "avg_price": 7818,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2011,
+    "month": 12,
+    "avg_price": 7820,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2012,
+    "month": 8,
+    "avg_price": 7810,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2012,
+    "month": 9,
+    "avg_price": 7233,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2012,
+    "month": 10,
+    "avg_price": 7653,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2012,
+    "month": 11,
+    "avg_price": 7717,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2012,
+    "month": 12,
+    "avg_price": 7797,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2013,
+    "month": 8,
+    "avg_price": 7874,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2013,
+    "month": 9,
+    "avg_price": 8088,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2013,
+    "month": 10,
+    "avg_price": 7933,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2013,
+    "month": 11,
+    "avg_price": 7931,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2013,
+    "month": 12,
+    "avg_price": 7947,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2014,
+    "month": 8,
+    "avg_price": 7608,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2014,
+    "month": 9,
+    "avg_price": 7663,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2014,
+    "month": 10,
+    "avg_price": 7650,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2014,
+    "month": 11,
+    "avg_price": 7738,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2015,
+    "month": 8,
+    "avg_price": 5336,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2015,
+    "month": 9,
+    "avg_price": 5228,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2015,
+    "month": 10,
+    "avg_price": 5196,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2015,
+    "month": 11,
+    "avg_price": 5751,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2015,
+    "month": 12,
+    "avg_price": 5814,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2016,
+    "month": 8,
+    "avg_price": 6477,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2016,
+    "month": 9,
+    "avg_price": 6507,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2016,
+    "month": 10,
+    "avg_price": 6484,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2016,
+    "month": 11,
+    "avg_price": 6467,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2016,
+    "month": 12,
+    "avg_price": 6497,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2017,
+    "month": 8,
+    "avg_price": 8677,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2017,
+    "month": 9,
+    "avg_price": 8215,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2017,
+    "month": 10,
+    "avg_price": 8003,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2017,
+    "month": 11,
+    "avg_price": 8026,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2017,
+    "month": 12,
+    "avg_price": 8006,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2018,
+    "month": 8,
+    "avg_price": 9000,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2018,
+    "month": 9,
+    "avg_price": 9096,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2018,
+    "month": 10,
+    "avg_price": 9249,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2018,
+    "month": 11,
+    "avg_price": 9278,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2018,
+    "month": 12,
+    "avg_price": 9258,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2019,
+    "month": 8,
+    "avg_price": 10350,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2019,
+    "month": 9,
+    "avg_price": 10858,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2019,
+    "month": 10,
+    "avg_price": 11286,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2019,
+    "month": 11,
+    "avg_price": 11352,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2019,
+    "month": 12,
+    "avg_price": 11475,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2020,
+    "month": 8,
+    "avg_price": 12008,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2020,
+    "month": 9,
+    "avg_price": 12038,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2020,
+    "month": 10,
+    "avg_price": 12134,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2020,
+    "month": 11,
+    "avg_price": 12097,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2020,
+    "month": 12,
+    "avg_price": 12002,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2021,
+    "month": 1,
+    "avg_price": 11921,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2021,
+    "month": 2,
+    "avg_price": 11922,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2021,
+    "month": 3,
+    "avg_price": 11957,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2021,
+    "month": 4,
+    "avg_price": 11954,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2021,
+    "month": 5,
+    "avg_price": 11789,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2021,
+    "month": 6,
+    "avg_price": 11747,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2021,
+    "month": 7,
+    "avg_price": 11732,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2021,
+    "month": 8,
+    "avg_price": 11697,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2021,
+    "month": 9,
+    "avg_price": 11481,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2021,
+    "month": 10,
+    "avg_price": 11308,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2021,
+    "month": 11,
+    "avg_price": 11227,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2021,
+    "month": 12,
+    "avg_price": 11097,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2022,
+    "month": 1,
+    "avg_price": 11001,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2022,
+    "month": 2,
+    "avg_price": 10978,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2022,
+    "month": 3,
+    "avg_price": 10952,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2022,
+    "month": 4,
+    "avg_price": 10927,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2022,
+    "month": 5,
+    "avg_price": 10900,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2022,
+    "month": 6,
+    "avg_price": 10866,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2022,
+    "month": 7,
+    "avg_price": 10808,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2022,
+    "month": 8,
+    "avg_price": 10750,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2022,
+    "month": 9,
+    "avg_price": 10661,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2022,
+    "month": 10,
+    "avg_price": 10609,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2022,
+    "month": 11,
+    "avg_price": 10492,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2022,
+    "month": 12,
+    "avg_price": 10516,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2023,
+    "month": 1,
+    "avg_price": 10583,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2023,
+    "month": 2,
+    "avg_price": 10636,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2023,
+    "month": 3,
+    "avg_price": 10598,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2023,
+    "month": 4,
+    "avg_price": 10576,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2023,
+    "month": 5,
+    "avg_price": 10543,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2023,
+    "month": 6,
+    "avg_price": 10461,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2023,
+    "month": 7,
+    "avg_price": 10322,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2023,
+    "month": 8,
+    "avg_price": 10402,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2023,
+    "month": 9,
+    "avg_price": 10330,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2023,
+    "month": 10,
+    "avg_price": 10204,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2023,
+    "month": 11,
+    "avg_price": 9954,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2023,
+    "month": 12,
+    "avg_price": 9701,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2024,
+    "month": 1,
+    "avg_price": 9463,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2024,
+    "month": 2,
+    "avg_price": 9446,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2024,
+    "month": 3,
+    "avg_price": 9278,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2024,
+    "month": 4,
+    "avg_price": 9108,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2024,
+    "month": 5,
+    "avg_price": 9025,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2024,
+    "month": 6,
+    "avg_price": 8944,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2024,
+    "month": 7,
+    "avg_price": 8818,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2024,
+    "month": 8,
+    "avg_price": 8747,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2024,
+    "month": 9,
+    "avg_price": 8547,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2024,
+    "month": 10,
+    "avg_price": 8453,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2024,
+    "month": 11,
+    "avg_price": 8270,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2024,
+    "month": 12,
+    "avg_price": 8186,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2025,
+    "month": 1,
+    "avg_price": 8144,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2025,
+    "month": 2,
+    "avg_price": 8148,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2025,
+    "month": 3,
+    "avg_price": 7990,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2025,
+    "month": 4,
+    "avg_price": 7922,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2025,
+    "month": 5,
+    "avg_price": 7860,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2025,
+    "month": 6,
+    "avg_price": 7858,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2025,
+    "month": 7,
+    "avg_price": 7812,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2025,
+    "month": 8,
+    "avg_price": 7709,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2025,
+    "month": 9,
+    "avg_price": 7588,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2025,
+    "month": 10,
+    "avg_price": 7630,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2025,
+    "month": 11,
+    "avg_price": 7516,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2025,
+    "month": 12,
+    "avg_price": 7501,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao/",
+    "fetched_at": "2026-10-09T07:42:51.308313+00:00",
+    "raw": {
+      "sha256": "bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1",
+      "path": "output/warehouse/raw/anjuke_recheck/bc4519dfe375969f619bf7ce22737e46be30033f97b55e5dc70e337ebcc9a4f1.html",
+      "bytes": 108245
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2026,
+    "month": 1,
+    "avg_price": 7493,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao2026/",
+    "fetched_at": "2026-10-09T07:42:20.974989+00:00",
+    "raw": {
+      "sha256": "d86f7423c8834e999a12290722ea972c29bed6ed559d97e012889936f2a4e94f",
+      "path": "output/warehouse/raw/anjuke_recheck/d86f7423c8834e999a12290722ea972c29bed6ed559d97e012889936f2a4e94f.html",
+      "bytes": 219861
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2026,
+    "month": 2,
+    "avg_price": 7509,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao2026/",
+    "fetched_at": "2026-10-09T07:42:20.974989+00:00",
+    "raw": {
+      "sha256": "d86f7423c8834e999a12290722ea972c29bed6ed559d97e012889936f2a4e94f",
+      "path": "output/warehouse/raw/anjuke_recheck/d86f7423c8834e999a12290722ea972c29bed6ed559d97e012889936f2a4e94f.html",
+      "bytes": 219861
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2026,
+    "month": 3,
+    "avg_price": 7466,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao2026/",
+    "fetched_at": "2026-10-09T07:42:20.974989+00:00",
+    "raw": {
+      "sha256": "d86f7423c8834e999a12290722ea972c29bed6ed559d97e012889936f2a4e94f",
+      "path": "output/warehouse/raw/anjuke_recheck/d86f7423c8834e999a12290722ea972c29bed6ed559d97e012889936f2a4e94f.html",
+      "bytes": 219861
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2026,
+    "month": 4,
+    "avg_price": 7446,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao2026/",
+    "fetched_at": "2026-10-09T07:42:20.974989+00:00",
+    "raw": {
+      "sha256": "d86f7423c8834e999a12290722ea972c29bed6ed559d97e012889936f2a4e94f",
+      "path": "output/warehouse/raw/anjuke_recheck/d86f7423c8834e999a12290722ea972c29bed6ed559d97e012889936f2a4e94f.html",
+      "bytes": 219861
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2026,
+    "month": 5,
+    "avg_price": 7424,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao2026/",
+    "fetched_at": "2026-10-09T07:42:20.974989+00:00",
+    "raw": {
+      "sha256": "d86f7423c8834e999a12290722ea972c29bed6ed559d97e012889936f2a4e94f",
+      "path": "output/warehouse/raw/anjuke_recheck/d86f7423c8834e999a12290722ea972c29bed6ed559d97e012889936f2a4e94f.html",
+      "bytes": 219861
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2026,
+    "month": 6,
+    "avg_price": 7393,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao2026/",
+    "fetched_at": "2026-10-09T07:42:20.974989+00:00",
+    "raw": {
+      "sha256": "d86f7423c8834e999a12290722ea972c29bed6ed559d97e012889936f2a4e94f",
+      "path": "output/warehouse/raw/anjuke_recheck/d86f7423c8834e999a12290722ea972c29bed6ed559d97e012889936f2a4e94f.html",
+      "bytes": 219861
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2026,
+    "month": 7,
+    "avg_price": 7403,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao2026/",
+    "fetched_at": "2026-10-09T07:42:20.974989+00:00",
+    "raw": {
+      "sha256": "d86f7423c8834e999a12290722ea972c29bed6ed559d97e012889936f2a4e94f",
+      "path": "output/warehouse/raw/anjuke_recheck/d86f7423c8834e999a12290722ea972c29bed6ed559d97e012889936f2a4e94f.html",
+      "bytes": 219861
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2026,
+    "month": 8,
+    "avg_price": 7396,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao2026/",
+    "fetched_at": "2026-10-09T07:42:20.974989+00:00",
+    "raw": {
+      "sha256": "d86f7423c8834e999a12290722ea972c29bed6ed559d97e012889936f2a4e94f",
+      "path": "output/warehouse/raw/anjuke_recheck/d86f7423c8834e999a12290722ea972c29bed6ed559d97e012889936f2a4e94f.html",
+      "bytes": 219861
+    }
+  },
+  {
+    "city": "秦皇岛",
+    "city_pinyin": "qinhuangdao",
+    "year": 2026,
+    "month": 9,
+    "avg_price": 7354,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/qinhuangdao2026/",
+    "fetched_at": "2026-10-09T07:42:20.974989+00:00",
+    "raw": {
+      "sha256": "d86f7423c8834e999a12290722ea972c29bed6ed559d97e012889936f2a4e94f",
+      "path": "output/warehouse/raw/anjuke_recheck/d86f7423c8834e999a12290722ea972c29bed6ed559d97e012889936f2a4e94f.html",
+      "bytes": 219861
+    }
+  }
+]

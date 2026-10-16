@@ -1,0 +1,4 @@
+# Dependencies used by the scheduled dashboard updater.
+requests>=2.28,<3
+beautifulsoup4>=4.12,<5
+playwright>=1.40,<2

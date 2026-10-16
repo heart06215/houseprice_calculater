@@ -1,0 +1,452 @@
+﻿/* table-layout.css — T1+T2+T3 table overhaul (Ink/Endfield aligned)
+   Density, sticky headers/cols, column hierarchy, mobile card rows.
+   Does not change business logic. */
+
+:root {
+  --table-row-h: 48px;
+  --table-pad-y: 8px;
+  --table-pad-x: 12px;
+  --table-sticky-rank-w: 52px;
+  --table-sticky-city-w: 108px;
+}
+
+/* ===== T1: global density / alignment / sticky head / zebra ===== */
+.audit-table,
+.ranking-panel .audit-table {
+  font-variant-numeric: tabular-nums;
+  border-collapse: separate;
+  border-spacing: 0;
+}
+
+.audit-table th,
+.audit-table td,
+.ranking-panel .audit-table th,
+.ranking-panel .audit-table td {
+  padding: var(--table-pad-y) var(--table-pad-x);
+  height: auto;
+  min-height: var(--table-row-h);
+  line-height: 1.35;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+.audit-table thead th,
+.ranking-panel .audit-table thead th,
+.hub-scroll thead th,
+.ranking-scroll thead th,
+.income-wages thead th,
+.city-history thead th {
+  position: sticky;
+  top: 0;
+  z-index: 4;
+  background: #eaf0f1;
+  box-shadow: inset 0 -1px #b8cccf;
+}
+
+/* numbers right, text left — numeric / pct / money columns */
+.audit-table td.col-num,
+.audit-table th.col-num,
+.audit-table td.col-primary,
+.audit-table th.col-primary,
+.audit-table td.col-secondary,
+.audit-table th.col-secondary,
+.audit-table .price-emphasis,
+.audit-table .cih-sample-value,
+.ranking-panel .audit-table td.ranking-value,
+.ranking-panel .audit-table th.col-primary,
+.ranking-panel .audit-table th.col-secondary,
+.mortgage-result .audit-table th:nth-child(n+2),
+.mortgage-result .audit-table td:nth-child(n+2),
+.realestate-history td:not(:first-child),
+.income-wages td.col-num,
+.income-wages th.col-num {
+  text-align: right;
+}
+
+.audit-table td.col-text,
+.audit-table th.col-text,
+.audit-table td.col-city,
+.audit-table th.col-city,
+.audit-table td.col-rank,
+.audit-table th.col-rank,
+.audit-table td.ranking-city,
+.audit-table td.ranking-source,
+.audit-table td.ranking-position {
+  text-align: left;
+}
+
+.audit-table tbody tr:nth-child(even),
+.ranking-panel .audit-table tbody tr:nth-child(even) {
+  background: #f0f4f4;
+}
+
+.audit-table tbody tr:hover,
+.ranking-panel .audit-table tbody tr:hover {
+  background: #e6eff0;
+  transform: none;
+  box-shadow: none;
+}
+
+/* denser ranking overrides (beat visual-theme 75px / main 69px) */
+.ranking-panel .audit-table {
+  min-width: 1020px; font-size: 17px; }
+.ranking-panel .audit-table th {
+  padding: 12px 14px; font-size: 15px;
+}
+.ranking-panel .audit-table td {
+  padding: 8px 12px;
+  height: var(--table-row-h);
+}
+.ranking-panel .audit-table .rank-city-link {
+  font-size: 18px;
+  padding: 4px 0 4px 8px;
+}
+.rank-number {
+  width: 28px;
+  height: 28px;
+  font-size: 14px;
+}
+
+/* ===== T1/T2: sticky rank + city ===== */
+.ranking-panel .audit-table th.col-rank,
+.ranking-panel .audit-table td.ranking-position {
+  position: sticky;
+  left: 0;
+  z-index: 3;
+  min-width: var(--table-sticky-rank-w);
+  width: var(--table-sticky-rank-w);
+  background: #eaf0f1;
+  box-shadow: 2px 0 0 #d5e0e2;
+}
+.ranking-panel .audit-table tbody td.ranking-position {
+  background: #f6f9f9;
+  z-index: 2;
+}
+.ranking-panel .audit-table tbody tr:nth-child(even) td.ranking-position {
+  background: #eef3f3;
+}
+.ranking-panel .audit-table tbody tr:hover td.ranking-position {
+  background: #e6eff0;
+}
+
+.ranking-panel .audit-table th.col-city,
+.ranking-panel .audit-table td.ranking-city {
+  position: sticky;
+  left: var(--table-sticky-rank-w);
+  z-index: 3;
+  min-width: var(--table-sticky-city-w);
+  background: #eaf0f1;
+  box-shadow: 3px 0 6px #244a7210;
+}
+.ranking-panel .audit-table tbody td.ranking-city {
+  background: #f6f9f9;
+  z-index: 2;
+}
+.ranking-panel .audit-table tbody tr:nth-child(even) td.ranking-city {
+  background: #eef3f3;
+}
+.ranking-panel .audit-table tbody tr:hover td.ranking-city {
+  background: #e6eff0;
+}
+.ranking-panel .audit-table thead th.col-rank,
+.ranking-panel .audit-table thead th.col-city {
+  z-index: 5;
+  background: #eaf0f1;
+}
+
+/* legacy nth-child sticky city → superseded by col-* above */
+.ranking-panel .audit-table th:nth-child(2):not(.col-city),
+.ranking-panel .audit-table .ranking-city:not(.col-city) {
+  /* keep if class missing */
+}
+
+/* ===== T2: column hierarchy ===== */
+.audit-table .col-primary,
+.ranking-panel .audit-table .col-primary,
+.ranking-panel .audit-table td.ranking-value strong {
+  font-weight: 650;
+  color: var(--ink, #1a2c30);
+}
+.audit-table .col-secondary,
+.ranking-panel .audit-table .col-secondary {
+  color: #3a555c;
+  font-weight: 500;
+}
+.audit-table .col-aux,
+.ranking-panel .audit-table .col-aux,
+.ranking-panel .audit-table .ranking-tier,
+.ranking-panel .audit-table .ranking-source {
+  color: #6a7d82;
+  font-weight: 400;
+  font-size: 0.97em;
+}
+.ranking-panel .audit-table th.col-primary {
+  color: #1a3d44;
+}
+.ranking-panel .audit-table th.col-secondary {
+  color: #4a646b;
+}
+.ranking-panel .audit-table th.col-aux {
+  color: #6a7d82;
+  font-weight: 500;
+}
+
+/* sticky city on wide info/land/sample tables */
+.audit-table.sticky-city th.col-city,
+.audit-table.sticky-city td.col-city,
+.cih-sample-panel .audit-table th:first-child,
+.cih-sample-panel .audit-table td:first-child,
+.land-supply-table th.col-city,
+.land-supply-table td.col-city {
+  position: sticky;
+  left: 0;
+  z-index: 2;
+  background: #eaf0f1;
+  box-shadow: 2px 0 5px #244a7210;
+}
+.cih-sample-panel .audit-table tbody td:first-child,
+.land-supply-table tbody td.col-city {
+  background: #f6f9f9;
+  z-index: 1;
+}
+.cih-sample-panel .audit-table thead th:first-child,
+.land-supply-table thead th.col-city {
+  z-index: 5;
+}
+
+/* ===== T3: history slim + evidence toggle ===== */
+.city-history .history-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin: 0 0 10px;
+  flex-wrap: wrap;
+}
+.city-history .history-toolbar button {
+  font: inherit;
+  font-size: 14px;
+  padding: 6px 12px;
+  border: 1px solid var(--border, #c9d2cd);
+  border-radius: 6px;
+  background: var(--surface, #fff);
+  color: var(--accent-ink, #0d9488);
+  cursor: pointer;
+}
+.city-history .history-toolbar button[aria-pressed="true"] {
+  background: var(--accent-wash, #e6f4f1);
+  border-color: var(--accent-ink, #0d9488);
+}
+.city-history-table:not(.show-evidence) .col-evidence {
+  display: none;
+}
+.city-history-table {
+  min-width: 420px;
+}
+.city-history-table.show-evidence {
+  min-width: 920px;
+}
+
+/* ===== T3: wage multi-tier columns ===== */
+.income-wages .audit-table {
+  min-width: 560px;
+}
+.income-wages .audit-table th.col-num,
+.income-wages .audit-table td.col-num {
+  font-variant-numeric: tabular-nums;
+}
+.income-wages .audit-table th.wage-tier-group {
+  text-align: center;
+  font-size: 12px;
+  letter-spacing: 0.02em;
+}
+
+/* short header hint */
+.audit-table th[title] {
+  cursor: help;
+}
+
+/* ===== T2: mobile ≤700px → card rows for main tables ===== */
+@media (max-width: 700px) {
+  .table-cards .audit-table,
+  .ranking-panel .audit-table,
+  .city-history-table,
+  .report .audit-table,
+  .national-report .audit-table,
+  .realestate-analysis .audit-table,
+  .income-wages .audit-table,
+  .cih-sample-panel .audit-table {
+    min-width: 0 !important;
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .table-cards .audit-table thead,
+  .ranking-panel .audit-table thead,
+  .city-history-table thead,
+  .report .audit-table thead,
+  .national-report .audit-table thead,
+  .realestate-analysis .audit-table thead,
+  .income-wages .audit-table thead,
+  .cih-sample-panel .audit-table thead {
+    display: none;
+  }
+
+  .table-cards .audit-table tbody,
+  .ranking-panel .audit-table tbody,
+  .city-history-table tbody,
+  .report .audit-table tbody,
+  .national-report .audit-table tbody,
+  .realestate-analysis .audit-table tbody,
+  .income-wages .audit-table tbody,
+  .cih-sample-panel .audit-table tbody {
+    display: block;
+  }
+
+  .table-cards .audit-table tr,
+  .ranking-panel .audit-table tbody tr,
+  .city-history-table tbody tr,
+  .report .audit-table tbody tr,
+  .national-report .audit-table tbody tr,
+  .realestate-analysis .audit-table tbody tr,
+  .income-wages .audit-table tbody tr,
+  .cih-sample-panel .audit-table tbody tr {
+    display: block;
+    margin: 0 0 10px;
+    padding: 12px 14px;
+    border: 1px solid #c9d5d7;
+    border-radius: 8px;
+    background: #f8fafa;
+    box-shadow: none;
+  }
+
+  .table-cards .audit-table td,
+  .ranking-panel .audit-table td,
+  .city-history-table td,
+  .report .audit-table td,
+  .national-report .audit-table td,
+  .realestate-analysis .audit-table td,
+  .income-wages .audit-table td,
+  .cih-sample-panel .audit-table td {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 12px;
+    width: 100%;
+    height: auto !important;
+    min-height: 0;
+    padding: 5px 0;
+    border-bottom: 1px dashed #d5e0e2;
+    white-space: normal;
+    text-align: right !important;
+    position: static !important;
+    left: auto !important;
+    box-shadow: none !important;
+    background: transparent !important;
+  }
+
+  .table-cards .audit-table td:last-child,
+  .ranking-panel .audit-table td:last-child,
+  .city-history-table td:last-child,
+  .report .audit-table td:last-child,
+  .national-report .audit-table td:last-child,
+  .realestate-analysis .audit-table td:last-child,
+  .income-wages .audit-table td:last-child,
+  .cih-sample-panel .audit-table td:last-child {
+    border-bottom: 0;
+  }
+
+  .table-cards .audit-table td::before,
+  .ranking-panel .audit-table td::before,
+  .city-history-table td::before,
+  .report .audit-table td::before,
+  .national-report .audit-table td::before,
+  .realestate-analysis .audit-table td::before,
+  .income-wages .audit-table td::before,
+  .cih-sample-panel .audit-table td::before {
+    content: attr(data-label);
+    color: #6a7d82;
+    font-size: 12px;
+    font-weight: 500;
+    text-align: left;
+    flex: 0 1 42%;
+    max-width: 46%;
+  }
+
+  .ranking-panel .audit-table td.ranking-value,
+  .ranking-panel .audit-table td.ranking-city {
+    align-items: center;
+  }
+  .ranking-panel .audit-table .ranking-bar {
+    display: none;
+  }
+  .ranking-panel .audit-table .mobile-city-tier {
+    display: inline;
+    margin-left: 6px;
+    color: #6a7d82;
+    font-size: 12px;
+  }
+  .ranking-panel .audit-table td.col-aux.col-tier {
+    display: none; /* shown under city on mobile */
+  }
+  .ranking-panel .ranking-scroll,
+  .ranking-panel .audit-table-wrap {
+    max-height: none;
+    height: auto;
+    min-height: 0;
+    overflow: visible;
+  }
+  .mobile-table-hint {
+    display: none;
+  }
+
+  /* hide evidence cols on mobile unless expanded */
+  .city-history-table:not(.show-evidence) .col-evidence {
+    display: none !important;
+  }
+}
+
+@media (min-width: 701px) {
+  .ranking-panel .audit-table .mobile-city-tier {
+    display: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .audit-table tbody tr,
+  .ranking-panel .audit-table td,
+  .ranking-tier {
+    transition: none !important;
+  }
+}
+
+/* === 20261011 typofix2: restore readable table type (undo densify shrink) === */
+.audit-table,
+.ranking-panel .audit-table,
+.cih-sample-panel .audit-table,
+.income-panel .audit-table,
+.city-history-table {
+  font-size: 17px;
+}
+.audit-table th,
+.ranking-panel .audit-table th {
+  font-size: 15px;
+  letter-spacing: 0.01em;
+}
+.ranking-panel .audit-table .rank-city-link {
+  font-size: 18px;
+  font-weight: 650;
+}
+.ranking-value strong {
+  font-size: 22px;
+}
+.income-wages .audit-table th.wage-tier-group {
+  font-size: 14px;
+  letter-spacing: 0.02em;
+}
+@media (max-width: 700px) {
+  .table-cards .audit-table,
+  .ranking-panel .audit-table {
+    font-size: 16px;
+  }
+}

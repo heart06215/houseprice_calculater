@@ -1,0 +1,1527 @@
+[
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2011,
+    "month": 8,
+    "avg_price": 12070,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2011,
+    "month": 9,
+    "avg_price": 11714,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2011,
+    "month": 10,
+    "avg_price": 11548,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2011,
+    "month": 11,
+    "avg_price": 11336,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2011,
+    "month": 12,
+    "avg_price": 11031,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2012,
+    "month": 8,
+    "avg_price": 11133,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2012,
+    "month": 9,
+    "avg_price": 11298,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2012,
+    "month": 10,
+    "avg_price": 11464,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2012,
+    "month": 11,
+    "avg_price": 11663,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2012,
+    "month": 12,
+    "avg_price": 11750,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2013,
+    "month": 8,
+    "avg_price": 13361,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2013,
+    "month": 9,
+    "avg_price": 13451,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2013,
+    "month": 10,
+    "avg_price": 13632,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2013,
+    "month": 11,
+    "avg_price": 13763,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2013,
+    "month": 12,
+    "avg_price": 13841,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2014,
+    "month": 8,
+    "avg_price": 13708,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2014,
+    "month": 9,
+    "avg_price": 13775,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2014,
+    "month": 10,
+    "avg_price": 13649,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2014,
+    "month": 11,
+    "avg_price": 13757,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2014,
+    "month": 12,
+    "avg_price": 13949,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2015,
+    "month": 8,
+    "avg_price": 14065,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2015,
+    "month": 9,
+    "avg_price": 14103,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2015,
+    "month": 10,
+    "avg_price": 14235,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2015,
+    "month": 11,
+    "avg_price": 14503,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2015,
+    "month": 12,
+    "avg_price": 14577,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2016,
+    "month": 8,
+    "avg_price": 16641,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2016,
+    "month": 9,
+    "avg_price": 17405,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2016,
+    "month": 10,
+    "avg_price": 19260,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2016,
+    "month": 11,
+    "avg_price": 18950,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2016,
+    "month": 12,
+    "avg_price": 19822,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2017,
+    "month": 8,
+    "avg_price": 26187,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2017,
+    "month": 9,
+    "avg_price": 26594,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2017,
+    "month": 10,
+    "avg_price": 26950,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2017,
+    "month": 11,
+    "avg_price": 27088,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2017,
+    "month": 12,
+    "avg_price": 26771,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2018,
+    "month": 8,
+    "avg_price": 25946,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2018,
+    "month": 9,
+    "avg_price": 25691,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2018,
+    "month": 10,
+    "avg_price": 25296,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2018,
+    "month": 11,
+    "avg_price": 24970,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2018,
+    "month": 12,
+    "avg_price": 24698,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2019,
+    "month": 8,
+    "avg_price": 24961,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2019,
+    "month": 9,
+    "avg_price": 24632,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2019,
+    "month": 10,
+    "avg_price": 24417,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2019,
+    "month": 11,
+    "avg_price": 24483,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2019,
+    "month": 12,
+    "avg_price": 24281,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2020,
+    "month": 8,
+    "avg_price": 23864,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2020,
+    "month": 9,
+    "avg_price": 23909,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2020,
+    "month": 10,
+    "avg_price": 23720,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2020,
+    "month": 11,
+    "avg_price": 23584,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2020,
+    "month": 12,
+    "avg_price": 23505,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2021,
+    "month": 1,
+    "avg_price": 23743,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2021,
+    "month": 2,
+    "avg_price": 24102,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2021,
+    "month": 3,
+    "avg_price": 24086,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2021,
+    "month": 4,
+    "avg_price": 24002,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2021,
+    "month": 5,
+    "avg_price": 23968,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2021,
+    "month": 6,
+    "avg_price": 24085,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2021,
+    "month": 7,
+    "avg_price": 24106,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2021,
+    "month": 8,
+    "avg_price": 23974,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2021,
+    "month": 9,
+    "avg_price": 24146,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2021,
+    "month": 10,
+    "avg_price": 24144,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2021,
+    "month": 11,
+    "avg_price": 24102,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2021,
+    "month": 12,
+    "avg_price": 24283,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2022,
+    "month": 1,
+    "avg_price": 24348,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2022,
+    "month": 2,
+    "avg_price": 24970,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2022,
+    "month": 3,
+    "avg_price": 24843,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2022,
+    "month": 4,
+    "avg_price": 24658,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2022,
+    "month": 5,
+    "avg_price": 24328,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2022,
+    "month": 6,
+    "avg_price": 24107,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2022,
+    "month": 7,
+    "avg_price": 23986,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2022,
+    "month": 8,
+    "avg_price": 23280,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2022,
+    "month": 9,
+    "avg_price": 23259,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2022,
+    "month": 10,
+    "avg_price": 23091,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2022,
+    "month": 11,
+    "avg_price": 22901,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2022,
+    "month": 12,
+    "avg_price": 22745,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2023,
+    "month": 1,
+    "avg_price": 22577,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2023,
+    "month": 2,
+    "avg_price": 22426,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2023,
+    "month": 3,
+    "avg_price": 21983,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2023,
+    "month": 4,
+    "avg_price": 21814,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2023,
+    "month": 5,
+    "avg_price": 21190,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2023,
+    "month": 6,
+    "avg_price": 20647,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2023,
+    "month": 7,
+    "avg_price": 21084,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2023,
+    "month": 8,
+    "avg_price": 21596,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2023,
+    "month": 9,
+    "avg_price": 21195,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2023,
+    "month": 10,
+    "avg_price": 20405,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2023,
+    "month": 11,
+    "avg_price": 20202,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2023,
+    "month": 12,
+    "avg_price": 20437,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2024,
+    "month": 1,
+    "avg_price": 20577,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2024,
+    "month": 2,
+    "avg_price": 20218,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2024,
+    "month": 3,
+    "avg_price": 20192,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2024,
+    "month": 4,
+    "avg_price": 19775,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2024,
+    "month": 5,
+    "avg_price": 19465,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2024,
+    "month": 6,
+    "avg_price": 18573,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2024,
+    "month": 7,
+    "avg_price": 18170,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2024,
+    "month": 8,
+    "avg_price": 17764,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2024,
+    "month": 9,
+    "avg_price": 17453,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2024,
+    "month": 10,
+    "avg_price": 17079,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2024,
+    "month": 11,
+    "avg_price": 17164,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2024,
+    "month": 12,
+    "avg_price": 17129,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2025,
+    "month": 1,
+    "avg_price": 17173,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2025,
+    "month": 2,
+    "avg_price": 17057,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2025,
+    "month": 3,
+    "avg_price": 17111,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2025,
+    "month": 4,
+    "avg_price": 17032,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2025,
+    "month": 5,
+    "avg_price": 16984,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2025,
+    "month": 6,
+    "avg_price": 16786,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2025,
+    "month": 7,
+    "avg_price": 16547,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2025,
+    "month": 8,
+    "avg_price": 16540,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2025,
+    "month": 9,
+    "avg_price": 16344,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2025,
+    "month": 10,
+    "avg_price": 16057,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2025,
+    "month": 11,
+    "avg_price": 15728,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2025,
+    "month": 12,
+    "avg_price": 15536,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz/",
+    "fetched_at": "2026-09-24T06:16:40.552569+00:00",
+    "raw": {
+      "sha256": "1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1f2c803c2990e30ee86ccab8959e661d251ef1820e468cedcda1071516faa5fa.html",
+      "bytes": 113880
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2026,
+    "month": 1,
+    "avg_price": 15506,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz2026/",
+    "fetched_at": "2026-09-24T06:16:39.237553+00:00",
+    "raw": {
+      "sha256": "1c8102e3ed3ce4f2af0093f4f25b5789be2c3345a51ac8c6c8ed541c9912d002",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1c8102e3ed3ce4f2af0093f4f25b5789be2c3345a51ac8c6c8ed541c9912d002.html",
+      "bytes": 176897
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2026,
+    "month": 2,
+    "avg_price": 15458,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz2026/",
+    "fetched_at": "2026-09-24T06:16:39.237553+00:00",
+    "raw": {
+      "sha256": "1c8102e3ed3ce4f2af0093f4f25b5789be2c3345a51ac8c6c8ed541c9912d002",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1c8102e3ed3ce4f2af0093f4f25b5789be2c3345a51ac8c6c8ed541c9912d002.html",
+      "bytes": 176897
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2026,
+    "month": 3,
+    "avg_price": 15096,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz2026/",
+    "fetched_at": "2026-09-24T06:16:39.237553+00:00",
+    "raw": {
+      "sha256": "1c8102e3ed3ce4f2af0093f4f25b5789be2c3345a51ac8c6c8ed541c9912d002",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1c8102e3ed3ce4f2af0093f4f25b5789be2c3345a51ac8c6c8ed541c9912d002.html",
+      "bytes": 176897
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2026,
+    "month": 4,
+    "avg_price": 14950,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz2026/",
+    "fetched_at": "2026-09-24T06:16:39.237553+00:00",
+    "raw": {
+      "sha256": "1c8102e3ed3ce4f2af0093f4f25b5789be2c3345a51ac8c6c8ed541c9912d002",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1c8102e3ed3ce4f2af0093f4f25b5789be2c3345a51ac8c6c8ed541c9912d002.html",
+      "bytes": 176897
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2026,
+    "month": 5,
+    "avg_price": 14985,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz2026/",
+    "fetched_at": "2026-09-24T06:16:39.237553+00:00",
+    "raw": {
+      "sha256": "1c8102e3ed3ce4f2af0093f4f25b5789be2c3345a51ac8c6c8ed541c9912d002",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1c8102e3ed3ce4f2af0093f4f25b5789be2c3345a51ac8c6c8ed541c9912d002.html",
+      "bytes": 176897
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2026,
+    "month": 6,
+    "avg_price": 14723,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz2026/",
+    "fetched_at": "2026-09-24T06:16:39.237553+00:00",
+    "raw": {
+      "sha256": "1c8102e3ed3ce4f2af0093f4f25b5789be2c3345a51ac8c6c8ed541c9912d002",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1c8102e3ed3ce4f2af0093f4f25b5789be2c3345a51ac8c6c8ed541c9912d002.html",
+      "bytes": 176897
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2026,
+    "month": 7,
+    "avg_price": 14707,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz2026/",
+    "fetched_at": "2026-09-24T06:16:39.237553+00:00",
+    "raw": {
+      "sha256": "1c8102e3ed3ce4f2af0093f4f25b5789be2c3345a51ac8c6c8ed541c9912d002",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1c8102e3ed3ce4f2af0093f4f25b5789be2c3345a51ac8c6c8ed541c9912d002.html",
+      "bytes": 176897
+    }
+  },
+  {
+    "city": "福州",
+    "city_pinyin": "fuzhou",
+    "year": 2026,
+    "month": 8,
+    "avg_price": 14513,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/fz2026/",
+    "fetched_at": "2026-09-24T06:16:39.237553+00:00",
+    "raw": {
+      "sha256": "1c8102e3ed3ce4f2af0093f4f25b5789be2c3345a51ac8c6c8ed541c9912d002",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\1c8102e3ed3ce4f2af0093f4f25b5789be2c3345a51ac8c6c8ed541c9912d002.html",
+      "bytes": 176897
+    }
+  }
+]

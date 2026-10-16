@@ -1,0 +1,1497 @@
+[
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2011,
+    "month": 10,
+    "avg_price": 18317,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2011,
+    "month": 11,
+    "avg_price": 18559,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2011,
+    "month": 12,
+    "avg_price": 17538,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2012,
+    "month": 8,
+    "avg_price": 16196,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2012,
+    "month": 9,
+    "avg_price": 16531,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2012,
+    "month": 10,
+    "avg_price": 16580,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2012,
+    "month": 11,
+    "avg_price": 16709,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2012,
+    "month": 12,
+    "avg_price": 17185,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2013,
+    "month": 8,
+    "avg_price": 21630,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2013,
+    "month": 9,
+    "avg_price": 21863,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2013,
+    "month": 10,
+    "avg_price": 22737,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2013,
+    "month": 11,
+    "avg_price": 22916,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2013,
+    "month": 12,
+    "avg_price": 23124,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2014,
+    "month": 8,
+    "avg_price": 24794,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2014,
+    "month": 9,
+    "avg_price": 24693,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2014,
+    "month": 10,
+    "avg_price": 25120,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2014,
+    "month": 11,
+    "avg_price": 25001,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2014,
+    "month": 12,
+    "avg_price": 24843,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2015,
+    "month": 8,
+    "avg_price": 25894,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2015,
+    "month": 9,
+    "avg_price": 25819,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2015,
+    "month": 10,
+    "avg_price": 25638,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2015,
+    "month": 11,
+    "avg_price": 25967,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2015,
+    "month": 12,
+    "avg_price": 25970,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2016,
+    "month": 8,
+    "avg_price": 35359,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2016,
+    "month": 9,
+    "avg_price": 36474,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2016,
+    "month": 10,
+    "avg_price": 38098,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2016,
+    "month": 11,
+    "avg_price": 38235,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2016,
+    "month": 12,
+    "avg_price": 38883,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2017,
+    "month": 8,
+    "avg_price": 47689,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2017,
+    "month": 9,
+    "avg_price": 48000,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2017,
+    "month": 10,
+    "avg_price": 48030,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2017,
+    "month": 11,
+    "avg_price": 47849,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2017,
+    "month": 12,
+    "avg_price": 47177,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2018,
+    "month": 8,
+    "avg_price": 45675,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2018,
+    "month": 9,
+    "avg_price": 44813,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2018,
+    "month": 10,
+    "avg_price": 43990,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2018,
+    "month": 11,
+    "avg_price": 43663,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2018,
+    "month": 12,
+    "avg_price": 43565,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2019,
+    "month": 8,
+    "avg_price": 45978,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2019,
+    "month": 9,
+    "avg_price": 46190,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2019,
+    "month": 10,
+    "avg_price": 46456,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2019,
+    "month": 11,
+    "avg_price": 46310,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2019,
+    "month": 12,
+    "avg_price": 46003,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2020,
+    "month": 8,
+    "avg_price": 48096,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2020,
+    "month": 9,
+    "avg_price": 48464,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2020,
+    "month": 10,
+    "avg_price": 48616,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2020,
+    "month": 11,
+    "avg_price": 49086,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2020,
+    "month": 12,
+    "avg_price": 49924,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2021,
+    "month": 1,
+    "avg_price": 49287,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2021,
+    "month": 2,
+    "avg_price": 49459,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2021,
+    "month": 3,
+    "avg_price": 49645,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2021,
+    "month": 4,
+    "avg_price": 49735,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2021,
+    "month": 5,
+    "avg_price": 49882,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2021,
+    "month": 6,
+    "avg_price": 50025,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2021,
+    "month": 7,
+    "avg_price": 50169,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2021,
+    "month": 8,
+    "avg_price": 50308,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2021,
+    "month": 9,
+    "avg_price": 50484,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2021,
+    "month": 10,
+    "avg_price": 50603,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2021,
+    "month": 11,
+    "avg_price": 50714,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2021,
+    "month": 12,
+    "avg_price": 50845,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2022,
+    "month": 1,
+    "avg_price": 50954,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2022,
+    "month": 2,
+    "avg_price": 51170,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2022,
+    "month": 3,
+    "avg_price": 51342,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2022,
+    "month": 4,
+    "avg_price": 51553,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2022,
+    "month": 5,
+    "avg_price": 51734,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2022,
+    "month": 6,
+    "avg_price": 51885,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2022,
+    "month": 7,
+    "avg_price": 52016,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2022,
+    "month": 8,
+    "avg_price": 52514,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2022,
+    "month": 9,
+    "avg_price": 52523,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2022,
+    "month": 10,
+    "avg_price": 52283,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2022,
+    "month": 11,
+    "avg_price": 52196,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2022,
+    "month": 12,
+    "avg_price": 52212,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2023,
+    "month": 1,
+    "avg_price": 52720,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2023,
+    "month": 2,
+    "avg_price": 52734,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2023,
+    "month": 3,
+    "avg_price": 52846,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2023,
+    "month": 4,
+    "avg_price": 52986,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2023,
+    "month": 5,
+    "avg_price": 52712,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2023,
+    "month": 6,
+    "avg_price": 52568,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2023,
+    "month": 7,
+    "avg_price": 52408,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2023,
+    "month": 8,
+    "avg_price": 52110,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2023,
+    "month": 9,
+    "avg_price": 51927,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2023,
+    "month": 10,
+    "avg_price": 49874,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2023,
+    "month": 11,
+    "avg_price": 48907,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2023,
+    "month": 12,
+    "avg_price": 48102,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2024,
+    "month": 1,
+    "avg_price": 47163,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2024,
+    "month": 2,
+    "avg_price": 46221,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2024,
+    "month": 3,
+    "avg_price": 45317,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2024,
+    "month": 4,
+    "avg_price": 44348,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2024,
+    "month": 5,
+    "avg_price": 43435,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2024,
+    "month": 6,
+    "avg_price": 42697,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2024,
+    "month": 7,
+    "avg_price": 41837,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2024,
+    "month": 8,
+    "avg_price": 40945,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2024,
+    "month": 9,
+    "avg_price": 39990,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2024,
+    "month": 10,
+    "avg_price": 38957,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2024,
+    "month": 11,
+    "avg_price": 38114,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2024,
+    "month": 12,
+    "avg_price": 37344,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2025,
+    "month": 1,
+    "avg_price": 36543,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2025,
+    "month": 2,
+    "avg_price": 35690,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2025,
+    "month": 3,
+    "avg_price": 34934,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2025,
+    "month": 4,
+    "avg_price": 34243,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2025,
+    "month": 5,
+    "avg_price": 33555,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2025,
+    "month": 6,
+    "avg_price": 32857,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2025,
+    "month": 7,
+    "avg_price": 32140,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2025,
+    "month": 8,
+    "avg_price": 31449,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2025,
+    "month": 9,
+    "avg_price": 30763,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2025,
+    "month": 10,
+    "avg_price": 30136,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2025,
+    "month": 11,
+    "avg_price": 29471,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2025,
+    "month": 12,
+    "avg_price": 28855,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm/",
+    "fetched_at": "2026-09-20T10:05:46.962635+00:00",
+    "raw": {
+      "sha256": "3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\3216dd7126dbadfcc1a498ff6724e23736a40a49336ae693725e882cbfa89ac5.html",
+      "bytes": 108069
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2026,
+    "month": 1,
+    "avg_price": 28153,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm2026/",
+    "fetched_at": "2026-09-20T10:05:45.662429+00:00",
+    "raw": {
+      "sha256": "e2716ffe6fac5aea2c0ef7485f6034408e57048446a73a76d8daefcda975ae38",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\e2716ffe6fac5aea2c0ef7485f6034408e57048446a73a76d8daefcda975ae38.html",
+      "bytes": 169438
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2026,
+    "month": 2,
+    "avg_price": 27515,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm2026/",
+    "fetched_at": "2026-09-20T10:05:45.662429+00:00",
+    "raw": {
+      "sha256": "e2716ffe6fac5aea2c0ef7485f6034408e57048446a73a76d8daefcda975ae38",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\e2716ffe6fac5aea2c0ef7485f6034408e57048446a73a76d8daefcda975ae38.html",
+      "bytes": 169438
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2026,
+    "month": 3,
+    "avg_price": 26981,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm2026/",
+    "fetched_at": "2026-09-20T10:05:45.662429+00:00",
+    "raw": {
+      "sha256": "e2716ffe6fac5aea2c0ef7485f6034408e57048446a73a76d8daefcda975ae38",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\e2716ffe6fac5aea2c0ef7485f6034408e57048446a73a76d8daefcda975ae38.html",
+      "bytes": 169438
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2026,
+    "month": 4,
+    "avg_price": 26472,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm2026/",
+    "fetched_at": "2026-09-20T10:05:45.662429+00:00",
+    "raw": {
+      "sha256": "e2716ffe6fac5aea2c0ef7485f6034408e57048446a73a76d8daefcda975ae38",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\e2716ffe6fac5aea2c0ef7485f6034408e57048446a73a76d8daefcda975ae38.html",
+      "bytes": 169438
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2026,
+    "month": 5,
+    "avg_price": 26059,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm2026/",
+    "fetched_at": "2026-09-20T10:05:45.662429+00:00",
+    "raw": {
+      "sha256": "e2716ffe6fac5aea2c0ef7485f6034408e57048446a73a76d8daefcda975ae38",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\e2716ffe6fac5aea2c0ef7485f6034408e57048446a73a76d8daefcda975ae38.html",
+      "bytes": 169438
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2026,
+    "month": 6,
+    "avg_price": 25365,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm2026/",
+    "fetched_at": "2026-09-20T10:05:45.662429+00:00",
+    "raw": {
+      "sha256": "e2716ffe6fac5aea2c0ef7485f6034408e57048446a73a76d8daefcda975ae38",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\e2716ffe6fac5aea2c0ef7485f6034408e57048446a73a76d8daefcda975ae38.html",
+      "bytes": 169438
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2026,
+    "month": 7,
+    "avg_price": 24803,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm2026/",
+    "fetched_at": "2026-09-20T10:05:45.662429+00:00",
+    "raw": {
+      "sha256": "e2716ffe6fac5aea2c0ef7485f6034408e57048446a73a76d8daefcda975ae38",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\e2716ffe6fac5aea2c0ef7485f6034408e57048446a73a76d8daefcda975ae38.html",
+      "bytes": 169438
+    }
+  },
+  {
+    "city": "厦门",
+    "city_pinyin": "xiamen",
+    "year": 2026,
+    "month": 8,
+    "avg_price": 24679,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/xm2026/",
+    "fetched_at": "2026-09-20T10:05:45.662429+00:00",
+    "raw": {
+      "sha256": "e2716ffe6fac5aea2c0ef7485f6034408e57048446a73a76d8daefcda975ae38",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\e2716ffe6fac5aea2c0ef7485f6034408e57048446a73a76d8daefcda975ae38.html",
+      "bytes": 169438
+    }
+  }
+]

@@ -1,0 +1,51 @@
+.information-hub .hub-tabs {flex-wrap:wrap;}
+.analysis-chart {height:460px;width:100%;min-width:0;}
+.analysis-chart-short {height:340px;}
+.national-report .audit-band {padding:26px 0;}
+.national-report h3,.national-analysis h3,.city-analysis h3 {font-size:20px;line-height:1.6;margin:0 0 14px;letter-spacing:0;}
+.national-report .report-title-row {flex-wrap:wrap;gap:12px;}
+.national-report .report-meta {white-space:normal;}
+.national-report .report-stats {margin:22px 0;}
+.analysis-modes {display:inline-flex;gap:0;border-bottom:1px solid var(--border);margin-bottom:14px;}
+.analysis-modes button {font:inherit;font-size:16px;min-width:88px;padding:9px 20px;border:0;border-bottom:3px solid transparent;background:transparent;color:var(--muted);cursor:pointer;}
+.analysis-modes button[aria-pressed=true] {color:var(--ink);border-color:var(--tech-blue);background:var(--accent-wash);box-shadow:inset 0 -2px var(--tech-cyan);}
+.analysis-empty {color:var(--muted);padding:18px 0;}
+.realestate-chart-grid {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px;}
+.realestate-chart-grid>article {min-width:0;}
+.realestate-latest {font-size:28px;color:var(--ink);font-variant-numeric:tabular-nums;margin-bottom:12px;}
+.realestate-latest small {display:block;font-size:14px;color:var(--muted);line-height:1.8;}
+.realestate-gap-key {display:inline-block;width:24px;border-top:2px solid var(--metric-red);margin-right:8px;vertical-align:middle;}
+.realestate-analysis a,.realestate-history summary {display:inline-block;min-height:44px;padding-block:8px;}
+.realestate-history summary {cursor:pointer;}
+.realestate-analysis a:focus-visible,.realestate-history summary:focus-visible {outline:2px solid var(--tech-blue);outline-offset:3px;}
+.realestate-history td:not(:first-child) {text-align:right;}
+.city-analysis {scroll-margin-top:108px;}
+.city-analysis-header {display:flex;justify-content:space-between;align-items:center;gap:20px;}
+.city-analysis-header h2 {font-size:28px;margin:8px 0;letter-spacing:0;}
+.city-analysis-controls {display:flex;align-items:end;gap:22px;flex-wrap:wrap;padding:22px 0;border-block:1px solid var(--border);margin:16px 0;}
+.city-analysis-controls label {display:flex;flex-direction:column;gap:8px;font-size:15px;min-width:160px;}
+.city-analysis-controls select {font:inherit;font-size:17px;height:44px;min-width:160px;padding:0 12px;background:#fff;border:1px solid #bac3c0;border-radius:3px;color:var(--ink);}
+.city-analysis-controls>span {color:var(--muted);padding-bottom:12px;font-size:15px;}
+.city-kpis {display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:20px;padding:22px 0;}
+.city-kpis>div {min-width:0;padding:0 18px 0 0;border-right:1px solid #dce2df;}
+.city-kpis>div:last-child {border:0;}
+.city-kpis span,.city-kpis small {display:block;color:var(--muted);font-size:14px;line-height:1.7;overflow-wrap:anywhere;}
+.city-kpis strong {display:block;font-size:28px;font-weight:600;padding:8px 0;color:var(--ink);font-variant-numeric:tabular-nums;overflow-wrap:anywhere;}
+.city-section-links {display:flex;flex-wrap:wrap;gap:22px;border-block:1px solid var(--border);padding:16px 0;margin-bottom:14px;}
+.city-section-links a {font-size:15px;color:var(--accent-ink);text-underline-offset:5px;}
+.city-analysis .audit-band {padding:28px 0;}
+.city-analysis [id^=city-] {scroll-margin-top:115px;}
+.city-analysis .audit-note {line-height:1.8;overflow-wrap:anywhere;}
+.city-analysis .audit-table {width:100%;min-width:540px;}
+.city-history summary {cursor:pointer;color:var(--accent-ink);padding:12px 0;}
+.city-history .hub-scroll {max-height:360px;overscroll-behavior:contain;}
+.city-history thead th {position:sticky;top:0;z-index:1;}
+.city-location-detail {display:grid;grid-template-columns:1fr 1fr;gap:32px;}
+.city-location-detail h4 {font-size:17px;margin:12px 0;}
+.city-district-list {max-height:300px;overflow:auto;overscroll-behavior:contain;}
+.city-district-list>div {display:grid;grid-template-columns:minmax(95px,1fr) 2fr 50px;align-items:center;gap:14px;padding:9px 0;border-bottom:1px solid #e6e9e7;font-size:15px;}
+.city-district-list meter {width:100%;height:12px;accent-color:#4b637d;}
+.city-district-list meter::-webkit-meter-optimum-value {background:#4b637d;}
+.city-analysis button:focus-visible,.city-analysis select:focus-visible,.analysis-modes button:focus-visible {outline:2px solid var(--tech-blue);outline-offset:3px;}
+@media(max-width:900px) {.city-kpis {grid-template-columns:repeat(2,minmax(0,1fr));}.city-kpis>div:nth-child(2) {border:0;}.city-location-detail {grid-template-columns:1fr;}.city-analysis-header {align-items:flex-start;flex-wrap:wrap;}}
+@media(max-width:600px) {.analysis-chart {height:400px;}.analysis-chart-short {height:320px;}.city-analysis-header h2 {font-size:24px;}.city-analysis-controls {gap:14px;}.city-analysis-controls label {flex:1;min-width:120px;}.city-analysis-controls select {width:100%;min-width:0;}.city-analysis-controls>span {width:100%;padding:0;}.city-kpis {gap:18px 12px;}.city-kpis strong {font-size:23px;}.city-section-links {gap:16px;}.city-analysis {scroll-margin-top:15px;}.city-analysis [id^=city-] {scroll-margin-top:15px;}.national-report h3,.national-analysis h3,.city-analysis h3 {font-size:18px;}}

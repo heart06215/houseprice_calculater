@@ -1,0 +1,1602 @@
+[
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2010,
+    "month": 8,
+    "avg_price": 5318,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2010,
+    "month": 9,
+    "avg_price": 5380,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2010,
+    "month": 10,
+    "avg_price": 5500,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2010,
+    "month": 11,
+    "avg_price": 5600,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2010,
+    "month": 12,
+    "avg_price": 5743,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2011,
+    "month": 8,
+    "avg_price": 6546,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2011,
+    "month": 9,
+    "avg_price": 6604,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2011,
+    "month": 10,
+    "avg_price": 6641,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2011,
+    "month": 11,
+    "avg_price": 6627,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2011,
+    "month": 12,
+    "avg_price": 6566,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2012,
+    "month": 8,
+    "avg_price": 6602,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2012,
+    "month": 9,
+    "avg_price": 6709,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2012,
+    "month": 10,
+    "avg_price": 6798,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2012,
+    "month": 11,
+    "avg_price": 6880,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2012,
+    "month": 12,
+    "avg_price": 6937,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2013,
+    "month": 8,
+    "avg_price": 7851,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2013,
+    "month": 9,
+    "avg_price": 7978,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2013,
+    "month": 10,
+    "avg_price": 8086,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2013,
+    "month": 11,
+    "avg_price": 8155,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2013,
+    "month": 12,
+    "avg_price": 8229,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2014,
+    "month": 8,
+    "avg_price": 8443,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2014,
+    "month": 9,
+    "avg_price": 8490,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2014,
+    "month": 10,
+    "avg_price": 8511,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2014,
+    "month": 11,
+    "avg_price": 8515,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2014,
+    "month": 12,
+    "avg_price": 8503,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2015,
+    "month": 8,
+    "avg_price": 8749,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2015,
+    "month": 9,
+    "avg_price": 8775,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2015,
+    "month": 10,
+    "avg_price": 8765,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2015,
+    "month": 11,
+    "avg_price": 8888,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2015,
+    "month": 12,
+    "avg_price": 8790,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2016,
+    "month": 8,
+    "avg_price": 9561,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2016,
+    "month": 9,
+    "avg_price": 10048,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2016,
+    "month": 10,
+    "avg_price": 11262,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2016,
+    "month": 11,
+    "avg_price": 11770,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2016,
+    "month": 12,
+    "avg_price": 12091,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2017,
+    "month": 8,
+    "avg_price": 12985,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2017,
+    "month": 9,
+    "avg_price": 12968,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2017,
+    "month": 10,
+    "avg_price": 12956,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2017,
+    "month": 11,
+    "avg_price": 12928,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2017,
+    "month": 12,
+    "avg_price": 12859,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2018,
+    "month": 8,
+    "avg_price": 12855,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2018,
+    "month": 9,
+    "avg_price": 13483,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2018,
+    "month": 10,
+    "avg_price": 13867,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2018,
+    "month": 11,
+    "avg_price": 13713,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2018,
+    "month": 12,
+    "avg_price": 13582,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2019,
+    "month": 8,
+    "avg_price": 13732,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2019,
+    "month": 9,
+    "avg_price": 13585,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2019,
+    "month": 10,
+    "avg_price": 13491,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2019,
+    "month": 11,
+    "avg_price": 13382,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2019,
+    "month": 12,
+    "avg_price": 13266,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2020,
+    "month": 8,
+    "avg_price": 13542,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2020,
+    "month": 9,
+    "avg_price": 13522,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2020,
+    "month": 10,
+    "avg_price": 13428,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2020,
+    "month": 11,
+    "avg_price": 13291,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2020,
+    "month": 12,
+    "avg_price": 13509,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2021,
+    "month": 1,
+    "avg_price": 13575,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2021,
+    "month": 2,
+    "avg_price": 13679,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2021,
+    "month": 3,
+    "avg_price": 13720,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2021,
+    "month": 4,
+    "avg_price": 13489,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2021,
+    "month": 5,
+    "avg_price": 13447,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2021,
+    "month": 6,
+    "avg_price": 13556,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2021,
+    "month": 7,
+    "avg_price": 13493,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2021,
+    "month": 8,
+    "avg_price": 13426,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2021,
+    "month": 9,
+    "avg_price": 13507,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2021,
+    "month": 10,
+    "avg_price": 13523,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2021,
+    "month": 11,
+    "avg_price": 13554,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2021,
+    "month": 12,
+    "avg_price": 13381,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2022,
+    "month": 1,
+    "avg_price": 13237,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2022,
+    "month": 2,
+    "avg_price": 13636,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2022,
+    "month": 3,
+    "avg_price": 13481,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2022,
+    "month": 4,
+    "avg_price": 13405,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2022,
+    "month": 5,
+    "avg_price": 13377,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2022,
+    "month": 6,
+    "avg_price": 13513,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2022,
+    "month": 7,
+    "avg_price": 13514,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2022,
+    "month": 8,
+    "avg_price": 13665,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2022,
+    "month": 9,
+    "avg_price": 13520,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2022,
+    "month": 10,
+    "avg_price": 13576,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2022,
+    "month": 11,
+    "avg_price": 13628,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2022,
+    "month": 12,
+    "avg_price": 13595,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2023,
+    "month": 1,
+    "avg_price": 13392,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2023,
+    "month": 2,
+    "avg_price": 13280,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2023,
+    "month": 3,
+    "avg_price": 13121,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2023,
+    "month": 4,
+    "avg_price": 12975,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2023,
+    "month": 5,
+    "avg_price": 12941,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2023,
+    "month": 6,
+    "avg_price": 12899,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2023,
+    "month": 7,
+    "avg_price": 12736,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2023,
+    "month": 8,
+    "avg_price": 12764,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2023,
+    "month": 9,
+    "avg_price": 12390,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2023,
+    "month": 10,
+    "avg_price": 12226,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2023,
+    "month": 11,
+    "avg_price": 12045,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2023,
+    "month": 12,
+    "avg_price": 11891,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2024,
+    "month": 1,
+    "avg_price": 11866,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2024,
+    "month": 2,
+    "avg_price": 12000,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2024,
+    "month": 3,
+    "avg_price": 10753,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2024,
+    "month": 4,
+    "avg_price": 10570,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2024,
+    "month": 5,
+    "avg_price": 10428,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2024,
+    "month": 6,
+    "avg_price": 10297,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2024,
+    "month": 7,
+    "avg_price": 10197,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2024,
+    "month": 8,
+    "avg_price": 9963,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2024,
+    "month": 9,
+    "avg_price": 9832,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2024,
+    "month": 10,
+    "avg_price": 9767,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2024,
+    "month": 11,
+    "avg_price": 9595,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2024,
+    "month": 12,
+    "avg_price": 9521,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2025,
+    "month": 1,
+    "avg_price": 9442,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2025,
+    "month": 2,
+    "avg_price": 9377,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2025,
+    "month": 3,
+    "avg_price": 9276,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2025,
+    "month": 4,
+    "avg_price": 9178,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2025,
+    "month": 5,
+    "avg_price": 9112,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2025,
+    "month": 6,
+    "avg_price": 8984,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2025,
+    "month": 7,
+    "avg_price": 8903,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2025,
+    "month": 8,
+    "avg_price": 8774,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2025,
+    "month": 9,
+    "avg_price": 8754,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2025,
+    "month": 10,
+    "avg_price": 8651,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2025,
+    "month": 11,
+    "avg_price": 8638,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2025,
+    "month": 12,
+    "avg_price": 8503,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou/",
+    "fetched_at": "2026-09-23T09:40:25.324824+00:00",
+    "raw": {
+      "sha256": "8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8ee6935f5ac711599f6ea4f71e5b147fe1ce5804023dd4f4444e8acb67ebb988.html",
+      "bytes": 130564
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2026,
+    "month": 1,
+    "avg_price": 8461,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou2026/",
+    "fetched_at": "2026-09-23T09:40:23.985124+00:00",
+    "raw": {
+      "sha256": "6009df8141e49ae2be18c99d3fde0ac87c9bdda0fd53a4f54a08350f09a3fbf2",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\6009df8141e49ae2be18c99d3fde0ac87c9bdda0fd53a4f54a08350f09a3fbf2.html",
+      "bytes": 191668
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2026,
+    "month": 2,
+    "avg_price": 8495,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou2026/",
+    "fetched_at": "2026-09-23T09:40:23.985124+00:00",
+    "raw": {
+      "sha256": "6009df8141e49ae2be18c99d3fde0ac87c9bdda0fd53a4f54a08350f09a3fbf2",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\6009df8141e49ae2be18c99d3fde0ac87c9bdda0fd53a4f54a08350f09a3fbf2.html",
+      "bytes": 191668
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2026,
+    "month": 3,
+    "avg_price": 8431,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou2026/",
+    "fetched_at": "2026-09-23T09:40:23.985124+00:00",
+    "raw": {
+      "sha256": "6009df8141e49ae2be18c99d3fde0ac87c9bdda0fd53a4f54a08350f09a3fbf2",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\6009df8141e49ae2be18c99d3fde0ac87c9bdda0fd53a4f54a08350f09a3fbf2.html",
+      "bytes": 191668
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2026,
+    "month": 4,
+    "avg_price": 8396,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou2026/",
+    "fetched_at": "2026-09-23T09:40:23.985124+00:00",
+    "raw": {
+      "sha256": "6009df8141e49ae2be18c99d3fde0ac87c9bdda0fd53a4f54a08350f09a3fbf2",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\6009df8141e49ae2be18c99d3fde0ac87c9bdda0fd53a4f54a08350f09a3fbf2.html",
+      "bytes": 191668
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2026,
+    "month": 5,
+    "avg_price": 8359,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou2026/",
+    "fetched_at": "2026-09-23T09:40:23.985124+00:00",
+    "raw": {
+      "sha256": "6009df8141e49ae2be18c99d3fde0ac87c9bdda0fd53a4f54a08350f09a3fbf2",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\6009df8141e49ae2be18c99d3fde0ac87c9bdda0fd53a4f54a08350f09a3fbf2.html",
+      "bytes": 191668
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2026,
+    "month": 6,
+    "avg_price": 8350,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou2026/",
+    "fetched_at": "2026-09-23T09:40:23.985124+00:00",
+    "raw": {
+      "sha256": "6009df8141e49ae2be18c99d3fde0ac87c9bdda0fd53a4f54a08350f09a3fbf2",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\6009df8141e49ae2be18c99d3fde0ac87c9bdda0fd53a4f54a08350f09a3fbf2.html",
+      "bytes": 191668
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2026,
+    "month": 7,
+    "avg_price": 8301,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou2026/",
+    "fetched_at": "2026-09-23T09:40:23.985124+00:00",
+    "raw": {
+      "sha256": "6009df8141e49ae2be18c99d3fde0ac87c9bdda0fd53a4f54a08350f09a3fbf2",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\6009df8141e49ae2be18c99d3fde0ac87c9bdda0fd53a4f54a08350f09a3fbf2.html",
+      "bytes": 191668
+    }
+  },
+  {
+    "city": "郑州",
+    "city_pinyin": "zhengzhou",
+    "year": 2026,
+    "month": 8,
+    "avg_price": 8234,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zhengzhou2026/",
+    "fetched_at": "2026-09-23T09:40:23.985124+00:00",
+    "raw": {
+      "sha256": "6009df8141e49ae2be18c99d3fde0ac87c9bdda0fd53a4f54a08350f09a3fbf2",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\6009df8141e49ae2be18c99d3fde0ac87c9bdda0fd53a4f54a08350f09a3fbf2.html",
+      "bytes": 191668
+    }
+  }
+]

@@ -1,0 +1,1167 @@
+[
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2015,
+    "month": 8,
+    "avg_price": 5443,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2016,
+    "month": 8,
+    "avg_price": 4764,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2016,
+    "month": 9,
+    "avg_price": 4566,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2016,
+    "month": 10,
+    "avg_price": 4588,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2016,
+    "month": 11,
+    "avg_price": 4565,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2016,
+    "month": 12,
+    "avg_price": 4569,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2017,
+    "month": 8,
+    "avg_price": 5117,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2017,
+    "month": 9,
+    "avg_price": 5300,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2017,
+    "month": 10,
+    "avg_price": 5536,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2017,
+    "month": 11,
+    "avg_price": 5516,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2017,
+    "month": 12,
+    "avg_price": 5555,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2018,
+    "month": 8,
+    "avg_price": 6264,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2018,
+    "month": 9,
+    "avg_price": 6264,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2018,
+    "month": 10,
+    "avg_price": 6304,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2018,
+    "month": 11,
+    "avg_price": 6299,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2018,
+    "month": 12,
+    "avg_price": 6274,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2019,
+    "month": 8,
+    "avg_price": 6279,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2019,
+    "month": 9,
+    "avg_price": 6407,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2019,
+    "month": 10,
+    "avg_price": 6403,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2019,
+    "month": 11,
+    "avg_price": 6332,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2019,
+    "month": 12,
+    "avg_price": 6285,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2020,
+    "month": 8,
+    "avg_price": 6072,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2020,
+    "month": 9,
+    "avg_price": 6054,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2020,
+    "month": 10,
+    "avg_price": 6027,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2020,
+    "month": 11,
+    "avg_price": 5989,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2020,
+    "month": 12,
+    "avg_price": 5900,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2021,
+    "month": 1,
+    "avg_price": 5899,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2021,
+    "month": 2,
+    "avg_price": 5930,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2021,
+    "month": 3,
+    "avg_price": 5984,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2021,
+    "month": 4,
+    "avg_price": 5936,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2021,
+    "month": 5,
+    "avg_price": 5910,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2021,
+    "month": 6,
+    "avg_price": 5961,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2021,
+    "month": 7,
+    "avg_price": 5919,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2021,
+    "month": 8,
+    "avg_price": 5899,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2021,
+    "month": 9,
+    "avg_price": 6000,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2021,
+    "month": 10,
+    "avg_price": 6042,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2021,
+    "month": 11,
+    "avg_price": 5965,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2021,
+    "month": 12,
+    "avg_price": 5907,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2022,
+    "month": 1,
+    "avg_price": 5891,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2022,
+    "month": 2,
+    "avg_price": 5927,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2022,
+    "month": 3,
+    "avg_price": 5969,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2022,
+    "month": 4,
+    "avg_price": 5913,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2022,
+    "month": 5,
+    "avg_price": 5822,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2022,
+    "month": 6,
+    "avg_price": 5820,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2022,
+    "month": 7,
+    "avg_price": 5864,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2022,
+    "month": 8,
+    "avg_price": 5898,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2022,
+    "month": 9,
+    "avg_price": 5822,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2022,
+    "month": 10,
+    "avg_price": 5825,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2022,
+    "month": 11,
+    "avg_price": 5811,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2022,
+    "month": 12,
+    "avg_price": 5765,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2023,
+    "month": 1,
+    "avg_price": 5759,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2023,
+    "month": 2,
+    "avg_price": 5791,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2023,
+    "month": 3,
+    "avg_price": 5832,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2023,
+    "month": 4,
+    "avg_price": 5906,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2023,
+    "month": 5,
+    "avg_price": 5934,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2023,
+    "month": 6,
+    "avg_price": 5942,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2023,
+    "month": 7,
+    "avg_price": 5957,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2023,
+    "month": 8,
+    "avg_price": 5982,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2023,
+    "month": 9,
+    "avg_price": 5896,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2023,
+    "month": 10,
+    "avg_price": 5865,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2023,
+    "month": 11,
+    "avg_price": 5876,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2023,
+    "month": 12,
+    "avg_price": 5669,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2024,
+    "month": 1,
+    "avg_price": 5556,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2024,
+    "month": 2,
+    "avg_price": 5564,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2024,
+    "month": 3,
+    "avg_price": 5576,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2024,
+    "month": 4,
+    "avg_price": 5593,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2024,
+    "month": 5,
+    "avg_price": 5455,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2024,
+    "month": 6,
+    "avg_price": 5451,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2024,
+    "month": 7,
+    "avg_price": 5462,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2024,
+    "month": 8,
+    "avg_price": 5541,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2024,
+    "month": 9,
+    "avg_price": 5520,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2024,
+    "month": 10,
+    "avg_price": 5484,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2024,
+    "month": 11,
+    "avg_price": 5408,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2024,
+    "month": 12,
+    "avg_price": 5335,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2025,
+    "month": 1,
+    "avg_price": 5359,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2025,
+    "month": 2,
+    "avg_price": 5420,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2025,
+    "month": 3,
+    "avg_price": 5470,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2025,
+    "month": 4,
+    "avg_price": 5397,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2025,
+    "month": 5,
+    "avg_price": 5353,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2025,
+    "month": 6,
+    "avg_price": 5391,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2025,
+    "month": 7,
+    "avg_price": 5292,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2025,
+    "month": 8,
+    "avg_price": 5259,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2025,
+    "month": 9,
+    "avg_price": 5259,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2025,
+    "month": 10,
+    "avg_price": 5195,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2025,
+    "month": 11,
+    "avg_price": 5025,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2025,
+    "month": 12,
+    "avg_price": 5055,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi/",
+    "fetched_at": "2026-09-17T10:42:15.520570+00:00",
+    "raw": {
+      "sha256": "635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\635d9409aee96df439226d65dd37883e1e2e7c931881c7339aad94e4241d6775.html",
+      "bytes": 91943
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2026,
+    "month": 1,
+    "avg_price": 5116,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi2026/",
+    "fetched_at": "2026-09-17T10:42:14.277814+00:00",
+    "raw": {
+      "sha256": "8fbe4590af88ab3064c1061eaf573d0d876deaa09248c0345d4d036bd266c5df",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8fbe4590af88ab3064c1061eaf573d0d876deaa09248c0345d4d036bd266c5df.html",
+      "bytes": 212421
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2026,
+    "month": 2,
+    "avg_price": 5085,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi2026/",
+    "fetched_at": "2026-09-17T10:42:14.277814+00:00",
+    "raw": {
+      "sha256": "8fbe4590af88ab3064c1061eaf573d0d876deaa09248c0345d4d036bd266c5df",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8fbe4590af88ab3064c1061eaf573d0d876deaa09248c0345d4d036bd266c5df.html",
+      "bytes": 212421
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2026,
+    "month": 3,
+    "avg_price": 5080,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi2026/",
+    "fetched_at": "2026-09-17T10:42:14.277814+00:00",
+    "raw": {
+      "sha256": "8fbe4590af88ab3064c1061eaf573d0d876deaa09248c0345d4d036bd266c5df",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8fbe4590af88ab3064c1061eaf573d0d876deaa09248c0345d4d036bd266c5df.html",
+      "bytes": 212421
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2026,
+    "month": 4,
+    "avg_price": 5007,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi2026/",
+    "fetched_at": "2026-09-17T10:42:14.277814+00:00",
+    "raw": {
+      "sha256": "8fbe4590af88ab3064c1061eaf573d0d876deaa09248c0345d4d036bd266c5df",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8fbe4590af88ab3064c1061eaf573d0d876deaa09248c0345d4d036bd266c5df.html",
+      "bytes": 212421
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2026,
+    "month": 5,
+    "avg_price": 4975,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi2026/",
+    "fetched_at": "2026-09-17T10:42:14.277814+00:00",
+    "raw": {
+      "sha256": "8fbe4590af88ab3064c1061eaf573d0d876deaa09248c0345d4d036bd266c5df",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8fbe4590af88ab3064c1061eaf573d0d876deaa09248c0345d4d036bd266c5df.html",
+      "bytes": 212421
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2026,
+    "month": 6,
+    "avg_price": 5016,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi2026/",
+    "fetched_at": "2026-09-17T10:42:14.277814+00:00",
+    "raw": {
+      "sha256": "8fbe4590af88ab3064c1061eaf573d0d876deaa09248c0345d4d036bd266c5df",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8fbe4590af88ab3064c1061eaf573d0d876deaa09248c0345d4d036bd266c5df.html",
+      "bytes": 212421
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2026,
+    "month": 7,
+    "avg_price": 4992,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi2026/",
+    "fetched_at": "2026-09-17T10:42:14.277814+00:00",
+    "raw": {
+      "sha256": "8fbe4590af88ab3064c1061eaf573d0d876deaa09248c0345d4d036bd266c5df",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8fbe4590af88ab3064c1061eaf573d0d876deaa09248c0345d4d036bd266c5df.html",
+      "bytes": 212421
+    }
+  },
+  {
+    "city": "遵义",
+    "city_pinyin": "zunyi",
+    "year": 2026,
+    "month": 8,
+    "avg_price": 4985,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/zunyi2026/",
+    "fetched_at": "2026-09-17T10:42:14.277814+00:00",
+    "raw": {
+      "sha256": "8fbe4590af88ab3064c1061eaf573d0d876deaa09248c0345d4d036bd266c5df",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\8fbe4590af88ab3064c1061eaf573d0d876deaa09248c0345d4d036bd266c5df.html",
+      "bytes": 212421
+    }
+  }
+]

@@ -1,0 +1,108 @@
+/* 窄屏布局：沿用主题变量，完整数据表仍可横向滚动。 */
+.mobile-city-tier,.mobile-table-hint {display:none;}
+
+@media (max-width:700px), (max-height:500px) and (max-width:950px) and (orientation:landscape) {
+    :root {--mobile-nav-height:112px;}
+    html {scroll-padding-top:var(--mobile-nav-height);}
+
+    .information-hub .hub-tabs {
+        position:sticky;top:0;z-index:20;
+        display:grid;grid-template-columns:repeat(6,minmax(0,1fr));
+        gap:6px;padding:8px 12px;
+        background:var(--glass-glaze),var(--surface);
+        backdrop-filter:var(--glass-filter);-webkit-backdrop-filter:var(--glass-filter);
+        border-bottom:1px solid var(--border);
+    }
+    .hub-tabs button {grid-column:span 2;min-height:44px;padding:8px 4px;letter-spacing:0;}
+    .hub-tabs button:nth-last-child(-n+2) {grid-column:span 3;}
+
+    .audit-controls {align-items:end;gap:12px;}
+    .audit-controls label {flex:1 1 130px;min-width:0;flex-direction:column;align-items:stretch;gap:6px;}
+    .audit-controls select,.audit-controls input[type=search] {width:100%;max-width:none;min-width:0;}
+    .audit-controls button,.audit-controls select,.audit-controls input[type=search],
+    .income-controls select,.mortgage-input input:not([type=checkbox]),.mortgage-input select {
+        min-height:44px;font-size:16px;
+    }
+    .income-controls label {min-width:0;flex-wrap:wrap;}
+    .analysis-modes button,.policy-chip {min-height:44px;}
+    .audit-band .tog {min-height:44px;min-width:44px;font:inherit;padding:8px 12px;}
+    .ranking-panel summary,.audit-band>summary,.income-more>summary,.fund-options>summary {
+        min-height:44px;padding-block:10px;
+    }
+    .mortgage-input .budget-check {min-height:44px;}
+    .city-section-links {gap:4px 16px;padding-block:4px;}
+    .city-section-links a,.ranking-jump {display:inline-flex;align-items:center;min-height:44px;}
+
+    .city-analysis,.city-analysis [id^=city-],#city-price-table {scroll-margin-top:8px;}
+    .audit-table-wrap {overscroll-behavior-x:contain;overscroll-behavior-y:auto;}
+    .city-history .hub-scroll,.ranking-panel .ranking-scroll {overscroll-behavior-y:auto;}
+    .ranking-panel .ranking-scroll {height:55vh;min-height:260px;}
+    .ranking-expanded .ranking-scroll {height:70vh;}
+    @supports (height:1dvh) {
+        .ranking-panel .ranking-scroll {height:55dvh;}
+        .ranking-expanded .ranking-scroll {height:70dvh;}
+    }
+    .ranking-panel .audit-table {width:max-content;min-width:0;}
+    .ranking-panel .audit-table th,.ranking-panel .audit-table td {padding:8px 6px;height:auto;}
+    .ranking-panel .audit-table th:nth-child(3),.ranking-panel .audit-table td:nth-child(3) {display:none;}
+    .ranking-panel .rank-number {width:24px;height:24px;font-size:13px;}
+    .ranking-panel .audit-table .rank-city-link {font-size:16px;min-height:44px;padding:8px 4px 8px 6px;}
+    .ranking-panel .ranking-city {min-width:76px;}
+    .mobile-city-tier {display:block;font-size:12px;font-weight:400;color:var(--muted);padding-left:9px;}
+    .ranking-panel .ranking-value {min-width:104px;width:124px;white-space:normal;}
+    .ranking-value strong {font-size:18px;white-space:nowrap;}
+    .ranking-value small {font-size:12px;overflow-wrap:anywhere;}
+    .ranking-source {max-width:260px;white-space:normal!important;overflow-wrap:anywhere;}
+    .ranking-source a,.cih-sample-panel .audit-table a {display:inline-flex;align-items:center;min-height:44px;}
+    .ranking-panel .ranking-summary>div {padding:12px;}
+    .ranking-summary>div::after {display:none;}
+    .ranking-summary strong {font-size:24px;}
+    .ranking-summary small {display:block;}
+    .ranking-table-heading {gap:12px;}
+    .mobile-table-hint {display:block;font-size:13px;line-height:1.7;color:var(--muted);margin:8px 0;}
+
+    .cih-sample-panel {padding:12px;}
+    .cih-sample-panel .audit-table {width:max-content;min-width:100%;}
+    .cih-sample-panel .audit-table th,.cih-sample-panel .audit-table td {padding:8px;}
+    .cih-sample-panel .audit-table th:nth-child(2) {white-space:normal;min-width:90px;}
+    .audit-controls .cih-sample-modes {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));width:100%;gap:8px;}
+    .audit-controls .cih-sample-modes button {padding:8px;min-width:0;}
+
+    .mortgage-result .audit-table {min-width:0;width:100%;font-size:15px;}
+    .mortgage-result .audit-table th {white-space:normal;}
+    .mortgage-result .audit-table td,.mortgage-result .audit-table th {padding:10px 6px;}
+    .mortgage-result .audit-table th:nth-child(n+2),.mortgage-result .audit-table td:nth-child(n+2) {text-align:right;}
+    .fund-equation {grid-template-columns:18px minmax(0,1fr);gap:6px;padding:14px 12px;}
+    .fund-equation>div {grid-column:2;display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px;}
+    .fund-equation>b {grid-column:1;}
+    .fund-equation>div:first-child {grid-row:1;}
+    .fund-equation>b:nth-child(2),.fund-equation>div:nth-child(3) {grid-row:2;}
+    .fund-equation>b:nth-child(4),.fund-equation>div:last-child {grid-row:3;}
+    .fund-equation span {font-size:14px;}
+    .fund-equation strong {font-size:22px;white-space:nowrap;}
+    .update-status>summary {min-height:44px;line-height:1.8;}
+    .update-status>summary span {display:block;margin-left:16px;overflow-wrap:anywhere;}
+    .update-status {padding:8px 14px;}
+}
+
+@media (min-width:360px) and (max-width:700px) {
+    .release-grid {grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;}
+    .release-grid article {min-width:0;padding:12px;}
+    .release-grid article div {flex-wrap:wrap;gap:0 8px;font-size:14px;}
+    .release-grid article strong {margin-left:auto;white-space:nowrap;}
+}
+
+/* 横屏保留更多内容空间，导航改为一行。 */
+@media (max-width:700px) {
+    .realestate-chart-grid {grid-template-columns:minmax(0,1fr);gap:0;}
+    .realestate-analysis .audit-controls label {flex:1;min-width:120px;}
+    .realestate-analysis .audit-controls select {width:100%;max-width:none;}
+}
+
+@media (max-height:500px) and (max-width:950px) and (orientation:landscape) {
+    :root {--mobile-nav-height:60px;}
+    .information-hub .hub-tabs {position:sticky;top:0;z-index:20;display:flex;flex-wrap:nowrap;gap:8px;padding:8px 12px;background:var(--surface);}
+    .hub-tabs button {min-height:44px;flex:1;padding:8px 4px;white-space:nowrap;}
+    html {scroll-padding-top:var(--mobile-nav-height);}
+    .ranking-panel .ranking-scroll {min-height:180px;}
+}

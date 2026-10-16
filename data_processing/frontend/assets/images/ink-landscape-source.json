@@ -1,0 +1,26 @@
+{
+  "work": "Spring Landscape",
+  "artist": "Kuncan (髠殘 / 髡残)",
+  "date": "1666",
+  "museum": "The Cleveland Museum of Art",
+  "accession": "1966.367",
+  "license": "CC0",
+  "record": "https://www.clevelandart.org/art/1966.367",
+  "metadata": "https://openaccess-api.clevelandart.org/api/artworks/142642",
+  "source_image": "https://openaccess-cdn.clevelandart.org/1966.367/1966.367_print.jpg",
+  "source_sha256": "ba7e5da05cc29c630ff695889a1149e96ec4e440e1310af2bcb769a336516031",
+  "adaptation": "Mounting crop, grayscale-to-cool-ink toning, mist fade, paper grain; not an unmodified reproduction.",
+  "reference": "User-provided poster supplied palette and corner-decoration direction only; poster image, logos and lettering are not bundled.",
+  "outputs": [
+    {
+      "path": "ink-landscape.webp",
+      "bytes": 319332,
+      "sha256": "081413eb1cf4e4a5c9be5729c42f5389dfe1abc84ed020c8036f8873da5d4499"
+    },
+    {
+      "path": "paper-grain.webp",
+      "bytes": 206,
+      "sha256": "5008a3f54242d7312de224c3d2950c142333ea9e29b5a9c7225fbcc3004a308d"
+    }
+  ]
+}

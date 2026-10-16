@@ -1,0 +1,1623 @@
+[
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2010,
+    "month": 8,
+    "avg_price": 13612,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2010,
+    "month": 9,
+    "avg_price": 13736,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2010,
+    "month": 10,
+    "avg_price": 13898,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2010,
+    "month": 11,
+    "avg_price": 14030,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2010,
+    "month": 12,
+    "avg_price": 14107,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2011,
+    "month": 8,
+    "avg_price": 14981,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2011,
+    "month": 9,
+    "avg_price": 14902,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2011,
+    "month": 10,
+    "avg_price": 14776,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2011,
+    "month": 11,
+    "avg_price": 14624,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2011,
+    "month": 12,
+    "avg_price": 14442,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2012,
+    "month": 8,
+    "avg_price": 14395,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2012,
+    "month": 9,
+    "avg_price": 14460,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2012,
+    "month": 10,
+    "avg_price": 14562,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2012,
+    "month": 11,
+    "avg_price": 14624,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2012,
+    "month": 12,
+    "avg_price": 14750,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2013,
+    "month": 8,
+    "avg_price": 16425,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2013,
+    "month": 9,
+    "avg_price": 16694,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2013,
+    "month": 10,
+    "avg_price": 16852,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2013,
+    "month": 11,
+    "avg_price": 17084,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2013,
+    "month": 12,
+    "avg_price": 17313,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2014,
+    "month": 8,
+    "avg_price": 18001,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2014,
+    "month": 9,
+    "avg_price": 17985,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2014,
+    "month": 10,
+    "avg_price": 17982,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2014,
+    "month": 11,
+    "avg_price": 18043,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2014,
+    "month": 12,
+    "avg_price": 18099,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2015,
+    "month": 8,
+    "avg_price": 18446,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2015,
+    "month": 9,
+    "avg_price": 18436,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2015,
+    "month": 10,
+    "avg_price": 18596,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2015,
+    "month": 11,
+    "avg_price": 18594,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2015,
+    "month": 12,
+    "avg_price": 18697,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2016,
+    "month": 8,
+    "avg_price": 21500,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2016,
+    "month": 9,
+    "avg_price": 22091,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2016,
+    "month": 10,
+    "avg_price": 23647,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2016,
+    "month": 11,
+    "avg_price": 24715,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2016,
+    "month": 12,
+    "avg_price": 24867,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2017,
+    "month": 8,
+    "avg_price": 26036,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2017,
+    "month": 9,
+    "avg_price": 26004,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2017,
+    "month": 10,
+    "avg_price": 25877,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2017,
+    "month": 11,
+    "avg_price": 25768,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2017,
+    "month": 12,
+    "avg_price": 25733,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2018,
+    "month": 8,
+    "avg_price": 26386,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2018,
+    "month": 9,
+    "avg_price": 27117,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2018,
+    "month": 10,
+    "avg_price": 27129,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2018,
+    "month": 11,
+    "avg_price": 27335,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2018,
+    "month": 12,
+    "avg_price": 27568,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2019,
+    "month": 8,
+    "avg_price": 28945,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2019,
+    "month": 9,
+    "avg_price": 28913,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2019,
+    "month": 10,
+    "avg_price": 28840,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2019,
+    "month": 11,
+    "avg_price": 28810,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2019,
+    "month": 12,
+    "avg_price": 28526,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2020,
+    "month": 8,
+    "avg_price": 28740,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2020,
+    "month": 9,
+    "avg_price": 28862,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2020,
+    "month": 10,
+    "avg_price": 28741,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2020,
+    "month": 11,
+    "avg_price": 28779,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2020,
+    "month": 12,
+    "avg_price": 28640,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2021,
+    "month": 1,
+    "avg_price": 28842,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2021,
+    "month": 2,
+    "avg_price": 29022,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2021,
+    "month": 3,
+    "avg_price": 29873,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2021,
+    "month": 4,
+    "avg_price": 30074,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2021,
+    "month": 5,
+    "avg_price": 29979,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2021,
+    "month": 6,
+    "avg_price": 29741,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2021,
+    "month": 7,
+    "avg_price": 29155,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2021,
+    "month": 8,
+    "avg_price": 29295,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2021,
+    "month": 9,
+    "avg_price": 29293,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2021,
+    "month": 10,
+    "avg_price": 28685,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2021,
+    "month": 11,
+    "avg_price": 28220,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2021,
+    "month": 12,
+    "avg_price": 27912,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2022,
+    "month": 1,
+    "avg_price": 27964,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2022,
+    "month": 2,
+    "avg_price": 27539,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2022,
+    "month": 3,
+    "avg_price": 27878,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2022,
+    "month": 4,
+    "avg_price": 27619,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2022,
+    "month": 5,
+    "avg_price": 27119,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2022,
+    "month": 6,
+    "avg_price": 26872,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2022,
+    "month": 7,
+    "avg_price": 26336,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2022,
+    "month": 8,
+    "avg_price": 26039,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2022,
+    "month": 9,
+    "avg_price": 26024,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2022,
+    "month": 10,
+    "avg_price": 25766,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2022,
+    "month": 11,
+    "avg_price": 25388,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2022,
+    "month": 12,
+    "avg_price": 24845,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2023,
+    "month": 1,
+    "avg_price": 24679,
+    "mom_change": 0.66,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2023,
+    "month": 2,
+    "avg_price": 25359,
+    "mom_change": 2.75,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2023,
+    "month": 3,
+    "avg_price": 26264,
+    "mom_change": 3.57,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2023,
+    "month": 4,
+    "avg_price": 26491,
+    "mom_change": 0.87,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2023,
+    "month": 5,
+    "avg_price": 26210,
+    "mom_change": -1.06,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2023,
+    "month": 6,
+    "avg_price": 25694,
+    "mom_change": -1.97,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2023,
+    "month": 7,
+    "avg_price": 25584,
+    "mom_change": -0.43,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2023,
+    "month": 8,
+    "avg_price": 26998,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2023,
+    "month": 9,
+    "avg_price": 27523,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2023,
+    "month": 10,
+    "avg_price": 26738,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2023,
+    "month": 11,
+    "avg_price": 26061,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2023,
+    "month": 12,
+    "avg_price": 25438,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2024,
+    "month": 1,
+    "avg_price": 24800,
+    "mom_change": -2.52,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2024,
+    "month": 2,
+    "avg_price": 24200,
+    "mom_change": -2.42,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2024,
+    "month": 3,
+    "avg_price": 23700,
+    "mom_change": -2.07,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2024,
+    "month": 4,
+    "avg_price": 23300,
+    "mom_change": -1.69,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2024,
+    "month": 5,
+    "avg_price": 23000,
+    "mom_change": -1.29,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2024,
+    "month": 6,
+    "avg_price": 22700,
+    "mom_change": -1.3,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2024,
+    "month": 7,
+    "avg_price": 22400,
+    "mom_change": -1.32,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2024,
+    "month": 8,
+    "avg_price": 23235,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2024,
+    "month": 9,
+    "avg_price": 22823,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2024,
+    "month": 10,
+    "avg_price": 22367,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2024,
+    "month": 11,
+    "avg_price": 21899,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2024,
+    "month": 12,
+    "avg_price": 21914,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2025,
+    "month": 1,
+    "avg_price": 21000,
+    "mom_change": -1.41,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2025,
+    "month": 2,
+    "avg_price": 20600,
+    "mom_change": -1.9,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2025,
+    "month": 3,
+    "avg_price": 20200,
+    "mom_change": -1.94,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2025,
+    "month": 4,
+    "avg_price": 19900,
+    "mom_change": -1.49,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2025,
+    "month": 5,
+    "avg_price": 19700,
+    "mom_change": -1.01,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2025,
+    "month": 6,
+    "avg_price": 19500,
+    "mom_change": -1.02,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2025,
+    "month": 7,
+    "avg_price": 19300,
+    "mom_change": -1.03,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2025,
+    "month": 8,
+    "avg_price": 19630,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2025,
+    "month": 9,
+    "avg_price": 19438,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2025,
+    "month": 10,
+    "avg_price": 19631,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2025,
+    "month": 11,
+    "avg_price": 18954,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2025,
+    "month": 12,
+    "avg_price": 18569,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing/",
+    "fetched_at": "2026-09-19T12:51:46.036793+00:00",
+    "raw": {
+      "sha256": "fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\fbbe96fb3faffa72c84eed1ba6909f12fd8fcdaf901599b6df051d707a9e52e7.html",
+      "bytes": 118934
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2026,
+    "month": 1,
+    "avg_price": 17849,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing2026/",
+    "fetched_at": "2026-09-19T12:51:44.730029+00:00",
+    "raw": {
+      "sha256": "da8100ca7eb3bf2ee4c53e612e595cf0cf52e83ad5981086de26b1e3fe7d7897",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\da8100ca7eb3bf2ee4c53e612e595cf0cf52e83ad5981086de26b1e3fe7d7897.html",
+      "bytes": 179523
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2026,
+    "month": 2,
+    "avg_price": 17533,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing2026/",
+    "fetched_at": "2026-09-19T12:51:44.730029+00:00",
+    "raw": {
+      "sha256": "da8100ca7eb3bf2ee4c53e612e595cf0cf52e83ad5981086de26b1e3fe7d7897",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\da8100ca7eb3bf2ee4c53e612e595cf0cf52e83ad5981086de26b1e3fe7d7897.html",
+      "bytes": 179523
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2026,
+    "month": 3,
+    "avg_price": 18169,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing2026/",
+    "fetched_at": "2026-09-19T12:51:44.730029+00:00",
+    "raw": {
+      "sha256": "da8100ca7eb3bf2ee4c53e612e595cf0cf52e83ad5981086de26b1e3fe7d7897",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\da8100ca7eb3bf2ee4c53e612e595cf0cf52e83ad5981086de26b1e3fe7d7897.html",
+      "bytes": 179523
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2026,
+    "month": 4,
+    "avg_price": 18584,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing2026/",
+    "fetched_at": "2026-09-19T12:51:44.730029+00:00",
+    "raw": {
+      "sha256": "da8100ca7eb3bf2ee4c53e612e595cf0cf52e83ad5981086de26b1e3fe7d7897",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\da8100ca7eb3bf2ee4c53e612e595cf0cf52e83ad5981086de26b1e3fe7d7897.html",
+      "bytes": 179523
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2026,
+    "month": 5,
+    "avg_price": 18923,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing2026/",
+    "fetched_at": "2026-09-19T12:51:44.730029+00:00",
+    "raw": {
+      "sha256": "da8100ca7eb3bf2ee4c53e612e595cf0cf52e83ad5981086de26b1e3fe7d7897",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\da8100ca7eb3bf2ee4c53e612e595cf0cf52e83ad5981086de26b1e3fe7d7897.html",
+      "bytes": 179523
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2026,
+    "month": 6,
+    "avg_price": 19053,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing2026/",
+    "fetched_at": "2026-09-19T12:51:44.730029+00:00",
+    "raw": {
+      "sha256": "da8100ca7eb3bf2ee4c53e612e595cf0cf52e83ad5981086de26b1e3fe7d7897",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\da8100ca7eb3bf2ee4c53e612e595cf0cf52e83ad5981086de26b1e3fe7d7897.html",
+      "bytes": 179523
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2026,
+    "month": 7,
+    "avg_price": 19192,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing2026/",
+    "fetched_at": "2026-09-19T12:51:44.730029+00:00",
+    "raw": {
+      "sha256": "da8100ca7eb3bf2ee4c53e612e595cf0cf52e83ad5981086de26b1e3fe7d7897",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\da8100ca7eb3bf2ee4c53e612e595cf0cf52e83ad5981086de26b1e3fe7d7897.html",
+      "bytes": 179523
+    }
+  },
+  {
+    "city": "南京",
+    "city_pinyin": "nanjing",
+    "year": 2026,
+    "month": 8,
+    "avg_price": 18748,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanjing2026/",
+    "fetched_at": "2026-09-19T12:51:44.730029+00:00",
+    "raw": {
+      "sha256": "da8100ca7eb3bf2ee4c53e612e595cf0cf52e83ad5981086de26b1e3fe7d7897",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\da8100ca7eb3bf2ee4c53e612e595cf0cf52e83ad5981086de26b1e3fe7d7897.html",
+      "bytes": 179523
+    }
+  }
+]

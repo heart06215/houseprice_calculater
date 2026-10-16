@@ -1,0 +1,751 @@
+﻿/* 2026-10-11 Endfield-inspired neo-Chinese overhaul (cyan ink + red HUD).
+   Independently implemented. No gold frames. No copyrighted Hypergryph art.
+   Large visual layer only — does not change Vue IA, Python, JSON, or mortgage math. */
+
+:root {
+  /* Hero cyan (Endfield-ish cerulean) + paper / ink / red technical markers */
+  --ef-cyan: #0aa0c8;
+  --ef-cyan-deep: #087a9a;
+  --ef-cyan-soft: #5ec4d8;
+  --ef-cyan-wash: rgba(10, 160, 200, 0.12);
+  --ef-cyan-glow: rgba(10, 160, 200, 0.22);
+  --ef-red: #e01111;
+  --ef-red-dim: rgba(224, 17, 17, 0.55);
+  --ef-red-wash: rgba(224, 17, 17, 0.08);
+  --ef-ink: #111111;
+  --ef-paper: #f7f8f8;
+  --frame-ink: #163e48;
+  --frame-line: rgba(22, 62, 72, 0.22);
+  --hairline: rgba(35, 78, 89, 0.14);
+  --panel-elev: 0 10px 30px rgba(49, 58, 54, 0.09), inset 0 1px 0 rgba(255, 255, 255, 0.92);
+  --panel-elev-hover: 0 14px 36px rgba(49, 58, 54, 0.12), inset 0 1px 0 #fff;
+  --corner-size: 14px;
+  --corner-thick: 2px;
+  --scan-opacity: 0.028;
+  --shadow-sm: 0 5px 20px rgba(57, 51, 38, 0.07);
+  --shadow-md: 0 12px 34px rgba(57, 51, 38, 0.11);
+  --glass-shadow: 0 12px 36px rgba(49, 58, 54, 0.09), inset 0 1px 0 #fff, inset 0 -1px 0 rgba(255, 255, 255, 0.65);
+
+  /* Override prior gold tokens if any residual references remain */
+  --accent-gold: var(--ef-cyan);
+  --accent-gold-soft: var(--ef-cyan-soft);
+  --accent-gold-dim: var(--ef-cyan-glow);
+  --accent-gold-wash: var(--ef-cyan-wash);
+
+  /* Align base theme accents toward Endfield cyan */
+  --tech-cyan: #0aa0c8;
+  --tech-glow: rgba(10, 160, 200, 0.20);
+  --accent-mist: #9fd4de;
+  --accent-wash: #e3f4f7;
+
+  /* Chart/UI accent sync (2026-10-11 high-contrast Endfield) */
+  --accent-ink: #0aa0c8;
+  --trend-up: #dc2626;
+  --trend-down: #16a34a;
+  --accent-green: #16a34a;
+}
+
+/* ========== Atmosphere: paper + cyan vertical wash + topographic hairlines ========== */
+body {
+  background-color: var(--ef-paper);
+}
+
+/* Soft cyan energy column (brush-like fade at sides) */
+body::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background:
+    /* topographic hairlines */
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='480' height='480' viewBox='0 0 480 480'%3E%3Cg fill='none' stroke='%23234e59' stroke-width='0.7' opacity='0.22'%3E%3Cpath d='M-20 80 C60 60 120 100 200 70 S340 40 500 90'/%3E%3Cpath d='M-20 140 C80 120 140 170 220 130 S360 100 500 150'/%3E%3Cpath d='M-20 210 C70 190 150 240 240 200 S380 170 500 220'/%3E%3Cpath d='M-20 280 C90 255 160 310 250 270 S390 240 500 290'/%3E%3Cpath d='M-20 350 C75 330 155 380 245 340 S385 310 500 360'/%3E%3Cpath d='M-20 420 C85 400 165 450 255 410 S395 380 500 430'/%3E%3C/g%3E%3C/svg%3E") center/480px 480px repeat,
+    /* vertical cyan ink wash */
+    linear-gradient(
+      90deg,
+      transparent 0%,
+      transparent 28%,
+      rgba(10, 160, 200, 0.045) 38%,
+      rgba(10, 160, 200, 0.10) 50%,
+      rgba(10, 160, 200, 0.045) 62%,
+      transparent 72%,
+      transparent 100%
+    );
+  opacity: 1;
+}
+
+#app {
+  position: relative;
+  isolation: isolate;
+}
+
+/* ========== Custom cursor: red viewfinder brackets (fine pointer only) ========== */
+@media (hover: hover) and (pointer: fine) {
+  html.ef-cursor-ready,
+  html.ef-cursor-ready body,
+  html.ef-cursor-ready #app,
+  html.ef-cursor-ready .map-shell {
+    cursor: url("../images/cursor-viewfinder.png") 16 16, url("../images/cursor-viewfinder.svg") 16 16, crosshair;
+  }
+  html.ef-cursor-ready a,
+  html.ef-cursor-ready button,
+  html.ef-cursor-ready [role="button"],
+  html.ef-cursor-ready .nav-tab,
+  html.ef-cursor-ready .hub-tabs button,
+  html.ef-cursor-ready .ranking-category button,
+  html.ef-cursor-ready .ranking-action,
+  html.ef-cursor-ready .policy-chip,
+  html.ef-cursor-ready .chip,
+  html.ef-cursor-ready .fbtn,
+  html.ef-cursor-ready .n-tip .btn,
+  html.ef-cursor-ready .card,
+  html.ef-cursor-ready .rank-city-link,
+  html.ef-cursor-ready summary,
+  html.ef-cursor-ready label[for],
+  html.ef-cursor-ready .tabs button,
+  html.ef-cursor-ready .c-toolbar button,
+  html.ef-cursor-ready .type-chips .chip {
+    cursor: url("../images/cursor-bracket-pointer.png") 16 16, url("../images/cursor-bracket-pointer.svg") 16 16, pointer;
+  }
+  html.ef-cursor-ready input,
+  html.ef-cursor-ready textarea,
+  html.ef-cursor-ready select,
+  html.ef-cursor-ready [contenteditable="true"] {
+    cursor: text;
+  }
+  html.ef-cursor-ready button:disabled,
+  html.ef-cursor-ready button[aria-disabled="true"],
+  html.ef-cursor-ready button[aria-busy="true"] {
+    cursor: not-allowed;
+  }
+}
+
+/* Touch / coarse pointers keep OS cursor (no custom overlay fights) */
+@media (pointer: coarse) {
+  html.ef-cursor-ready,
+  html.ef-cursor-ready * {
+    cursor: auto !important;
+  }
+}
+
+/* ========== Red technical L-brackets on panels (replaces gold corners) ========== */
+.ranking-panel,
+.chart-card,
+.detail-panel,
+.cih-sample-panel,
+.income-panel,
+.mortgage-layout > section,
+.mortgage-layout > .mortgage-panel,
+.update-status,
+.src-card,
+.release-grid article,
+.map-shell #filter-panel,
+.map-shell .legend-bar,
+.map-shell .n-tip,
+.map-shell .n-hint,
+.map-shell .water-info,
+.map-shell #loading-splash,
+.build-notice {
+  --c: var(--ef-red);
+  --cs: var(--corner-size);
+  --ct: var(--corner-thick);
+  background-image:
+    linear-gradient(var(--c), var(--c)),
+    linear-gradient(var(--c), var(--c)),
+    linear-gradient(var(--c), var(--c)),
+    linear-gradient(var(--c), var(--c)),
+    linear-gradient(var(--c), var(--c)),
+    linear-gradient(var(--c), var(--c)),
+    linear-gradient(var(--c), var(--c)),
+    linear-gradient(var(--c), var(--c)),
+    var(--glass-glaze),
+    linear-gradient(var(--surface), var(--surface));
+  background-size:
+    var(--cs) var(--ct), var(--ct) var(--cs),
+    var(--cs) var(--ct), var(--ct) var(--cs),
+    var(--cs) var(--ct), var(--ct) var(--cs),
+    var(--cs) var(--ct), var(--ct) var(--cs),
+    auto, auto;
+  background-position:
+    left 0 top 0, left 0 top 0,
+    right 0 top 0, right 0 top 0,
+    left 0 bottom 0, left 0 bottom 0,
+    right 0 bottom 0, right 0 bottom 0,
+    0 0, 0 0;
+  background-repeat: no-repeat;
+  outline: 1px solid var(--frame-line);
+  border-color: var(--glass-edge);
+  box-shadow: var(--panel-elev);
+}
+
+.information-hub .audit-page:not(.ranking-panel),
+.information-hub .main,
+.income-yield {
+  outline: 1px solid var(--frame-line);
+  box-shadow: var(--panel-elev);
+  border-color: var(--glass-edge);
+}
+
+/* ========== Header: high-contrast ink title + cyan hairline (no gold) ========== */
+.header {
+  position: relative;
+  isolation: isolate;
+  border-bottom: 1px solid var(--hairline);
+  box-shadow:
+    inset 0 1px 0 var(--glass-edge),
+    0 1px 0 rgba(10, 160, 200, 0.28),
+    0 6px 18px rgba(49, 58, 54, 0.05);
+}
+.header::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  opacity: var(--scan-opacity);
+  background: repeating-linear-gradient(
+    0deg,
+    transparent 0 3px,
+    rgba(10, 160, 200, 0.55) 3px 4px
+  );
+}
+/* Trigram stack (top-right HUD ornament) */
+.header::after {
+  content: "";
+  position: absolute;
+  top: 14px;
+  right: 28px;
+  width: 11px;
+  height: 18px;
+  z-index: 1;
+  pointer-events: none;
+  opacity: 0.55;
+  background:
+    linear-gradient(var(--ef-ink), var(--ef-ink)) 0 0 / 100% 2px no-repeat,
+    linear-gradient(var(--ef-ink), var(--ef-ink)) 0 50% / 100% 2px no-repeat,
+    linear-gradient(var(--ef-ink), var(--ef-ink)) 0 100% / 100% 2px no-repeat;
+}
+.header > * { position: relative; z-index: 1; }
+.header h1 {
+  font-weight: 800;
+  color: var(--ef-ink);
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.55);
+  letter-spacing: 0.02em;
+}
+.header h1::after {
+  background: linear-gradient(90deg, var(--ef-cyan), transparent 85%);
+  opacity: 0.42;
+  height: 4px;
+}
+.header .badge {
+  border-color: rgba(10, 160, 200, 0.35);
+  background: rgba(248, 249, 249, 0.82);
+  border-radius: 2px;
+  letter-spacing: 0.02em;
+}
+.header .badge.orange {
+  color: var(--ef-cyan-deep);
+  border-color: var(--ef-cyan);
+  background: var(--ef-cyan-wash);
+}
+
+/* ========== Nav / hub: industrial HUD, cyan active, red tick ========== */
+.nav-tabs {
+  border-bottom-color: var(--hairline);
+  box-shadow: inset 0 1px 0 var(--glass-edge), 0 4px 14px rgba(49, 58, 54, 0.04);
+}
+.nav-tabs button.nav-tab {
+  font-weight: 650;
+  color: #4a5c61;
+  border-radius: 0;
+  letter-spacing: 0.02em !important;
+}
+.nav-tabs .nav-tab::after {
+  height: 2px;
+  background: linear-gradient(90deg, var(--ef-cyan), var(--ef-cyan-deep));
+  box-shadow: 0 0 8px var(--ef-cyan-glow);
+  left: 16px;
+  right: 16px;
+}
+.nav-tabs .nav-tab.active {
+  color: var(--ef-ink);
+  background: rgba(255, 255, 255, 0.78);
+  font-weight: 780;
+}
+.hub-tabs button {
+  border-radius: 2px;
+  border-color: #c2d0d2;
+  background: rgba(255, 255, 255, 0.78);
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+.hub-tabs button[aria-pressed="true"] {
+  color: var(--ef-ink);
+  background: rgba(255, 255, 255, 0.94);
+  border-color: var(--ef-cyan);
+  box-shadow:
+    inset 0 -2px 0 var(--ef-cyan),
+    0 0 0 1px var(--ef-cyan-wash),
+    0 0 10px var(--ef-cyan-glow);
+  font-weight: 750;
+}
+.analysis-modes {
+  border-bottom-color: var(--hairline);
+}
+.analysis-modes button[aria-pressed="true"],
+.ranking-category button[aria-pressed="true"],
+.navbar .tabs button.active,
+.c-toolbar button.on,
+.type-chips .chip.sel,
+.policy-chip.sel,
+.cih-sample-modes button[aria-pressed="true"] {
+  border-color: var(--ef-cyan) !important;
+  box-shadow:
+    inset 0 -2px 0 var(--ef-cyan),
+    0 0 0 1px var(--ef-cyan-wash),
+    0 0 8px var(--ef-cyan-glow) !important;
+}
+
+.ranking-category button {
+  background-color: rgba(248, 249, 249, 0.9);
+  border-color: #c5d0cb;
+  border-radius: 2px;
+}
+.ranking-category button[aria-pressed="true"] {
+  background-color: var(--ef-cyan-wash);
+  /* red corner ticks on pressed category seals */
+  box-shadow:
+    inset 0 -2px 0 var(--ef-cyan),
+    inset 2px 2px 0 0 var(--ef-red),
+    inset -2px -2px 0 0 transparent !important;
+}
+
+/* ========== Eyebrows / section marks: cyan + trigram ========== */
+.ranking-eyebrow {
+  color: var(--ef-cyan-deep);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+.ranking-eyebrow::before {
+  filter: drop-shadow(0 0 3px var(--ef-cyan-glow));
+}
+.ranking-eyebrow::after {
+  content: "";
+  display: inline-block;
+  width: 10px;
+  height: 14px;
+  margin-left: 8px;
+  vertical-align: middle;
+  opacity: 0.55;
+  background:
+    linear-gradient(var(--ef-ink), var(--ef-ink)) 0 0 / 100% 1.5px no-repeat,
+    linear-gradient(var(--ef-ink), var(--ef-ink)) 0 50% / 70% 1.5px no-repeat,
+    linear-gradient(var(--ef-ink), var(--ef-ink)) 0 100% / 100% 1.5px no-repeat;
+}
+.ranking-header {
+  border-bottom: 1px solid var(--hairline);
+  position: relative;
+}
+.ranking-header::after {
+  background: linear-gradient(90deg, var(--ef-cyan), transparent);
+  width: 96px;
+  height: 2px;
+}
+.ranking-panel h2,
+.audit-page > h2,
+.report h2 {
+  font-weight: 800;
+  color: var(--ef-ink);
+  letter-spacing: 0.02em;
+}
+.chart-card-header,
+.detail-header {
+  border-bottom: 1px solid var(--hairline);
+  background:
+    linear-gradient(90deg, var(--ef-cyan-wash), transparent 48%),
+    rgba(250, 252, 251, 0.88);
+}
+.chart-card-title {
+  font-weight: 720;
+  position: relative;
+  padding-left: 12px;
+}
+.chart-card-title::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.35em;
+  bottom: 0.35em;
+  width: 3px;
+  background: linear-gradient(180deg, var(--ef-cyan), var(--ef-cyan-deep));
+  border-radius: 0;
+}
+
+/* ========== KPI / metrics: cyan top rule + left accent (readable density) ========== */
+.hub-metrics > div,
+.stat-item,
+.report-stats .stat-item,
+.income-summary article,
+.income-targets article {
+  border-radius: 2px;
+  border: 1px solid var(--border);
+  border-top: 2px solid var(--ef-cyan-soft);
+  border-left: 3px solid var(--ef-cyan);
+  background: rgba(248, 249, 249, 0.94);
+  box-shadow: var(--shadow-sm);
+}
+.hub-metrics > div {
+  border-left-width: 3px;
+  border-left-color: var(--ef-cyan);
+  border-top-color: var(--ef-cyan-soft);
+}
+.hub-metrics > div:has(.delta-up) { border-left-color: var(--trend-up); }
+.hub-metrics > div:has(.delta-down) { border-left-color: var(--trend-down); }
+.ranking-summary {
+  border-top: 1px solid var(--hairline);
+  background:
+    linear-gradient(180deg, rgba(10, 160, 200, 0.06), transparent 30%),
+    rgba(248, 249, 249, 0.86);
+}
+.ranking-summary > div {
+  position: relative;
+}
+.ranking-summary > div:not(:last-child)::after {
+  content: "";
+  position: absolute;
+  top: 18%;
+  bottom: 18%;
+  right: 0;
+  width: 1px;
+  background: linear-gradient(180deg, transparent, rgba(10, 160, 200, 0.45), transparent);
+  opacity: 0.8;
+}
+.ranking-summary strong {
+  font-weight: 780;
+  font-variant-numeric: tabular-nums;
+  color: var(--ef-ink);
+}
+.stat-value,
+.report-stats .stat-value,
+.income-panel article strong,
+.income-yield strong {
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.01em;
+  color: var(--ef-ink);
+}
+
+/* ========== Tables: sharp ink header, quiet cyan hover ========== */
+.ranking-panel .audit-table th,
+.audit-table th {
+  border-bottom: 2px solid var(--frame-ink);
+  background: #e6f0f3;
+  color: var(--frame-ink);
+  font-weight: 720;
+  letter-spacing: 0.02em;
+}
+.ranking-panel .audit-table td,
+.audit-table td {
+  border-color: rgba(181, 198, 201, 0.5);
+}
+.ranking-panel .audit-table tbody tr:hover,
+.audit-table tbody tr:hover {
+  background: #dff0f4;
+}
+
+/* ========== Mortgage / income chrome ========== */
+.income-panel {
+  border-top: 2px solid var(--ef-cyan) !important;
+  border-radius: 4px;
+  padding-inline: 4px;
+}
+.income-yield {
+  border-top: 2px solid var(--ef-cyan) !important;
+  border-radius: 4px;
+}
+.update-status {
+  border-radius: 4px;
+  border-left: 3px solid var(--ef-cyan);
+}
+
+/* ========== Map chrome: rectangular HUD, cyan active, red brackets inherited ========== */
+.map-shell .navbar {
+  border-bottom: 1px solid var(--hairline);
+  box-shadow:
+    inset 0 1px 0 var(--glass-edge),
+    0 1px 0 rgba(10, 160, 200, 0.25),
+    0 6px 16px rgba(49, 58, 54, 0.05);
+  background: var(--glass-glaze), var(--surface);
+  backdrop-filter: var(--glass-filter);
+  -webkit-backdrop-filter: var(--glass-filter);
+}
+.map-shell .navbar .brand {
+  font-weight: 780;
+  color: var(--ef-ink);
+  letter-spacing: 0.02em;
+}
+.map-shell .navbar .tabs button {
+  border-radius: 2px;
+  border: 1px solid transparent;
+  background: transparent;
+  color: #4a5c61;
+  letter-spacing: 0.02em;
+}
+.map-shell .navbar .tabs button:hover {
+  border-color: #c5d0d2;
+  color: var(--ef-ink);
+  background: var(--ef-cyan-wash);
+}
+.map-shell .navbar .tabs button.active {
+  background: rgba(255, 255, 255, 0.92);
+  color: var(--ef-ink);
+  border-color: var(--ef-cyan);
+  box-shadow: inset 0 -2px 0 var(--ef-cyan);
+  font-weight: 720;
+}
+.map-shell .c-toolbar button {
+  border-radius: 2px;
+}
+.map-shell .c-toolbar button.on {
+  background: var(--ef-cyan-wash);
+  color: var(--ef-ink);
+  border-color: var(--ef-cyan);
+}
+.map-shell .type-chips .chip {
+  border-radius: 2px;
+}
+.map-shell .type-chips .chip.sel {
+  background: var(--ef-cyan-wash);
+  color: var(--ef-ink);
+  border-color: var(--ef-cyan);
+}
+.map-shell #detail-panel {
+  border-left: 1px solid var(--frame-line);
+  box-shadow: -8px 0 28px rgba(49, 58, 54, 0.08);
+  background: var(--glass-glaze), var(--surface);
+  backdrop-filter: var(--glass-filter);
+  -webkit-backdrop-filter: var(--glass-filter);
+}
+.map-shell .dp-hd {
+  border-bottom: 1px solid var(--hairline);
+  background:
+    linear-gradient(90deg, var(--ef-cyan-wash), transparent 50%),
+    #f4fafb;
+}
+.map-shell .card {
+  border-radius: 2px;
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--ef-cyan);
+  background: rgba(255, 255, 255, 0.92);
+}
+.map-shell .card:hover {
+  border-color: rgba(10, 160, 200, 0.45);
+  box-shadow: var(--shadow-sm);
+}
+.map-shell .fbtn,
+.map-shell .n-tip .btn {
+  border-radius: 2px;
+  background: var(--ef-cyan-deep);
+  border-color: var(--ef-cyan-deep);
+}
+.map-shell .fbtn.reset {
+  background: #fff;
+  color: var(--ef-cyan-deep);
+}
+
+/* Policy chips: cyan wash (no amber) */
+.policy-chip {
+  color: var(--ef-cyan-deep);
+  background: var(--ef-cyan-wash);
+  border: 1px solid rgba(10, 160, 200, 0.4);
+  border-radius: 2px;
+}
+.policy-chip.sel {
+  color: var(--ef-ink);
+  background: rgba(10, 160, 200, 0.22);
+  border-color: var(--ef-cyan);
+}
+.policy-desc {
+  background: rgba(227, 244, 247, 0.65);
+  border-left: 3px solid var(--ef-cyan);
+}
+
+/* ========== Motion: color-only hover (float/lift removed) ========== */
+.ranking-panel,
+.chart-card,
+.detail-panel,
+.cih-sample-panel,
+.hub-metrics > div,
+.stat-item,
+.src-card,
+.release-grid article,
+.income-yield {
+  transition:
+    box-shadow var(--motion-fast, 160ms) ease,
+    border-color var(--motion-fast, 160ms) ease,
+    outline-color var(--motion-fast, 160ms) ease;
+}
+@media (hover: hover) and (pointer: fine) {
+  /* Hover float/lift removed 2026-10-11; color-only feedback. */
+  .hub-tabs button:hover {
+    border-color: rgba(10, 160, 200, 0.45);
+    background: var(--ef-cyan-wash);
+  }
+  .ranking-panel:hover,
+  .chart-card:hover,
+  .cih-sample-panel:hover,
+  .src-card:hover,
+  .release-grid article:hover,
+  .hub-metrics > div:hover,
+  .stat-item:hover {
+    outline-color: rgba(10, 160, 200, 0.28);
+  }
+}
+.hp-pane-enter-from {
+  opacity: 0;
+  transform: translateY(8px);
+}
+.hp-pane-enter-active {
+  transition:
+    opacity var(--motion-panel, 360ms) var(--motion-ease, cubic-bezier(0.22, 0.7, 0.24, 1)),
+    transform var(--motion-panel, 360ms) var(--motion-ease, cubic-bezier(0.22, 0.7, 0.24, 1));
+}
+.ranking-header::after {
+  animation: hp-neo-rule 560ms var(--motion-ease, cubic-bezier(0.22, 0.7, 0.24, 1)) backwards;
+}
+@keyframes hp-neo-rule {
+  from { transform: scaleX(0.08); opacity: 0.35; }
+  to { transform: scaleX(1); opacity: 1; }
+}
+
+/* Focus: cyan ring + soft red outer wash */
+button:focus-visible,
+a:focus-visible,
+input:focus-visible,
+select:focus-visible,
+summary:focus-visible,
+.hub-tabs button:focus-visible,
+.ranking-category button:focus-visible,
+.nav-tabs button:focus-visible {
+  outline: 2px solid var(--ef-cyan);
+  outline-offset: 3px;
+  box-shadow: 0 0 0 4px var(--ef-red-wash);
+}
+
+@media (max-width: 700px) {
+  :root {
+    --corner-size: 10px;
+    --scan-opacity: 0.018;
+  }
+  .ranking-summary > div:not(:last-child)::after { display: none; }
+  .header::before { opacity: 0.015; }
+  .header::after { right: 14px; opacity: 0.4; }
+  body::after { opacity: 0.7; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ranking-header::after { animation: none !important; }
+  .ranking-panel,
+  .chart-card,
+  .detail-panel,
+  .cih-sample-panel,
+  .hub-metrics > div,
+  .stat-item,
+  .src-card,
+  .release-grid article,
+  .income-yield {
+    transition: none !important;
+  }
+}
+
+@media print {
+  .header::before,
+  .header::after,
+  body::after { display: none !important; }
+  .ranking-panel,
+  .chart-card,
+  .detail-panel,
+  .cih-sample-panel,
+  .income-panel,
+  .update-status,
+  .src-card,
+  .release-grid article {
+    background: #fff !important;
+    box-shadow: none !important;
+    outline: 1px solid #999 !important;
+  }
+}
+
+/* === 20261011 typofix2: readable Glow Sans (not Wide), larger type, normal tracking === */
+:root {
+  --trend-down: #16a34a;
+  --accent-green: #16a34a;
+  --tier-s: #dc2626;
+  --ratio-emphasis: #dc2626;
+  /* Chinese-first regular width — Wide looked flat; Montserrat-first looked condensed */
+  --font-ui: 'Glow Sans SC', 'Noto Sans SC', 'Microsoft YaHei', 'PingFang SC', 'Montserrat', sans-serif;
+  --font-heading: 'Glow Sans SC', 'Noto Sans SC', 'Microsoft YaHei', 'PingFang SC', 'Montserrat', sans-serif;
+  --font-num: 'Montserrat', 'Glow Sans SC', 'Noto Sans SC', sans-serif;
+}
+body {
+  font-size: 18px;
+  line-height: 1.7;
+  letter-spacing: 0;
+  font-weight: 400;
+}
+h1, h2, h3, .title-cut {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+.header h1 {
+  font-family: var(--font-heading);
+  font-size: 26px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+.nav-tabs button.nav-tab { font-size: 18px; font-weight: 600; letter-spacing: 0.02em !important; }
+.hub-tabs button { font-size: 17px; font-weight: 600; letter-spacing: 0.02em; }
+.hub-metrics strong { font-size: 30px; }
+.audit-page h2, .report h2 { font-size: 28px; letter-spacing: 0.01em; }
+.audit-page h3 { font-size: 21px; }
+.audit-note, .income-note, .ranking-header p { font-size: 17px; }
+.audit-table, .ranking-panel .audit-table { font-size: 17px !important; }
+.ranking-panel .audit-table th, .audit-table th { font-size: 15px !important; }
+.header .badge, .tier-legend .item, .tier-legend .count { font-size: 15px; }
+.ranking-summary strong { font-size: 32px; }
+.ranking-period strong { font-size: 34px; font-family: var(--font-num); }
+.ranking-value strong, .stat-value, .report-stats .stat-value { font-family: var(--font-num); }
+.ranking-eyebrow { font-size: 15px; letter-spacing: 0.04em !important; }
+.ranking-category button strong { font-size: 20px; letter-spacing: 0.01em; }
+.ranking-category button span { font-size: 15px; }
+.ranking-toolbar label, .ranking-summary span { font-size: 15px; }
+.ranking-panel .audit-table .rank-city-link { font-size: 18px !important; }
+.chart-card-title { font-size: 18px; }
+/* First-tier (S) price chrome → red */
+.tier-legend .item .dot,
+.header .tier-legend span[style*="background"] { }
+tr[data-tier='S'] .rank-city-link,
+tr[data-tier='S'] .ranking-tier,
+.ranking-panel tr[data-tier='S'] .price-emphasis,
+.city-analysis[data-tier='S'] .price-emphasis { color: var(--tier-s) !important; border-color: var(--tier-s) !important; }
+/* Price/income multiples (倍) → vivid red + larger */
+.income-ratios article strong {
+  color: var(--ratio-emphasis) !important;
+  font-size: 46px !important;
+  font-weight: 750;
+  letter-spacing: 0.02em;
+  line-height: 1.15;
+}
+.income-ratios article strong small {
+  font-size: 22px !important;
+  color: var(--ratio-emphasis) !important;
+  font-weight: 650;
+}
+.income-more p b.income-red {
+  color: var(--ratio-emphasis) !important;
+  font-size: 1.25em;
+}
+@media (max-width: 560px) {
+  .income-ratios article strong { font-size: 38px !important; }
+  .income-ratios article strong small { font-size: 18px !important; }
+}

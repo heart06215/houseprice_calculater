@@ -1,0 +1,18 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert');
+const dir=__dirname+'/frontend/realestate/';
+const modules=['community','loader','nation','community-map','contours','community-list','app'];
+const expected=modules.map(n=>'// Module: '+n+'\n'+fs.readFileSync(dir+'assets/js/'+n+'.js','utf8').replace(/\r\n/g,'\n')).join('\n;\n');
+const bundled=fs.readFileSync(dir+'assets/js/map-app.js','utf8').replace(/\r\n/g,'\n');
+assert(bundled===expected,'Map bundle is stale: run build_inline.py');
+const listeners=[];
+const sandbox={console,L:{Layer:{extend:()=>class{}}},addEventListener:(name,fn)=>listeners.push([name,fn])};
+sandbox.window=sandbox;
+vm.runInNewContext(bundled,sandbox);
+assert.equal(typeof sandbox.HP.RE.list.initFilters,'function');
+assert.equal(typeof sandbox.HP.RE.list.render,'function');
+assert.equal(typeof sandbox.HP.RE.nation.init,'function');
+assert.equal(typeof sandbox.HP.RE.city.open,'function');
+assert(listeners.some(([name])=>name==='DOMContentLoaded'));
+const inline=fs.readFileSync(dir+'map_inline.html','utf8').replace(/\r\n/g,'\n');
+assert(inline.includes(bundled),'Inline map must contain the same complete app bundle');
+console.log('Map bundle regression passed: current sources, module registration, inline parity');

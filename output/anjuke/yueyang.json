@@ -1,0 +1,1227 @@
+[
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2015,
+    "month": 8,
+    "avg_price": 2942,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2015,
+    "month": 9,
+    "avg_price": 2947,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2015,
+    "month": 10,
+    "avg_price": 2947,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2015,
+    "month": 11,
+    "avg_price": 2947,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2016,
+    "month": 8,
+    "avg_price": 5208,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2016,
+    "month": 9,
+    "avg_price": 5208,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2016,
+    "month": 10,
+    "avg_price": 5208,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2016,
+    "month": 11,
+    "avg_price": 5208,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2016,
+    "month": 12,
+    "avg_price": 5208,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2017,
+    "month": 8,
+    "avg_price": 6353,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2017,
+    "month": 9,
+    "avg_price": 6652,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2017,
+    "month": 10,
+    "avg_price": 6718,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2017,
+    "month": 11,
+    "avg_price": 6816,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2017,
+    "month": 12,
+    "avg_price": 6909,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2018,
+    "month": 8,
+    "avg_price": 7518,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2018,
+    "month": 9,
+    "avg_price": 7453,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2018,
+    "month": 10,
+    "avg_price": 7374,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2018,
+    "month": 11,
+    "avg_price": 7308,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2018,
+    "month": 12,
+    "avg_price": 7148,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2019,
+    "month": 8,
+    "avg_price": 6988,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2019,
+    "month": 9,
+    "avg_price": 7457,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2019,
+    "month": 10,
+    "avg_price": 7430,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2019,
+    "month": 11,
+    "avg_price": 7263,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2019,
+    "month": 12,
+    "avg_price": 7173,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2020,
+    "month": 8,
+    "avg_price": 7107,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2020,
+    "month": 9,
+    "avg_price": 7061,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2020,
+    "month": 10,
+    "avg_price": 6897,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2020,
+    "month": 11,
+    "avg_price": 6782,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2020,
+    "month": 12,
+    "avg_price": 6694,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2021,
+    "month": 1,
+    "avg_price": 6573,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2021,
+    "month": 2,
+    "avg_price": 6677,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2021,
+    "month": 3,
+    "avg_price": 6689,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2021,
+    "month": 4,
+    "avg_price": 6754,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2021,
+    "month": 5,
+    "avg_price": 6690,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2021,
+    "month": 6,
+    "avg_price": 6737,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2021,
+    "month": 7,
+    "avg_price": 6899,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2021,
+    "month": 8,
+    "avg_price": 6969,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2021,
+    "month": 9,
+    "avg_price": 6727,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2021,
+    "month": 10,
+    "avg_price": 6589,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2021,
+    "month": 11,
+    "avg_price": 6541,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2021,
+    "month": 12,
+    "avg_price": 6449,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2022,
+    "month": 1,
+    "avg_price": 6491,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2022,
+    "month": 2,
+    "avg_price": 6619,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2022,
+    "month": 3,
+    "avg_price": 6647,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2022,
+    "month": 4,
+    "avg_price": 6620,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2022,
+    "month": 5,
+    "avg_price": 6594,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2022,
+    "month": 6,
+    "avg_price": 6773,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2022,
+    "month": 7,
+    "avg_price": 6821,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2022,
+    "month": 8,
+    "avg_price": 6780,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2022,
+    "month": 9,
+    "avg_price": 6748,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2022,
+    "month": 10,
+    "avg_price": 6559,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2022,
+    "month": 11,
+    "avg_price": 6694,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2022,
+    "month": 12,
+    "avg_price": 6772,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2023,
+    "month": 1,
+    "avg_price": 6872,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2023,
+    "month": 2,
+    "avg_price": 6859,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2023,
+    "month": 3,
+    "avg_price": 6697,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2023,
+    "month": 4,
+    "avg_price": 6765,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2023,
+    "month": 5,
+    "avg_price": 6760,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2023,
+    "month": 6,
+    "avg_price": 6777,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2023,
+    "month": 7,
+    "avg_price": 6775,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2023,
+    "month": 8,
+    "avg_price": 6847,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2023,
+    "month": 9,
+    "avg_price": 6895,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2023,
+    "month": 10,
+    "avg_price": 6773,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2023,
+    "month": 11,
+    "avg_price": 6667,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2023,
+    "month": 12,
+    "avg_price": 6292,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2024,
+    "month": 1,
+    "avg_price": 5957,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2024,
+    "month": 2,
+    "avg_price": 6077,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2024,
+    "month": 3,
+    "avg_price": 6253,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2024,
+    "month": 4,
+    "avg_price": 6148,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2024,
+    "month": 5,
+    "avg_price": 5984,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2024,
+    "month": 6,
+    "avg_price": 6085,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2024,
+    "month": 7,
+    "avg_price": 6060,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2024,
+    "month": 8,
+    "avg_price": 6082,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2024,
+    "month": 9,
+    "avg_price": 5967,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2024,
+    "month": 10,
+    "avg_price": 5855,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2024,
+    "month": 11,
+    "avg_price": 5814,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2024,
+    "month": 12,
+    "avg_price": 5823,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2025,
+    "month": 1,
+    "avg_price": 5851,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2025,
+    "month": 2,
+    "avg_price": 5897,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2025,
+    "month": 3,
+    "avg_price": 5884,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2025,
+    "month": 4,
+    "avg_price": 5829,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2025,
+    "month": 5,
+    "avg_price": 5813,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2025,
+    "month": 6,
+    "avg_price": 5818,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2025,
+    "month": 7,
+    "avg_price": 5810,
+    "data_source": "anjuke"
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2025,
+    "month": 8,
+    "avg_price": 5750,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2025,
+    "month": 9,
+    "avg_price": 5670,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2025,
+    "month": 10,
+    "avg_price": 5685,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2025,
+    "month": 11,
+    "avg_price": 5647,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2025,
+    "month": 12,
+    "avg_price": 5503,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang/",
+    "fetched_at": "2026-10-04T12:10:59.588504+00:00",
+    "raw": {
+      "sha256": "2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\2d92f07e22a024bdecbae3e795a4b6b3f06eda8bdb824917fae0af6b269ed635.html",
+      "bytes": 90895
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2026,
+    "month": 1,
+    "avg_price": 5437,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang2026/",
+    "fetched_at": "2026-10-04T12:10:58.141227+00:00",
+    "raw": {
+      "sha256": "33befb4bd407b4d956cf85d1fcd3ddb1cf1181a5178f44a57159226c7e5cecb2",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\33befb4bd407b4d956cf85d1fcd3ddb1cf1181a5178f44a57159226c7e5cecb2.html",
+      "bytes": 208070
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2026,
+    "month": 2,
+    "avg_price": 5564,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang2026/",
+    "fetched_at": "2026-10-04T12:10:58.141227+00:00",
+    "raw": {
+      "sha256": "33befb4bd407b4d956cf85d1fcd3ddb1cf1181a5178f44a57159226c7e5cecb2",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\33befb4bd407b4d956cf85d1fcd3ddb1cf1181a5178f44a57159226c7e5cecb2.html",
+      "bytes": 208070
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2026,
+    "month": 3,
+    "avg_price": 5583,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang2026/",
+    "fetched_at": "2026-10-04T12:10:58.141227+00:00",
+    "raw": {
+      "sha256": "33befb4bd407b4d956cf85d1fcd3ddb1cf1181a5178f44a57159226c7e5cecb2",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\33befb4bd407b4d956cf85d1fcd3ddb1cf1181a5178f44a57159226c7e5cecb2.html",
+      "bytes": 208070
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2026,
+    "month": 4,
+    "avg_price": 5537,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang2026/",
+    "fetched_at": "2026-10-04T12:10:58.141227+00:00",
+    "raw": {
+      "sha256": "33befb4bd407b4d956cf85d1fcd3ddb1cf1181a5178f44a57159226c7e5cecb2",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\33befb4bd407b4d956cf85d1fcd3ddb1cf1181a5178f44a57159226c7e5cecb2.html",
+      "bytes": 208070
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2026,
+    "month": 5,
+    "avg_price": 5535,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang2026/",
+    "fetched_at": "2026-10-04T12:10:58.141227+00:00",
+    "raw": {
+      "sha256": "33befb4bd407b4d956cf85d1fcd3ddb1cf1181a5178f44a57159226c7e5cecb2",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\33befb4bd407b4d956cf85d1fcd3ddb1cf1181a5178f44a57159226c7e5cecb2.html",
+      "bytes": 208070
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2026,
+    "month": 6,
+    "avg_price": 5491,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang2026/",
+    "fetched_at": "2026-10-04T12:10:58.141227+00:00",
+    "raw": {
+      "sha256": "33befb4bd407b4d956cf85d1fcd3ddb1cf1181a5178f44a57159226c7e5cecb2",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\33befb4bd407b4d956cf85d1fcd3ddb1cf1181a5178f44a57159226c7e5cecb2.html",
+      "bytes": 208070
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2026,
+    "month": 7,
+    "avg_price": 5401,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang2026/",
+    "fetched_at": "2026-10-04T12:10:58.141227+00:00",
+    "raw": {
+      "sha256": "33befb4bd407b4d956cf85d1fcd3ddb1cf1181a5178f44a57159226c7e5cecb2",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\33befb4bd407b4d956cf85d1fcd3ddb1cf1181a5178f44a57159226c7e5cecb2.html",
+      "bytes": 208070
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2026,
+    "month": 8,
+    "avg_price": 5369,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang2026/",
+    "fetched_at": "2026-10-04T12:10:58.141227+00:00",
+    "raw": {
+      "sha256": "33befb4bd407b4d956cf85d1fcd3ddb1cf1181a5178f44a57159226c7e5cecb2",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\33befb4bd407b4d956cf85d1fcd3ddb1cf1181a5178f44a57159226c7e5cecb2.html",
+      "bytes": 208070
+    }
+  },
+  {
+    "city": "岳阳",
+    "city_pinyin": "yueyang",
+    "year": 2026,
+    "month": 9,
+    "avg_price": 5425,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/yueyang2026/",
+    "fetched_at": "2026-10-04T12:10:58.141227+00:00",
+    "raw": {
+      "sha256": "33befb4bd407b4d956cf85d1fcd3ddb1cf1181a5178f44a57159226c7e5cecb2",
+      "path": "output\\warehouse\\raw\\anjuke_recheck\\33befb4bd407b4d956cf85d1fcd3ddb1cf1181a5178f44a57159226c7e5cecb2.html",
+      "bytes": 208070
+    }
+  }
+]

@@ -1,0 +1,8 @@
+# Preserve reviewed evidence and JSON bytes identically across operating systems.
+* -text
+*.zip binary
+*.png binary
+*.jpg binary
+*.webp binary
+*.woff2 binary
+*.ttf binary
