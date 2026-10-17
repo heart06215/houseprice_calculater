@@ -211,7 +211,13 @@ def browser_probe(browser, target, out, sdk_fallback=False, activate_challenge=F
                 # Let register/init/check callbacks finish even on a challenge DOM.
                 deadline = time.monotonic() + 25
                 while time.monotonic() < deadline:
-                    body = page.content()
+                    try:
+                        body = page.content()
+                    except Exception as exc:
+                        if 'navigating' in str(exc).lower() or 'execution context was destroyed' in str(exc).lower():
+                            page.wait_for_timeout(200)
+                            continue
+                        raise
                     parsed = parse_response(target, body, page.url, status)
                     if parsed['state'] in ('observed', 'login_required'):
                         break
@@ -255,6 +261,21 @@ def browser_probe(browser, target, out, sdk_fallback=False, activate_challenge=F
             except Exception as exc:
                 result['screenshot_error'] = type(exc).__name__
         return result
+
+
+def export_records(report, out):
+    """Export only observed records from this invocation, never restored inputs."""
+    counts = {}
+    for kind in ('prices', 'communities', 'properties'):
+        unique = {}
+        for attempt in report['attempts']:
+            if attempt['kind'] == kind and attempt['state'] == 'observed':
+                for record in attempt['records']:
+                    unique[json.dumps(record, sort_keys=True, ensure_ascii=False)] = record
+        records = list(unique.values())
+        atomic_json(out / 'exports' / f'{kind}.json', records)
+        counts[kind] = len(records)
+    return counts
 
 
 def main(argv=None):
@@ -311,6 +332,7 @@ def main(argv=None):
     report.update(finished_at=datetime.now(timezone.utc).isoformat(),
                   observed_kinds=sorted(observed),
                   accepted=observed == {'prices', 'communities', 'properties'})
+    report['export_counts'] = export_records(report, args.out)
     atomic_json(args.out / 'report.json', report)
     summary = os.environ.get('GITHUB_STEP_SUMMARY')
     if summary:

@@ -6,8 +6,8 @@ on:
       mode:
         description: 'Anonymous diagnostic scenario'
         type: choice
-        default: slider-once
-        options: [slider-once, verify-ui, public-mobile, sdk-fallback]
+        default: cloud-entry
+        options: [cloud-entry, slider-once, verify-ui, public-mobile, sdk-fallback]
   push:
     branches: ['codex/anonymous-anjuke']
     paths:
@@ -35,7 +35,7 @@ jobs:
       PYTHONUTF8: '1'
       PYTHONUNBUFFERED: '1'
       PYTHONPATH: data_processing
-      DIAGNOSTIC_MODE: ${{ inputs.mode || 'slider-once' }}
+      DIAGNOSTIC_MODE: ${{ inputs.mode || 'cloud-entry' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -47,13 +47,15 @@ jobs:
       - name: Prepare fresh anonymous runner
         run: |
           python -m pip install -r requirements-crawl.txt
-          python -m pip install opencv-python-headless==4.12.0.88
           python -m playwright install --with-deps chromium
       - name: Verify acceptance rules
         run: python -m unittest test_anjuke_anonymous test_anjuke_slider_probe test_anjuke_mobile test_market
       - name: Fetch actual public pages without imported sessions
         run: |
           case "$DIAGNOSTIC_MODE" in
+            cloud-entry)
+              xvfb-run -a python data_processing/cloud_crawl.py --crawler anjuke_anonymous --args-json '[]'
+              ;;
             slider-once)
               xvfb-run -a python data_processing/anjuke_anonymous.py --browser-only --headed --solve-slider --targets beijing_year,beijing_communities,beijing_properties,beijing_mobile_properties
               ;;

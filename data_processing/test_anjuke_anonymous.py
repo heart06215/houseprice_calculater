@@ -1,7 +1,9 @@
 """Acceptance cannot pass on a challenge page, another city, or existing data."""
 import json
+import tempfile
 import unittest
 from datetime import date
+from pathlib import Path
 from unittest.mock import patch
 
 import anjuke_anonymous as A
@@ -70,6 +72,18 @@ class AnonymousTests(unittest.TestCase):
         self.assertTrue(result['captcha_config'])
         self.assertTrue(result['redirect'])
         self.assertNotIn('private', json.dumps(result))
+
+    def test_exports_contain_only_this_run_observed_records(self):
+        with tempfile.TemporaryDirectory() as folder:
+            out = Path(folder)
+            (out / 'exports').mkdir()
+            (out / 'exports/prices.json').write_text('[{"price": 999}]', encoding='utf8')
+            fresh = dict(city='北京', month='2026-01', price=12345)
+            report = dict(attempts=[dict(kind='prices', state='observed', records=[fresh, fresh]),
+                                   dict(kind='prices', state='challenge', records=[dict(price=666)])])
+            counts = A.export_records(report, out)
+            self.assertEqual(counts, dict(prices=1, communities=0, properties=0))
+            self.assertEqual(json.loads((out / 'exports/prices.json').read_text(encoding='utf8')), [fresh])
 
 
 if __name__ == '__main__':

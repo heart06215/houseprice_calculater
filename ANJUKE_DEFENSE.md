@@ -25,7 +25,7 @@ REA 分析了捕获的网关脚本、验证码内联脚本，以及该页面引�
 
 ## 对应云端试验
 
-旧探针检测到挑战 DOM 后立即结束，可能截断异步注册和初始化。现改为最多等待 15 秒，接口结果仅保留响应形状、状态码等诊断字段。
+旧探针检测到挑战 DOM 后立即结束，可能截断异步注册和初始化。现改为最多等待 25 秒，接口结果仅保留响应形状、状态码等诊断字段。
 
 `anjuke-anonymous-live` 使用云端 Xvfb Chromium。`sdk-fallback` 场景先尝试正常加载，再在新的匿名上下文中模拟上述三个 SDK 加载地址不可达，最多刷新三次，让站点自己的错误处理运行。不会导入或直接篡改登录态、本地错误计数或验证回调。只有实际业务页面解析出有效记录才算成功；客户端降级提示、接口 HTTP 200 和跳转本身均不算成功。另有 `public-mobile` 和 `verify-ui` 场景，分别检查移动入口与站点自带验证按钮。
 
@@ -41,6 +41,14 @@ REA 分析了捕获的网关脚本、验证码内联脚本，以及该页面引�
 
 [运行 39024114462](https://github.com/heart06215/houseprice_calculater/actions/runs/39024114462)打开移动房源页的站点验证按钮，`/api/v3/get` 返回 `error=0,type=2`，实际截图为滑块拼图；没有静默放行，房源仍为 0。
 
-`slider-once` 是后续有界试验：只在当前匿名会话可见的拼图上读取两张图片，用 [OpenCV 模板匹配](https://docs.opencv.org/4.12.0/d4/dc6/tutorial_py_template_matching.html)估计位置；通过可见滑块测量 CSS 拖动映射，由原站 SDK 生成并提交验证请求。每个目标最多提交一次拖动，最终仍按真实业务数据判断。图像库仅由 Actions 安装，不要求使用者本机配置。离线几何测试通过不代表服务器接受验证。
+`slider-once` 是后续有界试验：只在当前匿名会话可见的拼图上读取两张图片，用 [OpenCV 模板匹配](https://docs.opencv.org/4.12.0/d4/dc6/tutorial_py_template_matching.html)估计位置；读取可见拼图位置作反馈对齐，由原站 SDK 生成并提交验证请求。每个目标最多提交一次拖动，最终仍按真实业务数据判断。图像库仅由 Actions 安装，不要求使用者本机配置。离线几何测试通过不代表服务器接受验证。
 
 [运行 39024528655](https://github.com/heart06215/houseprice_calculater/actions/runs/39024528655)的移动房源页直接返回完整业务 HTML，没有触发验证码按钮或拖动。页面有 60 张实际房源卡片，旧桌面解析器将其记为 `unparsed`，因此当轮整体仍失败。按该响应适配移动卡片后，离线重放解析出 60 条，均有小区、单价和面积；这属于同一云端响应的重解析，尚不等于新的云端实采。该次访问不证明滑块算法有效，也不证明稳定绕过风控。
+
+[运行 39024954127](https://github.com/heart06215/houseprice_calculater/actions/runs/39024954127)与[运行 39025187863](https://github.com/heart06215/houseprice_calculater/actions/runs/39025187863)再次被拦截。旧比例校准有一次完整拖动得到 `verified=false`，另有未能在轨道内对齐的尝试。后续改为读取实时位置反馈，避免以首段移动比例外推整个距离。22 项解析、来源、隐私字段与几何回归通过，但整体验收仍需本轮业务数据证据。
+
+## 已验证的匿名通过证据
+
+[运行 39025488177](https://github.com/heart06215/houseprice_calculater/actions/runs/39025488177)在移动房源页打开站点验证按钮，`/api/v3/get` 返回 `type=2`。本轮图像匹配得到目标位移 222 像素；反馈拖动最终可见位移 221.5 像素，验证请求返回 `verified=true`，最终 URL 为 `https://m.anjuke.com/bj/sale/`，实际解析出 60 条房源。价格与小区目录分别为 9 条和 100 条，`accepted=true`，`account_used=false`、`imported_storage=false`、`restored_cache=false`。
+
+这属于实际服务端验证通过后采到业务数据的证据。桌面房源目标仍是挑战状态，不能推广为已破解整个风控系统或稳定覆盖所有页面。正式云端入口采用已验证的移动路径；历史诊断和失败实验仍保留供复核。

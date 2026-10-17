@@ -25,6 +25,7 @@ on:
           - anjuke_browser
           - anjuke_recheck
           - anjuke_market
+          - anjuke_anonymous
           - anjuke_collect
           - anjuke_community
           - anjuke_probe
@@ -81,8 +82,9 @@ jobs:
       PYTHONUNBUFFERED: '1'
       CRAWLER_CLOUD: '1'
       CRAWLER_BROWSER_CHANNEL: chromium
-      CRAWLER_BROWSER_WS_ENDPOINT: ${{ secrets.CRAWLER_BROWSER_WS_ENDPOINT }}
-      CRAWLER_BROWSER_CDP_ENDPOINT: ${{ secrets.CRAWLER_BROWSER_CDP_ENDPOINT }}
+      CRAWLER_ENTRY: ${{ inputs.crawler }}
+      CRAWLER_BROWSER_WS_ENDPOINT: ${{ inputs.crawler != 'anjuke_anonymous' && secrets.CRAWLER_BROWSER_WS_ENDPOINT || '' }}
+      CRAWLER_BROWSER_CDP_ENDPOINT: ${{ inputs.crawler != 'anjuke_anonymous' && secrets.CRAWLER_BROWSER_CDP_ENDPOINT || '' }}
     steps:
       - uses: actions/checkout@v4
       - name: 设置云端浏览器临时目录
@@ -100,7 +102,7 @@ jobs:
       - name: 准备云端采集环境
         run: |
           python -m pip install -r requirements-crawl.txt
-          if [ -z "$CRAWLER_BROWSER_WS_ENDPOINT$CRAWLER_BROWSER_CDP_ENDPOINT" ]; then
+          if [ "$CRAWLER_ENTRY" = anjuke_anonymous ] || [ -z "$CRAWLER_BROWSER_WS_ENDPOINT$CRAWLER_BROWSER_CDP_ENDPOINT" ]; then
             python -m playwright install --with-deps chromium
           fi
       - name: 校验参数与浏览器环境
@@ -110,6 +112,9 @@ jobs:
           INPUT_RUN_ID: ${{ inputs.input_run_id }}
           INPUT_ARTIFACT: ${{ inputs.input_artifact }}
         run: |
+          if [ "$CRAWLER_NAME" = anjuke_anonymous ] && [ -n "$INPUT_RUN_ID$INPUT_ARTIFACT" ]; then
+            echo '匿名采集入口不导入旧数据、缓存或登录资料'; exit 2
+          fi
           if [ -n "$INPUT_RUN_ID$INPUT_ARTIFACT" ]; then
             [[ "$INPUT_RUN_ID" =~ ^[0-9]+$ ]] && [ -n "$INPUT_ARTIFACT" ] || { echo '前序 run ID 必须为数字，并同时填写 Artifact 名称'; exit 2; }
           fi
@@ -120,9 +125,10 @@ jobs:
           PYTHONPATH: data_processing
         run: python -m unittest test_cloud_crawl test_browser_runtime test_macro_crawler
       - name: 恢复随仓库保存的主看板输入与证据
+        if: inputs.crawler != 'anjuke_anonymous'
         run: python data_processing/release_inputs.py
       - name: 恢复采集状态
-        if: inputs.resume
+        if: inputs.resume && inputs.crawler != 'anjuke_anonymous'
         uses: actions/cache/restore@v4
         with:
           path: |
@@ -132,7 +138,7 @@ jobs:
           restore-keys: |
             cloud-crawl-v1-${{ github.ref_name }}-${{ inputs.crawler }}-
       - name: 导入前序云端采集结果
-        if: inputs.input_run_id != ''
+        if: inputs.input_run_id != '' && inputs.crawler != 'anjuke_anonymous'
         uses: actions/download-artifact@v4
         with:
           name: ${{ inputs.input_artifact }}
@@ -147,9 +153,13 @@ jobs:
         shell: bash
         run: |
           mkdir -p output/cloud_crawl
-          python data_processing/cloud_crawl.py --crawler "$CRAWLER_NAME" --args-json "$CRAWLER_ARGS" 2>&1 | tee output/cloud_crawl/collector.log
+          runner=(python data_processing/cloud_crawl.py --crawler "$CRAWLER_NAME" --args-json "$CRAWLER_ARGS")
+          if [ "$CRAWLER_NAME" = anjuke_anonymous ]; then
+            runner=(xvfb-run -a "${runner[@]}")
+          fi
+          "${runner[@]}" 2>&1 | tee output/cloud_crawl/collector.log
       - name: 保存采集状态与预算供续跑
-        if: always() && steps.collect.outcome != 'skipped'
+        if: always() && steps.collect.outcome != 'skipped' && inputs.crawler != 'anjuke_anonymous'
         uses: actions/cache/save@v4
         with:
           path: |

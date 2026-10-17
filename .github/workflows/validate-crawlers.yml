@@ -49,4 +49,4 @@ jobs:
       - name: 恢复已发布输入与证据供离线回归
         run: python data_processing/release_inputs.py
       - name: 入口、浏览器生命周期与来源数据回归
-        run: python -m unittest test_cloud_crawl test_browser_runtime test_macro_crawler test_realestate_crawler test_lpr_crawler test_cih_land test_income test_anjuke_collect test_anjuke_community
+        run: python -m unittest test_cloud_crawl test_browser_runtime test_macro_crawler test_realestate_crawler test_lpr_crawler test_cih_land test_income test_anjuke_collect test_anjuke_community test_anjuke_anonymous test_anjuke_slider_probe test_anjuke_mobile test_market
