@@ -6,6 +6,7 @@ import unittest
 from pathlib import Path
 from unittest.mock import patch
 import income_crawler as I
+from release_inputs import safe_path
 
 
 class IncomeTests(unittest.TestCase):
@@ -94,7 +95,7 @@ class IncomeTests(unittest.TestCase):
         expected={2021:35128,2022:36883,2023:39218,2024:41314}
         for record in saved.get('income',[]):
             if record['year'] not in expected:continue
-            p=I.parse_income((I.ROOT/record['raw']['path']).read_bytes(),record['source_url'],record['fetched_at'],record['raw'])
+            p=I.parse_income((I.ROOT/safe_path(record['raw']['path'])).read_bytes(),record['source_url'],record['fetched_at'],record['raw'])
             self.assertEqual(p['metrics']['national']['disposable_mean'],expected[p['year']])
             self.assertGreater(p['metrics']['national']['disposable_median'],0)
 

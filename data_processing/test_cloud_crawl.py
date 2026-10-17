@@ -15,6 +15,7 @@ from unittest import mock
 import cloud_crawl as C
 import macro_crawler as M
 import geocode_communities as G
+import cih_rankings as R
 
 
 class DispatchTests(unittest.TestCase):
@@ -107,6 +108,27 @@ class MacroCloudTests(unittest.TestCase):
             properties = [{'city': '北京', 'community': '示例小区', 'precision': 'city'}]
             source.write_text(json.dumps(properties), encoding='utf-8')
             self.assertEqual(G.load_properties(source), properties)
+
+    def test_windows_homepage_evidence_can_feed_linux_bundle_collection(self):
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            out = root / 'output/cih'
+            out.mkdir(parents=True)
+            url = 'https://cihwebstatic.soufunimg.com/cih/node-cih-index/1.0/js/chunk/home/index.test.js'
+            (out / 'home.html').write_text(f'<script src="{url}"></script>', encoding='utf-8')
+            (out / 'clean.json').write_text(json.dumps({'pages': [{
+                'url': 'https://www.cih-index.com/', 'raw': {'path': 'output\\cih\\home.html'}}]}), encoding='utf-8')
+            bundle = b'enterPriseRankRes:[{indexName:"2025\xe5\xb9\xb41\xe6\x9c\x88",areaAndSaleRankingDtoList:[]}],landRankRes:[{indexName:"2025\xe5\xb9\xb41\xe6\x9c\x88",areaAndSaleRankingDtoList:[]}]'
+            response = mock.MagicMock()
+            response.__enter__.return_value.read.return_value = bundle
+            with mock.patch.object(R, 'ROOT', root), \
+                 mock.patch.object(R.urllib.request, 'urlopen', return_value=response) as request, \
+                 mock.patch.object(R, 'snapshot', return_value={'path': 'output/cih/bundle.js'}), \
+                 mock.patch.object(R, 'build_rankings', return_value=[]) as build:
+                self.assertEqual(R.fetch_public_bundle(), [])
+                request.assert_called_once_with(url, timeout=25)
+                build.assert_called_once()
+            self.assertTrue((out / 'ranking_source.json').is_file())
 
 
 if __name__ == '__main__':

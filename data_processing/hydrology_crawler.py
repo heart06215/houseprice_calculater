@@ -166,7 +166,7 @@ def crawl(cities=None,max_cities=1,force=False):
     build();return log
 
 def reparse_city(path,prior):
-    ref=prior.get('raw',{}).get('path');raw=ROOT/ref if ref else None
+    ref=prior.get('raw',{}).get('path');raw=ROOT/ref.replace('\\', '/') if ref else None
     if not raw or not raw.exists():raise ValueError('Raw water evidence missing; cannot migrate filter for '+prior['city'])
     payload=json.loads(raw.read_text(encoding='utf-8'))
     item=parse(payload,prior['city'],{k:prior[k] for k in ('fetched_at','raw','source_url')})

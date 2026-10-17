@@ -17,7 +17,7 @@ def audit(folder=None):
             errors.append('Missing raw evidence reference');return
         key=(raw['path'],raw['sha256'])
         if key in checked:return
-        checked.add(key);path=(ROOT/raw['path']).resolve()
+        checked.add(key);path=(ROOT/raw['path'].replace('\\', '/')).resolve()
         if ROOT.resolve() not in path.parents or not path.exists() or hashlib.sha256(path.read_bytes()).hexdigest()!=raw['sha256']:
             errors.append('Evidence hash/path failed: '+raw['path'])
     try:

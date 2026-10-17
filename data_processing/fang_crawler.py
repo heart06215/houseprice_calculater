@@ -177,7 +177,7 @@ def replay():
             marker=f"replay:{parser.VERSION}:{fetch['url']}:{fetch['fetched_at']}:{fetch['raw']['sha256']}"
             if store.get(marker):continue
             try:
-                content=(ROOT/fetch['raw']['path']).read_bytes()
+                content=(ROOT/fetch['raw']['path'].replace('\\', '/')).read_bytes()
                 if __import__('hashlib').sha256(content).hexdigest()!=fetch['raw']['sha256']:raise ValueError('Raw hash mismatch')
                 kind='discovery' if '/housing/' in fetch['url'] else 'attribute'
                 ingest_fetch(store,fetch,content,kind,cfg,'replay')

@@ -128,7 +128,7 @@ def save_city(city,payload,evidence):
     previous=json.loads(path.read_text(encoding='utf-8')) if path.exists() else None
     baseline=previous['count'] if previous else 0
     if previous and previous.get('profile_version')!=PROFILE_VERSION and previous.get('raw'):
-        baseline=len(parse(json.loads((ROOT/previous['raw']['path']).read_text(encoding='utf-8')),city,previous))
+        baseline=len(parse(json.loads((ROOT/previous['raw']['path'].replace('\\', '/')).read_text(encoding='utf-8')),city,previous))
     if previous and len(rows)<baseline*.8:raise ValueError('Coverage fell by >20% under the same filter; retained previous city')
     if previous:snapshot('communities_city',previous)
     item=dict(city=city,communities=rows,count=len(rows),profile_version=PROFILE_VERSION,**evidence)
@@ -136,7 +136,7 @@ def save_city(city,payload,evidence):
     return item
 
 def reparse_city(path,prior):
-    raw=ROOT/prior['raw']['path']
+    raw=ROOT/prior['raw']['path'].replace('\\', '/')
     if not raw.exists():raise ValueError('Missing original community evidence: '+prior['city'])
     return save_city(prior['city'],json.loads(raw.read_text(encoding='utf-8')),{k:prior[k] for k in ('fetched_at','raw','source_url')})
 
@@ -160,7 +160,7 @@ def supplement_query(city):
 def merge_supplement(city,payload,evidence):
     if payload.get('remark') or not isinstance(payload.get('elements'),list):raise ValueError('Incomplete supplement; previous city retained')
     path=OUT/f'city-{city}.json';prior=json.loads(path.read_text(encoding='utf-8'))
-    old=json.loads((ROOT/prior['raw']['path']).read_text(encoding='utf-8'))
+    old=json.loads((ROOT/prior['raw']['path'].replace('\\', '/')).read_text(encoding='utf-8'))
     elements={}
     for e in old['elements']:
         elements[(e.get('type'),e.get('id'))]=dict(e,_evidence=e.get('_evidence') or {k:prior[k] for k in ('fetched_at','raw','source_url')})

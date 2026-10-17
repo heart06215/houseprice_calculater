@@ -78,7 +78,7 @@ def fetch_public_bundle():
     """One public static-resource request; fail without replacing saved clean data."""
     dataset = json.loads((ROOT/'output/cih/clean.json').read_text(encoding='utf-8'))
     home = next(p for p in dataset['pages'] if p['url'] == 'https://www.cih-index.com/')
-    soup = BeautifulSoup((ROOT/home['raw']['path']).read_text(encoding='utf-8'), 'html.parser')
+    soup = BeautifulSoup((ROOT/home['raw']['path'].replace('\\', '/')).read_text(encoding='utf-8'), 'html.parser')
     urls = [s.get('src', '') for s in soup.select('script[src]')]
     url = next(u for u in urls if re.fullmatch(r'https://cihwebstatic\.soufunimg\.com/cih/node-cih-index/[\d.]+/js/chunk/home/index\.[\w]+\.js', u))
     with urllib.request.urlopen(url, timeout=25) as response:
