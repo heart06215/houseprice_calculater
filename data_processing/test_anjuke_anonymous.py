@@ -2,8 +2,10 @@
 import json
 import unittest
 from datetime import date
+from unittest.mock import patch
 
 import anjuke_anonymous as A
+import anjuke_province_crawler as P
 
 
 class AnonymousTests(unittest.TestCase):
@@ -34,6 +36,24 @@ class AnonymousTests(unittest.TestCase):
                                   'https://callback.58.com/antibot/verifycode', 200)
         self.assertEqual(result['state'], 'challenge')
         self.assertEqual(result['records'], [])
+        result = A.parse_response(target, '', 'https://www.anjuke.com/esfcommon-captcha-wy', 302)
+        self.assertEqual(result['state'], 'challenge')
+
+    def test_explicit_beijing_browser_selection_reaches_the_source(self):
+        # Beijing is absent from the default changed-slug list; it must still run.
+        year = date.today().year - 1
+        info = dict(city='北京', blocks=[dict(year=year, months=[dict(month=1, price=12345)])])
+        with patch.object(P.sys, 'platform', 'linux'), \
+             patch.object(P, 'existing_year_months', return_value=set()), \
+             patch.object(P, 'browser_extract', return_value='fresh response') as fetch, \
+             patch.object(P, 'extract_trend', return_value=info), \
+             patch.object(P.time, 'sleep'), \
+             patch.object(P, 'merge_city_rows', return_value=(1, 1, [])) as merge, \
+             patch('builtins.print'):
+            P.crawl_browser_mode(years_from=year, only_cities=['北京'], sleep_s=0)
+        self.assertTrue(fetch.called)
+        self.assertIn('/fangjia/beijing', fetch.call_args_list[0].args[0])
+        self.assertEqual(merge.call_args.args[:2], ('beijing', '北京'))
 
 
 if __name__ == '__main__':

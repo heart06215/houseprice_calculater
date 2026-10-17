@@ -303,8 +303,8 @@ def city_page_urls(city, slug, year):
 def fetch_fangjia_page(url, retries=2):
     """抓取页面 HTML; 失败/被拦截返回 None。
 
-    安居客 WAF 行为: 低频访问完全放行; 高频连发先返回空页(200+几百字节),
-    再升级为验证码页("请输入验证码")。两者都视为"被拦截"。
+    低频请求仍可能收到空页、网关或验证码；不能以 HTTP 200 判断成功。
+    数据是否有效由后续城市和月份解析校验决定。
     """
     for attempt in range(retries + 1):
         try:
@@ -445,7 +445,7 @@ def browser_extract(url, wait_ms=6000):
 
 
 def crawl_browser_mode(years_from=2021, only_cities=None, sleep_s=20):
-    """浏览器兜底模式: 真实浏览器可静默通过 JS 挑战, 专攻 urllib 被拦的页面。
+    """浏览器兜底模式: 使用独立浏览器上下文尝试公开页面，不保证通过反爬。
 
     仅手动运行, 不接入启动流程。城市默认取 CITY_URL_MARKS 中仍缺当年数据的。
     候选URL与 crawl_mode 相同(主域新mark带年份→无年份→子域)。
@@ -456,7 +456,8 @@ def crawl_browser_mode(years_from=2021, only_cities=None, sleep_s=20):
     today = date.today()
     cur_year, cur_month = today.year, today.month
 
-    targets = [c for c in CITY_URL_MARKS
+    candidates = CITY_SLUG_70 if only_cities else CITY_URL_MARKS
+    targets = [c for c in candidates
                if not only_cities or c in only_cities]
     if not targets:
         print("没有需要补爬的城市")
@@ -472,7 +473,7 @@ def crawl_browser_mode(years_from=2021, only_cities=None, sleep_s=20):
             print(f"[{i:>2}/{len(targets)}] {city}: 跳过 ({CITY_DATA_BUG[city]})")
             continue
         slug = CITY_SLUG_70.get(city, '')
-        mark = CITY_URL_MARKS[city]
+        mark = CITY_URL_MARKS.get(city, slug)
         have = existing_year_months(slug)
         rows = {}
         for y in range(years_from, cur_year + 1):
@@ -547,7 +548,7 @@ def crawl_mode(years_from=2021, only_cities=None, sleep_s=3.0, full=False,
     """全量自动爬取: 主域 fangjia/{slug}{year}/ → NUXT trendList → per-city 文件。
 
     限流自保护:
-    - 每请求间隔 sleep_s + 随机抖动(默认3s), 低频访问 WAF 完全放行
+    - 每请求间隔 sleep_s + 随机抖动(默认3s)，被拦截时退避
     - 命中挑战页时整体暂停 block_wait_s 再续(最多 max_block_cycles 轮),
       进度按城市落盘, 中断后重跑只补缺失月份(只增不改)
     - 增量语义: 旧年份(12个月齐全)默认跳过, 只爬当前年滚动窗口; --full 强制全量
