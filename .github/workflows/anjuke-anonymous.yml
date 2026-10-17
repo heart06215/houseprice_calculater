@@ -1,0 +1,49 @@
+name: anjuke-anonymous-live
+
+on:
+  workflow_dispatch:
+  push:
+    branches: ['codex/anonymous-anjuke']
+    paths:
+      - '.github/workflows/anjuke-anonymous.yml'
+      - 'data_processing/anjuke_anonymous.py'
+      - 'data_processing/test_anjuke_anonymous.py'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: anjuke-anonymous-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  live:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      PYTHONUTF8: '1'
+      PYTHONUNBUFFERED: '1'
+      PYTHONPATH: data_processing
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Prepare fresh anonymous runner
+        run: |
+          python -m pip install -r requirements-crawl.txt
+          python -m playwright install --with-deps chromium
+      - name: Verify acceptance rules
+        run: python -m unittest test_anjuke_anonymous
+      - name: Fetch actual public pages without imported sessions
+        run: python data_processing/anjuke_anonymous.py
+      - name: Retain live evidence even when blocked
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: anjuke-anonymous-${{ github.run_id }}
+          path: output/anjuke_anonymous/
+          retention-days: 7
