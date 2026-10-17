@@ -164,13 +164,22 @@ def page_is_challenge(final_url, body):
     return challenge or 'captcha' in urlsplit(final_url).path.lower()
 
 
-def next_challenge_action(page, context, out, key, actions, slider_attempts, intelli_attempts, solve=True):
+def next_challenge_action(page, context, out, key, actions, slider_attempts, intelli_attempts,
+                          solve=True, network=None):
     """Do at most one visible challenge step; each round is logged for evidence."""
     current = urlsplit(page.url)
-    if current.hostname == 'callback.58.com' and 'open_site_challenge' not in actions:
+    challenge_visible = bool(visible_count(page, 'img.yidun_jigsaw:visible') or
+                             visible_count(page, '.yidun_intelli-control:visible'))
+    # The site's own button is a no-op until its SDK finished executing, so wait for
+    # the observed core-optimi response (or an already-rendered challenge) first.
+    sdk_ready = True if network is None else any(
+        '/core-optimi.' in (row.get('url') or '') for row in network)
+    if current.hostname == 'callback.58.com' and not challenge_visible and sdk_ready and \
+            actions.count('open_site_challenge') < 3:
         if click_first(page, '#btnSubmit'):
             return 'open_site_challenge'
-    if 'esfcommon-captcha' in current.path and 'open_secondary_verification' not in actions:
+    if 'esfcommon-captcha' in current.path and \
+            actions.count('open_secondary_verification') < 2:
         if click_first(page, '.verify-button button, button:has-text("去认证"), '
                                   'button:has-text("完成验证")'):
             return 'open_secondary_verification'
@@ -287,7 +296,7 @@ def browser_probe(browser, target, out, sdk_fallback=False, activate_challenge=F
                         continue
                     action = next_challenge_action(page, context, out, target['key'],
                                                    actions, slider_attempts, intelli_attempts,
-                                                   solve=solve_slider)
+                                                   solve=solve_slider, network=network)
                     if action:
                         actions.append(action)
                         if action == 'click_intellisense':
@@ -333,9 +342,11 @@ def browser_fetch(url, *, out=None, key='page', solve=True, deadline_s=60, timeo
     actions, slider_attempts, intelli_attempts = [], [], 0
     html, final_url, status, challenge = '', url, 0, True
     screenshot_rel = screenshot_error = error = None
+    network = []
     with browser_context(headless=True, locale='zh-CN', timezone_id='Asia/Shanghai',
                          viewport={'width': 1440, 'height': 1000}) as context:
         page = context.new_page()
+        page.on('response', lambda response: network.append(dict(url=response.url)))
         try:
             response = page.goto(url, wait_until='domcontentloaded', timeout=timeout)
             status = response.status if response else 0
@@ -349,7 +360,8 @@ def browser_fetch(url, *, out=None, key='page', solve=True, deadline_s=60, timeo
                 if not page_is_challenge(final_url, html):
                     break
                 action = next_challenge_action(page, context, folder, key, actions,
-                                               slider_attempts, intelli_attempts, solve=solve)
+                                               slider_attempts, intelli_attempts, solve=solve,
+                                               network=network)
                 if action:
                     actions.append(action)
                     if action == 'click_intellisense':

@@ -52,6 +52,15 @@ class ChallengeFlowTests(unittest.TestCase):
         self.assertEqual(action, 'open_site_challenge')
         self.assertTrue(page.clicks)
 
+    def test_site_button_waits_for_the_sdk_response_before_clicking(self):
+        # Clicking before captchaIns exists is a silent no-op and stalled earlier cloud runs.
+        page = FakePage('https://callback.58.com/antibot/verifycode', visible=('#btnSubmit',))
+        self.assertIsNone(A.next_challenge_action(page, None, Path('.'), 'k', [], [], 0,
+                                                  network=[]))
+        ready = [{'url': 'https://cstaticdun.126.net/2.28.5/core-optimi.m25b40.v2.28.5.min.js'}]
+        self.assertEqual(A.next_challenge_action(page, None, Path('.'), 'k', [], [], 0, network=ready),
+                         'open_site_challenge')
+
     def test_secondary_page_opens_its_own_verification_button(self):
         page = FakePage('https://www.anjuke.com/esfcommon-captcha-wy?x=1', visible=('verify-button button',))
         action = A.next_challenge_action(page, None, Path('.'), 'k', [], [], 0)
