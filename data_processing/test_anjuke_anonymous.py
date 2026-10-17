@@ -55,6 +55,22 @@ class AnonymousTests(unittest.TestCase):
         self.assertIn('/fangjia/beijing', fetch.call_args_list[0].args[0])
         self.assertEqual(merge.call_args.args[:2], ('beijing', '北京'))
 
+    def test_sdk_fault_scope_is_exact(self):
+        self.assertTrue(A.sdk_loader('https://cstaticdun.126.net/load.min.js?v=123'))
+        for url in ('https://cstaticdun.126.net.evil.example/load.min.js',
+                    'https://j1.58cdn.com.cn/firewall/NEcaptcha.js',
+                    'https://callback.58.com/antibot/yidun/checkcode.do'):
+            self.assertFalse(A.sdk_loader(url))
+
+    def test_defense_capture_keeps_outcome_without_validation_values(self):
+        result = A.defense_result(json.dumps(dict(code=0, data=dict(captchaId='private-id'),
+                                                  validate='private-value', sign='private-sign',
+                                                  msg='https://bj.anjuke.com/sale/')))
+        self.assertEqual(result['code'], 0)
+        self.assertTrue(result['captcha_config'])
+        self.assertTrue(result['redirect'])
+        self.assertNotIn('private', json.dumps(result))
+
 
 if __name__ == '__main__':
     unittest.main()

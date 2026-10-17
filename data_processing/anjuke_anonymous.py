@@ -114,7 +114,31 @@ def http_probe(target, out):
             return retain(target, 'http', '', target['url'], 0, out=out, error=type(exc).__name__)
 
 
-def browser_probe(browser, target, out):
+SDK_HOSTS = {'cstaticdun.126.net', 'cstaticdun1.126.net', 'cstatic.dun.163yun.com'}
+
+
+def sdk_loader(url):
+    parsed = urlsplit(url)
+    return parsed.hostname in SDK_HOSTS and parsed.path == '/load.min.js'
+
+
+def defense_result(body):
+    """Retain result shapes/codes, never validation values or session identifiers."""
+    try:
+        data = json.loads(body)
+    except (ValueError, TypeError):
+        return dict(json=False)
+    if not isinstance(data, dict):
+        return dict(json=True, shape=type(data).__name__)
+    return dict(json=True, code=data.get('code') if isinstance(data.get('code'), (int, str)) else None,
+                data_shape=type(data.get('data')).__name__,
+                captcha_config=isinstance(data.get('data'), dict) and
+                bool(data['data'].get('captchaId') or data['data'].get('id')),
+                redirect=isinstance(data.get('msg'), str) and
+                data['msg'].startswith(('https://', 'http://')))
+
+
+def browser_probe(browser, target, out, sdk_fallback=False):
     # Every target starts with a new anonymous context, never a persistent profile.
     with browser.new_context(locale='zh-CN', timezone_id='Asia/Shanghai',
                              viewport={'width': 1440, 'height': 1000},
@@ -123,41 +147,76 @@ def browser_probe(browser, target, out):
             raise RuntimeError('Anonymous acceptance started with non-empty cookies')
         page = context.new_page()
         network = []
+        script_files = []
         requests_sent = 0
+        blocked_sdk = 0
+        transport = 'chromium-sdk-fallback' if sdk_fallback else 'chromium'
 
         def route_request(route):
-            nonlocal requests_sent
+            nonlocal requests_sent, blocked_sdk
             request = route.request
-            if request.resource_type in ('image', 'media', 'font') or requests_sent >= 80:
+            if sdk_fallback and sdk_loader(request.url):
+                blocked_sdk += 1
+                route.abort('failed')
+            elif request.resource_type in ('media', 'font') or requests_sent >= 160:
                 route.abort()
             else:
                 requests_sent += 1
                 route.continue_()
 
         page.route('**/*', route_request)
-        page.on('response', lambda r: network.append(dict(
-            url=public_url(r.url), status=r.status, resource_type=r.request.resource_type)))
+        def received(response):
+            parsed_url = urlsplit(response.url)
+            row = dict(url=public_url(response.url), status=response.status,
+                       resource_type=response.request.resource_type)
+            network.append(row)
+            try:
+                if parsed_url.hostname == 'callback.58.com' and parsed_url.path in (
+                        '/antibot/yidun/register.do', '/antibot/yidun/checkcode.do'):
+                    row['result'] = defense_result(response.text())
+                if response.request.resource_type == 'script' and (
+                        parsed_url.hostname == 'j1.58cdn.com.cn' or
+                        parsed_url.hostname in SDK_HOSTS) and len(script_files) < 8:
+                    body = response.body()
+                    if len(body) <= 1000000:
+                        dest = out / 'external_scripts' / f'{target["key"]}-{transport}-{len(script_files)}.js'
+                        dest.parent.mkdir(parents=True, exist_ok=True)
+                        dest.write_bytes(body)
+                        script_files.append(dict(path=dest.relative_to(out).as_posix(),
+                                                 url=public_url(response.url),
+                                                 sha256=hashlib.sha256(body).hexdigest()))
+            except Exception as exc:
+                row['capture_error'] = type(exc).__name__
+
+        page.on('response', received)
         error = None
         status = 0
         try:
-            response = page.goto(target['url'], wait_until='domcontentloaded', timeout=45000)
-            status = response.status if response else 0
-            # Allow normal browser JavaScript and its anonymous session to settle.
-            deadline = time.monotonic() + 12
-            while time.monotonic() < deadline:
-                body = page.content()
-                parsed = parse_response(target, body, page.url, status)
-                if parsed['state'] in ('observed', 'challenge', 'login_required'):
+            for navigation in range(3 if sdk_fallback else 1):
+                response = (page.reload(wait_until='domcontentloaded', timeout=45000) if navigation else
+                            page.goto(target['url'], wait_until='domcontentloaded', timeout=45000))
+                status = response.status if response else 0
+                # The delivered wrapper persists its own anonymous error count.
+                # Let register/init/check callbacks finish even on a challenge DOM.
+                deadline = time.monotonic() + 15
+                while time.monotonic() < deadline:
+                    body = page.content()
+                    parsed = parse_response(target, body, page.url, status)
+                    if parsed['state'] in ('observed', 'login_required'):
+                        break
+                    page.wait_for_timeout(500)
+                if parsed['state'] in ('observed', 'login_required'):
                     break
-                page.wait_for_timeout(1000)
         except Exception as exc:
             error = type(exc).__name__
         try:
             body, final_url = page.content(), page.url
         except Exception:
             body, final_url = '', target['url']
-        return retain(target, 'chromium', body, final_url, status, out=out,
-                      error=error, network=network)
+        result = retain(target, transport, body, final_url, status, out=out,
+                        error=error, network=network)
+        result.update(external_scripts=script_files, blocked_sdk_requests=blocked_sdk)
+        return result
 
 
 def main(argv=None):
@@ -165,6 +224,7 @@ def main(argv=None):
     parser.add_argument('--out', type=Path, default=OUT)
     parser.add_argument('--browser-only', action='store_true')
     parser.add_argument('--headed', action='store_true', help='Cloud Xvfb diagnostic only')
+    parser.add_argument('--sdk-fallback', action='store_true', help='Compare observed SDK loader error fallback')
     parser.add_argument('--targets', help='Comma-separated target keys; omitted means all')
     args = parser.parse_args(argv)
     if os.environ.get('GITHUB_ACTIONS') != 'true':
@@ -181,6 +241,7 @@ def main(argv=None):
                   run_id=os.environ.get('GITHUB_RUN_ID'), commit=os.environ.get('GITHUB_SHA'),
                   account_used=False, imported_storage=False, restored_cache=False,
                   browser_only=args.browser_only, headed=args.headed,
+                  sdk_fallback=args.sdk_fallback,
                   browser_args=['--disable-blink-features=AutomationControlled'], attempts=[])
     args.out.mkdir(parents=True, exist_ok=True)
     with sync_playwright() as p:
@@ -189,6 +250,8 @@ def main(argv=None):
                 fetchers = [lambda target, out: browser_probe(browser, target, out)]
                 if not args.browser_only:
                     fetchers.insert(0, http_probe)
+                if args.sdk_fallback:
+                    fetchers.append(lambda target, out: browser_probe(browser, target, out, sdk_fallback=True))
                 for fetch in fetchers:
                     attempt = fetch(target, args.out)
                     report['attempts'].append(attempt)
