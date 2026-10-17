@@ -81,11 +81,12 @@ jobs:
       PYTHONUNBUFFERED: '1'
       CRAWLER_CLOUD: '1'
       CRAWLER_BROWSER_CHANNEL: chromium
-      CRAWLER_PROFILE_ROOT: ${{ runner.temp }}/crawler-profiles
       CRAWLER_BROWSER_WS_ENDPOINT: ${{ secrets.CRAWLER_BROWSER_WS_ENDPOINT }}
       CRAWLER_BROWSER_CDP_ENDPOINT: ${{ secrets.CRAWLER_BROWSER_CDP_ENDPOINT }}
     steps:
       - uses: actions/checkout@v4
+      - name: 设置云端浏览器临时目录
+        run: echo "CRAWLER_PROFILE_ROOT=$RUNNER_TEMP/crawler-profiles" >> "$GITHUB_ENV"
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
