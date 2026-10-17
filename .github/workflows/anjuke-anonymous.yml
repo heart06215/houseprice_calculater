@@ -2,6 +2,12 @@ name: anjuke-anonymous-live
 
 on:
   workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Anonymous diagnostic scenario'
+        type: choice
+        default: verify-ui
+        options: [verify-ui, public-mobile, sdk-fallback]
   push:
     branches: ['codex/anonymous-anjuke']
     paths:
@@ -24,6 +30,7 @@ jobs:
       PYTHONUTF8: '1'
       PYTHONUNBUFFERED: '1'
       PYTHONPATH: data_processing
+      DIAGNOSTIC_MODE: ${{ inputs.mode || 'verify-ui' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -39,7 +46,19 @@ jobs:
       - name: Verify acceptance rules
         run: python -m unittest test_anjuke_anonymous
       - name: Fetch actual public pages without imported sessions
-        run: xvfb-run -a python data_processing/anjuke_anonymous.py --browser-only --headed --targets beijing_year,beijing_communities,beijing_mobile_properties,beijing_mobile_home,beijing_mobile_trend
+        run: |
+          case "$DIAGNOSTIC_MODE" in
+            public-mobile)
+              xvfb-run -a python data_processing/anjuke_anonymous.py --browser-only --headed --targets beijing_year,beijing_communities,beijing_mobile_properties,beijing_mobile_home,beijing_mobile_trend
+              ;;
+            sdk-fallback)
+              xvfb-run -a python data_processing/anjuke_anonymous.py --browser-only --headed --sdk-fallback --targets beijing_year,beijing_communities,beijing_properties
+              ;;
+            verify-ui)
+              xvfb-run -a python data_processing/anjuke_anonymous.py --browser-only --headed --activate-challenge --targets beijing_year,beijing_communities,beijing_properties,beijing_mobile_properties
+              ;;
+            *) exit 2 ;;
+          esac
       - name: Retain live evidence even when blocked
         if: always()
         uses: actions/upload-artifact@v4

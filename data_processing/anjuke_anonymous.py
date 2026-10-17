@@ -138,7 +138,7 @@ def defense_result(body):
                 data['msg'].startswith(('https://', 'http://')))
 
 
-def browser_probe(browser, target, out, sdk_fallback=False):
+def browser_probe(browser, target, out, sdk_fallback=False, activate_challenge=False):
     # Every target starts with a new anonymous context, never a persistent profile.
     with browser.new_context(locale='zh-CN', timezone_id='Asia/Shanghai',
                              viewport={'width': 1440, 'height': 1000},
@@ -148,6 +148,7 @@ def browser_probe(browser, target, out, sdk_fallback=False):
         page = context.new_page()
         network = []
         script_files = []
+        actions = []
         requests_sent = 0
         blocked_sdk = 0
         transport = 'chromium-sdk-fallback' if sdk_fallback else 'chromium'
@@ -174,6 +175,13 @@ def browser_probe(browser, target, out, sdk_fallback=False):
                 if parsed_url.hostname == 'callback.58.com' and parsed_url.path in (
                         '/antibot/yidun/register.do', '/antibot/yidun/checkcode.do'):
                     row['result'] = defense_result(response.text())
+                if parsed_url.hostname == 'c.dun.163.com' and parsed_url.path.startswith('/api/'):
+                    # JSONP is inspected as text, never evaluated.
+                    source = response.text()
+                    payload = json.loads(source[source.index('{'):source.rindex('}') + 1])
+                    data = payload.get('data') or {}
+                    row['challenge_result'] = dict(error=payload.get('error'),
+                                                   type=data.get('type') if isinstance(data, dict) else None)
                 if response.request.resource_type == 'script' and (
                         parsed_url.hostname == 'j1.58cdn.com.cn' or
                         parsed_url.hostname in SDK_HOSTS) and len(script_files) < 8:
@@ -204,6 +212,13 @@ def browser_probe(browser, target, out, sdk_fallback=False):
                     parsed = parse_response(target, body, page.url, status)
                     if parsed['state'] in ('observed', 'login_required'):
                         break
+                    if activate_challenge and not sdk_fallback and not actions and \
+                            urlsplit(page.url).hostname == 'callback.58.com' and \
+                            any('/core-optimi.' in n['url'] for n in network):
+                        button = page.locator('#btnSubmit')
+                        if button.count() and button.is_visible():
+                            button.click(timeout=3000)
+                            actions.append('open_site_challenge')
                     page.wait_for_timeout(500)
                 if parsed['state'] in ('observed', 'login_required'):
                     break
@@ -215,7 +230,15 @@ def browser_probe(browser, target, out, sdk_fallback=False):
             body, final_url = '', target['url']
         result = retain(target, transport, body, final_url, status, out=out,
                         error=error, network=network)
-        result.update(external_scripts=script_files, blocked_sdk_requests=blocked_sdk)
+        result.update(external_scripts=script_files, blocked_sdk_requests=blocked_sdk, actions=actions)
+        if result['state'] == 'challenge':
+            screenshot = out / 'screenshots' / f'{target["key"]}-{transport}.png'
+            screenshot.parent.mkdir(parents=True, exist_ok=True)
+            try:
+                page.screenshot(path=str(screenshot), timeout=5000)
+                result['screenshot'] = screenshot.relative_to(out).as_posix()
+            except Exception as exc:
+                result['screenshot_error'] = type(exc).__name__
         return result
 
 
@@ -225,6 +248,7 @@ def main(argv=None):
     parser.add_argument('--browser-only', action='store_true')
     parser.add_argument('--headed', action='store_true', help='Cloud Xvfb diagnostic only')
     parser.add_argument('--sdk-fallback', action='store_true', help='Compare observed SDK loader error fallback')
+    parser.add_argument('--activate-challenge', action='store_true', help='Open the site-provided verification UI')
     parser.add_argument('--targets', help='Comma-separated target keys; omitted means all')
     args = parser.parse_args(argv)
     if os.environ.get('GITHUB_ACTIONS') != 'true':
@@ -242,12 +266,14 @@ def main(argv=None):
                   account_used=False, imported_storage=False, restored_cache=False,
                   browser_only=args.browser_only, headed=args.headed,
                   sdk_fallback=args.sdk_fallback,
+                  activate_challenge=args.activate_challenge,
                   browser_args=['--disable-blink-features=AutomationControlled'], attempts=[])
     args.out.mkdir(parents=True, exist_ok=True)
     with sync_playwright() as p:
         with p.chromium.launch(headless=not args.headed, args=report['browser_args']) as browser:
             for target in selected:
-                fetchers = [lambda target, out: browser_probe(browser, target, out)]
+                fetchers = [lambda target, out: browser_probe(browser, target, out,
+                                                             activate_challenge=args.activate_challenge)]
                 if not args.browser_only:
                     fetchers.insert(0, http_probe)
                 if args.sdk_fallback:
