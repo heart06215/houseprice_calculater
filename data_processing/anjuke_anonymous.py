@@ -30,6 +30,9 @@ def targets():
         dict(key='shanghai_market', city='上海', kind='prices', url='https://shanghai.anjuke.com/market/'),
         dict(key='beijing_communities', city='北京', kind='communities', url='https://m.anjuke.com/bj/xiaoqu/'),
         dict(key='beijing_properties', city='北京', kind='properties', url='https://bj.anjuke.com/sale/'),
+        dict(key='beijing_mobile_properties', city='北京', kind='properties', url='https://m.anjuke.com/bj/sale/'),
+        dict(key='beijing_mobile_home', city='北京', kind='properties', url='https://m.anjuke.com/bj/'),
+        dict(key='beijing_mobile_trend', city='北京', kind='properties', url='https://m.anjuke.com/bj/trendency/sale/'),
     ]
 
 
@@ -44,6 +47,9 @@ def parse_response(target, body, final_url, status):
     login = detect_login_wall(body)
     result = dict(state='unparsed', records=[], challenge=challenge,
                   challenge_kind=challenge_kind, login_wall=login)
+    if 'captcha' in urlsplit(final_url).path.lower():
+        result.update(challenge=True, challenge_kind='captcha_redirect')
+        challenge = True
     if challenge:
         result['state'] = 'challenge'
         return result
