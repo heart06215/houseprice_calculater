@@ -1,19 +1,21 @@
 import importlib.util
 import unittest
 
-from anjuke_slider_probe import locate_piece, calibrated_drag
+from anjuke_slider_probe import locate_piece, next_pointer
 
 
 class DragCalibrationTests(unittest.TestCase):
-    def test_startup_offset_is_not_mistaken_for_half_scale(self):
-        distance, ratio = calibrated_drag(124, 8, 4, 32, 28)
-        self.assertEqual(ratio, 1)
-        self.assertEqual(distance, 128)
+    def test_feedback_aligns_with_different_startup_offsets_and_scales(self):
+        for offset, scale, target in ((4, 1, 124), (8, 0.93, 212), (0, 1.5, 180)):
+            pointer = 0
+            for _ in range(70):
+                visible = max(0, pointer - offset) * scale
+                pointer = next_pointer(pointer, target - visible, 280)
+            self.assertLess(abs(max(0, pointer - offset) * scale - target), 1)
 
-    def test_scaled_piece_with_startup_offset(self):
-        distance, ratio = calibrated_drag(90, 8, 3.6, 32, 25.2)
-        self.assertAlmostEqual(ratio, 0.9)
-        self.assertAlmostEqual(distance, 104)
+    def test_feedback_never_exceeds_the_actual_track(self):
+        self.assertEqual(next_pointer(277, 100, 280), 280)
+        self.assertEqual(next_pointer(2, -100, 280), 0)
 
 
 @unittest.skipUnless(importlib.util.find_spec('cv2'), 'OpenCV is installed only in cloud diagnostics')

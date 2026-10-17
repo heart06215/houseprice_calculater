@@ -35,12 +35,9 @@ def locate_piece(background, foreground, y_hint=None):
                 image_width=bg.shape[1], image_height=bg.shape[0], confidence=confidence)
 
 
-def calibrated_drag(displacement, first_drag, first_piece, second_drag, second_piece):
-    """Separate the pointer's startup offset from the actual movement slope."""
-    ratio = (second_piece - first_piece) / (second_drag - first_drag)
-    if not 0.3 < ratio < 2:
-        raise ValueError('Unsupported drag mapping')
-    return second_drag + (displacement - second_piece) / ratio, ratio
+def next_pointer(current, error, limit):
+    """Bounded visual feedback handles startup offsets and delayed UI movement."""
+    return min(limit, max(0, current + max(-8, min(8, error * 0.65))))
 
 
 def try_slider(page, context, out, key):
@@ -86,27 +83,28 @@ def try_slider(page, context, out, key):
     page.mouse.move(start_x, start_y)
     page.mouse.down()
     try:
-        page.mouse.move(start_x + 8, start_y, steps=4)
-        page.wait_for_timeout(150)
-        first_box = piece.bounding_box()
-        page.mouse.move(start_x + 32, start_y, steps=8)
-        page.wait_for_timeout(150)
-        second_box = piece.bounding_box()
-        if not first_box or not second_box:
-            return dict(state='missing_drag_geometry', **match)
-        first_move = first_box['x'] - piece_box['x']
-        second_move = second_box['x'] - piece_box['x']
-        distance, ratio = calibrated_drag(displacement, 8, first_move, 32, second_move)
-        if distance > control_box['width'] - slider_box['width'] + 2:
-            return dict(state='drag_outside_track', distance=distance, **match)
-        for step in range(1, 37):
-            fraction = step / 36
-            eased = fraction * fraction * (3 - 2 * fraction)
-            page.mouse.move(start_x + 32 + (distance - 32) * eased,
-                            start_y + math.sin(fraction * math.pi * 2) * 0.7)
-            page.wait_for_timeout(20 + step % 4 * 7)
-        page.wait_for_timeout(120)
-        return dict(state='drag_submitted', distance=distance, ratio=ratio,
-                    first_piece_move=first_move, second_piece_move=second_move, **match)
+        distance = 0
+        limit = control_box['width'] - slider_box['width']
+        samples = []
+        aligned = False
+        for step in range(70):
+            box = piece.bounding_box()
+            if not box:
+                break
+            visible = box['x'] - piece_box['x']
+            error = displacement - visible
+            samples.append(dict(pointer=round(distance, 2), piece=round(visible, 2), error=round(error, 2)))
+            if abs(error) <= 0.8:
+                page.wait_for_timeout(350)
+                settled = piece.bounding_box()
+                if settled and abs(displacement - (settled['x'] - piece_box['x'])) <= 1:
+                    aligned = True
+                    break
+            distance = next_pointer(distance, error, limit)
+            page.mouse.move(start_x + distance, start_y + math.sin(step / 10) * 0.7)
+            page.wait_for_timeout(55)
+        return dict(state='drag_submitted' if aligned else 'drag_not_aligned',
+                    distance=distance, target_displacement=displacement,
+                    aligned=aligned, motion=samples, **match)
     finally:
         page.mouse.up()

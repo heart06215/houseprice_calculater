@@ -209,7 +209,7 @@ def browser_probe(browser, target, out, sdk_fallback=False, activate_challenge=F
                 status = response.status if response else 0
                 # The delivered wrapper persists its own anonymous error count.
                 # Let register/init/check callbacks finish even on a challenge DOM.
-                deadline = time.monotonic() + 15
+                deadline = time.monotonic() + 25
                 while time.monotonic() < deadline:
                     body = page.content()
                     parsed = parse_response(target, body, page.url, status)
