@@ -163,18 +163,33 @@ def browser_probe(browser, target, out):
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--out', type=Path, default=OUT)
+    parser.add_argument('--browser-only', action='store_true')
+    parser.add_argument('--headed', action='store_true', help='Cloud Xvfb diagnostic only')
+    parser.add_argument('--targets', help='Comma-separated target keys; omitted means all')
     args = parser.parse_args(argv)
     if os.environ.get('GITHUB_ACTIONS') != 'true':
         parser.error('Live acceptance must run on GitHub Actions; local results are not cloud proof')
     from playwright.sync_api import sync_playwright
+    selected = targets()
+    if args.targets:
+        keys = set(args.targets.split(','))
+        unknown = keys - {t['key'] for t in selected}
+        if unknown:
+            parser.error('Unknown target keys: ' + ','.join(sorted(unknown)))
+        selected = [t for t in selected if t['key'] in keys]
     report = dict(schema='anjuke_anonymous/v1', started_at=datetime.now(timezone.utc).isoformat(),
                   run_id=os.environ.get('GITHUB_RUN_ID'), commit=os.environ.get('GITHUB_SHA'),
-                  account_used=False, imported_storage=False, restored_cache=False, attempts=[])
+                  account_used=False, imported_storage=False, restored_cache=False,
+                  browser_only=args.browser_only, headed=args.headed,
+                  browser_args=['--disable-blink-features=AutomationControlled'], attempts=[])
     args.out.mkdir(parents=True, exist_ok=True)
     with sync_playwright() as p:
-        with p.chromium.launch(headless=True) as browser:
-            for target in targets():
-                for fetch in (http_probe, lambda target, out: browser_probe(browser, target, out)):
+        with p.chromium.launch(headless=not args.headed, args=report['browser_args']) as browser:
+            for target in selected:
+                fetchers = [lambda target, out: browser_probe(browser, target, out)]
+                if not args.browser_only:
+                    fetchers.insert(0, http_probe)
+                for fetch in fetchers:
                     attempt = fetch(target, args.out)
                     report['attempts'].append(attempt)
                     atomic_json(args.out / 'report.json', report)

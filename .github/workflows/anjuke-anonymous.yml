@@ -39,7 +39,7 @@ jobs:
       - name: Verify acceptance rules
         run: python -m unittest test_anjuke_anonymous
       - name: Fetch actual public pages without imported sessions
-        run: python data_processing/anjuke_anonymous.py
+        run: xvfb-run -a python data_processing/anjuke_anonymous.py --browser-only --headed --targets beijing_year,beijing_communities,beijing_mobile_properties,beijing_mobile_home
       - name: Retain live evidence even when blocked
         if: always()
         uses: actions/upload-artifact@v4
