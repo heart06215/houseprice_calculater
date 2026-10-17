@@ -122,6 +122,26 @@ def sdk_loader(url):
     return parsed.hostname in SDK_HOSTS and parsed.path == '/load.min.js'
 
 
+def visible_count(page, selector):
+    """Count matching visible elements without failing during navigation."""
+    try:
+        return page.locator(selector).count()
+    except Exception:
+        return 0
+
+
+def click_first(page, selector, timeout=3000):
+    """Click the first visible match; a vanished challenge is not an error."""
+    try:
+        locator = page.locator(selector).first
+        if locator.count() and locator.is_visible():
+            locator.click(timeout=timeout)
+            return True
+    except Exception:
+        return False
+    return False
+
+
 def defense_result(body):
     """Retain result shapes/codes, never validation values or session identifiers."""
     try:
@@ -138,6 +158,39 @@ def defense_result(body):
                 data['msg'].startswith(('https://', 'http://')))
 
 
+def page_is_challenge(final_url, body):
+    """True while the visible page is still an Anjuke/CAPTCHA shell, never a business page."""
+    challenge, _ = detect_verify(final_url, body)
+    return challenge or 'captcha' in urlsplit(final_url).path.lower()
+
+
+def next_challenge_action(page, context, out, key, actions, slider_attempts, intelli_attempts, solve=True):
+    """Do at most one visible challenge step; each round is logged for evidence."""
+    current = urlsplit(page.url)
+    if current.hostname == 'callback.58.com' and 'open_site_challenge' not in actions:
+        if click_first(page, '#btnSubmit'):
+            return 'open_site_challenge'
+    if 'esfcommon-captcha' in current.path and 'open_secondary_verification' not in actions:
+        if click_first(page, '.verify-button button, button:has-text("去认证"), '
+                                  'button:has-text("完成验证")'):
+            return 'open_secondary_verification'
+    if not solve:
+        return None
+    if intelli_attempts < 3 and visible_count(page, '.yidun_intelli-control:visible'):
+        if click_first(page, '.yidun_intelli-control'):
+            return 'click_intellisense'
+    if len(slider_attempts) < 4 and visible_count(page, 'img.yidun_jigsaw:visible'):
+        from anjuke_slider_probe import try_slider
+        try:
+            attempt = try_slider(page, context, out, f'{key}-{len(slider_attempts) + 1}')
+        except Exception as exc:
+            attempt = dict(state='error', error=type(exc).__name__)
+        if attempt['state'] != 'not_ready':
+            slider_attempts.append(attempt)
+            return 'solve_slider'
+    return None
+
+
 def browser_probe(browser, target, out, sdk_fallback=False, activate_challenge=False, solve_slider=False):
     # Every target starts with a new anonymous context, never a persistent profile.
     with browser.new_context(locale='zh-CN', timezone_id='Asia/Shanghai',
@@ -149,7 +202,8 @@ def browser_probe(browser, target, out, sdk_fallback=False, activate_challenge=F
         network = []
         script_files = []
         actions = []
-        slider_result = None
+        slider_attempts = []
+        intelli_attempts = 0
         requests_sent = 0
         blocked_sdk = 0
         transport = 'chromium-sdk-fallback' if sdk_fallback else 'chromium'
@@ -160,7 +214,7 @@ def browser_probe(browser, target, out, sdk_fallback=False, activate_challenge=F
             if sdk_fallback and sdk_loader(request.url):
                 blocked_sdk += 1
                 route.abort('failed')
-            elif request.resource_type in ('media', 'font') or requests_sent >= 160:
+            elif request.resource_type in ('media', 'font') or requests_sent >= 400:
                 route.abort()
             else:
                 requests_sent += 1
@@ -209,7 +263,11 @@ def browser_probe(browser, target, out, sdk_fallback=False, activate_challenge=F
                 status = response.status if response else 0
                 # The delivered wrapper persists its own anonymous error count.
                 # Let register/init/check callbacks finish even on a challenge DOM.
-                deadline = time.monotonic() + 25
+                # A single visit can require a sliding puzzle and then the secondary
+                # one-click verification page, so keep handling visible rounds.
+                deadline = time.monotonic() + 60
+                last_action_at = 0.0
+                parsed = dict(state='challenge', records=[])
                 while time.monotonic() < deadline:
                     try:
                         body = page.content()
@@ -221,25 +279,23 @@ def browser_probe(browser, target, out, sdk_fallback=False, activate_challenge=F
                     parsed = parse_response(target, body, page.url, status)
                     if parsed['state'] in ('observed', 'login_required'):
                         break
-                    if activate_challenge and not sdk_fallback and not actions and \
-                            urlsplit(page.url).hostname == 'callback.58.com' and \
-                            any('/core-optimi.' in n['url'] for n in network):
-                        button = page.locator('#btnSubmit')
-                        if button.count() and button.is_visible():
-                            button.click(timeout=3000)
-                            actions.append('open_site_challenge')
-                    if solve_slider and slider_result is None and \
-                            page.locator('img.yidun_jigsaw:visible').count():
-                        from anjuke_slider_probe import try_slider
-                        try:
-                            slider_result = try_slider(page, context, out, target['key'])
-                        except Exception as exc:
-                            slider_result = dict(state='error', error=type(exc).__name__)
-                        if slider_result['state'] == 'not_ready':
-                            slider_result = None
-                        else:
-                            deadline = max(deadline, time.monotonic() + 10)
-                    page.wait_for_timeout(500)
+                    if sdk_fallback or not (activate_challenge or solve_slider):
+                        page.wait_for_timeout(500)
+                        continue
+                    if time.monotonic() - last_action_at < 0.8:
+                        page.wait_for_timeout(300)
+                        continue
+                    action = next_challenge_action(page, context, out, target['key'],
+                                                   actions, slider_attempts, intelli_attempts,
+                                                   solve=solve_slider)
+                    if action:
+                        actions.append(action)
+                        if action == 'click_intellisense':
+                            intelli_attempts += 1
+                        last_action_at = time.monotonic()
+                        if action == 'solve_slider':
+                            deadline = max(deadline, time.monotonic() + 12)
+                    page.wait_for_timeout(1200 if action else 500)
                 if parsed['state'] in ('observed', 'login_required'):
                     break
         except Exception as exc:
@@ -251,7 +307,9 @@ def browser_probe(browser, target, out, sdk_fallback=False, activate_challenge=F
         result = retain(target, transport, body, final_url, status, out=out,
                         error=error, network=network)
         result.update(external_scripts=script_files, blocked_sdk_requests=blocked_sdk, actions=actions)
-        result['slider_result'] = slider_result
+        result['slider_attempts'] = slider_attempts
+        result['slider_result'] = slider_attempts[-1] if slider_attempts else None
+        result['intellisense_attempts'] = intelli_attempts
         if result['state'] == 'challenge':
             screenshot = out / 'screenshots' / f'{target["key"]}-{transport}.png'
             screenshot.parent.mkdir(parents=True, exist_ok=True)
@@ -261,6 +319,65 @@ def browser_probe(browser, target, out, sdk_fallback=False, activate_challenge=F
             except Exception as exc:
                 result['screenshot_error'] = type(exc).__name__
         return result
+
+
+def browser_fetch(url, *, out=None, key='page', solve=True, deadline_s=60, timeout=45000):
+    """Render a URL through the anonymous challenge flow for collectors without browser code.
+
+    Starts from a fresh context, never restores a profile, cookie or account, and returns
+    the delivered HTML only after the visible challenge shell is gone.
+    """
+    from browser_runtime import browser_context
+    folder = Path(out) if out else OUT
+    folder.mkdir(parents=True, exist_ok=True)
+    actions, slider_attempts, intelli_attempts = [], [], 0
+    html, final_url, status, challenge = '', url, 0, True
+    screenshot_rel = screenshot_error = error = None
+    with browser_context(headless=True, locale='zh-CN', timezone_id='Asia/Shanghai',
+                         viewport={'width': 1440, 'height': 1000}) as context:
+        page = context.new_page()
+        try:
+            response = page.goto(url, wait_until='domcontentloaded', timeout=timeout)
+            status = response.status if response else 0
+            deadline = time.monotonic() + deadline_s
+            while time.monotonic() < deadline:
+                try:
+                    html, final_url = page.content(), page.url
+                except Exception:
+                    page.wait_for_timeout(200)
+                    continue
+                if not page_is_challenge(final_url, html):
+                    break
+                action = next_challenge_action(page, context, folder, key, actions,
+                                               slider_attempts, intelli_attempts, solve=solve)
+                if action:
+                    actions.append(action)
+                    if action == 'click_intellisense':
+                        intelli_attempts += 1
+                page.wait_for_timeout(1200 if action else 500)
+        except Exception as exc:
+            error = type(exc).__name__
+        try:
+            html, final_url = page.content(), page.url
+        except Exception:
+            pass
+        challenge = page_is_challenge(final_url, html)
+        if challenge:
+            screenshot = folder / 'screenshots' / f'{key}-browser.png'
+            screenshot.parent.mkdir(parents=True, exist_ok=True)
+            try:
+                page.screenshot(path=str(screenshot), timeout=5000)
+                screenshot_rel = screenshot.relative_to(folder).as_posix()
+            except Exception as exc:
+                screenshot_error = type(exc).__name__
+    result = dict(html=html, final_url=final_url, status=status, challenge=challenge,
+                  error=error, actions=actions, slider_attempts=slider_attempts,
+                  intellisense_attempts=intelli_attempts)
+    if screenshot_rel:
+        result['screenshot'] = screenshot_rel
+    if screenshot_error:
+        result['screenshot_error'] = screenshot_error
+    return result
 
 
 def export_records(report, out):
@@ -284,8 +401,10 @@ def main(argv=None):
     parser.add_argument('--browser-only', action='store_true')
     parser.add_argument('--headed', action='store_true', help='Cloud Xvfb diagnostic only')
     parser.add_argument('--sdk-fallback', action='store_true', help='Compare observed SDK loader error fallback')
-    parser.add_argument('--activate-challenge', action='store_true', help='Open the site-provided verification UI')
-    parser.add_argument('--solve-slider', action='store_true', help='Try one image-matched drag per target')
+    parser.add_argument('--activate-challenge', action='store_true',
+                        help='Open the site verification button and the secondary verification page')
+    parser.add_argument('--solve-slider', action='store_true',
+                        help='Solve bounded slider and one-click verification rounds per target')
     parser.add_argument('--targets', help='Comma-separated target keys; omitted means all')
     args = parser.parse_args(argv)
     if args.solve_slider:

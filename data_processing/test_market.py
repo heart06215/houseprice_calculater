@@ -110,6 +110,38 @@ class MarketTests(unittest.TestCase):
         self.assertIsNone(r['lat'])
         self.assertEqual(r['id'],parse_properties(html.replace('track=1','track=2'),'北京','https://beijing.anjuke.com/sale/')[0]['id'])
 
+    def test_http_block_detection_covers_gateway_and_short_shells(self):
+        self.assertTrue(M.is_blocked('', 'https://beijing.anjuke.com/market/'))
+        self.assertTrue(M.is_blocked('<html>' + 'x' * 3000 + '</html>',
+                                     'https://www.anjuke.com/esfcommon-captcha-wy?x=1'))
+        self.assertTrue(M.is_blocked('<div id="@@xxzlGatewayUrl"></div>' * 100,
+                                     'https://beijing.anjuke.com/market/'))
+        self.assertFalse(M.is_blocked('<html>' + 'x' * 3000 + '</html>',
+                                      'https://beijing.anjuke.com/market/'))
+
+    def test_browser_fallback_keeps_the_city_batch_alive(self):
+        html = '<title>大理房价网</title>' + 'x' * 3000
+        with patch.object(M, 'http_fetch', return_value=('<div id="@@xxzlGatewayUrl"></div>', 'https://x/')), \
+             patch.object(M, 'browser_fetch_html', return_value=(html, 'https://dali.anjuke.com/market/', dict(
+                 actions=['open_secondary_verification', 'click_intellisense'], challenge=False,
+                 intellisense_attempts=1))), \
+             patch.object(M, 'ingest', return_value=(1, 0)) as ingest, \
+             patch.object(M.time, 'sleep'), patch('builtins.print'):
+            report = M.run(['大理'], pages=1, delay=0, mode='market')
+        self.assertEqual(report[0]['status'], 'parsed')
+        self.assertEqual(report[0]['browser']['actions'],
+                         ['open_secondary_verification', 'click_intellisense'])
+        self.assertEqual(ingest.call_args.args[1], '大理')
+
+    def test_three_consecutive_blocks_stop_the_batch(self):
+        with patch.object(M, 'http_fetch', return_value=('', 'https://x/')), \
+             patch.object(M, 'browser_fetch_html', return_value=('', 'https://x/', dict(
+                 actions=[], challenge=True, intellisense_attempts=0))), \
+             patch.object(M.time, 'sleep'), patch('builtins.print'):
+            report = M.run(['大理', '北京', '上海', '广州'], pages=1, delay=0, mode='market')
+        self.assertTrue(all(row['status'] == 'verification_required' for row in report))
+        self.assertEqual(len(report), 3)
+
     def test_captcha_and_wrong_city_not_data(self):
         self.assertEqual(parse_market('<title>验证码</title>','北京','https://beijing.anjuke.com'),[])
         self.assertEqual(parse_properties('<title>上海二手房</title>','北京','https://beijing.anjuke.com'),[])

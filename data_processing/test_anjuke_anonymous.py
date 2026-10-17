@@ -10,6 +10,86 @@ import anjuke_anonymous as A
 import anjuke_province_crawler as P
 
 
+class FakeLocator:
+    def __init__(self, page, selector):
+        self.page = page
+        self.selector = selector
+
+    @property
+    def first(self):
+        return self
+
+    def count(self):
+        return 1 if any(token in self.selector for token in self.page.visible) else 0
+
+    def is_visible(self):
+        return True
+
+    def click(self, timeout=None):
+        self.page.clicks.append(self.selector)
+
+
+class FakePage:
+    def __init__(self, url, visible=()):
+        self.url = url
+        self.visible = set(visible)
+        self.clicks = []
+
+    def locator(self, selector):
+        return FakeLocator(self, selector)
+
+
+class ChallengeFlowTests(unittest.TestCase):
+    def test_page_is_challenge_only_for_gateway_and_captcha_shells(self):
+        self.assertTrue(A.page_is_challenge('https://callback.58.com/antibot/verifycode', '<html></html>'))
+        self.assertTrue(A.page_is_challenge('https://www.anjuke.com/esfcommon-captcha-wy?x=1', '<html></html>'))
+        self.assertTrue(A.page_is_challenge('https://bj.anjuke.com/sale/', '<div id="@@xxzlGatewayUrl"></div>'))
+        self.assertFalse(A.page_is_challenge('https://bj.anjuke.com/sale/', '<div class="property"></div>'))
+
+    def test_first_round_opens_the_site_challenge_button(self):
+        page = FakePage('https://callback.58.com/antibot/verifycode', visible=('#btnSubmit',))
+        action = A.next_challenge_action(page, None, Path('.'), 'k', [], [], 0)
+        self.assertEqual(action, 'open_site_challenge')
+        self.assertTrue(page.clicks)
+
+    def test_secondary_page_opens_its_own_verification_button(self):
+        page = FakePage('https://www.anjuke.com/esfcommon-captcha-wy?x=1', visible=('verify-button button',))
+        action = A.next_challenge_action(page, None, Path('.'), 'k', [], [], 0)
+        self.assertEqual(action, 'open_secondary_verification')
+
+    def test_intellisense_is_one_click_and_bounded(self):
+        page = FakePage('https://www.anjuke.com/esfcommon-captcha-wy?x=1',
+                        visible=('.yidun_intelli-control',))
+        self.assertEqual(A.next_challenge_action(page, None, Path('.'), 'k', [], [], 0), 'click_intellisense')
+        self.assertIsNone(A.next_challenge_action(page, None, Path('.'), 'k', [], [], 3))
+        self.assertIsNone(A.next_challenge_action(page, None, Path('.'), 'k', [], [], 0, solve=False))
+
+    def test_slider_can_repeat_until_the_round_budget_is_spent(self):
+        page = FakePage('https://callback.58.com/antibot/verifycode', visible=('img.yidun_jigsaw',))
+        with patch('anjuke_slider_probe.try_slider', return_value=dict(state='drag_submitted')) as slider:
+            attempts = []
+            self.assertEqual(A.next_challenge_action(page, object(), Path('.'), 'k', [], attempts, 0),
+                             'solve_slider')
+            self.assertEqual(len(attempts), 1)
+            self.assertTrue(slider.called)
+        self.assertEqual(A.next_challenge_action(page, None, Path('.'), 'k', [],
+                                                 [dict(state='x')] * 4, 0), None)
+
+    def test_multi_round_actions_are_recorded_in_order(self):
+        # Slider, secondary button and one-click verification may all appear in one visit.
+        page = FakePage('https://callback.58.com/antibot/verifycode', visible=('#btnSubmit',))
+        actions, sliders = [], []
+        with patch('anjuke_slider_probe.try_slider', return_value=dict(state='drag_submitted')):
+            page.visible = {'#btnSubmit'}
+            actions.append(A.next_challenge_action(page, object(), Path('.'), 'k', actions, sliders, 0))
+            page.url = 'https://www.anjuke.com/esfcommon-captcha-wy?x=1'
+            page.visible = {'verify-button button'}
+            actions.append(A.next_challenge_action(page, object(), Path('.'), 'k', actions, sliders, 0))
+            page.visible = {'.yidun_intelli-control'}
+            actions.append(A.next_challenge_action(page, object(), Path('.'), 'k', actions, sliders, 0))
+        self.assertEqual(actions, ['open_site_challenge', 'open_secondary_verification', 'click_intellisense'])
+
+
 class AnonymousTests(unittest.TestCase):
     def price_page(self, city):
         return '<script>window.__NUXT__=' + json.dumps(dict(data=[{}, {}, dict(

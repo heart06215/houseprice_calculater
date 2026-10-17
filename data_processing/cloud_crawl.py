@@ -34,7 +34,8 @@ CRAWLERS = {
     'anjuke_recheck': ('recheck_anjuke.py',),
     'anjuke_market': ('market_crawler.py',),
     'anjuke_anonymous': ('anjuke_anonymous.py', '--browser-only', '--headed', '--solve-slider',
-                         '--targets', 'beijing_year,beijing_communities,beijing_mobile_properties'),
+                         '--targets', 'beijing_year,beijing_communities,beijing_properties,'
+                                      'beijing_mobile_properties'),
     'anjuke_collect': ('anjuke_collect.py',),
     'anjuke_community': ('anjuke_community.py',),
     'anjuke_probe': ('anjuke_browser_probe.py',),

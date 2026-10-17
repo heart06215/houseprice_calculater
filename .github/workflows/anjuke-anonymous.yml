@@ -8,6 +8,9 @@ on:
         type: choice
         default: cloud-entry
         options: [cloud-entry, slider-once, verify-ui, public-mobile, sdk-fallback]
+  # Beijing 17:00 daily: keep the account-free entry exercised on a fresh runner.
+  schedule:
+    - cron: '0 9 * * *'
   push:
     branches: ['codex/anonymous-anjuke']
     paths:
@@ -16,7 +19,9 @@ on:
       - 'data_processing/test_anjuke_anonymous.py'
       - 'data_processing/anjuke_slider_probe.py'
       - 'data_processing/test_anjuke_slider_probe.py'
+      - 'data_processing/cloud_crawl.py'
       - 'data_processing/market_crawler.py'
+      - 'data_processing/test_market.py'
       - 'data_processing/test_anjuke_mobile.py'
       - 'data_processing/fixtures/anjuke_mobile_list.html'
 

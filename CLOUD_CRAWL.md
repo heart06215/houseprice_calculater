@@ -36,7 +36,7 @@
 | `anjuke_browser` | 安居客无头浏览器采集 | `["--city","北京","--from-year","2025"]` |
 | `anjuke_recheck` | 安居客历史复核 | `["--cities","北京,上海"]` |
 | `anjuke_market` | 安居客挂牌行情、房源 | `["--cities","北京","--pages","1"]` |
-| `anjuke_anonymous` | 无账号价格、小区目录、移动房源实采 | `[]`；当前已验证北京代表性入口，输出见下文 |
+| `anjuke_anonymous` | 无账号价格、小区目录、桌面/移动房源实采 | `[]`；默认含北京代表性入口与两段式验证处理，输出见下文 |
 | `anjuke_collect` | 共享预算浏览器/HTTP 采集器 | 必填子命令，如 `["status"]`；采集示例见下文 |
 | `anjuke_community` | 安居客小区目录探测 | 必填子命令与输出目录，如 `["probe","--city","北京","--out","output/cloud_anjuke"]` |
 | `anjuke_probe` | 浏览器诊断探针 | `[]` 默认无头 path 4；path 3 可离线解析已有快照 |
@@ -95,6 +95,8 @@
 [2026-10-17 的云端运行 39025488177](https://github.com/heart06215/houseprice_calculater/actions/runs/39025488177)实际打开滑块挑战、完成图像定位与反馈拖动，验证接口返回 `verified=true`，随后移动业务页返回 60 条有效房源。同一空会话试验还获得 9 个月已完成月份价格、100 条小区目录记录。桌面房源入口仍被拦截；这证明该轮代表性匿名采集通过，不保证所有入口或长期运行都能通过。
 
 [正式入口独立复验 39026016031](https://github.com/heart06215/houseprice_calculater/actions/runs/39026016031)通过调度器再次完成滑块验证并导出 9/100/60 条记录，`accepted=true`，无账号、无存储导入、无缓存恢复。完整防护分析和各轮失败/成功边界见 [ANJUKE_DEFENSE.md](ANJUKE_DEFENSE.md)。
+
+2026-10-17 后续修复了桌面房源“滑块已通过仍被拦截”的两段式验证原因：网关滑块成功后站点会再跳到 `esfcommon-captcha-wy`，要求一次 `type=5` 一键智能验证。`anjuke_anonymous.py` 现在按可见元素依次处理打开验证、重复滑块、点击智能验证，并把每轮动作写入报告；默认目标加入 `beijing_properties`。行情采集 `market_crawler` 改用真实浏览器请求头，HTTP 被拦时回退到同一套匿名验证流程，且单城失败不再终止整批。`anjuke-anonymous-live` 增加北京时间每日 17:00 的定时运行。上述链路已在本机真实被拦截的 IP 上完整复现并解析出业务记录，但**仍需一次新的云端运行报告**确认 GitHub runner 上的通过率与导出数量。
 
 `anjuke-anonymous-live` 提供相同正式入口及多个诊断场景，在全新 GitHub runner 上执行，不导入 Cookie、浏览器配置、远程浏览器、个人账号或旧采集缓存。每个浏览器目标使用空上下文；只解析本轮收到的响应。价格、小区目录和房源三类均获得有效记录时才通过，否则任务以非零退出，并保留响应快照和 `report.json` 七天供检查。
 

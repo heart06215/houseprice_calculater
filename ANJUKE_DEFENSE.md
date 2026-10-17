@@ -58,3 +58,24 @@ REA 分析了捕获的网关脚本、验证码内联脚本，以及该页面引�
 [运行 39026016031](https://github.com/heart06215/houseprice_calculater/actions/runs/39026016031)直接通过正式调度器 `cloud_crawl.py --crawler anjuke_anonymous` 执行，在另一个全新 runner 中再次得到 `verified=true`，三类导出数量分别为价格 9、小区目录 100、房源 60。该轮所有尝试的浏览器错误均为空，`accepted=true`，没有账号、导入存储或缓存恢复。调度器最终 `state=completed, exit_code=0`。
 
 配套[完整回归 39026015971](https://github.com/heart06215/houseprice_calculater/actions/runs/39026015971)通过 146 项检查（跳过 1 项）。使用 GitHub 的 `cloud-crawl` 工作流，选择 `anjuke_anonymous`、参数 `[]`；结果在 Artifact 的 `output/anjuke_anonymous/exports/` 中。当前默认范围是北京代表性第一页，不把这两次成功扩大为全国全量或永久有效的承诺。
+
+## 两段式验证与自动运行修复
+
+本轮在**本机真实被拦截的 IP**上复现了完整链路，并据此修复了先前“滑块已通过但桌面房源仍被拦截”的原因。该证据属于本机实测，不能替代 GitHub runner 的新一轮云端复验。
+
+实际观察到的链路分两段，不是一次拖动就结束：
+
+1. 网关页 `callback.58.com/antibot/verifycode` 先返回 `type=2` 的滑动拼图。原实现拖动后服务端返回 `verified=true`、`checkcode.do` 返回业务码 0，但随后跳转到 `www.anjuke.com/esfcommon-captcha-wy`。
+2. 二次页先显示“点击去认证”，点击后 Yidun 返回 `type=5` 的 `yidun_intellisense` 一键智能验证；点击 `.yidun_intelli-control` 后服务端返回 `verified=true`，才跳回 `beijing.anjuke.com/sale/` 业务页。
+
+原代码只允许一次滑块拖动、且第二个地址一旦出现 `captcha` 就会被判为最终挑战，所以停在二次页。修复后的 `anjuke_anonymous.py` 用一个有界状态机按可见元素依次处理：打开站点验证按钮、打开二次页按钮、点击智能验证、必要时重复滑块；每轮动作、滑块结果和智能验证次数都写入报告。浏览器资源上限也由 160 次放宽到 400 次，避免挑战请求被误中止。
+
+本机实测（`browser_probe` 直接运行，非云端结论）：
+
+- 北京桌面二手房：解析 71 条；
+- 北京移动房源：经历 `open_secondary_verification`、`click_intellisense` 后解析 60 条；
+- 上海、广州、深圳、杭州、成都、南京、武汉桌面二手房：分别解析 70、68、71、67、67、66、68 条。
+
+行情页 `market_crawler` 原先固定使用 `User-Agent: Mozilla/5.0`，并且一遇到验证就 `break` 终止整批城市。现在改为真实桌面请求头，HTTP 被拦时回退到同一套匿名浏览器验证流程，并且连续三次拦截才停止本批，单城失败不再中断其他城市。`browser_fetch()` 复用该流程，供行情等没有自己浏览器代码的采集器调用。本机把 HTTP 结果强制视为验证页后，回退流程实际进入北京行情页并解析出 1 条报价，证明回退与解析链路可用。
+
+`anjuke-anonymous-live` 工作流新增每日 `09:00 UTC`（北京时间 17:00）定时运行，保留手动诊断入口；`cloud-crawl → anjuke_anonymous` 的默认目标加入 `beijing_properties`。这些改动仍需新的云端运行报告来确认 runner IP 上的实际通过情况和导出数量。

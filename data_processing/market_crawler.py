@@ -9,7 +9,6 @@ import json
 import re
 import time
 import subprocess
-import urllib.request
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
@@ -217,8 +216,37 @@ def ingest(html, city, url, fetched_at=None):
     return len(quotes), len(properties)
 
 
+DESKTOP_UA = ('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
+              '(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36')
+
+
+def is_blocked(html, final_url):
+    """A short or redirected CAPTCHA shell is a block, never data."""
+    return (not html or len(html) < 2000 or 'captcha' in (final_url or '')
+            or '@@xxzlGatewayUrl' in html or '请输入验证码' in html)
+
+
+def http_fetch(url, session):
+    headers = {'User-Agent': DESKTOP_UA, 'Accept-Language': 'zh-CN,zh;q=0.9',
+               'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+               'Upgrade-Insecure-Requests': '1', 'Referer': 'https://www.anjuke.com/'}
+    response = session.get(url, headers=headers, timeout=25, allow_redirects=True)
+    return response.text, response.url
+
+
+def browser_fetch_html(url, key):
+    """Reuse the anonymous challenge flow for pages the plain HTTP session cannot pass."""
+    from anjuke_anonymous import browser_fetch
+    browsed = browser_fetch(url, out=OUT / 'browser', key=key)
+    return browsed['html'], browsed['final_url'], browsed
+
+
 def run(cities, pages=3, delay=5, mode='both'):
+    import requests
     report = []
+    session = requests.Session()
+    session.trust_env = False
+    blocked_streak = 0
     for city in cities:
         slug = CITY_URL_MARKS.get(city, CITY_SLUG_70[city])
         urls = ([f'https://{slug}.anjuke.com/market/'] if mode != 'properties' else []) + ([f'https://{slug}.anjuke.com/sale/p{p}/' for p in range(1,pages+1)] if mode != 'market' else [])
@@ -227,15 +255,20 @@ def run(cities, pages=3, delay=5, mode='both'):
                 break
             entry = dict(city=city, url=url, fetched_at=datetime.now(timezone.utc).isoformat())
             try:
-                req = urllib.request.Request(url, headers={'User-Agent':'Mozilla/5.0', 'Accept-Language':'zh-CN,zh;q=0.9'})
-                with urllib.request.urlopen(req, timeout=25) as response:
-                    html = response.read().decode('utf-8')
-                    final_url = response.url
-                if len(html) < 2000 or 'captcha' in final_url or '@@xxzlGatewayUrl' in html or '请输入验证码' in html:
+                html, final_url = http_fetch(url, session)
+                if is_blocked(html, final_url):
+                    html, final_url, browsed = browser_fetch_html(url, f'{slug}-{request_number}')
+                    entry['browser'] = dict(actions=browsed['actions'], challenge=browsed['challenge'],
+                                            intellisense_attempts=browsed['intellisense_attempts'],
+                                            error=browsed.get('error'))
+                if is_blocked(html, final_url):
                     entry['status'] = 'verification_required'
+                    blocked_streak += 1
                     report.append(entry)
-                    break
-                q, p = ingest(html, city, url)
+                    time.sleep(delay)
+                    continue
+                blocked_streak = 0
+                q, p = ingest(html, city, final_url or url)
                 entry.update(status='parsed' if q or p else 'schema_unrecognized', quotes=q, properties=p)
                 # Discover new-house pages from actual links, never invent an endpoint.
                 if '/market/' in url:
@@ -248,13 +281,12 @@ def run(cities, pages=3, delay=5, mode='both'):
             except Exception as exc:
                 entry.update(status='failed',error=str(exc)[:250])
                 report.append(entry)
-                break
             finally:
                 save_json(OUT/'crawl_report.json', report)
                 save_json(OUT/('crawl_report_' + mode + '.json'), report)
                 print(json.dumps(entry,ensure_ascii=False),flush=True)
             time.sleep(delay)
-        if report and report[-1]['status'] == 'verification_required':
+        if blocked_streak >= 3:
             break
     return report
 
