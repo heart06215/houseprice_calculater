@@ -42,3 +42,5 @@ REA 分析了捕获的网关脚本、验证码内联脚本，以及该页面引�
 [运行 39024114462](https://github.com/heart06215/houseprice_calculater/actions/runs/39024114462)打开移动房源页的站点验证按钮，`/api/v3/get` 返回 `error=0,type=2`，实际截图为滑块拼图；没有静默放行，房源仍为 0。
 
 `slider-once` 是后续有界试验：只在当前匿名会话可见的拼图上读取两张图片，用 [OpenCV 模板匹配](https://docs.opencv.org/4.12.0/d4/dc6/tutorial_py_template_matching.html)估计位置；通过可见滑块测量 CSS 拖动映射，由原站 SDK 生成并提交验证请求。每个目标最多提交一次拖动，最终仍按真实业务数据判断。图像库仅由 Actions 安装，不要求使用者本机配置。离线几何测试通过不代表服务器接受验证。
+
+[运行 39024528655](https://github.com/heart06215/houseprice_calculater/actions/runs/39024528655)的移动房源页直接返回完整业务 HTML，没有触发验证码按钮或拖动。页面有 60 张实际房源卡片，旧桌面解析器将其记为 `unparsed`，因此当轮整体仍失败。按该响应适配移动卡片后，离线重放解析出 60 条，均有小区、单价和面积；这属于同一云端响应的重解析，尚不等于新的云端实采。该次访问不证明滑块算法有效，也不证明稳定绕过风控。

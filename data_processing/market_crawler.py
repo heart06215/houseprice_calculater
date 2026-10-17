@@ -145,35 +145,47 @@ def parse_properties(html, city, url):
     if not soup.title or city not in soup.title.get_text():
         return []
     results = {}
-    for item in soup.select('.property, .list-item, .house-list li, .sellListContent li, .community-item'):
-        link = item.select_one('a[href*="/prop/view/"], a[href*="/community/view/"], .title a, a.property-ex')
+    for item in soup.select('.property, .list-item, .house-list li, .sellListContent li, .community-item, li.item-wrap'):
+        mobile = 'item-wrap' in item.get('class', [])
+        link = item.select_one('a[href*="/prop/view/"], a[href*="/community/view/"], .title a, a.property-ex, a.cell-wrap[href*="/sale/"]')
         if not link:
             continue
         href = urljoin(url, link.get('href', ''))
         if urlparse(href).scheme != 'https' or not (urlparse(href).hostname or '').endswith('.anjuke.com'):
             continue
-        name_el = item.select_one('.property-content-info-comm-name, .community-name, .li-info h3, .property-content-title-name, .title')
+        if mobile and not re.fullmatch(r'/[^/]+/sale/[SR]\d+/', urlparse(href).path):
+            continue
+        name_el = item.select_one('.property-content-info-comm-name, .community-name, .li-info h3, .property-content-title-name, .title, .content-title')
         name = (name_el or link).get_text(' ', strip=True)
-        price_el = item.select_one('.property-price-average, .unitPrice, .price-det, .unit-price, .community-price')
+        price_el = item.select_one('.property-price-average, .unitPrice, .price-det, .unit-price, .community-price, .house-avg-price')
         text = item.get_text(' ', strip=True)
         match = re.search(r'(\d[\d,]*(?:\.\d+)?)\s*元\s*[/／]?\s*(?:㎡|m²|平米|平方米)', price_el.get_text(' ', strip=True) if price_el else text)
         price = number(match[1]) if match else None
         if not name or not price or price > 1000000:
             continue
-        area = re.search(r'(\d+(?:\.\d+)?)\s*(?:㎡|平米)', text)
-        total_el = item.select_one('.property-price-total, .totalPrice')
+        descriptions = [x.get_text(' ', strip=True) for x in item.select('.content-desc') if x.get_text(strip=True)]
+        facts = ' '.join(descriptions) if mobile else text
+        area = re.search(r'(\d+(?:\.\d+)?)\s*(?:㎡|平米)', facts)
+        total_el = item.select_one('.property-price-total, .totalPrice, .content-price')
         total = number(total_el.get_text()) if total_el else None
-        layout = re.search(r'\d+室\s*\d+厅', text)
+        layout = re.search(r'\d+室\s*\d+厅', facts)
         address = item.select_one('.property-content-info-comm-address, .address, .li-info address')
         stable_url = href.split('?')[0].rstrip('/')
         pid = 'anjuke_' + hashlib.sha256(stable_url.encode()).hexdigest()[:20]
-        results[pid] = dict(id=pid, name=name, community=name, city=city, district='', type='二手房',
+        community = name
+        if mobile:
+            thumbnail = item.select_one('img[alt]')
+            match = re.match(r'(.+?)(?=\d+室)', thumbnail.get('alt', '') if thumbnail else '')
+            community = match[1].strip() if match else ''
+        results[pid] = dict(id=pid, name=name, community=community, city=city,
+                            district=descriptions[-2] if mobile and len(descriptions) >= 5 else '', type='二手房',
                             price_avg=price, area=float(area[1]) if area else 0,
-                            layout=layout[0] if layout else '', orientation='', floor='',
+                            layout=layout[0] if layout else '',
+                            orientation=descriptions[2] if mobile and len(descriptions) >= 3 else '', floor='',
                             address=address.get_text(' ', strip=True) if address else '',
                             tags=[], listings=[{'area': float(area[1]) if area else 0, 'total': total or 0,
                                                 'layout': layout[0] if layout else ''}],
-                            source='anjuke', source_url=href, price_basis='listing',
+                            source='anjuke', source_url=stable_url + '/' if mobile else href, price_basis='listing',
                             precision='city', lat=None, lng=None)
     return list(results.values())
 

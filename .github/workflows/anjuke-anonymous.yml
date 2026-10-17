@@ -16,6 +16,9 @@ on:
       - 'data_processing/test_anjuke_anonymous.py'
       - 'data_processing/anjuke_slider_probe.py'
       - 'data_processing/test_anjuke_slider_probe.py'
+      - 'data_processing/market_crawler.py'
+      - 'data_processing/test_anjuke_mobile.py'
+      - 'data_processing/fixtures/anjuke_mobile_list.html'
 
 permissions:
   contents: read
@@ -47,7 +50,7 @@ jobs:
           python -m pip install opencv-python-headless==4.12.0.88
           python -m playwright install --with-deps chromium
       - name: Verify acceptance rules
-        run: python -m unittest test_anjuke_anonymous test_anjuke_slider_probe
+        run: python -m unittest test_anjuke_anonymous test_anjuke_slider_probe test_anjuke_mobile test_market
       - name: Fetch actual public pages without imported sessions
         run: |
           case "$DIAGNOSTIC_MODE" in
