@@ -35,6 +35,14 @@ def locate_piece(background, foreground, y_hint=None):
                 image_width=bg.shape[1], image_height=bg.shape[0], confidence=confidence)
 
 
+def calibrated_drag(displacement, first_drag, first_piece, second_drag, second_piece):
+    """Separate the pointer's startup offset from the actual movement slope."""
+    ratio = (second_piece - first_piece) / (second_drag - first_drag)
+    if not 0.3 < ratio < 2:
+        raise ValueError('Unsupported drag mapping')
+    return second_drag + (displacement - second_piece) / ratio, ratio
+
+
 def try_slider(page, context, out, key):
     """Use the site's own SDK for all challenge state and verification requests."""
     bg_image = page.locator('img.yidun_bg-img:visible').first
@@ -80,20 +88,25 @@ def try_slider(page, context, out, key):
     try:
         page.mouse.move(start_x + 8, start_y, steps=4)
         page.wait_for_timeout(150)
-        moved_box = piece.bounding_box()
-        ratio = (moved_box['x'] - piece_box['x']) / 8 if moved_box else 0
-        if not 0.3 < ratio < 2:
-            return dict(state='unsupported_drag_mapping', ratio=ratio, **match)
-        distance = displacement / ratio
+        first_box = piece.bounding_box()
+        page.mouse.move(start_x + 32, start_y, steps=8)
+        page.wait_for_timeout(150)
+        second_box = piece.bounding_box()
+        if not first_box or not second_box:
+            return dict(state='missing_drag_geometry', **match)
+        first_move = first_box['x'] - piece_box['x']
+        second_move = second_box['x'] - piece_box['x']
+        distance, ratio = calibrated_drag(displacement, 8, first_move, 32, second_move)
         if distance > control_box['width'] - slider_box['width'] + 2:
             return dict(state='drag_outside_track', distance=distance, **match)
         for step in range(1, 37):
             fraction = step / 36
             eased = fraction * fraction * (3 - 2 * fraction)
-            page.mouse.move(start_x + 8 + (distance - 8) * eased,
+            page.mouse.move(start_x + 32 + (distance - 32) * eased,
                             start_y + math.sin(fraction * math.pi * 2) * 0.7)
             page.wait_for_timeout(20 + step % 4 * 7)
         page.wait_for_timeout(120)
-        return dict(state='drag_submitted', distance=distance, ratio=ratio, **match)
+        return dict(state='drag_submitted', distance=distance, ratio=ratio,
+                    first_piece_move=first_move, second_piece_move=second_move, **match)
     finally:
         page.mouse.up()
