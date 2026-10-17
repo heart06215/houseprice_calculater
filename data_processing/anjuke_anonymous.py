@@ -138,7 +138,7 @@ def defense_result(body):
                 data['msg'].startswith(('https://', 'http://')))
 
 
-def browser_probe(browser, target, out, sdk_fallback=False, activate_challenge=False):
+def browser_probe(browser, target, out, sdk_fallback=False, activate_challenge=False, solve_slider=False):
     # Every target starts with a new anonymous context, never a persistent profile.
     with browser.new_context(locale='zh-CN', timezone_id='Asia/Shanghai',
                              viewport={'width': 1440, 'height': 1000},
@@ -149,6 +149,7 @@ def browser_probe(browser, target, out, sdk_fallback=False, activate_challenge=F
         network = []
         script_files = []
         actions = []
+        slider_result = None
         requests_sent = 0
         blocked_sdk = 0
         transport = 'chromium-sdk-fallback' if sdk_fallback else 'chromium'
@@ -181,7 +182,9 @@ def browser_probe(browser, target, out, sdk_fallback=False, activate_challenge=F
                     payload = json.loads(source[source.index('{'):source.rindex('}') + 1])
                     data = payload.get('data') or {}
                     row['challenge_result'] = dict(error=payload.get('error'),
-                                                   type=data.get('type') if isinstance(data, dict) else None)
+                                                   type=data.get('type') if isinstance(data, dict) else None,
+                                                   verified=data.get('result') if isinstance(data, dict)
+                                                   and isinstance(data.get('result'), bool) else None)
                 if response.request.resource_type == 'script' and (
                         parsed_url.hostname == 'j1.58cdn.com.cn' or
                         parsed_url.hostname in SDK_HOSTS) and len(script_files) < 8:
@@ -219,6 +222,17 @@ def browser_probe(browser, target, out, sdk_fallback=False, activate_challenge=F
                         if button.count() and button.is_visible():
                             button.click(timeout=3000)
                             actions.append('open_site_challenge')
+                    if solve_slider and slider_result is None and \
+                            page.locator('img.yidun_jigsaw:visible').count():
+                        from anjuke_slider_probe import try_slider
+                        try:
+                            slider_result = try_slider(page, context, out, target['key'])
+                        except Exception as exc:
+                            slider_result = dict(state='error', error=type(exc).__name__)
+                        if slider_result['state'] == 'not_ready':
+                            slider_result = None
+                        else:
+                            deadline = max(deadline, time.monotonic() + 10)
                     page.wait_for_timeout(500)
                 if parsed['state'] in ('observed', 'login_required'):
                     break
@@ -231,6 +245,7 @@ def browser_probe(browser, target, out, sdk_fallback=False, activate_challenge=F
         result = retain(target, transport, body, final_url, status, out=out,
                         error=error, network=network)
         result.update(external_scripts=script_files, blocked_sdk_requests=blocked_sdk, actions=actions)
+        result['slider_result'] = slider_result
         if result['state'] == 'challenge':
             screenshot = out / 'screenshots' / f'{target["key"]}-{transport}.png'
             screenshot.parent.mkdir(parents=True, exist_ok=True)
@@ -249,8 +264,11 @@ def main(argv=None):
     parser.add_argument('--headed', action='store_true', help='Cloud Xvfb diagnostic only')
     parser.add_argument('--sdk-fallback', action='store_true', help='Compare observed SDK loader error fallback')
     parser.add_argument('--activate-challenge', action='store_true', help='Open the site-provided verification UI')
+    parser.add_argument('--solve-slider', action='store_true', help='Try one image-matched drag per target')
     parser.add_argument('--targets', help='Comma-separated target keys; omitted means all')
     args = parser.parse_args(argv)
+    if args.solve_slider:
+        args.activate_challenge = True
     if os.environ.get('GITHUB_ACTIONS') != 'true':
         parser.error('Live acceptance must run on GitHub Actions; local results are not cloud proof')
     from playwright.sync_api import sync_playwright
@@ -267,13 +285,15 @@ def main(argv=None):
                   browser_only=args.browser_only, headed=args.headed,
                   sdk_fallback=args.sdk_fallback,
                   activate_challenge=args.activate_challenge,
+                  solve_slider=args.solve_slider,
                   browser_args=['--disable-blink-features=AutomationControlled'], attempts=[])
     args.out.mkdir(parents=True, exist_ok=True)
     with sync_playwright() as p:
         with p.chromium.launch(headless=not args.headed, args=report['browser_args']) as browser:
             for target in selected:
                 fetchers = [lambda target, out: browser_probe(browser, target, out,
-                                                             activate_challenge=args.activate_challenge)]
+                                                             activate_challenge=args.activate_challenge,
+                                                             solve_slider=args.solve_slider)]
                 if not args.browser_only:
                     fetchers.insert(0, http_probe)
                 if args.sdk_fallback:

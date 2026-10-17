@@ -6,14 +6,16 @@ on:
       mode:
         description: 'Anonymous diagnostic scenario'
         type: choice
-        default: verify-ui
-        options: [verify-ui, public-mobile, sdk-fallback]
+        default: slider-once
+        options: [slider-once, verify-ui, public-mobile, sdk-fallback]
   push:
     branches: ['codex/anonymous-anjuke']
     paths:
       - '.github/workflows/anjuke-anonymous.yml'
       - 'data_processing/anjuke_anonymous.py'
       - 'data_processing/test_anjuke_anonymous.py'
+      - 'data_processing/anjuke_slider_probe.py'
+      - 'data_processing/test_anjuke_slider_probe.py'
 
 permissions:
   contents: read
@@ -30,7 +32,7 @@ jobs:
       PYTHONUTF8: '1'
       PYTHONUNBUFFERED: '1'
       PYTHONPATH: data_processing
-      DIAGNOSTIC_MODE: ${{ inputs.mode || 'verify-ui' }}
+      DIAGNOSTIC_MODE: ${{ inputs.mode || 'slider-once' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -42,12 +44,16 @@ jobs:
       - name: Prepare fresh anonymous runner
         run: |
           python -m pip install -r requirements-crawl.txt
+          python -m pip install opencv-python-headless==4.12.0.88
           python -m playwright install --with-deps chromium
       - name: Verify acceptance rules
-        run: python -m unittest test_anjuke_anonymous
+        run: python -m unittest test_anjuke_anonymous test_anjuke_slider_probe
       - name: Fetch actual public pages without imported sessions
         run: |
           case "$DIAGNOSTIC_MODE" in
+            slider-once)
+              xvfb-run -a python data_processing/anjuke_anonymous.py --browser-only --headed --solve-slider --targets beijing_year,beijing_communities,beijing_properties,beijing_mobile_properties
+              ;;
             public-mobile)
               xvfb-run -a python data_processing/anjuke_anonymous.py --browser-only --headed --targets beijing_year,beijing_communities,beijing_mobile_properties,beijing_mobile_home,beijing_mobile_trend
               ;;
