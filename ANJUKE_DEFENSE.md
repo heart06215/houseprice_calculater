@@ -52,3 +52,9 @@ REA 分析了捕获的网关脚本、验证码内联脚本，以及该页面引�
 [运行 39025488177](https://github.com/heart06215/houseprice_calculater/actions/runs/39025488177)在移动房源页打开站点验证按钮，`/api/v3/get` 返回 `type=2`。本轮图像匹配得到目标位移 222 像素；反馈拖动最终可见位移 221.5 像素，验证请求返回 `verified=true`，最终 URL 为 `https://m.anjuke.com/bj/sale/`，实际解析出 60 条房源。价格与小区目录分别为 9 条和 100 条，`accepted=true`，`account_used=false`、`imported_storage=false`、`restored_cache=false`。
 
 这属于实际服务端验证通过后采到业务数据的证据。桌面房源目标仍是挑战状态，不能推广为已破解整个风控系统或稳定覆盖所有页面。正式云端入口采用已验证的移动路径；历史诊断和失败实验仍保留供复核。
+
+## 正式入口独立复验
+
+[运行 39026016031](https://github.com/heart06215/houseprice_calculater/actions/runs/39026016031)直接通过正式调度器 `cloud_crawl.py --crawler anjuke_anonymous` 执行，在另一个全新 runner 中再次得到 `verified=true`，三类导出数量分别为价格 9、小区目录 100、房源 60。该轮所有尝试的浏览器错误均为空，`accepted=true`，没有账号、导入存储或缓存恢复。调度器最终 `state=completed, exit_code=0`。
+
+配套[完整回归 39026015971](https://github.com/heart06215/houseprice_calculater/actions/runs/39026015971)通过 146 项检查（跳过 1 项）。使用 GitHub 的 `cloud-crawl` 工作流，选择 `anjuke_anonymous`、参数 `[]`；结果在 Artifact 的 `output/anjuke_anonymous/exports/` 中。当前默认范围是北京代表性第一页，不把这两次成功扩大为全国全量或永久有效的承诺。
