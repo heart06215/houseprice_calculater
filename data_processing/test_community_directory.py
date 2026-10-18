@@ -76,6 +76,23 @@ class CommunityDirectoryTests(unittest.TestCase):
         self.assertEqual(D.list_url('5i5j', 'bj', 1), 'https://m.5i5j.com/bj/xiaoqu/')
         self.assertEqual(D.list_url('5i5j', 'bj', 3), 'https://m.5i5j.com/bj/xiaoqu/p3/')
 
+    def test_parse_anjuke_detail_walks_nuxt_cycles_and_maps_fields(self):
+        community = {'id': '803030', 'name': '温哥华森林', 'address': '立汤路',
+                     'lng': '116.41872028885', 'lat': '40.139543421852',
+                     'area_name': '昌平', 'block_name': '北七家', 'build_type_str': '低层',
+                     'completion_time': '2018', 'tags': ['别墅', '绿化好']}
+        nuxt = {'data': [{'props': {'community': community}}]}
+        community['cycle'] = nuxt  # circular reference must not hang the walker
+        parsed = D.parse_anjuke_detail(nuxt)
+        self.assertEqual(parsed['name'], '温哥华森林')
+        self.assertEqual(parsed['year'], 2018)
+        self.assertEqual(parsed['district'], '昌平')
+        self.assertEqual(parsed['subarea'], '北七家')
+        self.assertEqual(parsed['building_type'], '低层')
+        self.assertIn('别墅', parsed['tags'])
+        self.assertAlmostEqual(parsed['lng'], 116.41872028885)
+        self.assertEqual(D.parse_anjuke_detail(None), {})
+
     def test_parse_58_districts_keeps_only_numeric_region_links(self):
         districts = D.parse_58_districts(FIFTY_EIGHT_DISTRICTS, 'https://bj.58.com/xiaoqu/')
         self.assertEqual([d['name'] for d in districts], ['朝阳', '海淀'])

@@ -157,6 +157,67 @@ def parse_58_detail(html):
                 building_type=None)
 
 
+_AJK_EXTRACT_JS = """() => {
+  const seen = new Set(); const stack = [window.__NUXT__];
+  while (stack.length) {
+    const node = stack.pop();
+    if (!node || typeof node !== 'object' || seen.has(node)) continue;
+    seen.add(node);
+    if (node.build_type_str !== undefined ||
+        (node.name && node.address && node.lng && node.completion_time !== undefined)) {
+      return JSON.stringify({name: node.name, address: node.address, lng: node.lng, lat: node.lat,
+        area_name: node.area_name, block_name: node.block_name, build_type_str: node.build_type_str,
+        completion_time: node.completion_time, tags: node.tags, id: node.id});
+    }
+    for (const key in node) { try { stack.push(node[key]); } catch (e) {} }
+  }
+  return null;
+}"""
+
+
+def _year_int(value):
+    match = re.search(r'(\d{4})', str(value or ''))
+    return int(match.group(1)) if match else None
+
+
+def _num(value):
+    try:
+        return float(value)
+    except (TypeError, ValueError):
+        return None
+
+
+def parse_anjuke_detail(nuxt):
+    """安居客详情的数据在 `window.__NUXT__` 的 `community` 对象里（客户端渲染，DOM 无字段）。
+
+    Callers pass the object returned by ``page.evaluate(_AJK_EXTRACT_JS)``; circular
+    references are handled with an iterative, visited-set walk.
+    """
+    if not isinstance(nuxt, (dict, list)):
+        return {}
+    seen, stack = set(), [nuxt]
+    while stack:
+        node = stack.pop()
+        if not isinstance(node, (dict, list)) or id(node) in seen:
+            continue
+        seen.add(id(node))
+        if isinstance(node, dict) and (
+                'build_type_str' in node or
+                ('name' in node and 'address' in node and 'lng' in node and 'completion_time' in node)):
+            tags = node.get('tags') if isinstance(node.get('tags'), list) else []
+            return dict(name=node.get('name'), address=node.get('address'),
+                        lng=_num(node.get('lng')), lat=_num(node.get('lat')),
+                        district=node.get('area_name'), subarea=node.get('block_name'),
+                        building_type=node.get('build_type_str'),
+                        year_text=str(node.get('completion_time')) if node.get('completion_time') else None,
+                        year=_year_int(node.get('completion_time')),
+                        tags=[t for t in tags if isinstance(t, str)],
+                        stable_id=str(node.get('id')) if node.get('id') else None,
+                        coord_system=None)
+        stack.extend(node.values() if isinstance(node, dict) else node)
+    return {}
+
+
 def parse_58_districts(html, url):
     """58 列表页的区县入口：/xiaoqu/{数字}/ 才是区县，详情 slug 不是。"""
     doc = BeautifulSoup(html or '', 'html.parser')
@@ -586,11 +647,28 @@ def collect(source, city, *, pages=3, details=0, interval=2.0, out=OUT, max_seco
                     if result['challenge']:
                         report['errors'].append(f'detail_challenge:{record["name"]}')
                         continue
-                    parsed = ac.parse_detail(result['html'], url=result['final_url'], fetched_at=now())
-                    for field in ('year_text', 'year', 'address_text', 'district_text', 'subarea_text',
-                                  'type_tags', 'lng', 'lat', 'coord_system_evidence', 'price_text'):
-                        if parsed.get(field) not in (None, '', []):
-                            record[field] = parsed[field]
+                    nuxt = None
+                    try:
+                        nuxt = page.evaluate(_AJK_EXTRACT_JS)
+                    except Exception:
+                        nuxt = None
+                    parsed = {}
+                    if nuxt:
+                        try:
+                            parsed = parse_anjuke_detail(json.loads(nuxt))
+                        except (ValueError, TypeError):
+                            parsed = {}
+                    if not parsed:
+                        parsed = ac.parse_detail(result['html'], url=result['final_url'], fetched_at=now())
+                    for source_field, target in (('name', 'name'), ('year_text', 'year_text'), ('year', 'year'),
+                                                 ('address', 'address'), ('address_text', 'address'),
+                                                 ('district', 'district'), ('district_text', 'district'),
+                                                 ('subarea', 'subarea'), ('subarea_text', 'subarea'),
+                                                 ('building_type', 'building_type'), ('tags', 'tags'),
+                                                 ('type_tags', 'type_tags'), ('lng', 'lng'), ('lat', 'lat'),
+                                                 ('stable_id', 'stable_id')):
+                        if parsed.get(source_field) not in (None, '', []):
+                            record[target] = parsed[source_field]
                     record['detail_fetched_at'] = now()
                     record['detail_snapshot'] = snapshot('community_directory', result['html'].encode('utf-8'),
                                                          'raw', 'html').get('sha256')
