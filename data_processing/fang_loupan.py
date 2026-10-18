@@ -32,9 +32,11 @@ import requests
 from data_store import ROOT, atomic_json, snapshot
 
 OUT = ROOT / 'output/fang_loupan'
+SLUG_CONFIG = Path(__file__).with_name('config') / 'community_city_slugs.json'
 CITY_HOST = {'北京': 'bj', '上海': 'sh', '广州': 'gz', '深圳': 'sz', '天津': 'tj',
              '南京': 'nj', '杭州': 'hz', '武汉': 'wh', '成都': 'cd', '重庆': 'cq',
              '苏州': 'su', '西安': 'xa', '长沙': 'cs', '青岛': 'qd', '郑州': 'zz'}
+_HOSTS = None
 UA = ('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
       '(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36')
 CHECK_HOST = 'check.3g.fang.com'
@@ -62,7 +64,14 @@ def make_session(moment=None):
 
 
 def city_host(city):
-    return CITY_HOST.get(city)
+    """Measured newhouse city subdomain; falls back to the legacy short map."""
+    global _HOSTS
+    if _HOSTS is None:
+        try:
+            _HOSTS = json.loads(SLUG_CONFIG.read_text(encoding='utf-8')).get('fang', {})
+        except Exception:
+            _HOSTS = {}
+    return _HOSTS.get(city) or CITY_HOST.get(city)
 
 
 def list_url(host, page=1):

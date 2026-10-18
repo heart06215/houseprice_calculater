@@ -57,6 +57,12 @@ class FangLoupanTests(unittest.TestCase):
         self.assertEqual(L.detail_url('bj', '1010203883'),
                          'https://bj.newhouse.fang.com/loupan/1010203883.htm')
 
+    def test_city_host_uses_the_measured_slug_map(self):
+        self.assertEqual(L.city_host('北京'), 'bj')
+        self.assertEqual(L.city_host('哈尔滨'), 'hrb')
+        self.assertEqual(L.city_host('大连'), 'dl')
+        self.assertIsNone(L.city_host('不存在的城市'))
+
     def test_parse_list_reads_jsonld_and_last_page(self):
         parsed = L.parse_list(LIST_PAGE)
         self.assertEqual(parsed['number_of_items'], 575)

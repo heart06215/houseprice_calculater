@@ -69,6 +69,14 @@ class CommunityDirectoryTests(unittest.TestCase):
         self.assertEqual(D.list_url('5i5j', 'bj', 1), 'https://m.5i5j.com/bj/xiaoqu/')
         self.assertEqual(D.list_url('5i5j', 'bj', 3), 'https://m.5i5j.com/bj/xiaoqu/p3/')
 
+    def test_source_city_slugs_are_per_source_and_allow_missing_cities(self):
+        self.assertEqual(D.source_city_slug('5i5j', '北京'), 'bj')
+        self.assertEqual(D.source_city_slug('5i5j', '上海'), 'sh')
+        # 5i5j has no Guangzhou entry; the fallback must not invent one.
+        self.assertIsNone(D.source_city_slug('5i5j', '广州'))
+        self.assertEqual(D.source_city_slug('58', '北京'), 'beijing')
+        self.assertEqual(D.source_city_slug('anjuke', '北京'), 'beijing')
+
     def test_parse_5i5j_list_keeps_year_building_price_and_counts(self):
         records = D.parse_5i5j_list(FIVEI5J_CARD, city='北京',
                                     url='https://m.5i5j.com/bj/xiaoqu/',

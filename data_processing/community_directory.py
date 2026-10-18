@@ -32,9 +32,11 @@ from bs4 import BeautifulSoup
 from data_store import ROOT, atomic_json, snapshot
 
 OUT = ROOT / 'output/community_directory'
+SLUG_CONFIG = Path(__file__).with_name('config') / 'community_city_slugs.json'
 CITY_SLUG = {'北京': 'bj', '上海': 'sh', '广州': 'gz', '深圳': 'sz', '天津': 'tj',
              '南京': 'nj', '杭州': 'hz', '武汉': 'wh', '成都': 'cd', '重庆': 'cq',
              '苏州': 'su', '西安': 'xa', '长沙': 'cs', '青岛': 'qd', '郑州': 'zz'}
+_SLUGS = None
 YEAR_RE = re.compile(r'(\d{4})\s*年')
 LOCATION_SPLIT_RE = re.compile(r'\s*[-－—]\s*')
 
@@ -43,7 +45,28 @@ def now():
     return datetime.now(timezone.utc).isoformat()
 
 
+def slug_config(path=None):
+    """Measured per-source city slugs; a missing city means that source has no entry."""
+    global _SLUGS
+    if path is not None:
+        return json.loads(Path(path).read_text(encoding='utf-8'))
+    if _SLUGS is None:
+        try:
+            _SLUGS = json.loads(SLUG_CONFIG.read_text(encoding='utf-8'))
+        except Exception:
+            _SLUGS = {}
+    return _SLUGS
+
+
 def city_slug(city):
+    return CITY_SLUG.get(city)
+
+
+def source_city_slug(source, city, config=None):
+    """Per-source slug; a source table without the city means that source lacks it."""
+    table = (config or slug_config()).get(source)
+    if table is not None:
+        return table.get(city)
     return CITY_SLUG.get(city)
 
 
@@ -219,9 +242,9 @@ def http_get(session, url, *, out, key, retries=3):
 
 
 def collect_5i5j(city, *, pages=3, details=0, interval=2.0, out=OUT, max_seconds=2400):
-    slug = city_slug(city)
+    slug = source_city_slug('5i5j', city)
     if not slug:
-        raise ValueError(f'Unknown city slug for {city}')
+        raise ValueError(f'5i5j has no configured city entry for {city}')
     out = Path(out)
     out.mkdir(parents=True, exist_ok=True)
     session = requests.Session()
@@ -328,9 +351,9 @@ def collect(source, city, *, pages=3, details=0, interval=2.0, out=OUT, max_seco
         return collect_5i5j(city, pages=pages, details=details, interval=interval,
                             out=out, max_seconds=max_seconds)
     from browser_runtime import browser_context
-    slug = city_slug(city)
+    slug = source_city_slug(source, city)
     if not slug:
-        raise ValueError(f'Unknown city slug for {city}')
+        raise ValueError(f'{source} has no configured city entry for {city}')
     out = Path(out)
     out.mkdir(parents=True, exist_ok=True)
     report = dict(schema='community_directory/v1', source=source, city=city, started_at=now(),
@@ -419,8 +442,8 @@ def main(argv=None):
     args = parser.parse_args(argv)
     if not 1 <= args.pages <= 60 or not 0 <= args.details <= 2000 or args.interval < 1:
         parser.error('pages 1..60, details 0..2000, interval >= 1')
-    if not city_slug(args.city):
-        parser.error('未配置的城市: ' + args.city)
+    if not source_city_slug(args.source, args.city):
+        parser.error(f'{args.source} 未配置城市入口: ' + args.city)
     report = collect(args.source, args.city, pages=args.pages, details=args.details,
                      interval=args.interval, out=args.out)
     print(json.dumps({k: report[k] for k in ('source', 'city', 'list_records', 'details', 'count', 'errors')},
