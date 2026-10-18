@@ -31,6 +31,7 @@ on:
           - anjuke_probe
           - crawl_public
           - fang
+          - fang_loupan
           - communities
           - community_profiles
           - community_neighbourhoods

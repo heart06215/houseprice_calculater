@@ -42,6 +42,7 @@
 | `anjuke_probe` | 浏览器诊断探针 | `[]` 默认无头 path 4；path 3 可离线解析已有快照 |
 | `crawl_public` | 公开价格来源 | `["--cities","北京","--max-requests","20"]` |
 | `fang` | 房天下小区资料 | 必填子命令，如 `["crawl","--cities","北京","--max-pages","1"]` |
+| `fang_loupan` | 房天下楼盘库（开盘年代、物业/建筑类别、经纬度） | `["--cities","北京,上海","--max-pages","3","--max-details","60"]`；深分页只需 `otherid` cookie |
 | `beike` | 贝壳历史 HTTP 适配器 | `["--cities","北京","--pages","1"]`；结果在 `output/beike/` |
 | `communities` | 小区位置库 | `["--cities","北京","--max-cities","1"]` |
 | `community_profiles` | 小区资料补充 | `["--city","北京","--max-pages","1"]` |

@@ -41,6 +41,7 @@ CRAWLERS = {
     'anjuke_probe': ('anjuke_browser_probe.py',),
     'crawl_public': ('crawl_public.py',),
     'fang': ('fang_crawler.py',),
+    'fang_loupan': ('fang_loupan.py',),
     'communities': ('community_crawler.py',),
     'community_profiles': ('community_profile_crawler.py',),
     'community_neighbourhoods': ('community_neighbourhood_crawler.py',),
