@@ -48,9 +48,10 @@ class CompactGeneratedTests(unittest.TestCase):
             with SnapshotArchive(root) as archive:
                 put_file = archive.put_file
                 def changing_put(path):
+                    # Change the entry just archived so the post-archive check catches it
+                    # regardless of the directory-listing order.
                     result = put_file(path)
-                    if Path(path) == second:
-                        first.write_bytes(b'changed during archive')
+                    Path(path).write_bytes(b'changed during archive')
                     return result
                 with patch.object(archive, 'put_file', side_effect=changing_put):
                     with self.assertRaisesRegex(ValueError, 'changed before archive cleanup'):

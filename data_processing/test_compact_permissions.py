@@ -15,10 +15,11 @@ from snapshot_archive import SnapshotArchive
 class CompactPermissionsTests(unittest.TestCase):
     def deny_scandir(self, denied):
         original = os.scandir
-        def scan(path):
-            if Path(path) == denied:
+        def scan(path, *args, **kwargs):
+            # shutil.rmtree on POSIX may pass an int file descriptor; deny only the exact path.
+            if isinstance(path, (str, os.PathLike)) and Path(path) == denied:
                 raise PermissionError(errno.EACCES, 'Access denied', str(denied))
-            return original(path)
+            return original(path, *args, **kwargs)
         return patch('compact_storage.os.scandir', side_effect=scan)
 
     def make_tree(self, root, name):
