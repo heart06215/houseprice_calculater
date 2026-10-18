@@ -89,3 +89,5 @@ REA 分析了捕获的网关脚本、验证码内联脚本，以及该页面引�
 - [update-data 39089466466](https://github.com/heart06215/houseprice_calculater/actions/runs/39089466466) 每日主看板流程成功（`state=completed, exit_code=0`）：安居客行情页深圳、广州、杭州、南京均为 `parsed`，本轮 `market_quotes=7`；未再出现“首个验证页即终止整批”。
 
 结论边界：**移动房源**两段式链路已获云端服务端验证通过并导出 60 条；**桌面房源**虽然走到了二次 `type=5` 且服务端返回 `verified=true`，随后仍被重新挑战，本轮桌面记录为 0。每日自动化的实际数据来源仍是移动房源，桌面入口保留在目标列表内继续复验，不把它说成已稳定通过。归档权限与变更检测两项既有回归在 Linux runner 上同时修复，否则 `update-data` 会在采集前失败。
+
+修复后又在 `main` 与 `codex/anonymous-anjuke` 上各补触发 3 次全新 runner 复验：[39091952947](https://github.com/heart06215/houseprice_calculater/actions/runs/39091952947)、[39091957506](https://github.com/heart06215/houseprice_calculater/actions/runs/39091957506)、[39091962331](https://github.com/heart06215/houseprice_calculater/actions/runs/39091962331)，全部成功，日志中的可解析记录均为价格 9、小区目录 100、移动房源 60，桌面房源仍为 `challenge` 0 条。连同复验前的两轮和 `update-data`，修复后连续 6 次全新 runner 均为 `accepted=true`；这仍不是长期稳定性的承诺。
