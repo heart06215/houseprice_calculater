@@ -24,7 +24,7 @@ import community_catalog as catalog
 OUT = ROOT / 'output/community_directory'
 GROUP_BY_SOURCE = {'我爱我家': '5i5j', '58同城': '58', '安居客': 'anjuke'}
 # Verified against OSM same-name points (see coordinate_audit.py); convert before matching.
-SOURCE_COORD_SYSTEM = {'5i5j': 'bd09'}
+SOURCE_COORD_SYSTEM = {'5i5j': 'bd09', '58': 'bd09'}
 CONVERT_TO_WGS84 = {'bd09': bd09_to_wgs84, 'gcj02': gcj02_to_wgs84}
 
 

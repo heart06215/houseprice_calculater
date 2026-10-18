@@ -135,6 +135,28 @@ def parse_58_list(html, *, city, url, fetched_at, raw=None, snapshot_path=None):
     return list(records.values())
 
 
+def parse_58_detail(html):
+    """58 详情页：meta location 的 coord=lng,lat 是稳定坐标出处；ID/地址/年限同页补充。"""
+    doc = BeautifulSoup(html or '', 'html.parser')
+    lng = lat = None
+    meta = doc.find('meta', attrs={'name': 'location'})
+    if meta and meta.get('content'):
+        match = re.search(r'coord=(-?\d+\.\d+),(-?\d+\.\d+)', meta['content'])
+        if match:
+            lng, lat = float(match.group(1)), float(match.group(2))
+    title = doc.select_one('h1.title') or doc.select_one('.community-title .title')
+    sub = doc.select_one('.sub-title')
+    text = re.sub(r'\s+', ' ', doc.get_text(' ', strip=True))
+    year = re.search(r'(\d{4})\s*年建成', text)
+    return dict(name=title.get_text(' ', strip=True) if title else None,
+                lng=lng, lat=lat,
+                coord_system=None,  # verified separately by coordinate_audit before merging
+                address=sub.get_text(' ', strip=True) if sub else None,
+                year_text=(year.group(0) if year else None),
+                year=int(year.group(1)) if year else None,
+                building_type=None)
+
+
 def parse_58_districts(html, url):
     """58 列表页的区县入口：/xiaoqu/{数字}/ 才是区县，详情 slug 不是。"""
     doc = BeautifulSoup(html or '', 'html.parser')
@@ -471,6 +493,32 @@ def collect_58_districts(city, *, slug, max_districts=0, pages_per_district=50, 
             report['districts'].append(dict(name=district['name'], url=district['url'],
                                             pages=pages_done, count=len(store)))
             print(json.dumps(report['districts'][-1], ensure_ascii=False), flush=True)
+        if details > 0:
+            targets = [r for r in store.values() if r.get('detail_url')][:details]
+            for record in targets:
+                if time.monotonic() > deadline:
+                    report['errors'].append('detail_time_budget_exhausted')
+                    break
+                attempt = None
+                for retry in range(2):
+                    attempt = fetch_page(page, context, record['detail_url'], out,
+                                         f'58_detail_{record["name"]}_{retry}')
+                    if not attempt['challenge']:
+                        break
+                    time.sleep(2)
+                if attempt['challenge']:
+                    report['errors'].append(f'detail_challenge:{record["name"]}')
+                    continue
+                parsed = parse_58_detail(attempt['html'])
+                for field in ('lng', 'lat', 'coord_system', 'address', 'year_text', 'year',
+                              'building_type'):
+                    if parsed.get(field) not in (None, '', []):
+                        record[field] = parsed[field]
+                record['detail_fetched_at'] = now()
+                record['detail_snapshot'] = snapshot('community_directory', attempt['html'].encode('utf-8'),
+                                                     'raw', 'html').get('sha256')
+                report['details'] += 1
+                time.sleep(interval)
     return finalize(out, '58', city, list(store.values()), report)
 
 

@@ -53,6 +53,18 @@ class PublishTests(unittest.TestCase):
         self.assertEqual(unverified['coord_system'], None)
         self.assertEqual(unverified['precision_level'], 'unknown')
 
+    def test_58_coordinates_also_convert_from_bd09(self):
+        from coordinate_audit import bd09_to_wgs84
+        record = dict(source='58同城', source_group='58', city='北京', name='美景东方',
+                      detail_url='https://bj.58.com/xiaoqu/meijingdongfang/',
+                      lng=116.476626, lat=39.87526)
+        obs = P.observation(record, {'北京': '110100'})
+        self.assertEqual(obs['coord_system'], 'wgs84')
+        self.assertEqual(obs['precision_level'], 'point')
+        lat, lng = bd09_to_wgs84(39.87526, 116.476626)
+        self.assertAlmostEqual(obs['latitude'], lat)
+        self.assertAlmostEqual(obs['longitude'], lng)
+
     def test_merge_creates_community_only_for_verified_coordinates(self):
         with tempfile.TemporaryDirectory() as folder:
             root = Path(folder)
