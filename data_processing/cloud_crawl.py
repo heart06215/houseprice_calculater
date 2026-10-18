@@ -21,6 +21,8 @@ CRAWLERS = {
     'stats_gov': ('stats_gov_crawler.py',),
     'income': ('income_crawler.py', '--crawl'),
     'macro': ('macro_crawler.py',),
+    'vacancy': ('vacancy_crawler.py', '--crawl'),
+    'gdp': ('gdp_crawler.py', '--crawl'),
     'lpr': ('macro_crawler.py', '--kind', 'lpr'),
     'realestate': ('macro_crawler.py', '--kind', 'realestate'),
     'income_history': ('income_crawler.py', '--income-history'),
@@ -67,10 +69,14 @@ def parse_arguments(value, crawler=None):
     args = json.loads(value)
     if not isinstance(args, list) or any(not isinstance(a, str) or '\0' in a for a in args):
         raise ValueError('args-json must be a JSON array of strings')
-    # All cloud jobs are unattended; keep desktop-only diagnostics explicit locally.
-    if any(a in ('--headful', '--edge', '--manual') or
-           a.startswith(('--edge=', '--headful=')) for a in args):
-        raise ValueError('Cloud collectors require unattended Chromium; remove desktop-only flags')
+    # All cloud jobs are unattended and must never inherit a local browser profile,
+    # credential store or system-browser channel.
+    desktop_flags = ('--headful', '--edge', '--manual', '--profile-dir', '--user-data-dir',
+                     '--executable-path', '--channel', '--browser-profile', '--remote-debugging-port')
+    for value in args:
+        if value in desktop_flags or any(value.startswith(flag + '=') for flag in desktop_flags):
+            raise ValueError('Cloud collectors require unattended Chromium with a fresh profile; '
+                             'remove desktop-only/local-state flags')
     for index, value in enumerate(args):
         if value in ('--browser=edge', '--browser=chrome') or (
             value == '--browser' and args[index + 1:index + 2] in (['edge'], ['chrome'])
@@ -95,7 +101,7 @@ def check_runtime():
     for module in ('requests', 'bs4', 'geographiclib.geodesic', 'playwright.sync_api'):
         importlib.import_module(module)
     # These parser modules underpin the registered collectors and their evidence.
-    for module in ('stats_gov_crawler', 'income_crawler', 'macro_crawler', 'cih_land',
+    for module in ('stats_gov_crawler', 'income_crawler', 'macro_crawler', 'vacancy_crawler', 'gdp_crawler', 'cih_land',
                    'anjuke_collect', 'fang_crawler', 'hydrology_crawler', 'public_location_crawler'):
         importlib.import_module(module)
     subprocess.run(['node', '-e', 'if (JSON.parse("{\\"ok\\":true}").ok !== true) process.exit(1)'],
