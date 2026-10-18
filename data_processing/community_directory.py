@@ -395,11 +395,39 @@ def collect_58_districts(city, *, slug, max_districts=0, pages_per_district=50, 
                          viewport={'width': 1440, 'height': 1000}) as context:
         page = context.new_page()
         base = list_url('58', slug, 1)
-        result = fetch_page(page, context, base, out, f'58_{slug}_base')
+        result = None
+        for attempt in range(3):
+            result = fetch_page(page, context, base, out, f'58_{slug}_base_{attempt}')
+            if not result['challenge']:
+                break
+            time.sleep(3)
+        districts = [] if result['challenge'] else parse_58_districts(result['html'], result['final_url'])
         if result['challenge']:
             report['errors'].append('challenge_on_base')
+        if not districts:
+            # The gateway can be transient; fall back to the total-list pagination.
+            for page_no in range(1, pages_per_district + 1):
+                if time.monotonic() > deadline:
+                    report['errors'].append('time_budget_exhausted')
+                    break
+                url = list_url('58', slug, page_no)
+                attempt = fetch_page(page, context, url, out, f'58_{slug}_list_{page_no}')
+                if attempt['challenge']:
+                    report['errors'].append(f'challenge:list:p{page_no}')
+                    break
+                raw = snapshot('community_directory', attempt['html'].encode('utf-8'), 'raw', 'html')
+                records = parse_58_list(attempt['html'], city=city, url=attempt['final_url'],
+                                        fetched_at=now(), raw=raw)
+                before = len(store)
+                merge_records(store, records)
+                new = len(store) - before
+                report['pages'].append(dict(district=None, page=page_no, records=len(records),
+                                            new=new, url=url))
+                report['list_records'] = len(store)
+                if new == 0 and page_no > 1:
+                    break
+                time.sleep(interval)
             return finalize(out, '58', city, list(store.values()), report)
-        districts = parse_58_districts(result['html'], result['final_url'])
         if max_districts:
             districts = districts[:max_districts]
         for district in districts:
@@ -413,8 +441,13 @@ def collect_58_districts(city, *, slug, max_districts=0, pages_per_district=50, 
                     report['errors'].append('time_budget_exhausted')
                     break
                 url = district_page_url(district['url'], page_no)
-                attempt = fetch_page(page, context, url, out,
-                                     f'58_{slug}_{district["name"]}_{page_no}')
+                attempt = None
+                for retry in range(2):
+                    attempt = fetch_page(page, context, url, out,
+                                         f'58_{slug}_{district["name"]}_{page_no}_{retry}')
+                    if not attempt['challenge']:
+                        break
+                    time.sleep(2)
                 if attempt['challenge']:
                     report['errors'].append(f'challenge:{district["name"]}:p{page_no}')
                     break
