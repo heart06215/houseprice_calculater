@@ -78,4 +78,14 @@ REA 分析了捕获的网关脚本、验证码内联脚本，以及该页面引�
 
 行情页 `market_crawler` 原先固定使用 `User-Agent: Mozilla/5.0`，并且一遇到验证就 `break` 终止整批城市。现在改为真实桌面请求头，HTTP 被拦时回退到同一套匿名浏览器验证流程，并且连续三次拦截才停止本批，单城失败不再中断其他城市。`browser_fetch()` 复用该流程，供行情等没有自己浏览器代码的采集器调用。本机把 HTTP 结果强制视为验证页后，回退流程实际进入北京行情页并解析出 1 条报价，证明回退与解析链路可用。
 
-`anjuke-anonymous-live` 工作流新增每日 `09:00 UTC`（北京时间 17:00）定时运行，保留手动诊断入口；`cloud-crawl → anjuke_anonymous` 的默认目标加入 `beijing_properties`。这些改动仍需新的云端运行报告来确认 runner IP 上的实际通过情况和导出数量。
+`anjuke-anonymous-live` 工作流新增每日 `09:00 UTC`（北京时间 17:00）定时运行，保留手动诊断入口；`cloud-crawl → anjuke_anonymous` 的默认目标加入 `beijing_properties`。
+
+## 2026-10-18 云端复验
+
+修复合并到 `main`（提交 `a58b1168`）后，在全新 GitHub runner 上完成复验：
+
+- 推送自动触发的 [anjuke-anonymous-live 39044516426](https://github.com/heart06215/houseprice_calculater/actions/runs/39044516426) 走正式 `cloud_crawl.py --crawler anjuke_anonymous`：`accepted=true`，导出价格 9、小区目录 100、房源 60，`account_used=false`、`imported_storage=false`、`restored_cache=false`。移动房源报告包含 `open_site_challenge`、`solve_slider`，`c.dun.163.com/api/v3/get` 为 `type=2`、`v3/check` 为 `verified=true`；桌面房源也进入二次 `type=5` 并返回 `verified=true`。
+- [cloud-crawl 39044526871](https://github.com/heart06215/houseprice_calculater/actions/runs/39044526871) 手动调度同一入口，同样成功。
+- [update-data 39089466466](https://github.com/heart06215/houseprice_calculater/actions/runs/39089466466) 每日主看板流程成功（`state=completed, exit_code=0`）：安居客行情页深圳、广州、杭州、南京均为 `parsed`，本轮 `market_quotes=7`；未再出现“首个验证页即终止整批”。
+
+结论边界：**移动房源**两段式链路已获云端服务端验证通过并导出 60 条；**桌面房源**虽然走到了二次 `type=5` 且服务端返回 `verified=true`，随后仍被重新挑战，本轮桌面记录为 0。每日自动化的实际数据来源仍是移动房源，桌面入口保留在目标列表内继续复验，不把它说成已稳定通过。归档权限与变更检测两项既有回归在 Linux runner 上同时修复，否则 `update-data` 会在采集前失败。

@@ -96,7 +96,9 @@
 
 [正式入口独立复验 39026016031](https://github.com/heart06215/houseprice_calculater/actions/runs/39026016031)通过调度器再次完成滑块验证并导出 9/100/60 条记录，`accepted=true`，无账号、无存储导入、无缓存恢复。完整防护分析和各轮失败/成功边界见 [ANJUKE_DEFENSE.md](ANJUKE_DEFENSE.md)。
 
-2026-10-17 后续修复了桌面房源“滑块已通过仍被拦截”的两段式验证原因：网关滑块成功后站点会再跳到 `esfcommon-captcha-wy`，要求一次 `type=5` 一键智能验证。`anjuke_anonymous.py` 现在按可见元素依次处理打开验证、重复滑块、点击智能验证，并把每轮动作写入报告；默认目标加入 `beijing_properties`。行情采集 `market_crawler` 改用真实浏览器请求头，HTTP 被拦时回退到同一套匿名验证流程，且单城失败不再终止整批。`anjuke-anonymous-live` 增加北京时间每日 17:00 的定时运行。上述链路已在本机真实被拦截的 IP 上完整复现并解析出业务记录，但**仍需一次新的云端运行报告**确认 GitHub runner 上的通过率与导出数量。
+2026-10-17 后续修复了桌面房源“滑块已通过仍被拦截”的两段式验证原因：网关滑块成功后站点会再跳到 `esfcommon-captcha-wy`，要求一次 `type=5` 一键智能验证。`anjuke_anonymous.py` 现在按可见元素依次处理打开验证、重复滑块、点击智能验证，并把每轮动作写入报告；默认目标加入 `beijing_properties`。行情采集 `market_crawler` 改用真实浏览器请求头，HTTP 被拦时回退到同一套匿名验证流程，且单城失败不再终止整批。`anjuke-anonymous-live` 增加北京时间每日 17:00 的定时运行。
+
+2026-10-18 已在 `main` 上完成云端复验：[anjuke-anonymous-live 39044516426](https://github.com/heart06215/houseprice_calculater/actions/runs/39044516426) 与 [cloud-crawl 39044526871](https://github.com/heart06215/houseprice_calculater/actions/runs/39044526871) 均成功，`accepted=true`、导出 9/100/60、`account_used=false`；移动房源在空上下文中完成 `type=2` 滑块与后续验证，服务端 `verified=true`。[update-data 39089466466](https://github.com/heart06215/houseprice_calculater/actions/runs/39089466466) 每日主看板流程成功，安居客行情页深圳、广州、杭州、南京均为 `parsed`，本轮 `market_quotes=7`。桌面房源本轮仍停在挑战页（0 条），未纳入已稳定通过的范围。
 
 `anjuke-anonymous-live` 提供相同正式入口及多个诊断场景，在全新 GitHub runner 上执行，不导入 Cookie、浏览器配置、远程浏览器、个人账号或旧采集缓存。每个浏览器目标使用空上下文；只解析本轮收到的响应。价格、小区目录和房源三类均获得有效记录时才通过，否则任务以非零退出，并保留响应快照和 `report.json` 七天供检查。
 
