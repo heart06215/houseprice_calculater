@@ -43,6 +43,7 @@ CRAWLERS = {
     'fang': ('fang_crawler.py',),
     'fang_loupan': ('fang_loupan.py',),
     'communities': ('community_crawler.py',),
+    'community_directory': ('community_directory.py',),
     'community_profiles': ('community_profile_crawler.py',),
     'community_neighbourhoods': ('community_neighbourhood_crawler.py',),
     'hydrology': ('hydrology_crawler.py',),

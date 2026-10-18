@@ -33,6 +33,7 @@ on:
           - fang
           - fang_loupan
           - communities
+          - community_directory
           - community_profiles
           - community_neighbourhoods
           - hydrology
