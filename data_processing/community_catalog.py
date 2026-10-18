@@ -45,7 +45,7 @@ PROXIMITY_CELL_DEG = 0.01
 SUBSTANTIVE_SIGNALS = ('来源映射', '名称一致', '别名一致', '名称相似', '地址', '邻近位置')
 
 # One physical source object must never split across aliases (房天下 vs fang).
-SOURCE_ALIASES = {'房天下': 'fang'}
+SOURCE_ALIASES = {'房天下': 'fang', '我爱我家': '5i5j', '58同城': '58', '安居客': 'anjuke'}
 
 
 def normalize_source(source):
