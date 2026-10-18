@@ -45,7 +45,7 @@
 | `fang_loupan` | 房天下楼盘库（开盘年代、物业/建筑类别、经纬度） | `["--cities","北京,上海","--max-pages","3","--max-details","60"]`；深分页只需 `otherid` cookie |
 | `beike` | 贝壳历史 HTTP 适配器 | `["--cities","北京","--pages","1"]`；结果在 `output/beike/` |
 | `communities` | 小区位置库 | `["--cities","北京","--max-cities","1"]` |
-| `community_directory` | 进阶小区目录：5i5j（免登录 HTTP）/ 58 / 安居客移动（浏览器滑块） | 必填 `--source`，如 `["--source","5i5j","--city","北京","--pages","3","--details","5"]`、`["--source","58","--city","北京","--pages","3"]` 或 `["--source","anjuke","--city","北京","--pages","7"]` |
+| `community_directory` | 进阶小区目录：5i5j（免登录 HTTP）/ 58 / 安居客移动（浏览器滑块） | 必填 `--source`，如 `["--source","5i5j","--city","北京","--pages","3","--details","5"]`、`["--source","58","--city","北京","--districts","17","--pages","10"]`（58 区县分片轮转）或 `["--source","anjuke","--city","北京","--pages","7"]` |
 | `community_profiles` | 小区资料补充 | `["--city","北京","--max-pages","1"]` |
 | `community_neighbourhoods` | 住宅片区覆盖补充 | `["--cities","北京,上海"]` |
 | `hydrology` | 水系与测地面积 | `["--cities","北京","--max-cities","1"]` |

@@ -18,10 +18,14 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from data_store import ROOT, atomic_json
+from coordinate_audit import bd09_to_wgs84, gcj02_to_wgs84
 import community_catalog as catalog
 
 OUT = ROOT / 'output/community_directory'
 GROUP_BY_SOURCE = {'我爱我家': '5i5j', '58同城': '58', '安居客': 'anjuke'}
+# Verified against OSM same-name points (see coordinate_audit.py); convert before matching.
+SOURCE_COORD_SYSTEM = {'5i5j': 'bd09'}
+CONVERT_TO_WGS84 = {'bd09': bd09_to_wgs84, 'gcj02': gcj02_to_wgs84}
 
 
 def now():
@@ -90,8 +94,18 @@ def observation(record, codes):
     start, end, precision, text = year_fields(record)
     forms, subtypes = residential_forms(record)
     lng, lat = record.get('lng'), record.get('lat')
-    declared = record.get('coord_system')
-    verified = declared in ('wgs84', 'gcj02', 'bd09')
+    declared = record.get('coord_system') or SOURCE_COORD_SYSTEM.get(source_group(record))
+    if lng is not None and lat is not None:
+        if declared in CONVERT_TO_WGS84:
+            lat, lng = CONVERT_TO_WGS84[declared](lat, lng)
+            coord_system, precision = 'wgs84', 'point'
+        elif declared == 'wgs84':
+            coord_system, precision = 'wgs84', 'point'
+        else:
+            # Unverified source coordinates stay on the payload but never match as WGS84.
+            coord_system, precision = 'other', 'unknown'
+    else:
+        coord_system, precision = None, 'unknown'
     return dict(
         source=source_group(record), source_id=source_object_id(record),
         name=record.get('name'), aliases=record.get('aliases') or [],
@@ -99,10 +113,7 @@ def observation(record, codes):
         address=record.get('address') or record.get('address_text') or record.get('location_text'),
         city_code=codes.get(record.get('city')), district_code=record.get('district_code'),
         longitude=lng, latitude=lat,
-        # Unverified source coordinates are kept on the source payload but never
-        # compared as WGS84 and never create a map community until verified.
-        coord_system=(declared if verified else ('other' if lng is not None and lat is not None else None)),
-        precision_level=('point' if verified else 'unknown'),
+        coord_system=coord_system, precision_level=precision,
         has_osm=False, year_start=start, year_end=end, year_precision=precision,
         year_meaning='completion', year_scope='community', year_label=text,
         residential_forms=forms, villa_subtypes=subtypes,

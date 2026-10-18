@@ -39,14 +39,21 @@ class PublishTests(unittest.TestCase):
         self.assertEqual(forms, ['别墅'])
         self.assertEqual(subtypes, [])
 
-    def test_unverified_coordinates_never_assert_wgs84(self):
+    def test_verified_5i5j_coordinates_convert_from_bd09(self):
+        from coordinate_audit import bd09_to_wgs84
         obs = P.observation(RECORDS[0], {'北京': '110100'})
         self.assertEqual(obs['source'], '5i5j')
-        self.assertEqual(obs['coord_system'], 'other')
-        self.assertEqual(obs['precision_level'], 'unknown')
+        self.assertEqual(obs['coord_system'], 'wgs84')
+        self.assertEqual(obs['precision_level'], 'point')
         self.assertEqual(obs['city_code'], '110100')
+        lat, lng = bd09_to_wgs84(RECORDS[0]['lat'], RECORDS[0]['lng'])
+        self.assertAlmostEqual(obs['latitude'], lat)
+        self.assertAlmostEqual(obs['longitude'], lng)
+        unverified = P.observation(RECORDS[1], {'北京': '110100'})
+        self.assertEqual(unverified['coord_system'], None)
+        self.assertEqual(unverified['precision_level'], 'unknown')
 
-    def test_merge_registers_source_entities_without_polluting_map(self):
+    def test_merge_creates_community_only_for_verified_coordinates(self):
         with tempfile.TemporaryDirectory() as folder:
             root = Path(folder)
             (root / 'records.json').write_text(json.dumps({'records': RECORDS}), encoding='utf-8')
@@ -54,8 +61,10 @@ class PublishTests(unittest.TestCase):
             report = P.merge(root / 'records.json', db=db, out=root)
             self.assertEqual(report['records'], 2)
             self.assertEqual(report['by_source'], {'5i5j': 1, '58': 1})
-            # Unverified coordinates and missing coordinates both queue as pending location.
-            self.assertEqual(report['actions'].get('pending_location'), 2)
+            # 5i5j has verified BD-09 -> WGS84 coords and becomes a record;
+            # 58 has no coordinates so it only queues as pending location.
+            self.assertEqual(report['actions'].get('new_record'), 1)
+            self.assertEqual(report['actions'].get('pending_location'), 1)
             conn = catalog.connect(db)
             try:
                 sources = {r['source'] for r in conn.execute('SELECT DISTINCT source FROM source_entities')}
@@ -63,7 +72,7 @@ class PublishTests(unittest.TestCase):
             finally:
                 conn.close()
             self.assertEqual(sources, {'5i5j', '58'})
-            self.assertEqual(placed, 0)
+            self.assertEqual(placed, 1)
 
 
 if __name__ == '__main__':

@@ -32,6 +32,13 @@ FIVEI5J_DETAIL = '''<html><body>
 </body></html>'''
 
 
+FIFTY_EIGHT_DISTRICTS = '''<ul class="region-parents">
+<li><a href="https://bj.58.com/xiaoqu/" class="active">不限</a></li>
+<li><a href="https://bj.58.com/xiaoqu/1142/">朝阳</a></li>
+<li><a href="https://bj.58.com/xiaoqu/1143/">海淀</a></li>
+</ul><a class="li-row" href="https://bj.58.com/xiaoqu/meijingdongfang/">美景东方</a>'''
+
+
 class CommunityDirectoryTests(unittest.TestCase):
     def test_split_location_variants(self):
         self.assertEqual(D.split_location('朝阳 - 华威桥 - 松榆南路38号'),
@@ -69,6 +76,14 @@ class CommunityDirectoryTests(unittest.TestCase):
         self.assertEqual(D.list_url('5i5j', 'bj', 1), 'https://m.5i5j.com/bj/xiaoqu/')
         self.assertEqual(D.list_url('5i5j', 'bj', 3), 'https://m.5i5j.com/bj/xiaoqu/p3/')
 
+    def test_parse_58_districts_keeps_only_numeric_region_links(self):
+        districts = D.parse_58_districts(FIFTY_EIGHT_DISTRICTS, 'https://bj.58.com/xiaoqu/')
+        self.assertEqual([d['name'] for d in districts], ['朝阳', '海淀'])
+        self.assertEqual(D.district_page_url('https://bj.58.com/xiaoqu/1142/', 1),
+                         'https://bj.58.com/xiaoqu/1142/')
+        self.assertEqual(D.district_page_url('https://bj.58.com/xiaoqu/1142/', 2),
+                         'https://bj.58.com/xiaoqu/1142/p2/')
+
     def test_source_city_slugs_are_per_source_and_allow_missing_cities(self):
         self.assertEqual(D.source_city_slug('5i5j', '北京'), 'bj')
         self.assertEqual(D.source_city_slug('5i5j', '上海'), 'sh')
@@ -99,7 +114,9 @@ class CommunityDirectoryTests(unittest.TestCase):
         self.assertEqual(detail['building_type'], '板楼')
         self.assertAlmostEqual(detail['lng'], 115.964401)
         self.assertAlmostEqual(detail['lat'], 39.726601)
-        self.assertIn('待核', detail['coord_system_evidence'])
+        self.assertEqual(detail['coord_system'], 'bd09')
+        self.assertIn('BD-09', detail['coord_system_evidence'])
+        self.assertIn('OSM', detail['coord_system_evidence'])
 
     def test_merge_records_backfills_missing_fields_only(self):
         store = {}

@@ -135,6 +135,25 @@ def parse_58_list(html, *, city, url, fetched_at, raw=None, snapshot_path=None):
     return list(records.values())
 
 
+def parse_58_districts(html, url):
+    """58 列表页的区县入口：/xiaoqu/{数字}/ 才是区县，详情 slug 不是。"""
+    doc = BeautifulSoup(html or '', 'html.parser')
+    found = {}
+    for anchor in doc.select('a[href*="/xiaoqu/"]'):
+        href = anchor.get('href') or ''
+        match = re.search(r'/xiaoqu/(\d+)/?$', href)
+        name = anchor.get_text(' ', strip=True)
+        if match and name and name != '不限':
+            found[urljoin(url, href)] = name
+    return [dict(name=name, url=link) for link, name in sorted(found.items())]
+
+
+def district_page_url(district_url, page):
+    if page <= 1:
+        return district_url
+    return district_url.rstrip('/') + f'/p{page}/'
+
+
 def merge_records(store, incoming):
     for record in incoming:
         key = record.get('detail_url') or record.get('name')
@@ -216,7 +235,10 @@ def parse_5i5j_detail(html):
                 building_type=building.group(1) if building else None,
                 lng=float(lng.group(1)) if lng else None,
                 lat=float(lat.group(1)) if lat else None,
-                coord_system_evidence='来源页面含 Lng/Lat 但未标注坐标系，候选 GCJ-02/BD-09，待核' if lng else None)
+                # Verified 2026-10-18 by同名互证 against OSM Beijing (median 31 m).
+                coord_system='bd09' if lng else None,
+                coord_system_evidence=('来源页面含 Lng/Lat；与 OSM 同名点互证判定为 BD-09'
+                                       '(中位 31 m)，合并时转 WGS84') if lng else None)
 
 
 def http_get(session, url, *, out, key, retries=3):
@@ -286,7 +308,7 @@ def collect_5i5j(city, *, pages=3, details=0, interval=2.0, out=OUT, max_seconds
                 continue
             parsed = parse_5i5j_detail(html)
             for field in ('year_text', 'year', 'year_end', 'building_type', 'lng', 'lat',
-                          'coord_system_evidence'):
+                          'coord_system', 'coord_system_evidence'):
                 if parsed.get(field) not in (None, '', []):
                     record[field] = parsed[field]
             record['detail_snapshot'] = meta.get('sha256')
@@ -346,7 +368,81 @@ def fetch_page(page, context, url, out, key, *, solve=True, deadline_s=60, timeo
                 challenge=page_is_challenge(final_url, html))
 
 
-def collect(source, city, *, pages=3, details=0, interval=2.0, out=OUT, max_seconds=2400):
+def finalize(out, source, city, records, report):
+    out = Path(out)
+    out.mkdir(parents=True, exist_ok=True)
+    (out / f'{source}_{city}.jsonl').write_text(
+        ''.join(json.dumps(r, ensure_ascii=False) + '\n' for r in records), encoding='utf-8')
+    atomic_json(out / 'records.json', {'schema': 'community_directory/v1', 'source': source,
+                                       'city': city, 'fetched_at': now(), 'count': len(records),
+                                       'records': records})
+    report.update(finished_at=now(), count=len(records))
+    atomic_json(out / 'report.json', report)
+    return report
+
+
+def collect_58_districts(city, *, slug, max_districts=0, pages_per_district=50, details=0,
+                         interval=2.0, out=OUT, max_seconds=3600):
+    """58 全量轮转：总列表 → 区县入口 → 每区县翻页，去重累积。"""
+    from browser_runtime import browser_context
+    out = Path(out)
+    out.mkdir(parents=True, exist_ok=True)
+    report = dict(schema='community_directory/v1', source='58', city=city, mode='districts',
+                  started_at=now(), districts=[], pages=[], list_records=0, details=0, errors=[])
+    store = {}
+    deadline = time.monotonic() + max_seconds
+    with browser_context(headless=True, locale='zh-CN', timezone_id='Asia/Shanghai',
+                         viewport={'width': 1440, 'height': 1000}) as context:
+        page = context.new_page()
+        base = list_url('58', slug, 1)
+        result = fetch_page(page, context, base, out, f'58_{slug}_base')
+        if result['challenge']:
+            report['errors'].append('challenge_on_base')
+            return finalize(out, '58', city, list(store.values()), report)
+        districts = parse_58_districts(result['html'], result['final_url'])
+        if max_districts:
+            districts = districts[:max_districts]
+        for district in districts:
+            if time.monotonic() > deadline:
+                report['errors'].append('time_budget_exhausted')
+                break
+            empty = 0
+            pages_done = 0
+            for page_no in range(1, pages_per_district + 1):
+                if time.monotonic() > deadline:
+                    report['errors'].append('time_budget_exhausted')
+                    break
+                url = district_page_url(district['url'], page_no)
+                attempt = fetch_page(page, context, url, out,
+                                     f'58_{slug}_{district["name"]}_{page_no}')
+                if attempt['challenge']:
+                    report['errors'].append(f'challenge:{district["name"]}:p{page_no}')
+                    break
+                raw = snapshot('community_directory', attempt['html'].encode('utf-8'), 'raw', 'html')
+                records = parse_58_list(attempt['html'], city=city, url=attempt['final_url'],
+                                        fetched_at=now(), raw=raw)
+                before = len(store)
+                merge_records(store, records)
+                new = len(store) - before
+                pages_done += 1
+                report['pages'].append(dict(district=district['name'], page=page_no,
+                                            records=len(records), new=new, url=url))
+                report['list_records'] = len(store)
+                if new == 0:
+                    empty += 1
+                    if empty >= 2:
+                        break
+                else:
+                    empty = 0
+                time.sleep(interval)
+            report['districts'].append(dict(name=district['name'], url=district['url'],
+                                            pages=pages_done, count=len(store)))
+            print(json.dumps(report['districts'][-1], ensure_ascii=False), flush=True)
+    return finalize(out, '58', city, list(store.values()), report)
+
+
+def collect(source, city, *, pages=3, details=0, interval=2.0, out=OUT, max_seconds=2400,
+            districts=0):
     if source == '5i5j':
         return collect_5i5j(city, pages=pages, details=details, interval=interval,
                             out=out, max_seconds=max_seconds)
@@ -354,6 +450,10 @@ def collect(source, city, *, pages=3, details=0, interval=2.0, out=OUT, max_seco
     slug = source_city_slug(source, city)
     if not slug:
         raise ValueError(f'{source} has no configured city entry for {city}')
+    if source == '58' and districts:
+        return collect_58_districts(city, slug=slug, max_districts=districts,
+                                    pages_per_district=pages, details=details,
+                                    interval=interval, out=out, max_seconds=max_seconds)
     out = Path(out)
     out.mkdir(parents=True, exist_ok=True)
     report = dict(schema='community_directory/v1', source=source, city=city, started_at=now(),
@@ -417,16 +517,7 @@ def collect(source, city, *, pages=3, details=0, interval=2.0, out=OUT, max_seco
                 except Exception as exc:
                     report['errors'].append(f'detail:{record["name"]}:{type(exc).__name__}')
                 time.sleep(interval)
-    records = list(store.values())
-    payload = {'schema': 'community_directory/v1', 'source': source, 'city': city,
-               'fetched_at': now(), 'count': len(records), 'records': records}
-    (out / f'{source}_{city}.jsonl').write_text(
-        ''.join(json.dumps(r, ensure_ascii=False) + '\n' for r in records), encoding='utf-8')
-    atomic_json(out / 'records.json', payload)
-    report['finished_at'] = now()
-    report['count'] = len(records)
-    atomic_json(out / 'report.json', report)
-    return report
+    return finalize(out, source, city, list(store.values()), report)
 
 
 def main(argv=None):
@@ -437,15 +528,18 @@ def main(argv=None):
     parser.add_argument('--city', default='北京')
     parser.add_argument('--pages', type=int, default=3)
     parser.add_argument('--details', type=int, default=0, help='仅 anjuke：详情页补充数量')
+    parser.add_argument('--districts', type=int, default=0,
+                        help='仅 58：按区县分片轮转，最多 N 个区县（0 关闭，99 视为全部）')
     parser.add_argument('--interval', type=float, default=2.0)
     parser.add_argument('--out', type=Path, default=OUT)
     args = parser.parse_args(argv)
-    if not 1 <= args.pages <= 60 or not 0 <= args.details <= 2000 or args.interval < 1:
-        parser.error('pages 1..60, details 0..2000, interval >= 1')
+    if not 1 <= args.pages <= 60 or not 0 <= args.details <= 2000 or args.interval < 1 \
+            or not 0 <= args.districts <= 200:
+        parser.error('pages 1..60, details 0..2000, districts 0..200, interval >= 1')
     if not source_city_slug(args.source, args.city):
         parser.error(f'{args.source} 未配置城市入口: ' + args.city)
     report = collect(args.source, args.city, pages=args.pages, details=args.details,
-                     interval=args.interval, out=args.out)
+                     interval=args.interval, out=args.out, districts=args.districts)
     print(json.dumps({k: report[k] for k in ('source', 'city', 'list_records', 'details', 'count', 'errors')},
                      ensure_ascii=False, indent=2))
     return 0 if report.get('count') else 2
