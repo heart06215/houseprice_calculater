@@ -35,9 +35,9 @@ class DispatchTests(unittest.TestCase):
                 C.parse_arguments(value)
         for args in (['--headful'], ['--headful=true'], ['--edge'], ['--edge=x'],
                      ['--manual'], ['--browser=edge'], ['--browser', 'chrome'],
-                     ['--profile-dir', r'C:\Users\me\profile'], ['--user-data-dir=/tmp/p'],
+                     ['--profile-dir', r'X:\crawler-profile'], ['--user-data-dir=/tmp/p'],
                      ['--executable-path', 'msedge.exe'], ['--channel=msedge'],
-                     ['--browser-profile', 'C:/local'], ['--remote-debugging-port=9222']):
+                     ['--browser-profile', 'X:/crawler-profile'], ['--remote-debugging-port=9222']):
             with self.subTest(args=args), self.assertRaises(ValueError):
                 C.parse_arguments(json.dumps(args))
         self.assertEqual(C.parse_arguments('["--browser", "chromium"]'), ['--browser', 'chromium'])
