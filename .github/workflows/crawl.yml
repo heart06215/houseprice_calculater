@@ -13,6 +13,8 @@ on:
           - stats_gov
           - income
           - macro
+          - vacancy
+          - gdp
           - lpr
           - realestate
           - income_history
