@@ -1,0 +1,127 @@
+name: community-directory
+
+on:
+  workflow_dispatch:
+    inputs:
+      city:
+        description: '城市（留空 = 按日期自动轮转 70 城）'
+        required: false
+        type: string
+        default: ''
+      pages:
+        description: '每源最多页数'
+        required: false
+        type: string
+        default: '3'
+      districts:
+        description: '58 区县分片数量（0 关闭）'
+        required: false
+        type: string
+        default: '3'
+  schedule:
+    # Beijing 15:00 daily; separate from update-data (18:00) and anjuke-anonymous-live (17:00).
+    - cron: '0 7 * * *'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: community-directory
+  cancel-in-progress: false
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 80
+    env:
+      PYTHONUTF8: '1'
+      PYTHONUNBUFFERED: '1'
+      PYTHONPATH: data_processing
+      CRAWLER_CLOUD: '1'
+      CRAWLER_BROWSER_CHANNEL: chromium
+      CRAWLER_BROWSER_WS_ENDPOINT: ''
+      CRAWLER_BROWSER_CDP_ENDPOINT: ''
+    steps:
+      - uses: actions/checkout@v4
+      - name: 设置云端浏览器临时目录
+        run: echo "CRAWLER_PROFILE_ROOT=$RUNNER_TEMP/crawler-profiles" >> "$GITHUB_ENV"
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: requirements-crawl.txt
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: 准备云端环境
+        run: |
+          python -m pip install -r requirements-crawl.txt
+          python -m playwright install --with-deps chromium
+      - name: 选择本轮城市
+        env:
+          INPUT_CITY: ${{ inputs.city }}
+        run: |
+          python - <<'PY' >> "$GITHUB_ENV"
+          import datetime, os, sys
+          sys.path.insert(0, 'data_processing')
+          import anjuke_province_crawler as P
+          city = (os.environ.get('INPUT_CITY') or '').strip()
+          if not city:
+              cities = sorted(P.CITY_SLUG_70)
+              city = cities[datetime.date.today().toordinal() % len(cities)]
+          print('CITY=' + city)
+          PY
+          echo "CITY_SELECTED=$CITY"
+      - name: 5i5j 列表 + 少量详情（免登录 HTTP）
+        continue-on-error: true
+        run: |
+          if python -c "import json,sys;sys.exit(0 if '$CITY' in json.load(open('data_processing/config/community_city_slugs.json'))['5i5j'] else 1)"; then
+            python data_processing/community_directory.py --source 5i5j --city "$CITY" \
+              --pages "${{ inputs.pages || '3' }}" --details 20 --interval 2 \
+              --out output/community_directory
+          else
+            echo "5i5j has no entry for $CITY"
+          fi
+      - name: 58 区县分片列表 + 少量详情（浏览器过滑块）
+        continue-on-error: true
+        run: |
+          python data_processing/community_directory.py --source 58 --city "$CITY" \
+            --districts "${{ inputs.districts || '3' }}" --pages "${{ inputs.pages || '3' }}" \
+            --details 15 --interval 2 --out output/community_directory
+      - name: 安居客移动列表（浏览器，详情默认关闭）
+        continue-on-error: true
+        run: |
+          python data_processing/community_directory.py --source anjuke --city "$CITY" \
+            --pages "${{ inputs.pages || '3' }}" --details 0 --interval 2 \
+            --out output/community_directory
+      - name: 房天下楼盘库（免登录 HTTP）
+        continue-on-error: true
+        run: |
+          python data_processing/fang_loupan.py --cities "$CITY" \
+            --max-pages "${{ inputs.pages || '3' }}" --max-details 30 --interval 2 \
+            --out output/fang_loupan
+      - name: 汇总本轮记录数
+        run: |
+          python - <<'PY'
+          import json, pathlib
+          total = 0
+          for path in (pathlib.Path('output/community_directory/report.json'),
+                       pathlib.Path('output/fang_loupan/report.json')):
+              if path.exists():
+                  data = json.loads(path.read_text(encoding='utf-8'))
+                  n = data.get('count') or data.get('records') or 0
+                  print(path, 'records', n)
+                  total += n
+          print('TOTAL', total)
+          raise SystemExit(0 if total else 2)
+          PY
+      - name: 上传证据与导出
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: community-directory-${{ github.run_id }}-${{ github.run_attempt }}
+          path: |
+            output/community_directory/
+            output/fang_loupan/
+          if-no-files-found: ignore
+          retention-days: 14
