@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
 """小区目录采集器（58/安居客）的离线解析回归，不联网。"""
+import json
+import tempfile
 import unittest
+from pathlib import Path
 
 import community_directory as D
 
@@ -75,6 +78,20 @@ class CommunityDirectoryTests(unittest.TestCase):
         self.assertEqual(D.list_url('anjuke', 'bj', 7), 'https://m.anjuke.com/bj/xiaoqu-p7/')
         self.assertEqual(D.list_url('5i5j', 'bj', 1), 'https://m.5i5j.com/bj/xiaoqu/')
         self.assertEqual(D.list_url('5i5j', 'bj', 3), 'https://m.5i5j.com/bj/xiaoqu/p3/')
+
+    def test_finalize_accumulates_sources_without_clobbering(self):
+        with tempfile.TemporaryDirectory() as folder:
+            out = Path(folder)
+            D.finalize(out, '5i5j', '北京', [dict(source_group='5i5j', detail_url='a', name='A')],
+                       dict(source='5i5j', city='北京'))
+            D.finalize(out, '58', '北京', [dict(source_group='58', detail_url='b', name='B')],
+                       dict(source='58', city='北京'))
+            records = json.loads((out / 'records.json').read_text(encoding='utf-8'))
+            report = json.loads((out / 'report.json').read_text(encoding='utf-8'))
+            self.assertEqual(records['count'], 2)
+            self.assertEqual({row['name'] for row in records['records']}, {'A', 'B'})
+            self.assertEqual(set(report['runs']), {'5i5j:北京', '58:北京'})
+            self.assertTrue((out / 'report-5i5j-北京.json').exists())
 
     def test_parse_anjuke_detail_walks_nuxt_cycles_and_maps_fields(self):
         community = {'id': '803030', 'name': '温哥华森林', 'address': '立汤路',

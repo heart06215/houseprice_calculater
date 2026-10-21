@@ -452,15 +452,41 @@ def fetch_page(page, context, url, out, key, *, solve=True, deadline_s=60, timeo
 
 
 def finalize(out, source, city, records, report):
+    """Persist one source run without clobbering other sources in the same output dir."""
     out = Path(out)
     out.mkdir(parents=True, exist_ok=True)
     (out / f'{source}_{city}.jsonl').write_text(
         ''.join(json.dumps(r, ensure_ascii=False) + '\n' for r in records), encoding='utf-8')
-    atomic_json(out / 'records.json', {'schema': 'community_directory/v1', 'source': source,
-                                       'city': city, 'fetched_at': now(), 'count': len(records),
-                                       'records': records})
     report.update(finished_at=now(), count=len(records))
-    atomic_json(out / 'report.json', report)
+    # Per-run report stays inspectable even when several sources share the directory.
+    atomic_json(out / f'report-{source}-{city}.json', report)
+    # Cumulative records, keyed by source object so repeated runs are idempotent.
+    merged = {}
+    if (out / 'records.json').exists():
+        try:
+            prior = json.loads((out / 'records.json').read_text(encoding='utf-8'))
+            for row in prior.get('records') or []:
+                merged[(row.get('source_group') or row.get('source'), row.get('detail_url') or row.get('name'))] = row
+        except (ValueError, OSError):
+            merged = {}
+    for row in records:
+        merged[(row.get('source_group') or row.get('source'), row.get('detail_url') or row.get('name'))] = row
+    cumulative = list(merged.values())
+    atomic_json(out / 'records.json', {'schema': 'community_directory/v1', 'city': city,
+                                       'fetched_at': now(), 'count': len(cumulative),
+                                       'records': cumulative})
+    # Cumulative report index; count is the cumulative total for this directory.
+    runs = {}
+    if (out / 'report.json').exists():
+        try:
+            runs = json.loads((out / 'report.json').read_text(encoding='utf-8')).get('runs') or {}
+        except (ValueError, OSError):
+            runs = {}
+    runs[f'{source}:{city}'] = {k: report.get(k) for k in
+                                ('source', 'city', 'mode', 'list_records', 'details', 'count',
+                                 'errors', 'finished_at')}
+    summary = dict(report, count=len(cumulative), records=len(cumulative), runs=runs)
+    atomic_json(out / 'report.json', summary)
     return report
 
 
