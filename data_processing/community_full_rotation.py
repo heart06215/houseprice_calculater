@@ -82,19 +82,28 @@ def full_58(city, *, out=OUT, max_minutes=240, details_batch=1200, interval=1.5,
                          viewport={'width': 1440, 'height': 1000}) as context:
         page = context.new_page()
         if not st['base_done']:
-            try:
-                attempt = D.fetch_page(page, context, D.list_url('58', slug, 1), out,
-                                       f'full58_{city}_base')
-            except Exception as exc:
-                report['errors'].append(f'base:{type(exc).__name__}')
-                persist()
-                return report
-            if attempt['challenge']:
+            attempt = None
+            for retry in range(3):
+                try:
+                    attempt = D.fetch_page(page, context, D.list_url('58', slug, 1), out,
+                                           f'full58_{city}_base_{retry}')
+                except Exception as exc:
+                    report['errors'].append(f'base:{type(exc).__name__}')
+                    attempt = None
+                if attempt and not attempt['challenge']:
+                    break
+                time.sleep(3)
+            if not attempt or attempt['challenge']:
                 report['errors'].append('challenge_on_base')
                 persist()
                 return report
             districts = D.parse_58_districts(attempt['html'], attempt['final_url'])
-            st['districts'] = {d['url']: dict(name=d['name'], pages=0, done=False) for d in districts}
+            if not districts:
+                # Fallback: total-list pagination still yields records and coordinates via details.
+                st['districts'] = {D.list_url('58', slug, 1): dict(name='总列表', pages=0, done=False)}
+            else:
+                st['districts'] = {d['url']: dict(name=d['name'], pages=0, done=False)
+                                   for d in districts}
             st['base_done'] = True
             save_state(out, state)
         for url, info in st['districts'].items():

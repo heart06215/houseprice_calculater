@@ -19,8 +19,8 @@ on:
         type: string
         default: '1200'
   schedule:
-    # Beijing 08:00 daily; a long job that resumes from cache each day.
-    - cron: '0 0 * * *'
+    # Beijing 12:00 daily; a long job that resumes from cache each day.
+    - cron: '0 4 * * *'
 
 permissions:
   contents: read
