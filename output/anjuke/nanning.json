@@ -7,11 +7,11 @@
     "avg_price": 7500,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -22,11 +22,11 @@
     "avg_price": 7434,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -37,11 +37,11 @@
     "avg_price": 6902,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -52,11 +52,11 @@
     "avg_price": 6924,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -67,11 +67,11 @@
     "avg_price": 6851,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -82,11 +82,11 @@
     "avg_price": 6961,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -97,11 +97,11 @@
     "avg_price": 6822,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -112,11 +112,11 @@
     "avg_price": 7057,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -127,11 +127,11 @@
     "avg_price": 7010,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -142,11 +142,11 @@
     "avg_price": 7017,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -157,11 +157,11 @@
     "avg_price": 7029,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -172,11 +172,11 @@
     "avg_price": 7052,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -187,11 +187,11 @@
     "avg_price": 7130,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -202,11 +202,11 @@
     "avg_price": 7097,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -217,11 +217,11 @@
     "avg_price": 7050,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -232,11 +232,11 @@
     "avg_price": 6506,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -247,11 +247,11 @@
     "avg_price": 6341,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -262,11 +262,11 @@
     "avg_price": 7213,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -277,11 +277,11 @@
     "avg_price": 7028,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -292,11 +292,11 @@
     "avg_price": 6608,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -307,11 +307,11 @@
     "avg_price": 6712,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -322,11 +322,11 @@
     "avg_price": 6748,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -337,11 +337,11 @@
     "avg_price": 7086,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -352,11 +352,11 @@
     "avg_price": 7086,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -367,11 +367,11 @@
     "avg_price": 7260,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -382,11 +382,11 @@
     "avg_price": 7204,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -397,11 +397,11 @@
     "avg_price": 7262,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -412,11 +412,11 @@
     "avg_price": 8783,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -427,11 +427,11 @@
     "avg_price": 8913,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -442,11 +442,11 @@
     "avg_price": 9020,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -457,11 +457,11 @@
     "avg_price": 9426,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -472,11 +472,11 @@
     "avg_price": 9515,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -487,11 +487,11 @@
     "avg_price": 10495,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -502,11 +502,11 @@
     "avg_price": 10617,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -517,11 +517,11 @@
     "avg_price": 10686,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -532,11 +532,11 @@
     "avg_price": 10615,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -547,11 +547,11 @@
     "avg_price": 10538,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -562,11 +562,11 @@
     "avg_price": 10996,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -577,11 +577,11 @@
     "avg_price": 10994,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -592,11 +592,11 @@
     "avg_price": 11002,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -607,11 +607,11 @@
     "avg_price": 11029,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -622,11 +622,11 @@
     "avg_price": 10979,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -637,11 +637,11 @@
     "avg_price": 11052,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -652,11 +652,11 @@
     "avg_price": 11035,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -667,11 +667,11 @@
     "avg_price": 10961,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -682,11 +682,11 @@
     "avg_price": 11047,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -697,11 +697,11 @@
     "avg_price": 11049,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -768,11 +768,11 @@
     "avg_price": 11532,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -783,11 +783,11 @@
     "avg_price": 11410,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -798,11 +798,11 @@
     "avg_price": 11121,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -813,11 +813,11 @@
     "avg_price": 11054,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -828,11 +828,11 @@
     "avg_price": 11025,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -899,11 +899,11 @@
     "avg_price": 11206,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -914,11 +914,11 @@
     "avg_price": 11013,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -929,11 +929,11 @@
     "avg_price": 10861,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -944,11 +944,11 @@
     "avg_price": 10717,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -959,11 +959,11 @@
     "avg_price": 10588,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -1030,11 +1030,11 @@
     "avg_price": 10239,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -1045,11 +1045,11 @@
     "avg_price": 10228,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -1060,11 +1060,11 @@
     "avg_price": 10133,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -1075,11 +1075,11 @@
     "avg_price": 10020,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -1090,11 +1090,11 @@
     "avg_price": 9881,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -1161,11 +1161,11 @@
     "avg_price": 9072,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -1176,11 +1176,11 @@
     "avg_price": 9030,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -1191,11 +1191,11 @@
     "avg_price": 8970,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -1206,11 +1206,11 @@
     "avg_price": 8841,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -1221,11 +1221,11 @@
     "avg_price": 8859,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -1292,11 +1292,11 @@
     "avg_price": 8512,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -1307,11 +1307,11 @@
     "avg_price": 8468,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -1322,11 +1322,11 @@
     "avg_price": 8568,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -1337,11 +1337,11 @@
     "avg_price": 8574,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -1352,11 +1352,11 @@
     "avg_price": 8488,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning/",
-    "fetched_at": "2026-09-24T12:21:05.011846+00:00",
+    "fetched_at": "2026-10-22T15:07:19.472517+00:00",
     "raw": {
-      "sha256": "578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\578fdc910166f635061a916b6537ad1ce729865f786d70343c63e062a2a0b665.html",
-      "bytes": 104079
+      "sha256": "978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4",
+      "path": "output/warehouse/raw/anjuke_recheck/978d74481f58c27efc491d996a07b83de16e2d3f18564ed9279d5f42b4fce4c4.html",
+      "bytes": 104190
     }
   },
   {
@@ -1367,11 +1367,11 @@
     "avg_price": 8453,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning2026/",
-    "fetched_at": "2026-09-24T12:21:03.707950+00:00",
+    "fetched_at": "2026-10-22T15:06:48.596344+00:00",
     "raw": {
-      "sha256": "3a4c329b6277b0a2d85fab18f182973d2400946f46645970d16d94241c6646d5",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\3a4c329b6277b0a2d85fab18f182973d2400946f46645970d16d94241c6646d5.html",
-      "bytes": 167918
+      "sha256": "4f74f8e30f98249c415d29cd81ceea82731c22eb288474cdb0c48021d2500b87",
+      "path": "output/warehouse/raw/anjuke_recheck/4f74f8e30f98249c415d29cd81ceea82731c22eb288474cdb0c48021d2500b87.html",
+      "bytes": 166361
     }
   },
   {
@@ -1382,11 +1382,11 @@
     "avg_price": 8468,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning2026/",
-    "fetched_at": "2026-09-24T12:21:03.707950+00:00",
+    "fetched_at": "2026-10-22T15:06:48.596344+00:00",
     "raw": {
-      "sha256": "3a4c329b6277b0a2d85fab18f182973d2400946f46645970d16d94241c6646d5",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\3a4c329b6277b0a2d85fab18f182973d2400946f46645970d16d94241c6646d5.html",
-      "bytes": 167918
+      "sha256": "4f74f8e30f98249c415d29cd81ceea82731c22eb288474cdb0c48021d2500b87",
+      "path": "output/warehouse/raw/anjuke_recheck/4f74f8e30f98249c415d29cd81ceea82731c22eb288474cdb0c48021d2500b87.html",
+      "bytes": 166361
     }
   },
   {
@@ -1397,11 +1397,11 @@
     "avg_price": 8474,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning2026/",
-    "fetched_at": "2026-09-24T12:21:03.707950+00:00",
+    "fetched_at": "2026-10-22T15:06:48.596344+00:00",
     "raw": {
-      "sha256": "3a4c329b6277b0a2d85fab18f182973d2400946f46645970d16d94241c6646d5",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\3a4c329b6277b0a2d85fab18f182973d2400946f46645970d16d94241c6646d5.html",
-      "bytes": 167918
+      "sha256": "4f74f8e30f98249c415d29cd81ceea82731c22eb288474cdb0c48021d2500b87",
+      "path": "output/warehouse/raw/anjuke_recheck/4f74f8e30f98249c415d29cd81ceea82731c22eb288474cdb0c48021d2500b87.html",
+      "bytes": 166361
     }
   },
   {
@@ -1412,11 +1412,11 @@
     "avg_price": 8511,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning2026/",
-    "fetched_at": "2026-09-24T12:21:03.707950+00:00",
+    "fetched_at": "2026-10-22T15:06:48.596344+00:00",
     "raw": {
-      "sha256": "3a4c329b6277b0a2d85fab18f182973d2400946f46645970d16d94241c6646d5",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\3a4c329b6277b0a2d85fab18f182973d2400946f46645970d16d94241c6646d5.html",
-      "bytes": 167918
+      "sha256": "4f74f8e30f98249c415d29cd81ceea82731c22eb288474cdb0c48021d2500b87",
+      "path": "output/warehouse/raw/anjuke_recheck/4f74f8e30f98249c415d29cd81ceea82731c22eb288474cdb0c48021d2500b87.html",
+      "bytes": 166361
     }
   },
   {
@@ -1427,11 +1427,11 @@
     "avg_price": 8426,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning2026/",
-    "fetched_at": "2026-09-24T12:21:03.707950+00:00",
+    "fetched_at": "2026-10-22T15:06:48.596344+00:00",
     "raw": {
-      "sha256": "3a4c329b6277b0a2d85fab18f182973d2400946f46645970d16d94241c6646d5",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\3a4c329b6277b0a2d85fab18f182973d2400946f46645970d16d94241c6646d5.html",
-      "bytes": 167918
+      "sha256": "4f74f8e30f98249c415d29cd81ceea82731c22eb288474cdb0c48021d2500b87",
+      "path": "output/warehouse/raw/anjuke_recheck/4f74f8e30f98249c415d29cd81ceea82731c22eb288474cdb0c48021d2500b87.html",
+      "bytes": 166361
     }
   },
   {
@@ -1442,11 +1442,11 @@
     "avg_price": 8406,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning2026/",
-    "fetched_at": "2026-09-24T12:21:03.707950+00:00",
+    "fetched_at": "2026-10-22T15:06:48.596344+00:00",
     "raw": {
-      "sha256": "3a4c329b6277b0a2d85fab18f182973d2400946f46645970d16d94241c6646d5",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\3a4c329b6277b0a2d85fab18f182973d2400946f46645970d16d94241c6646d5.html",
-      "bytes": 167918
+      "sha256": "4f74f8e30f98249c415d29cd81ceea82731c22eb288474cdb0c48021d2500b87",
+      "path": "output/warehouse/raw/anjuke_recheck/4f74f8e30f98249c415d29cd81ceea82731c22eb288474cdb0c48021d2500b87.html",
+      "bytes": 166361
     }
   },
   {
@@ -1457,11 +1457,11 @@
     "avg_price": 8375,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning2026/",
-    "fetched_at": "2026-09-24T12:21:03.707950+00:00",
+    "fetched_at": "2026-10-22T15:06:48.596344+00:00",
     "raw": {
-      "sha256": "3a4c329b6277b0a2d85fab18f182973d2400946f46645970d16d94241c6646d5",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\3a4c329b6277b0a2d85fab18f182973d2400946f46645970d16d94241c6646d5.html",
-      "bytes": 167918
+      "sha256": "4f74f8e30f98249c415d29cd81ceea82731c22eb288474cdb0c48021d2500b87",
+      "path": "output/warehouse/raw/anjuke_recheck/4f74f8e30f98249c415d29cd81ceea82731c22eb288474cdb0c48021d2500b87.html",
+      "bytes": 166361
     }
   },
   {
@@ -1472,11 +1472,26 @@
     "avg_price": 8348,
     "data_source": "anjuke",
     "source_url": "https://www.anjuke.com/fangjia/nanning2026/",
-    "fetched_at": "2026-09-24T12:21:03.707950+00:00",
+    "fetched_at": "2026-10-22T15:06:48.596344+00:00",
     "raw": {
-      "sha256": "3a4c329b6277b0a2d85fab18f182973d2400946f46645970d16d94241c6646d5",
-      "path": "output\\warehouse\\raw\\anjuke_recheck\\3a4c329b6277b0a2d85fab18f182973d2400946f46645970d16d94241c6646d5.html",
-      "bytes": 167918
+      "sha256": "4f74f8e30f98249c415d29cd81ceea82731c22eb288474cdb0c48021d2500b87",
+      "path": "output/warehouse/raw/anjuke_recheck/4f74f8e30f98249c415d29cd81ceea82731c22eb288474cdb0c48021d2500b87.html",
+      "bytes": 166361
+    }
+  },
+  {
+    "city": "南宁",
+    "city_pinyin": "nanning",
+    "year": 2026,
+    "month": 9,
+    "avg_price": 8280,
+    "data_source": "anjuke",
+    "source_url": "https://www.anjuke.com/fangjia/nanning2026/",
+    "fetched_at": "2026-10-22T15:06:48.596344+00:00",
+    "raw": {
+      "sha256": "4f74f8e30f98249c415d29cd81ceea82731c22eb288474cdb0c48021d2500b87",
+      "path": "output/warehouse/raw/anjuke_recheck/4f74f8e30f98249c415d29cd81ceea82731c22eb288474cdb0c48021d2500b87.html",
+      "bytes": 166361
     }
   }
 ]
