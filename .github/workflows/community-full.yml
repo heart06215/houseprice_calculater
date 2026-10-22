@@ -1,0 +1,90 @@
+name: community-full
+
+on:
+  workflow_dispatch:
+    inputs:
+      city:
+        description: '城市（默认北京）'
+        required: false
+        type: string
+        default: '北京'
+      max_minutes:
+        description: '本轮最长分钟数（默认 240，建议不超过 280）'
+        required: false
+        type: string
+        default: '240'
+      details_batch:
+        description: '本轮最多详情页数（默认 1200）'
+        required: false
+        type: string
+        default: '1200'
+  schedule:
+    # Beijing 08:00 daily; a long job that resumes from cache each day.
+    - cron: '0 0 * * *'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: community-full
+  cancel-in-progress: false
+
+jobs:
+  full:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    env:
+      PYTHONUTF8: '1'
+      PYTHONUNBUFFERED: '1'
+      PYTHONPATH: data_processing
+      CRAWLER_CLOUD: '1'
+      CRAWLER_BROWSER_CHANNEL: chromium
+      CRAWLER_BROWSER_WS_ENDPOINT: ''
+      CRAWLER_BROWSER_CDP_ENDPOINT: ''
+    steps:
+      - uses: actions/checkout@v4
+      - name: 设置云端浏览器临时目录
+        run: echo "CRAWLER_PROFILE_ROOT=$RUNNER_TEMP/crawler-profiles" >> "$GITHUB_ENV"
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: requirements-crawl.txt
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: 准备云端环境
+        run: |
+          python -m pip install -r requirements-crawl.txt
+          python -m playwright install --with-deps chromium
+      - name: 恢复上次续跑状态
+        uses: actions/cache/restore@v4
+        with:
+          path: output/community_directory
+          key: community-full-v1-${{ github.ref_name }}-${{ inputs.city || '北京' }}-${{ github.run_id }}
+          restore-keys: |
+            community-full-v1-${{ github.ref_name }}-${{ inputs.city || '北京' }}-
+      - name: 继续全量 58（区县分片 + 详情分批）
+        run: |
+          python data_processing/community_full_rotation.py \
+            --city "${{ inputs.city || '北京' }}" \
+            --max-minutes "${{ inputs.max_minutes || '240' }}" \
+            --details-batch "${{ inputs.details_batch || '1200' }}" \
+            --interval 1.5 \
+            --out output/community_directory
+      - name: 保存续跑状态
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: output/community_directory
+          key: community-full-v1-${{ github.ref_name }}-${{ inputs.city || '北京' }}-${{ github.run_id }}
+      - name: 上传本轮证据与导出
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: community-full-${{ github.run_id }}-${{ github.run_attempt }}
+          path: |
+            output/community_directory/
+            output/warehouse/raw/community_directory/
+          if-no-files-found: ignore
+          retention-days: 14
