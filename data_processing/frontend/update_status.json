@@ -1,11 +1,11 @@
 {
   "sources": {
     "nbs": {
-      "checked_at": "2026-10-23T14:45:43.806579+00:00",
+      "checked_at": "2026-10-24T13:54:38.414706+00:00",
       "state": "ok",
       "detail": "目录检查完成；报告期取自实际发布，没有新增时保留当前月报",
       "data_period": "2026-09",
-      "last_success": "2026-10-23T14:46:06.932600+00:00",
+      "last_success": "2026-10-24T13:54:56.896008+00:00",
       "error": null,
       "published_period": "2026-09",
       "expected_period": "2026-09",
@@ -14,27 +14,27 @@
       "added_periods": []
     },
     "cih": {
-      "checked_at": "2026-10-22T15:13:06.718117+00:00",
+      "checked_at": "2026-10-24T14:01:18.246268+00:00",
       "state": "ok",
       "detail": "12/12 个公开页面解析成功；公开榜单脚本已复核（时期独立标注）；宅地数据周期内无更新（沿用）",
       "partial": false,
       "data_period": "2026-09",
-      "last_success": "2026-10-22T15:14:05.262469+00:00",
+      "last_success": "2026-10-24T14:02:19.542678+00:00",
       "error": null
     },
     "anjuke": {
-      "checked_at": "2026-10-23T14:46:06.932994+00:00",
-      "state": "partial",
+      "checked_at": "2026-10-24T13:54:56.896355+00:00",
+      "state": "ok",
       "detail": "4/4 城均价复核成功；市场分类页成功 4 页",
-      "partial": true,
+      "partial": false,
       "cities": [
-        "石家庄",
-        "哈尔滨",
-        "长春",
-        "沈阳"
+        "兰州",
+        "呼和浩特",
+        "海口",
+        "银川"
       ],
-      "last_success": "2026-10-23T14:54:43.922194+00:00",
-      "error": "石家庄: 页面未取得可核验的分类报价；哈尔滨: 页面未取得可核验的分类报价；哈尔滨: 页面未取得可核验的分类报价；长春: 页面未取得可核验的分类报价"
+      "last_success": "2026-10-24T14:01:18.245656+00:00",
+      "error": null
     },
     "income": {
       "checked_at": "2026-10-18T02:19:30.160033+00:00",
@@ -45,27 +45,27 @@
       "partial": false
     },
     "macro": {
-      "checked_at": "2026-10-22T15:14:05.262862+00:00",
+      "checked_at": "2026-10-24T14:02:19.543076+00:00",
       "state": "ok",
       "detail": "统计局开发投资、新开工面积等累计历史与 LPR 分别记录来源及时期",
       "partial": false,
-      "last_success": "2026-10-22T15:14:22.593398+00:00",
+      "last_success": "2026-10-24T14:02:37.066917+00:00",
       "error": null
     }
   },
   "state": "ready",
-  "checked_at": "2026-10-23T14:56:59.108983+00:00",
+  "checked_at": "2026-10-24T14:04:23.616355+00:00",
   "detail": "主看板数据口径与历史保留校验通过",
-  "last_publish": "2026-10-23T14:56:59.108996+00:00",
+  "last_publish": "2026-10-24T14:04:23.616372+00:00",
   "error": null,
   "validation": {
     "cities": 70,
     "official_months": 66,
     "official_rows": 36960,
     "price_rows": 7590,
-    "observed_rows": 5350,
-    "estimated_rows": 2240,
+    "observed_rows": 5352,
+    "estimated_rows": 2238,
     "latest_official": "2026-09",
-    "market_quotes": 30
+    "market_quotes": 33
   }
 }
